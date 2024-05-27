@@ -1,0 +1,1782 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1776_Mech_Nieu_03 - Deel 3 kroniek van Mechelen door kapelaan Hendrik Dominik Van den Nieuwenhuysen</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-01-03'>1747</datum></l>
+					<l><datum datum='1747-01-03'>januarij 3</datum></l>
+					<l>Alzoo zyne Konincklyke Maj<hi rend='superscript:true;'>t</hi> van den <datum datum='1746-12-15'>15 x<hi rend='superscript:true;'>br</hi> 1746</datum></l>
+					<l>heeft geordonneert dat binnen de geconquesteerde</l>
+					<l>landen van <locatie>Brabant</locatie>, <locatie>henegauw </locatie>en <locatie>Naemen</locatie></l>
+					<l>sauden geligt worden het gelat van 4928 mannen</l>
+					<l>van militie yot bewaernis der steden zoo ist</l>
+					<l>dat de stad van <locatie>Mechelen </locatie>daer ook mede belast</l>
+					<l>geworden met de provintie voor het getal van</l>
+					<l>28 mannen volgens het mandement van den</l>
+					<l>intendent de Sechelle in dato van <datum datum='1747-01-03'>3 januaro</datum></l>
+					<l>te dienen voor den tyd van 6 jaeren, ten</l>
+					<l>waere eene vrede; welke 28 mannen op kor¬</l>
+					<l>ten tyd gelevert zyn geweest en men heef iederen</l>
+					<l>man voor hand geld 20 patacons betaelt</l>
+					<l>voorder betaelt aen ieder 6 stuyvers tot dat zy</l>
+					<l>geincorporeert waeren in hun respectief bataillon</l>
+					<l>en naer deze incorporatie, aen ieder boven de</l>
+					<l>solde van den koning 3 guldens ter maend voor</l>
+					<l>augmentie. (VDV.)</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-02-09'>9 </datum>en<datum datum='1747-02-10'> 10 februar</datum>i 1<datum datum='1747-02-12'>2. 1747</datum></l>
+					<l>Ligte de <locatie>Franschen </locatie>de casse van de consignatie</l>
+					<l>penningen uyt het huys vanden <persoonsnaam>griffier Roborno</persoonsnaam></l>
+					<l>(bedragende zoo me, zeyde over de 250000 guldens)</l>
+					<l>(<persoonsnaam>van den nieuwenhuyzen</persoonsnaam> 750,000 guld. volgens gezeg)</l>
+					<l>en deeze wiert met escorte langx <locatie>Brussel </locatie>en <locatie>Gend</locatie></l>
+					<l>naer <locatie>Douai </locatie>gezonden, De Dry voorscrevene raedsheeren</l>
+					<l><locatie>fransche </locatie></l>
+					<l>die den inventaris der papiere gemaekt hadde,</l>
+					<l>vertrokken ook <hi rend='strikethrough:true;'>den</hi> s&apos;anderdaegs den <datum datum='1747-02-10'>10 februari</datum></l>
+					<l>Daer en tusschen, wierden veele procesien getrok¬</l>
+					<l>ken uyt den Raed van <locatie>vlaenderen </locatie>en by appel</l>
+					<l>gewezen int Parlement van <locatie>Douai</locatie></l>
+					<l>Naer dat de heeren van den grooten raed order van</l>
+					<l>onze Koniginne bekomen hadden, om hun in het klyn</l>
+					<l>stedeken van essternach tusschen <locatie>Luxembourg</locatie> en <locatie>Trier</locatie></l>
+					<l>te verzaemelen om aldaer provisionnelyk hun¬</l>
+					<l>ne</l>
+					<l>gewoonelyke</l>
+					<l>vergaederingen te houden, zoo vertrokken</l>
+					<l>van <locatie>Mechelen </locatie>op den vasten avont <datum datum='1747-02-12'>12 febr.</datum></l>
+					<l>zeven raedsheeren de welke alhier met per¬</l>
+					<l>missie gebleven waeren, zy bevonden hun sae¬</l>
+					<l>men tot <locatie>Essternach </locatie>met mynheer den</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l><persoonsnaam>president Baron van @aederlé</persoonsnaam> en nog vier ande¬</l>
+					<l>re raedsheeren. De eerste vergaedering wirt</l>
+					<l>gehouden den <datum datum='1747-02-20'>20 feb.</datum> in een <locatie>huys genaemt</locatie></l>
+					<l><locatie>het hospitael</locatie> en den heer President logeerde</l>
+					<l>alleen in de abdey</l>
+					<l>schoone der Benedictienen</l>
+					<l>van het voorzeyde stedeken</l>
+					<l>maer de raedsheeren vonden aldaer zeer sleg¬</l>
+					<l>te logementen. (<persoonsnaam>Fop</persoonsnaam>)</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-01-22'>januari 22,</datum></l>
+					<l>Zyn van <locatie>Doornik </locatie>140 waegen binnen <locatie>Mechelen</locatie></l>
+					<l>gearriveert, met poeder, ballen loot, musquetten</l>
+					<l>bayonetten &amp; geladen en op den <datum datum='1747-01-23'>23 </datum>naer <locatie>Antw</locatie>.</l>
+					<l>vertrokken. (VDV.)</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-01-25'>25 januari</datum></l>
+					<l>binnen</l>
+					<l>Begonst men <hi rend='strikethrough:true;'>tot</hi> <locatie>Mechelen </locatie>ter plaetse neffens de</l>
+					<l>Alexianen ter koste van de stad, 20 hovens te</l>
+					<l>maeken en hebben meer dan 20000 guldens gekost</l>
+					<l>op deze plaetse zyn naerder hand de casernen gestelt &amp;</l>
+					<l>(VDV.)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Het Recht van Asijl gevioleert</l>
+					<l>in het Clooster der Eerw: PP</l>
+					<l>Capacinen binnen <locatie>Mechelen</locatie></l>
+					<l>den <datum datum='1747-03-17'>17 meert 1747</datum>  corts naer</l>
+					<l>den middagh</l>
+					<l><persoonsnaam>Den grave van Luzan</persoonsnaam> commandant</l>
+					<l>van <locatie>Mechelen </locatie>voor syne alderchristelykste</l>
+					<l><persoonsnaam>majesteijt Ludovicus den XV</persoonsnaam>, synde op</l>
+					<l>het alderuyttersre verbolghen op den persoon</l>
+					<l>van <persoonsnaam>Carolus <hi rend='underlined:true;'>Rijckaerts</hi></persoonsnaam> borger ende inge¬</l>
+					<l>setene der stadt <locatie>Mechelen</locatie> dan welken</l>
+					<l>in syne qualiteyt van collecteur van het</l>
+					<l><hi rend='underlined:true;'>inhuijs</hi> hadde doen aenhouden door den</l>
+					<l>commis van de <locatie>antwerpsche poorte</locatie> een</l>
+					<l>mandeken met visch het welke aen den</l>
+					<l>Heere commandant was geaddresseert</l>
+					<l>heeft den geseyden commandant den gemel</l>
+					<l>den <persoonsnaam>collecteur Ryckaerts</persoonsnaam> aenstonts door</l>
+					<l>een detachement soldaeten soo in syne wooninge</l>
+					<l>als elders doen opsoeken om den selven te</l>
+					<l>stellen in de rigoreuse gevangenisse, doch</l>
+					<l>den geseyden <persoonsnaam>Ryckaerts </persoonsnaam>hier van de locht</l>
+					<l>hebbende heeft sigh terstont in de kercklijcke</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>vryheyt ofte azijl by de eerw: Paters</l>
+					<l>capucinen begeven: alwaer hy tot <datum datum='1747-03-17'>den</datum></l>
+					<l><datum datum='1747-03-17'>17 dito</datum> gelatiteert heeft op welken dagh</l>
+					<l>van smorgens thien uren secrete wacten</l>
+					<l>rontom het clooster en besonderlyck op den</l>
+					<l><locatie>molenbergh </locatie>geposteert synde van waer den</l>
+					<l>vluchtelinck oock gesien sijnde wandelende</l>
+					<l>inden hof den heere commandant heeft</l>
+					<l>geordonneert dry officieren en negen sol¬</l>
+					<l>daeten om den gevluchten in syn azijl</l>
+					<l>te apprehenderen de welke de voordeure</l>
+					<l>open vindende ende de pantdeure naderende</l>
+					<l>op de selve ysselyck slaegende en door den</l>
+					<l>portier geopent synde hebben de vier</l>
+					<l>hoecken van den pant beset met vier</l>
+					<l>soldaeten de bajonet op het fusiel als</l>
+					<l>wanneer de gemelde officieren de paters</l>
+					<l>hebben gesommeert ten eynde van den</l>
+					<l>vluchtelinck aen te wysen ende te</l>
+					<l>leveren doch het antwoort van dien</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>aengaende geen ordres te hebben van</l>
+					<l>syne Eminentie den Cardinael artsbisschop</l>
+					<l>gedaen synde hebben sig aenstonts begeven</l>
+					<l>naer de boekkamer de deure der selve</l>
+					<l>geforceert ende alle schuyfhoecken door¬</l>
+					<l>snuffelt het selve (van de Paters bran¬</l>
+					<l>dende keirssen afgeperst hebbende) doende</l>
+					<l>op het bovenste van de kercke doch sonder</l>
+					<l>effect waerom den Capiteyn exploictant</l>
+					<l>syne pooginge vruchteloos siende, sont</l>
+					<l>aenstonts eenen anderen officier naer den</l>
+					<l>commandant met bericht van de perqui¬</l>
+					<l>sitie die hy gedaen hadde en om ordres</l>
+					<l>wat hy voorders doen moeste de welke</l>
+					<l>behelsde den vluchtelinck selfs onder</l>
+					<l>godts altaer te soeken en weg te rukken</l>
+					<l>in gevolge van de  selve trekt hij met</l>
+					<l>syne onderhorige soldaeten naer den</l>
+					<l>dormter alwaer hy vindende eenen religieus</l>
+					<l>hem ordoneerde de eerste celle open te</l>
+					<l>maeken hier op een beleeft refus ontfangende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>doet de selve met gewelt forceren</l>
+					<l>het welck hy continueerde tot den seven¬</l>
+					<l>thienste inclus re weten van <persoonsnaam>Pater</persoonsnaam></l>
+					<l><persoonsnaam>Joseph van <locatie>loven</locatie></persoonsnaam> alwaer den ongeluck¬</l>
+					<l>igen vluchtelinck vol ancxt en vreese</l>
+					<l>wirt geattrapeert onder de sargie van</l>
+					<l>den gemelden <persoonsnaam>pater Joseph</persoonsnaam> hier op doet</l>
+					<l>den officier noch negen soldaeten van</l>
+					<l>de <locatie>brusselsche poorte</locatie> comen bestaende</l>
+					<l>alsdan het detachement in achtien mannen</l>
+					<l>den gevangenen wirt tusschen dese</l>
+					<l>crychschaere geleyt langhs de stadtvesten</l>
+					<l>naer de gevanckenisse alwaer hy wirt</l>
+					<l>gestelt in een afgryselyk kot</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-03-16'>Meert. 16</datum></l>
+					<l><datum datum='1747-03-16'>1747</datum></l>
+					<l>Naer middag ten 2 uren doet den <persoonsnaam>commandant</persoonsnaam></l>
+					<l><persoonsnaam>Grave de Lussac</persoonsnaam> het convent der Paters capucienen</l>
+					<l>binnen <locatie>Mechelen </locatie>met soldaeten omringelen</l>
+					<l>Dewelke aldaer met gewelt, zonder eenige permissie</l>
+					<l>intredende, breken verscheyde deuren en cellen der reli¬</l>
+					<l>gieuzen in stukken, ten lesten in eene celle mede</l>
+					<l>gevangen nemende zekeren</l>
+					<l><persoonsnaam>Ryckkaerts</persoonsnaam></l>
+					<l><persoonsnaam>collecteur der  incomede rechte</persoonsnaam>, den commandant accu¬</l>
+					<l>seerde <hi rend='strikethrough:true;'>van</hi> hem een mandeken met visch</l>
+					<l>hem toegezonden van <locatie>Antwerpen </locatie>gearresteert te</l>
+					<l>hebben, en heeft den voorz. <persoonsnaam>Ryckaerts</persoonsnaam>, naer hem langhs</l>
+					<l>de vesten gelegd te hebben, ten laesten doen brengen</l>
+					<l><hi rend='strikethrough:true;'>en gestelt</hi> en in een der verworpste plaetse van de</l>
+					<l>gevangenisse dezer stad, gestelt. waerover zyne</l>
+					<l>Eminentie den Aers<hi rend='strikethrough:true;'>s</hi>bisschop van alles rypelyk</l>
+					<l>verwittigt en claerblykende kennis genomen</l>
+					<l>hebbende, het zelve aen het hof van <locatie>Versailles</locatie></l>
+					<l>te kennen gegeven, hoe dat den voorsz commandant</l>
+					<l><hi rend='strikethrough:true;'>den Grave</hi> met gewelt het recht van de Kerkelyke</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>vryheyd, gebrokken hadde, immers naer verloop van</l>
+					<l>tyd heeft hy ordres ontfangen van zyn hof, van over</l>
+					<l>zyne bedreve fout aen zyne Eminentie</l>
+					<l>zyne</l>
+					<l>excusie te maeken</l>
+					<l>en op den<datum datum='1747-04-07'> 7<hi rend='superscript:true;'>st</hi> april</datum> den gemelden <persoonsnaam>Ryckaerts</persoonsnaam> uyt de</l>
+					<l>zyne gevangenisse te laeten gaen, den welken hy</l>
+					<l>onregtveerdig uyt het clooster der capucienen gehaelt</l>
+					<l>hadde. (VDV)</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-03-27'>Meert 27</datum></l>
+					<l>wiert binnen <locatie>Mechelen</locatie> <hi rend='strikethrough:true;'>afgekondigt</hi> een arrest van</l>
+					<l>den franschen raed <hi rend='strikethrough:true;'>af</hi> van staeten gegeven den <datum datum='1747-03-07'>7 meert</datum></l>
+					<l>afgekondigt, waerby alle de hollandsche</l>
+					<l>inkomende</l>
+					<l>goederen tot 1/3</l>
+					<l>deel verhoogt zyn, maer byzonder tot 9 guldens <hi rend='strikethrough:true;'>9</hi> eenen</l>
+					<l>zak zout (VDV)</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-04-08'>April 8</datum></l>
+					<l><datum datum='1747-04-08'>1747</datum></l>
+					<l>Twee corlakers binnen <locatie>Mechelen </locatie>malkanderen in</l>
+					<l>Duel roepende is er eenen op het<locatie> kerkhof van O.L.V.</locatie></l>
+					<l><locatie>over de Deyle</locatie> dood gesteken, waerdoor het kerkhof</l>
+					<l>ontwyt en gevioleert zynde, het zelve <datum datum='1747-04-10'>10 dito </datum>onder</l>
+					<l>het luyden van de groote klok door den <persoonsnaam>aerspriester</persoonsnaam></l>
+					<l><persoonsnaam>Cornel. van <locatie>Papendrecht</persoonsnaam> </locatie>canon grad. erweyt.</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-04-12'>April 12</datum>-<datum datum='1747-04-14'>14</datum>-<datum datum='1747-04-15'>15</datum>-<datum datum='1747-04-16'>16</datum>-<datum datum='1747-04-17'>17</datum></l>
+					<l>Den tweeden april waeren binnen Mechelen ruym</l>
+					<l>7000 mannen in garnisoen zonder 6 Bataillons</l>
+					<l>urlanders binnen deze stad gekomen den <datum datum='1747-04-12'>12</datum>-<datum datum='1747-04-14'>14</datum>-<datum datum='1747-04-15'>15</datum>-<datum datum='1747-04-16'>16</datum>-</l>
+					<l>en <datum datum='1747-04-17'>17 dito</datum> uytmaekende 3400 zoo dat in t geheel</l>
+					<l>een garnisoen ontrent de 11000 mannen was</l>
+					<l>(te voren nooit gezien) zonder menigvuldige</l>
+					<l>troupen dewelke inde omliggende dorpen en</l>
+					<l>parochien gecantonneert waeren, door welken</l>
+					<l>grooten overlast van traupen alle de geestelyk</l>
+					<l>heyd zonder distinctie hebben over den last van</l>
+					<l>2 soldaeten nog eenen officier moeten logeeren</l>
+					<l>De manskloosters, de poorten der stad, de gulde</l>
+					<l>kaemers, menige ambachts-camers vervult met</l>
+					<l>soldaeten, en eyndelyk de menschen der stad over¬</l>
+					<l>last &amp; (VDV)</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-04-23'>April 23</datum></l>
+					<l><hi rend='strikethrough:true;'>hebben de Paeters capucienen</hi></l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-05-04'>Mey. 4</datum></l>
+					<l><datum datum='1747-05-04'>1747</datum></l>
+					<l>wiert tot <locatie>Mechelen</locatie> een extraordinaer schouwgeld</l>
+					<l>gepubliceert (om aende stads presseerende schulden en</l>
+					<l>lasten te voldoen) te weten van ieder schouw ten</l>
+					<l>daeke often huyzen uyt komende, &apos;t zy daer in vier</l>
+					<l>gestokt wiert of niet dry gulden 6t. van huyzen</l>
+					<l>of bauwen verheert of getaxeert boven de 40 guld.</l>
+					<l>en 1 guld. en 10 s<hi rend='superscript:true;'>t</hi> enkelyk verhuert tot 40 guldens</l>
+					<l>en daer onder en dat van alle huyzen, brauwereyen</l>
+					<l>cloosters, refugien godshuyzen, hospitaelen</l>
+					<l>generaelelyk van alle geprivilegeerde of niet gepri¬</l>
+					<l>viligeerde gebouwen, alleen het <locatie>paleys van den</locatie></l>
+					<l><locatie>Aersbisschop</locatie> behaudende. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-05-08'>May 8</datum>-<datum datum='1747-05-09'>9</datum>-<datum datum='1747-05-10'>10.</datum></l>
+					<l>zynde de <hi rend='strikethrough:true;'>Kruy</hi> Kruysdaegen heeft zyne Emin. den</l>
+					<l>Aersbisschop toegelaeten van vleesch te <hi rend='strikethrough:true;'>eb</hi> eeten</l>
+					<l>ter oorzaeke van den oorlog en de schaersheyd van</l>
+					<l>visch. (VDV)</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-05-28'>Mey 28.</datum></l>
+					<l><datum datum='1747-05-28'>1747</datum></l>
+					<l>trekt by na het geheel garnisoen uyt <locatie>Mechelen</locatie> en</l>
+					<l>den zelven dag komt den Marechal van saxen zyn</l>
+					<l>hoofd quartier inde commandery van <locatie>Pethenborg</locatie></l>
+					<l>nemen, waer door wederom byna wederom de geheele</l>
+					<l>stad zoo geestelyke als wereltlyke, weynig uyt genomen</l>
+					<l>met een aenteekening der huysen gelogeert zyn</l>
+					<l>geweest dit garnisoen en infanterie begonst van</l>
+					<l>het leger, begonst tusschen <locatie>Mechelen</locatie> en <locatie>Loven</locatie> tegens</l>
+					<l>de <locatie>rivier de Deyle</locatie> en tusschen <locatie>Mechelen</locatie> en <locatie>waelhem</locatie></l>
+					<l>te kampen. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-06-16'>16 junius</datum></l>
+					<l>So van stads wege afgekondigt, dat alle menschen eene</l>
+					<l>Kuyp met waeter aen hunne huysen moesten stellen</l>
+					<l>op boete van 3 guldens. (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1747-06-26'>junius 26.</datum></l>
+					<l>Komt den <persoonsnaam>generael Lowendhal van <locatie>Antwerpen</locatie> </persoonsnaam>met</l>
+					<l>een groot leger binnen <locatie>Mechelen</locatie>, en neemt zyn</l>
+					<l>quartier in het huys van den President van den grooten</l>
+					<l>raed en den <datum datum='1747-06-28'>28 dito</datum> vertrek hy <hi rend='strikethrough:true;'>naer</hi> met allen spoed</l>
+					<l>naer de kanten van <locatie>Thienen </locatie>met alle zyn onderhoirig</l>
+					<l>manschap. (vDN)</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-06-06'>julius</datum></l>
+					<l><datum datum='1747-06-06'>6. 1747</datum></l>
+					<l>Keert den <persoonsnaam>generael Lowendael </persoonsnaam>met zyn leger naer <locatie>Meche¬</locatie></l>
+					<l><locatie>len</locatie> wederom, in het zelve quartier.</l>
+					<l>Daer waeren alsdan 26 Bataillons infanterie en 6 regi¬</l>
+					<l>menten cavalerie ontrent <locatie>Mechelen</locatie> gecampeert</l>
+					<l>Dewelke rontom de stad maer bezonder buyten de</l>
+					<l><locatie>Hanswyk poort</locatie> en aldermeest tot <locatie>Boortmeerbeek</locatie></l>
+					<l>en hever alles gefourageert hebben, meest alle de</l>
+					<l>dreven tusschen en ander hout gekapt hebben, en door</l>
+					<l>een groot deel verkogte daer van  bos kalen gebrant</l>
+					<l>waerdoor inde gemoederen van ryke en arme eene</l>
+					<l>groote beroerte ontstond. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-07-09'>julius 9</datum></l>
+					<l>zyn dezelve boven <locatie>antwerpen </locatie>vertrokken alwaer</l>
+					<l>zy het zelve geleeft hebben (VDN)</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-07-16'>16 julius</datum></l>
+					<l>so naer het eynde van het lof den Te Deum gezongen</l>
+					<l>en s&apos;avond te vieren geordonneert, zoo over het</l>
+					<l>bemagtigen van geheel staets <locatie>vlaenderen </locatie>als over</l>
+					<l>de victorie tegen de geallieerde te <locatie>Lavelt </locatie>den <datum datum='1747-07-02'>2 dito</datum></l>
+					<l>bevogten. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-08-01'>Augustus. 1</datum></l>
+					<l><datum datum='1747-08-01'>1747</datum></l>
+					<l>Syn <hi rend='strikethrough:true;'>soo</hi> ontrent de 1100 waegens gelaeden met alles</l>
+					<l>krys getuygen <hi rend='strikethrough:true;'>naer ber</hi> door <locatie>Mechelen </locatie>naer <locatie>Bergen</locatie></l>
+					<l><locatie>op zoom</locatie> gepasseert (DN.)</l>
+					<l><datum datum='1747-08-02'>Augustus 2<hi rend='superscript:true;'>de</hi></datum></l>
+					<l>zyn door Mechelen naer bergen op zoom 20 stukken canon</l>
+					<l>vervoert, tot <locatie>Douai </locatie>ten jaere <datum datum='1716-xx-xx'>1716</datum> gegoten en wegende ieder</l>
+					<l>5260 pont als eenige zwaere mortiers</l>
+					<l>dito heeft binnen <locatie>Mechelen</locatie>, zoo gevryde als ongevryde</l>
+					<l>persoonen een half schouwgeld moeten betaelen.</l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-08-16'>August 16</datum>. <datum datum='1747-08-19'>19. </datum><datum datum='1747-08-26'>26</datum></l>
+					<l>zyn wederom diversche waegens naer <locatie>bergen op</locatie></l>
+					<l><locatie>zoom </locatie>gepasseert,</l>
+					<l>item den <datum datum='1747-08-19'>19</datum></l>
+					<l>item den <datum datum='1747-08-26'>26</datum> wederom 800 waegens</l>
+					<l>(DN.)</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l>Voyci Le Compliment</l>
+					<l>du <persoonsnaam>Cardinal de Malines</persoonsnaam></l>
+					<l>Sire</l>
+					<l>Le Dieu des armées est aussi</l>
+					<l>le Dieu de Misericorde, tandis</l>
+					<l>que vôtre Maj<hi rend='superscript:true;'>te</hi>. lui rends des</l>
+					<l>actions de Grace pour ses victoire</l>
+					<l>nous lui offrons des vœux pour</l>
+					<l>les faire heureusement Cesser</l>
+					<l>par une paix promte et</l>
+					<l>durable, Le sang de jesus Christ#</l>
+					<l>est le seul qui Coule sur nos aute#</l>
+					<l>tout autre nous allarme, un</l>
+					<l>Prince De L&apos;Eglise doit avoir le</l>
+					<l>Courage d&apos;avouer cette peur</l>
+					<l>devant un Roij tres Chretien</l>
+					<l><datum datum='1746-xx-xx'>1746</datum>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1747-09-01'>Septembre 1</datum></l>
+					<l>wederom 254 waegens item s&apos;nacht tusschen den</l>
+					<l><datum datum='1747-09-06'>6<hi rend='superscript:true;'>e</hi> </datum>en <datum datum='1747-09-07'>7<hi rend='superscript:true;'>ste</hi></datum> ruym 500 waegens, item tusschen den</l>
+					<l><datum datum='1747-09-02'>2</datum> en <datum datum='1747-09-23'>23<hi rend='superscript:true;'>ste</hi> </datum></l>
+					<l>ruym 300 waegens naer <locatie>Antwerpen</locatie>.</l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-09-24'>24 september</datum></l>
+					<l>Is naer het eyndigen van het lof den te Deum</l>
+					<l>gezongen en s&apos;avonds op de boete van 6 gulden</l>
+					<l>geviert, over bemagtigen van de sterke stad</l>
+					<l>van <locatie>Bergen op zoom</locatie> den <datum datum='1747-09-16'>16</datum> dezer met assault</l>
+					<l>ingenomen (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1747-10-xx'>octobre</datum></l>
+					<l><datum datum='1747-10-xx'>1747</datum></l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-10-09'>October 9</datum></l>
+					<l>komt <persoonsnaam>Ludovicus de Bourbon</persoonsnaam> condé, gezegt <persoonsnaam>grave van</persoonsnaam></l>
+					<l><persoonsnaam><locatie>clermont</locatie></persoonsnaam> binnen <locatie>Mechelen</locatie>, zyne kwaertier in</l>
+					<l>de <locatie>commandery van Petzenborg</locatie> nemen, zyn</l>
+					<l>leger rontom <locatie>Mechelen </locatie>gecampeert liggende,</l>
+					<l><hi rend='strikethrough:true;'>bet</hi> 8 à 9 duyzent mannen bestaende, waerdoor</l>
+					<l>het meestendeel der geestelykheyd door de officiers</l>
+					<l>gebelleteert zyn geworden, (VDN)</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-10-10'>10 october</datum></l>
+					<l>zyn 30 stukken canon met ballen naer <locatie>Antwerpen</locatie></l>
+					<l>vervoert (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1747-10-17'>october 17</datum></l>
+					<l>Arriveerde den <persoonsnaam>Marechal van <locatie>Saxen</persoonsnaam> </locatie>van <locatie>Loven</locatie></l>
+					<l>binnen <locatie>Mechelen</locatie>, neemt zyn logement in de</l>
+					<l><locatie>commandery van Pitzenborg</locatie> en vertrekt den <datum datum='1747-10-18'>18 dito</datum></l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-10-23'>23 8<hi rend='superscript:true;'>bre</hi></datum></l>
+					<l>vertrekt den <persoonsnaam>grave van Clermont</persoonsnaam> uyt <locatie>Mechelen</locatie> naer</l>
+					<l><locatie>Parys</locatie> korts daer naer, komt den <persoonsnaam>Grave van Graville</persoonsnaam></l>
+					<l>als commandant binnen <locatie>pitzenborg </locatie>den zelven <datum datum='1747-10-23'>dito</datum></l>
+					<l>korts daerop en trekt door naer <locatie>Brussel </locatie>den <persoonsnaam>marechal</persoonsnaam></l>
+					<l><persoonsnaam>Lowendhal,</persoonsnaam> en korts daer naer betrekken de <locatie>franschen</locatie></l>
+					<l>troupen de winter quaertier tot <locatie>Mechelen </locatie>5 bataillon</l>
+					<l>van champagne met een bataillan militaire</l>
+					<l>600 mannen hussards blyven op <locatie>hombeeck </locatie><locatie>leest </locatie>en</l>
+					<l><locatie>heffen </locatie>cantonneren. (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1747-11-13'>13</datum></l>
+					<l><datum datum='1747-11-13'>november</datum></l>
+					<l><datum datum='1747-11-13'>1747</datum></l>
+					<l>zyn de vooz 600 hussards, dewelke op <locatie>hombeek </locatie><locatie>leest </locatie>en</l>
+					<l><locatie>heffen </locatie>gelegen hadden, naer de zelve dorpen uytge¬</l>
+					<l>kogt te zyn binnen <locatie>Mechelen </locatie>in garnisoen gekomen</l>
+					<l>waerover de heeren van het magistraet, eenege daegen</l>
+					<l>van te voren pretendeerden, vermits den overlast</l>
+					<l>dat de geestelyke moesten belast worden met de</l>
+					<l>voormelde hussards het welk de heeren van het</l>
+					<l>capittel niet wel aen en stond, en hebben de¬</l>
+					<l>zelve aen zekeren ouden kleerkooper aenbested</l>
+					<l>om het <hi rend='underlined:true;'>quoot</hi> de geestelyke te houden, het welk</l>
+					<l>zy uyt betaelt hebben uyt de casse van den p<hi rend='underlined:true;'>ixis</hi></l>
+					<l><hi rend='underlined:true;'>cleri</hi> zoo wel gezeyt uyt de cas vanden geestelyken</l>
+					<l>armen. zoo <hi rend='strikethrough:true;'>alsdan</hi> dat niemand van het geestelyk</l>
+					<l>in het particulier alsdan belast geweest is</l>
+					<l>tegen deze onbehoorlyke gedrag zyn van eenige tegen</l>
+					<l>geprotesteert en zelf eene requestie gepresenteert aen zyne</l>
+					<l>eminentie maer Daer en is niet van gekomen</l>
+					<l>met wat consience het geschiet is weet ik niet. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-12-12'>December 12</datum></l>
+					<l><datum datum='1747-12-12'>1747</datum></l>
+					<l>heeft in het geheel <locatie>nederland </locatie>een schroomelyk tempeest</l>
+					<l>geweest ten 2 uren na noen, als wanneer onder eenen</l>
+					<l>vallende hagel, diversche reyse van donder en blixem</l>
+					<l>dit tempeest duerde laet in den avond, waerdoor</l>
+					<l>zoo te land als te waeter aen huyzen boomen en</l>
+					<l>schepen schaede geschiede. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-12-16'>December 16</datum></l>
+					<l>Is een ordonantie van wegens het magistraet,</l>
+					<l>en door den breeden raed geaccordeert, gepubliceert</l>
+					<l>waerby tot betaelinghe van een petitie der <locatie>fran¬</locatie></l>
+					<l><locatie>schen</locatie> van 75000 guld. tot het uyt vinden derzelve</l>
+					<l>zal geschieden eene lochtinge van een vierde</l>
+					<l>impositie van 2 stuyvers op ieder aem @@@</l>
+					<l>zoo bruyn als wit bier, en van een stuyver</l>
+					<l>op ieder ame pattacons bier binnen der zelfs</l>
+					<l>jurisdictie geconsummeert zullen worden, dezelve</l>
+					<l>te doen betaelen door een ieder geestelyk of were¬</l>
+					<l>lyk, gepriviligeerde als ongepriviligeerde<hi rend='strikethrough:true;'>n</hi>, de bidden¬</l>
+					<l>de orders geen goederen ofte rente besittende</l>
+					<l>uytgenomen</l>
+					<l>Item eenen impost van 3 guldens 10 stuyvers op</l>
+					<l>ieder kok wyn binnen deze juridictie gebracht</l>
+					<l>wordende ende dat zoo van gevryde als van ongevryde</l>
+					<l>item de lichtinge van het dobbel van het</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-12-24'>December 24</datum></l>
+					<l>wezende kersavond heeft in de metropolitaene</l>
+					<l>kerk voor de eerste ryse het schoon zilvere gradin </l>
+					<l>of banckxken, <hi rend='strikethrough:true;'>op gestaen</hi> uyt den geheelen gemakt </l>
+					<l>op gestaen lanck salvo jusot 14 voet ende</l>
+					<l>breed ontrent 2 voet met twee groote silvere </l>
+					<l>Kandelaers hoog 7 voet min 1 duym twee </l>
+					<l>tusschen een groot silverre kruys lang 11 voet en </l>
+					<l>half den gront van het vermeld cruys is een </l>
+					<l>copere vergulde plaet ende weegt 62 pondt </l>
+					<l>in iederen Kandelaer is 20 pont ijzer en weegt </l>
+					<l>in silvere 42 pondt alles door zyne Eminentie  </l>
+					<l>gegeven ende vereert aen zyne metropolitaene </l>
+					<l>Kerk deze waer ook gemaekt als het </l>
+					<l>andipendium (waer van <datum datum='1743-06-02'>2 juni 1743</datum>) tot </l>
+					<l><locatie>Bergen</locatie>; door <persoonsnaam>mr Moitemont </persoonsnaam>(v.d.n.)</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-01-05'>5 januari 5</datum></l>
+					<l><datum datum='1748-01-05'>1748</datum></l>
+					<l>heeft het begonst werk te nieten tot den <datum datum='1748-02-19'>19 febr </datum></l>
+					<l>als wanneer het weynig <hi rend='strikethrough:true;'>dooyde</hi> doeyde tot den </l>
+					<l><datum datum='1748-02-23'>23 febr</datum>. wanneer wederom hernomen is en </l>
+					<l>hier he<hi rend='strikethrough:true;'>r</hi>t heeft <hi rend='strikethrough:true;'>het</hi> gevrosen zoo verre dat het </l>
+					<l>den <datum datum='1748-02-25'>25</datum>-<datum datum='1748-02-26'>26</datum>-<datum datum='1748-02-27'>27</datum> febr als ook den<datum datum='1748-03-06'> 6</datum>-<datum datum='1748-03-07'>7</datum>-<datum datum='1748-03-08'>8 Meert </datum>de </l>
+					<l>koude zoo bitter was en heeft voorts geduert </l>
+					<l>tot den <datum datum='1748-03-11'>11 Meert</datum> inclues waer door als door een </l>
+					<l>oorlog in deze landen alles zeer dier was </l>
+					<l>uytgenomen de graenen. Den <datum datum='1748-03-21'>21 meert</datum> heeft den </l>
+					<l>vorst wederom ernomen en tot den <datum datum='1748-04-03'>3° april </datum></l>
+					<l>inclues geduert, zoo dat het eenen langhauden-</l>
+					<l>den vort was, die weynige beleeft hadden </l>
+					<l>(vdn)</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-01-19'>januarius 19</datum></l>
+					<l>is alhier overleden den <hi rend='strikethrough:true;'>heer</hi><persoonsnaam> Eerw heer cornelius </persoonsnaam></l>
+					<l><persoonsnaam>van Gistel</persoonsnaam> in den ouderdom van 91 jaeren </l>
+					<l>eertyd over de 40 jaeren Pastoor van <locatie>Westrem </locatie></l>
+					<l>in <locatie>vlaenderen</locatie>, daer naer 22 jaer canonick an OLV </l>
+					<l>over de <locatie>Deyle </locatie>tot <locatie>Mehelen</locatie>, eenen man zeer </l>
+					<l>ervaeren in de historieke oudheden van tans <locatie>Neder-</locatie></l>
+					<l><locatie>landt</locatie> de welke ook heeft uytgegeven de historie </l>
+					<l>van het aersbisdom van <locatie>Mechelen </locatie>etc hy igt begraeven </l>
+					<l>in de choor van de collegiale Kerke van OLV tot <locatie>Mechelen</locatie></l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-01-25'>januarij 25</datum></l>
+					<l>was wederom een placaert <hi rend='strikethrough:true;'>uyt</hi>gezonden, dat </l>
+					<l>deze stad ende provincie moest leveren 10 mannen </l>
+					<l>van militie ingevolghe het voorgaende jaer </l>
+					<l>uytgenomen men als nu aen t&apos;iedere man </l>
+					<l>boor handgeld betaelde de somme van 42 gulden</l>
+					<l>oft 15 patacons (VDN)</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-02-xx'>februarij 1748</datum></l>
+					<l>vertrokken naer <locatie>Douai </locatie>de 2 greffiers dewelke</l>
+					<l>tot <locatie>Mechelen </locatie>hadden moeten blyven door order </l>
+					<l>van het <locatie>francs </locatie>ministerie, zy waernen om voor het </l>
+					<l>parlement bewys te doen over de geconsigneerde </l>
+					<l>penningen aldaer ontboden, en wierden <hi rend='strikethrough:true;'>voor</hi> int </l>
+					<l>eynde vande voorder maend geexpedieert </l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-02-05'>februarius 5</datum></l>
+					<l><datum datum='1748-02-05'>1748</datum></l>
+					<l>zyn van wegens den raed en rentmeesters generael </l>
+					<l>van de Domeynen vanden Koninck alle ende palisaten </l>
+					<l>verkogt voor de somme van 2010 guldens dewelke</l>
+					<l>gecost hadden zoo van aerbeyt als anderzints </l>
+					<l>over de 10000 guldens (VDN)</l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-02-18'>18° februari </datum></l>
+					<l>is door geheel het aersbisdom afgekondit  eene bulle van </l>
+					<l>de Paus van in den vasten mogen vleesch te eten </l>
+					<l>beginnende van den <datum datum='1748-02-21'>1<hi rend='superscript:true;'>ste</hi> zondag van den vasten</datum> </l>
+					<l>tot palmenzondag exclues uytgenomen de maen-</l>
+					<l>daegen, vrijdaegen en zaterdaegen, behelsende als </l>
+					<l>mede de permissie van alle de daegen van den vasten </l>
+					<l>te beginnen vanden 1° dag tot palme zondag inclues </l>
+					<l>eyeren te eten en in de goede weke alleenlyk op </l>
+					<l>goeden vrydag het suyvel te derven, ende dat ter </l>
+					<l>oorzaeke de schaesheyd van den visch want holland geen</l>
+					<l>visch cost toezenden als ook de dierte van alle andere</l>
+					<l>eetwaeren etc (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1748-02-22'>22</datum></l>
+					<l><datum datum='1748-02-22'>februarij</datum></l>
+					<l>is binnen <locatie><hi rend='strikethrough:true;'>Brussel</hi> </locatie><locatie>Mechelen </locatie>en elders, oock den <datum datum='1748-02-16'>16 dito </datum>bin-</l>
+					<l>nen <locatie>Brussel</locatie> een ongehoort placaert afgekondigt </l>
+					<l>gegeven tot <locatie>Parijs </locatie>den <datum datum='1748-02-16'>16 dito</datum>, door den welk alle de </l>
+					<l>meubilaire ende immeubilaire goederen geamortizeerde </l>
+					<l>en andere, als de renten van de capittels, abdeyen </l>
+					<l>prior<hi rend='strikethrough:true;'>e</hi>yen, kerken en cloosters hospitaelen, funda-</l>
+					<l>tien der missen, tafels der armen etc zyn getax-</l>
+					<l>eert vante betaelen aen vrancryk een zesde </l>
+					<l>deel van het capitael boven ander lasten breder </l>
+					<l>in hetzelve vermelt, dogh de godshuysen en de</l>
+					<l>armen zouden moeten betaelen het twelfste deel</l>
+				</lg>
+			</p>
+			<pb n='38'/>
+			<p>
+				<lg>
+					<l>van hun fondatien etc publicatie heeft een alder-</l>
+					<l>grootste consternatie ende murmuratie veroorsaekt </l>
+					<l>hier bij is den <datum datum='1748-05-08'>8 mey</datum> gevolgt een 2° placaert behelsene</l>
+					<l>de geamortizeerde goederen gepubliceert ende geaffi-</l>
+					<l><hi rend='strikethrough:true;'>ch</hi> cieert den <datum datum='1748-05-09'>9 mey, </datum>niet sonder overgroote ver-</l>
+					<l>haestheyd zoo van werelyke als van geestelyke ende </l>
+					<l>ondertusschen heeft zyn Eminentie den aersbischop </l>
+					<l>uytterlyk gemoneert over deze placaerten, verscheyde </l>
+					<l>reflexien met een requeste gesonden naer den </l>
+					<l>Koning van <locatie>vrancryk </locatie>gemaekt door den raedt-</l>
+					<l>saemen <persoonsnaam>heer Decock alsdan pensionaris van </persoonsnaam></l>
+					<l><persoonsnaam><locatie>Mechelen</locatie></persoonsnaam>, daer <hi rend='superscript:true;'>naer</hi> raedt van den raede van <locatie>Brabant </locatie></l>
+					<l>als fiscael ende voorder Raedtsheer van den Pivéen </l>
+					<l>raed als advocaet vande<hi rend='strikethrough:true;'>n</hi> coniginne Keyzerinne </l>
+					<l>den <datum datum='1748-05-11'>11 mey</datum> heeft <hi rend='strikethrough:true;'>den</hi> <persoonsnaam>Mr Massart</persoonsnaam> circulaire brieven </l>
+					<l>gezonden naer de heeren dekens vande capittels </l>
+					<l>pversten der cloosters etc van absolut de overdragt </l>
+					<l>der geamortizeerde goederen te doen, op kasse daer </l>
+					<l>aen niemant en saude ontbreken en de sommatie </l>
+					<l>niet sauden afwag<hi rend='superscript:true;'>ch</hi>ten etc</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>den <datum datum='1748-05-12'>12 Mey</datum> heeft zyne Eminentie den aersbischop </l>
+					<l>aen alle zyne onderdaenen Priesters geordonneert ieder </l>
+					<l>te moeten lesen 3 missen ende <hi rend='strikethrough:true;'>geen</hi> geen priesters en </l>
+					<l>zyn als ook de religieusen 3 dagen te laten lesen 7 Psalmen </l>
+					<l>ende dat voor den noodt der Kerke ofte der </l>
+					<l>intentie van syne Eminentie.</l>
+					<l>Den <datum datum='1748-05-13'>13 Mey</datum> heeft men de tyding becomen binnen </l>
+					<l><locatie>Mechelen </locatie>dat binnen <locatie>Brussel </locatie>het voormelt </l>
+					<l>placaert was ingetrokken en de overdragt der </l>
+					<l>geestelyke goederen kwam te cesseren, de comt-</l>
+					<l>toire van <persoonsnaam>Massart </persoonsnaam>wierden gesloten, en den zelven </l>
+					<l>wi<hi rend='strikethrough:true;'>e</hi>rt naer <locatie>Parijs </locatie>ontboden, het welke den <datum datum='1748-05-25'>25 Mey </datum></l>
+					<l>gecorfirmeert wiert door eenen brief van <persoonsnaam>Myn-</persoonsnaam></l>
+					<l><persoonsnaam>heer D&apos;argenson</persoonsnaam> aen zyne voorschreven eminentie ende </l>
+					<l>tusschen den vooz tyd van de maend <datum datum='1748-02-xx'>februarij </datum>hiel-</l>
+					<l>den de <locatie>franschen </locatie><hi rend='strikethrough:true;'>van</hi> alle de comptoire vanden </l>
+					<l>raede van staeten en van de Domeynen gesloten </l>
+					<l>waer door nievers geene rente betaelt wierden</l>
+				</lg>
+			</p>
+			<pb n='39'/>
+			<p>
+				<lg>
+					<l>omdat de zelve <locatie>fransche </locatie>gedurende de zelve comtoire </l>
+					<l>quaemen te lichten, het welk menichte menschen </l>
+					<l>bracht in groote miserien.</l>
+					<l>Men vraegt ons de ration met het uyterste rigu </l>
+					<l>met geduerige dreygementen van militaire executie </l>
+					<l>het gene alle steden ende dorpen verobligeerde </l>
+					<l>ter rente lichten meige duyzende Guldens etc. </l>
+					<l>men namp ook van de provincie van <locatie>Mechelen </locatie></l>
+					<l>de oude privilegien van den Thol, zonder te willen </l>
+					<l>luysteren naer verscheyde presentatien etc.</l>
+					<l>men ordonneerde jaerlykx te betaelen de somme </l>
+					<l>van 280 duzend gulden aenden Marechal van </l>
+					<l><locatie>saxen </locatie>als gouverneur generael <hi rend='strikethrough:true;'>deze</hi> vande gecon-</l>
+					<l>questeerde <locatie>nederlanden</locatie>, ieder provincie volgens</l>
+					<l>zyn groote.</l>
+					<l>Men recht binnen <locatie>Mechelen </locatie>aenzienlyke maga-</l>
+					<l>zynen voor de <locatie>fransche </locatie>troupen, daer en boven </l>
+					<l><hi rend='strikethrough:true;'>passeerde</hi> passeeren door <locatie>Mechelen </locatie>onophoudelyk </l>
+					<l>verscheyden convoyen van Levens middelen </l>
+					<l>naar <locatie>Bergen Op zoome</locatie> (VDN)</l>
+				</lg>
+			</p>
+			<pb n='40'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-03-20'>Meert 20</datum></l>
+					<l><datum datum='1748-03-20'>1748</datum></l>
+					<l>Is den marechal van <locatie>saxen </locatie>tot <locatie>Brussel </locatie>ingehaelt </l>
+					<l>als gouverneur generael van de geconquesteerde </l>
+					<l><locatie>nederlanden</locatie>, en de gecomiteerde vande steden  </l>
+					<l>hebben hem als dan verwillekomt, alle deze syn in </l>
+					<l>groote magnifientie aldaer getracteert geweest.</l>
+					<l>ten getalle van 250 persoonen, uytgenomen </l>
+					<l>die van <locatie>Mechelen </locatie>als niet verso<hi rend='strikethrough:true;'>gt</hi><hi rend='superscript:true;'>cht</hi> zynde</l>
+				</lg>
+			</p>
+			<pb n='41'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-04-06'>April 6 1748</datum></l>
+					<l>Arriveerde binen <locatie>Mechelen </locatie>16 Battaillons, <hi rend='strikethrough:true;'>piémont</hi> </l>
+					<l>soo van <locatie>Piemont </locatie>als inlanders en schotten</l>
+					<l>en vertrokken den <datum datum='1748-04-07'>7<hi rend='superscript:true;'>de</hi></datum> dito naar den kant van</l>
+					<l><locatie>Maestricht</locatie>, s&apos;anderdaegs zyn er wederom diversche </l>
+					<l>bataillons gearriveert waervan de stad meer als </l>
+					<l>vooren overlast zynde, de subalterne clergie met </l>
+					<l>de officiers syn belast geweest waer van het </l>
+					<l>grootter deel den <datum datum='1748-04-08'>8<hi rend='superscript:true;'>ste</hi> dito </datum>vertrekt</l>
+				</lg>
+			</p>
+			<pb n='42'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-04-29'>April 29</datum></l>
+					<l>vrae<hi rend='superscript:true;'>g</hi>de de <locatie>Franschen </locatie>ende provincie ende landt van </l>
+					<l><locatie>Mechelen </locatie>hondert duyzent rations, waerop de </l>
+					<l>meyers van de respectiven ressorten met den meyer </l>
+					<l>van <locatie>Heyst op den Berg</locatie>, als den Borgemeester </l>
+					<l>van velden etden <persoonsnaam>Pensionnaris Merbois </persoonsnaam></l>
+					<l>naer <locatie>Brussel </locatie>ontboden zijnde, aldaer gearresteert </l>
+					<l><hi rend='strikethrough:true;'>geworden</hi> gehouden tot dat de voormelde rations </l>
+					<l>zoude toegestaen worden  ondertusschen wiert den </l>
+					<l><datum datum='1748-05-02'>2 Mey </datum>daer over eene convocatie gehouden op </l>
+					<l>het stadhuys van de principaelste gegoeyde, de voors. </l>
+					<l>heeren tot <locatie>Brussel </locatie>hun alsdan toegetaen hebbende </l>
+					<l>46000 rations, ondertusschen is de zaeke van de </l>
+					<l>gegoeyde zonder toestaen gescheyde. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='43'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-05-11'>Mey 11 1748</datum></l>
+					<l>is aen het hooft van het garnisoen bekent</l>
+					<l>gemaekt dat er eene provisionele wapenschor-</l>
+					<l>singe tusschen de <locatie>Fransche </locatie>en het leger van de </l>
+					<l>vereenigte mogentheden getroffen was (VDN)</l>
+				</lg>
+			</p>
+			<pb n='44'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-05-18'>18 Mey</datum></l>
+					<l>Den hertog van <locatie>saxen</locatie>, naer de revieren de <locatie>Deyle </locatie>en den</l>
+					<l><locatie>Demer </locatie><hi rend='strikethrough:true;'>gerecognosceert</hi> geecognosceert te hebben </l>
+					<l>arriveert in de <locatie>commandery van Pitzenborg</locatie> en</l>
+					<l>vertrekt den <datum datum='1748-05-18'>18 dito n</datum>aer <locatie>Brussel  </locatie>(VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1748-05-20'>Mey 20</datum></l>
+					<l>ariveert voor garnisoen binnen <locatie>Mechelen </locatie></l>
+					<l>bataillons van <locatie>Navarre </locatie>sonder 3 andere landt-</l>
+					<l>militie in de stad nog liggende, waer voor de </l>
+					<l>stad overlast zynde de sabalterne clergie wederom </l>
+					<l>heeft moeten officiers logeren (VDN)</l>
+				</lg>
+			</p>
+			<pb n='45'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-06-xx'>junius 1748</datum></l>
+					<l>schoon dat men <hi rend='strikethrough:true;'>in het</hi> nu van den <datum datum='1748-04-30'>30 april</datum> in het </l>
+					<l>congres van <locatie>Aken </locatie>hadde geteekent eenen stilstandt van </l>
+					<l>waepenen tusschen wederseyde leghers ende trou<hi rend='superscript:true;'>p</hi>pen </l>
+					<l>soo was no<hi rend='strikethrough:true;'>g</hi><hi rend='superscript:true;'>ch</hi>tans de in desen tydt dat den Marechal </l>
+					<l>van <locatie>saxen </locatie>met het beginnen van de <datum datum='1748-06-xx'>maendt junius </datum></l>
+					<l>vraegde aen een ieder de paspoorten met zoo groot </l>
+					<l>gewelt, dat men niet alleen aen alle de stadspoorten </l>
+					<l>de selve afvraeghen en geen hebbende arresteerden </l>
+					<l>maer zelfs buyten op de publieke wegen als aen </l>
+					<l>de 3 font<hi rend='strikethrough:true;'>e</hi>ynen op den <locatie>Brusselschen Steen wegh </locatie> </l>
+					<l>de zelve afvraeg<hi rend='superscript:true;'>h</hi>de ende geen hebbende, aldaer dwongen </l>
+					<l>een te nemen voor zekeren gestelden prys, selfs </l>
+					<l>de geestelij<hi rend='superscript:true;'>c</hi>ken de welke moesten comen naer het </l>
+					<l>bisschoplyck paleys op hunne affairens etc.</l>
+					<l>Deze paspoorten veroorsaekte eene groete murmu-</l>
+					<l>ratie onder het volck ende wirdt selfs <hi rend='strikethrough:true;'>publicke</hi> </l>
+					<l>publicklyk geseyt, sulkx tyrannicklyck te zyn etc.</l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='46'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-06-22'>22-</datum><datum datum='1748-06-23'>23 junius</datum></l>
+					<l>heeft in deze landen buyten gewoonelyke hitte geweest.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1748-08-xx'>Augustus.</datum></l>
+					<l><datum datum='1748-08-xx'>1748</datum></l>
+					<l>In deze maend nampt de sterfte der horen, beesten</l>
+					<l>in <locatie>nederland </locatie>wederom geweldig toe.</l>
+				</lg>
+			</p>
+			<pb n='47'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-10-31'>October 31</datum></l>
+					<l>wierd hier en helders gepubliceert, dat de paspoorten</l>
+					<l>door de commissarissen van den <persoonsnaam>marechal van</persoonsnaam></l>
+					<l><locatie><persoonsnaam>Saxen</persoonsnaam> </locatie>afgevraeght voortaen niet moeten meer</l>
+					<l>genomen worden. (VDN).</l>
+				</lg>
+			</p>
+			<pb n='48'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-01-15'>15 januari</datum></l>
+					<l><datum datum='1749-01-15'>1749</datum></l>
+					<l>Naer dat door den Peys van Aken de <locatie>stad Mechelen</locatie></l>
+					<l>onder het gebiet van haere<hi rend='strikethrough:true;'>n</hi> wettige souvereyne</l>
+					<l>gekomen was en door de fransche op den <datum datum='1749-01-25'>25 janu¬</datum></l>
+					<l><datum datum='1749-01-25'>arij</datum> geêvacueert was, zoo wiert vangelyken</l>
+					<l>de<locatie> stad Brussel</locatie> op den <datum datum='1749-01-28'>28 dito</datum> van het frans jok</l>
+					<l>verlost, in het <locatie>oostenrykx</locatie> Ministerie keerde aldaer</l>
+					<l><datum datum='1749-01-28'>op den zelven dag</datum> wederom, Aenstonds wiert er</l>
+					<l>aende heeren President en raedsheeren, die sedert</l>
+					<l>twee jaeren tot <locatie>Ehternach</locatie> hun verblyf hadden</l>
+					<l>genomen,<hi rend='strikethrough:true;'> van zich</hi> <hi rend='strikethrough:true;'>op</hi> order gegeven van</l>
+					<l>zich op het spoedigste tot <locatie>Mechelen</locatie> te begeven</l>
+					<l>om aldaer hunne fonctien te hernemen.</l>
+					<l>Hier op vertrok den President met alle de raeds¬</l>
+					<l>heeren en advocaten uyt <locatie>Ehternach</locatie>, en zy deden</l>
+					<l>hunnen intre binnen <locatie>Mechelen</locatie> den <datum datum='1749-02-15'>15 februari</datum></l>
+					<l>naer noen, vergezelschap met alle de carossen</l>
+					<l>van den edeldom en tusschen eene geduerige</l>
+					<l>willekomwenschinge van geheel de stad *</l>
+					<l>s&apos;avonds</l>
+					<l>en ten 3 volgende daegen</l>
+					<l>zag men allomme vreugde vieren</l>
+					<l>onder het losbranden van het canon, luyden van de groote klocken spelen</l>
+					<l>van der Beyaert &amp;</l>
+				</lg>
+			</p>
+			<pb n='49'/>
+			<p>
+				<lg>
+					<l>fuseyen &amp; s&apos;anderdaegs ontfangde zy de comple¬</l>
+					<l>menten van den Cardinael aersbisschop van&apos;t groot</l>
+					<l>capittel en van het Magistraet, s&apos;maendaegs <datum datum='1749-02-17'>17 feb</datum></l>
+					<l>vereerde hun de P.P. Jesuiten met eene schoone</l>
+					<l>illuminatie voor hun collegie als ook op den</l>
+					<l><datum datum='1749-02-18'>18<hi rend='superscript:true;'>de</hi> </datum>de P.P. capucienen voor hun klooster een</l>
+					<l>bereydt vierwerk daer ongeluk seffens ontsteken</l>
+					<l>wiert (<persoonsnaam>Toppens</persoonsnaam>)</l>
+				</lg>
+			</p>
+			<pb n='50'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-01-25'>januarij 25 1749</datum></l>
+					<l>Hebben de fransche <locatie>Mechelen</locatie> verlaeten ende</l>
+					<l>stad is aen haeren wettigen souvereyn wedergeko¬</l>
+					<l>men, Langhs de <locatie>Antwerpsche poort</locatie> is ingekomen</l>
+					<l>het regiment van <persoonsnaam>Prins carel van Loteringhe</persoonsnaam></l>
+					<l>met 3 compagnien dragonders van <persoonsnaam>Prins de</persoonsnaam></l>
+					<l><persoonsnaam>Ligne</persoonsnaam>, sy stonden op de <locatie>groote merkt</locatie> oppo¬</l>
+					<l>siet aen de franschen, de oostenryksche langhs</l>
+					<l>den kant van het <locatie>stad huys</locatie>, en de franschen</l>
+					<l>langhs den kant van het <locatie>oudt Paleys</locatie> en</l>
+					<l>ten laesten op den slag van 9  uren voor noen</l>
+					<l>naer malkanderen feestelyk gegroet te</l>
+					<l>hebben, syn de franschen vertrocke langhs</l>
+					<l>de <locatie>Brusselsche poorte</locatie>, s&apos;avonds is door geheel</l>
+					<l>de stadt geviert en de veele lochtfuseyen geschoten</l>
+					<l>en andere vreugde teekenen bethoont. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='51'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-12-07'>December  7</datum></l>
+					<l><datum datum='1748-xx-xx'>1748</datum></l>
+					<l>Is de stad Lier verlaeten van de franschen komende den</l>
+					<l>zelven dag binnen Mechelen (VDN)</l>
+				</lg>
+			</p>
+			<pb n='52'/>
+			<p>
+				<lg>
+					<l><datum datum='1748-12-11'>December 11</datum></l>
+					<l>naer dat de fransche het casteel ende stadt <locatie>Antwerpen</locatie></l>
+					<l>overgelevert hadden aen de <locatie>oostenryksche</locatie> troupen</l>
+					<l>zyn met 5 bataillons van <locatie>Navarre</locatie> naer eenen</l>
+					<l>nagt binnen <locatie>Mechelen</locatie> comen logeeren. (VDN).</l>
+				</lg>
+			</p>
+			<pb n='53'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-03-03'>Meert 3</datum></l>
+					<l><datum datum='1749-03-03'>1749</datum></l>
+					<l>Heeft den raed syne<hi rend='strikethrough:true;'>r</hi> eerste sessie gehouden binnen</l>
+					<l><locatie>Mechelen</locatie> naer dat er smorgens eerts hadde geweest</l>
+					<l>een solemneele misse van den H Geest en savonts</l>
+					<l>is er voor het huys van den president een vier¬</l>
+					<l>werk afgeschoten, met menigte van Locht fuseen.</l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='54'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-01-25'>1749</datum></l>
+					<l><datum datum='1749-01-25'><hi rend='strikethrough:true;'>januarius 25</hi></datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1749-06-23'> 23</datum></l>
+					<l><datum datum='1749-06-23'>junius</datum></l>
+					<l><datum datum='1749-06-23'>1749</datum></l>
+					<l>zyn de geconsigneerde penninge (die merckelyk</l>
+					<l>waeren)  van den grooten raede tot <locatie>Mechelen </locatie>de welke</l>
+					<l>tot <locatie>Douay </locatie>door de <locatie>Franschen </locatie>getransporteert</l>
+					<l>waeren, wederom met een escort binnen <locatie>Meche¬</locatie></l>
+					<l><locatie>len</locatie> gebraght. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='55'/>
+			<p>
+				<lg>
+					<l><datum datum='1747-03-17'>17  meert 1747</datum></l>
+					<l><hi rend='strikethrough:true;'>Het klooster van de PP. capucienen wort door</hi></l>
+					<l><hi rend='strikethrough:true;'><persoonsnaam>den graef van lafan</persoonsnaam> <locatie>franschen </locatie>commandant</hi></l>
+					<l><hi rend='strikethrough:true;'>dezer stad bestormt om <persoonsnaam>N Ryckaert</persoonsnaam> daer</hi></l>
+					<l><hi rend='strikethrough:true;'>uyt te haelen</hi></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1749-07-02'>julius 2</datum></l>
+					<l><datum datum='1749-07-02'>1749</datum></l>
+					<l>Heeft z Emint. den Cardinael uyt een goet voorne¬</l>
+					<l>men ende tot danksegginge doen doen 4 solemnele</l>
+					<l>missen daer toe roepend en de geheele choor van</l>
+					<l>zyne metropolitaen, de eerste misse <hi rend='strikethrough:true;'>is gezongen</hi></l>
+					<l><hi rend='strikethrough:true;'>geweest</hi> op den feestdagh van O.L.V. visitatie is gezon¬</l>
+					<l>gen geweest tot <locatie>Hanswyk </locatie>ten 11 uren door Archidiaken</l>
+					<l>Toppens alwaer z. Emi. met het capittel Metropolitaen</l>
+					<l>processie geweys vergezelschapt van een groote</l>
+					<l>menigte van volck. <datum datum='1749-07-03'>Den 3</datum> inde metropolitaen</l>
+					<l>op <datum datum='1749-07-04'>den 4°</datum> is de processie geweest naer de ongeschoende</l>
+					<l>carmelieten <hi rend='strikethrough:true;'>en</hi> en aldaer gesongen eene misse, alwaer</l>
+					<l>z. Emin<hi rend='superscript:true;'>tie</hi> in het beginsel van de misse met eene</l>
+					<l>beroerte wirdt overvallen, selfs niet sonder perykel</l>
+					<l>van syn leven, en is met zyne koetze naer <hi rend='strikethrough:true;'>het</hi> zyn</l>
+					<l>Paleys gevoert. op<datum datum='1749-07-05'> den 5  dito</datum> is de processie gegaen</l>
+					<l>naer de PP. jesuieten alwaer de misse gesongen</l>
+					<l>geweest is door <persoonsnaam>heer P. Dens president van het seminarie</persoonsnaam></l>
+					<l>door ziekte is z. Emin<hi rend='superscript:true;'>te</hi> niet mede geweest.</l>
+				</lg>
+			</p>
+			<pb n='56'/>
+			<p>
+				<lg>
+					<l>dit alles bekostigt geweest door Z. Emin<hi rend='superscript:true;'>tie</hi> soo het</l>
+					<l>musiek als anders, om godt te bedanken van ons geloven</l>
+					<l>te bewaeren van voor deze plaeghen ons door oorlog</l>
+					<l>toe gesonden. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='57'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-07-09'>9 julius</datum></l>
+					<l>wirdt tot erstiltenisse van z Emin<hi rend='superscript:true;'>tie</hi>, onder het luyden</l>
+					<l>van de groote klocken in de metropolitaen kerke</l>
+					<l>ten 10  uren eene solemnele misse gesongen</l>
+					<l>den 12&apos; gong de clegie metropolitaen smorgens ten 7 uren</l>
+					<l>12 processie gewys naer de kerke der PP. jesuiten alwaer</l>
+					<l>eene solemnele misse ter eere van <persoonsnaam>Fran Xaverius</persoonsnaam> tot</l>
+					<l>ersteltenisse van z. Emin<hi rend='superscript:true;'>tie</hi> gezongen wirdt (VDN)</l>
+					<l>13 geschiede <hi rend='strikethrough:true;'>eene</hi> savonds ten 6  uren eene generaele processie</l>
+					<l>met alle de biddende orders langs de stadt met eene</l>
+					<l>groote bywesenheyd van volk. (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1749-07-14'>julius 14</datum></l>
+					<l>gonck de clergie der Metropolitaen geweys naer de</l>
+					<l>kerke der PP. descalen alwaer ter eere van den</l>
+					<l><persoonsnaam>H Joseph</persoonsnaam> geschiede eene solemneele misse en op</l>
+					<l>den voors. tydt waeren de reliquien van de <persoonsnaam>H Rumel¬</persoonsnaam></l>
+					<l><persoonsnaam>dus</persoonsnaam> besloeten in de choor casse, geexponeert in het</l>
+					<l>middel der choor der Metropolitaen ten eynde als voren.</l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='58'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-08-12'>Augustus 12</datum></l>
+					<l><datum datum='1749-08-12'>1749</datum></l>
+					<l>is gepubliceert het placaert van de lasten </l>
+					<l>die ten <hi rend='strikethrough:true;'>@</hi> tijde van den oorlog van de dorpen </l>
+					<l>opgenomen waeren. dit placaert was uytdaght </l>
+					<l>tot <locatie>Willebroeck</locatie>. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='59'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-08-18'>18 Augustus</datum></l>
+					<l>trok<persoonsnaam> Z. K. hoogheyt Prins Carel van <locatie>Loreynen</locatie></persoonsnaam>, gouver-</l>
+					<l>neur generael dezer <locatie>nederlanden </locatie>&amp; door <locatie>Mechelen </locatie></l>
+					<l>naer <locatie>Antwerpen </locatie>om den eersten slagh te geven</l>
+					<l>aen de munte de<hi rend='strikethrough:true;'>n</hi> nieuwe gelt-specien </l>
+					<l>de straeten langs de welke zyne <hi rend='strikethrough:true;'>den</hi> hoogheyt </l>
+					<l>binnen <locatie>Mechelen </locatie>was passeerende waeren door de </l>
+					<l>ordannantie <hi rend='strikethrough:true;'>van</hi> der stadt verciert, de 5 guldens, zeer </l>
+					<l>treffelyk <hi rend='strikethrough:true;'>verciert</hi> gekleedt, sonder schietende in het </l>
+					<l>geweir uytleydende onder losbranden van het canon</l>
+					<l>luyden alle de principale clocken deser stadt ende </l>
+					<l>menigvuldigen toeloop van volk, zyn hoogheyt tot </l>
+					<l>buyten de<locatie> catalyne poort</locatie> alwaer eene logie stondt </l>
+					<l>daer de heer van het magistraet vergaedert </l>
+					<l>waeren, den heer pensionnaris aldaer een compli-</l>
+					<l>ment doendde (VDN)</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1749-08-20'>Augustus 20</datum></l>
+					<l>wirt binen <locatie>Mechelen </locatie>afgekondigt, dat zyne </l>
+					<l>Koninglyke hoogheydt van <locatie>Antwerpen </locatie>binnen</l>
+					<l><locatie>Mechelen </locatie>op den<datum datum='1749-08-21'> 21 s</datum>oude arriveeren ende oversulkx </l>
+					<l>den selven dito alle de huyzen der straete daer </l>
+					<l>hy soude passeeren moesten treffelyk verciert </l>
+					<l>zyn ende des <hi rend='strikethrough:true;'>s</hi> avondts alle de huysen <hi rend='strikethrough:true;'>verciert</hi> </l>
+					<l>geillumineert op de boeten van 25 patacons.</l>
+					<l><datum datum='1749-08-21'>21</datum></l>
+					<l>Naer noen ten 5 uren en half arriveerde Z.K.H.</l>
+					<l>binnen <locatie>Mechelen </locatie>(waer gecomplimenteert te </l>
+					<l>zyn buyten de <locatie>Antwerpsche poort </locatie>van de</l>
+					<l>heeren van het magistraet) onder het losbran-</l>
+					<l>den van het canon, luyden van alle de princi-</l>
+					<l>paelste clocken dezer stadt ende onbeschryffelyke </l>
+					<l>toeloop van volck zoo ingesetene als vremde-</l>
+					<l>lingen roepende onophoudelyk <hi rend='underlined:true;'>vivat <persoonsnaam>Prins</persoonsnaam></hi></l>
+					<l><persoonsnaam><hi rend='underlined:true;'>Carel!</hi></persoonsnaam>, alle de huyzen waeren gepalleert </l>
+					<l>de 5 guldens stonden van Buyten de <locatie>Antwerpsche</locatie></l>
+				</lg>
+			</p>
+			<pb n='60'/>
+			<p>
+				<lg>
+					<l>poorte tot aen het stadhuys gerangeert in forme </l>
+					<l>van haegen, door dewelke Z.K.H. passeerde</l>
+					<l>begevende sigh op het stadhuys aenstonts deden </l>
+					<l>de vijf gulden hunne exercitie met het gewier </l>
+					<l>en het vier hetwelk duerde tot half negen uere </l>
+					<l>s&apos;avonts als wanneer een vierwerk wirdt </l>
+					<l>aengesteken naer het welk <hi rend='strikethrough:true;'>vyf </hi>volgde het </l>
+					<l>schieten met locht fuseën naer eenen vliegende </l>
+					<l>draeck op gevult met diversche vier wercken </l>
+					<l>den welke ten 10 uere wirt afgeschoten waer </l>
+					<l>door den afschieter eene gift van stads wegen </l>
+					<l>ontfangen heeft van een dosyn silvere lepels </l>
+					<l>met twee silvere dien lepels. </l>
+					<l>naer het afschieten vanden voorz draek begaf hy</l>
+					<l>Z.K.H. (als wanneer alle de huysen en <locatie>St Rom-</locatie></l>
+					<l><locatie>bauts thoren</locatie> geillumineert waeren ) naer de </l>
+					<l><locatie>commandery van Pitzenborg</locatie>, alwaer een treffelyk </l>
+					<l>avontmael, met een uytmuntent deseir bereydt </l>
+					<l>was ten middernacht begaf zyne hoogheyd </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>naer de <locatie>groote merkt</locatie> in de <locatie>herberge De Craen </locatie></l>
+					<l>daer naer nae het Stadhuys alwaer een bal was </l>
+					<l>en naer eenigen tyd daer verlust hebbende begaf </l>
+					<l>sich naer <locatie>Pitzenbourg </locatie>eenige uren tot ruste. (VDN)</l>
+					<l><datum datum='1749-08-22'>22</datum></l>
+					<l>tan half ure twaelf (naer besigt te hebben de </l>
+					<l>canongietery en het magazyn ) vertrock zyne </l>
+					<l>koninglyke hoogheyd naer <locatie>Brussel </locatie>onder het </l>
+					<l>geluydt vande principaelste clocken van de stad </l>
+					<l>losbrandenden van het canon ende het gedurig </l>
+					<l>en onophoudelijk geschut der 5 guldens. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='61'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-08-24'>24</datum></l>
+					<l><datum datum='1749-08-24'>Augustus</datum></l>
+					<l>S&apos;avonts ten 8 uren onder een onverwa<hi rend='strikethrough:true;'>g</hi>cht geluyt </l>
+					<l>vande groote clock spelen van den Beyaert waeren</l>
+					<l>byna alle de huyzen deser stadt <locatie>Mechelen </locatie>geillumineert </l>
+					<l>men brande menig<hi rend='strikethrough:true;'>h</hi>te flambeuwen, men stak meni-</l>
+					<l>ge licht fuseën, menigte viere op de straete met </l>
+					<l>schoet met musquetten, canons camers etc en meer </l>
+					<l>betoonde overal groote blydschap over de volle </l>
+					<l>ersteltenisse van zyn Eminentie, op dien dagh </l>
+					<l><hi rend='strikethrough:true;'>ge</hi> in de <hi rend='strikethrough:true;'>Kerk</hi> Metropolitaen zyner kerkgang </l>
+					<l>gedaen hebbende (VDN)</l>
+				</lg>
+			</p>
+			<pb n='62'/>
+			<p>
+				<lg>
+					<l>Voor de poorte stonden twee pilaere </l>
+					<l>op de welcke te weten op de rechte seijde </l>
+					<l>stont het wapen van <locatie>Oostenrijck </locatie>met </l>
+					<l>dese inscriptie</l>
+					<l>ingredere hanc urbem magno de Cæsare nata </l>
+					<l>Reginæ condigna soror tutela saluque </l>
+					<l><locatie>Belgarium</locatie>, supplex tibi se <locatie>Mechlinia</locatie> pandit </l>
+					<l>in te resplendes duplexque resurgit Elisa </l>
+					<l>illa soror Caroli, Regisque hæc nata Philippi</l>
+					<l>Ende op den slinken kant stont het</l>
+					<l>waepen van <locatie>Lorijnen</locatie>.</l>
+					<l>ingedere ô princeps <locatie>Lotharum </locatie>de sanguine </l>
+					<l>nate</l>
+					<l>et pro avis attavisque potens quos bellica <hi rend='strikethrough:true;'>vestas</hi></l>
+					<l>virtus</l>
+					<l>hoste triumphato, gallo, turcâque coronat </l>
+					<l>sed genus et pravos, et que efficis ipse </l>
+					<l>hæc tua vix reputas, proprio namque ense </l>
+					<l>triumphas.</l>
+					<l>hec <persoonsnaam>D. foppens</persoonsnaam> cecinit.</l>
+					<l>Op de groote arck van de merckt </l>
+					<l>stont onder het afbeelsel van de </l>
+					<l>coninginne</l>
+					<l><locatie>austriaca </locatie>ô iugens virtute et marte virago</l>
+					<l>secula cui nullam prisca tulere  parem</l>
+					<l>victis si variis de regibus una triumphas </l>
+					<l>magnaque ab iilustri laus tibi marte venit </l>
+					<l>hoc refiute Ceriunerunt</l>
+				</lg>
+			</p>
+			<pb n='63'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-10-10'>October 10</datum></l>
+					<l><datum datum='1749-10-10'>1749</datum></l>
+					<l>is het placaert van wegens haere Keyz. Maj<hi rend='superscript:true;'>t</hi></l>
+					<l>de coninginne van <locatie>hongarien </locatie>&amp; binnen <locatie>Mechelen </locatie></l>
+					<l>gepubliceert, raekende de veranderinge van de geld</l>
+					<l>specien bevattende 81 artik. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='64'/>
+			<p>
+				<lg>
+					<l><datum datum='1749-12-12'>December. 12.</datum></l>
+					<l>Geviel in het Seminarie archiepiscopael, s&apos; avonts </l>
+					<l>eenen droevigen onverwagten voor<hi rend='strikethrough:true;'>r</hi>val, sekeren </l>
+					<l><persoonsnaam>theologant </persoonsnaam></l>
+					<l><persoonsnaam>..... Vermeer</persoonsnaam>, gebortig van <locatie>thienen </locatie></l>
+					<l>(den welken nog geen wyding hadde) in een</l>
+					<l>Phrenesie gevallen zynde, en geheel als raesenden</l>
+					<l>tusschen den 7 à 8 uren s&apos;avonts heeft twee </l>
+					<l>mede theologanten inden doncker en de bedecktelyck</l>
+					<l>met een mes aengerandt, en gesteken waervan</l>
+					<l>den eenen priester en den anderen Diaken was </l>
+					<l>dewelke korts daer naer, gestorven zyn den </l>
+					<l>derden ook priester was soo swaerlyck gequets</l>
+					<l>dat <hi rend='strikethrough:true;'>schie</hi> hier voor een mirakel gerekent </l>
+					<l>is dat hy de dood ontgaen heeft, dezen <hi rend='strikethrough:true;'>lo</hi> </l>
+					<l>raesende<hi rend='strikethrough:true;'>n</hi> is ten laesten door zyn medegesellen, </l>
+					<l>met groote moeyte ontwapent en vastgepackt </l>
+					<l>als op den zelven <hi rend='strikethrough:true;'>nagt</hi> nacht naer de P.P. </l>
+					<l>cellebroeders getransporteert. en voor dese den</l>
+				</lg>
+			</p>
+			<pb n='65'/>
+			<p>
+				<lg>
+					<l>morgenstont door hun naer<locatie> st truyen</locatie> <hi rend='strikethrough:true;'>getranspor</hi>¬</l>
+					<l><hi rend='strikethrough:true;'>teert</hi> vervoert en weynig daer nae naer de cellisten </l>
+					<l>tot <locatie>Luyk </locatie>alwaer hy naer eenige jaeren in </l>
+					<l>zyne sottigheyd gestorven is.</l>
+					<l>Dese haestige vlucht en heeft niet weynig geterght</l>
+					<l>den grooten raedt en principaelyk de de Fiscalen </l>
+					<l>maer door <hi rend='strikethrough:true;'>voosigh</hi> versichtigheydt ende </l>
+					<l>autoriteyt van zyn Eminent. den cardinael </l>
+					<l>aersbisschop by den Keyserlyken raede tot <locatie>weenen </locatie></l>
+					<l>syn deze verschillen ende procedueren te niet </l>
+					<l>gedaen. (vDN)</l>
+				</lg>
+			</p>
+			<pb n='66'/>
+			<p>
+				<lg>
+					<l>Is buyten de <locatie>neckerspoel poort</locatie> op het bolwerk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1750-01-25'>januarius 25</datum></l>
+					<l><datum datum='1750-01-25'>1750</datum></l>
+					<l>Heeft haere <hi rend='strikethrough:true;'>con</hi><persoonsnaam> Keyserlyke en coningl. Maj<hi rend='superscript:true;'>t</hi></persoonsnaam></l>
+					<l><persoonsnaam>Maria Theresia</persoonsnaam> aen die van <locatie>Loven </locatie>verleent octroy </l>
+					<l>tot het graven van een nieuw vaert. (DW)</l>
+				</lg>
+			</p>
+			<pb n='67'/>
+			<p>
+				<lg>
+					<l><datum datum='1750-05-08'>Mey 8 1750</datum></l>
+					<l>Heeft S. Eminentie den Aersbisschop met solem</l>
+					<l>niteyt den eersten steen gebenedeyt en geleydt </l>
+					<l>aen het aersbisschoplycke, -seminarie-cepelle synde </l>
+					<l>geassisteert. door den <persoonsnaam>Archidiaken Foppens</persoonsnaam> en </l>
+					<l>deen <persoonsnaam>poenitens P. Dens</persoonsnaam> op den steen stondt den </l>
+					<l>waepen van Z. Emin<hi rend='superscript:true;'>tie</hi> en daer onder dese tyd-</l>
+					<l>rekeninge th. <datum datum='1750-xx-xx'>CarD: ar MeChL. (DW)</datum></l>
+				</lg>
+			</p>
+			<pb n='68'/>
+			<p>
+				<lg>
+					<l><datum datum='1750-05-16'>Mey 16</datum></l>
+					<l>heeft begonst in het <locatie>nederland</locatie>, eene groote </l>
+					<l>hitte duerende tot den <datum datum='1750-08-15'>15 Augustus</datum> incluis </l>
+					<l>maer byzonder den <datum datum='1750-08-26'>26</datum> en<datum datum='1750-08-27'> 27 dito </datum>was de hitte </l>
+					<l>soo groot en onverdraeglyk dat de zelve </l>
+					<l>overtrefte <hi rend='strikethrough:true;'>het</hi> de jaeren <datum datum='1707-xx-xx'>1707</datum> en <datum datum='1719-xx-xx'>1719 </datum>waer </l>
+					<l>door sommige zyn dood gevallen. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='69'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-02-05'>februarij 5 1751</datum></l>
+					<l>zyn de oude rente tot lasten der stadt <locatie>Mechelen </locatie></l>
+					<l>geloopen hebbende ten intereste <hi rend='strikethrough:true;'>van</hi> tegen 6 en 1/4 </l>
+					<l>gereduceert tegen 3 en half met conditie alle </l>
+					<l>jaeren een jaer achterstel te betaelen ook </l>
+					<l>tegen 3 1/2 synde daer toe besonder aengewesen </l>
+					<l>voor hypoteque het bier accys der selver stadt </l>
+					<l>ende dat alle jaeren promt te betaelen, uyterlyk </l>
+					<l>6 weken daer naer, op pene dat dat de </l>
+					<l>renten wederom sullen loopen volgens den </l>
+					<l>ouden voet alles volgens de act geteekent </l>
+					<l>onder de geinteresseerde. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='70'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-xx-xx'>17<hi rend='strikethrough:true;'>4</hi>51</datum></l>
+					<l>wort <hi rend='strikethrough:true;'>gemaekt</hi> den nieuwen dobbelen baan </l>
+					<l>van &apos;t collegie en de scholen der Paters van &apos;t </l>
+					<l>oratoren gemaekt, (ontrent paesschen )</l>
+					<l>ook wiert den bouw aen <locatie>de Kluyze vande PP. </locatie></l>
+					<l><locatie>Predicheeren</locatie> begonst. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='71'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-03-25'>Meert 25 1751</datum></l>
+					<l>is door ordonnantie van Z. Emin<hi rend='superscript:true;'>ti</hi> den aersbis¬</l>
+					<l>schop eene generaele processie geschiet soo in deze </l>
+					<l>als in andere Steden en dorpen van het geheel aers¬</l>
+					<l>bisdom tot bereydinge van de algemeyne <hi rend='strikethrough:true;'>jube</hi> </l>
+					<l>groote jubile dewelke volgens de bulle van den </l>
+					<l><persoonsnaam>Paus Benedictus XIV </persoonsnaam>alleen te verdienen was in</l>
+					<l>de steden van de Metropolitaen en cathedrale Kerken </l>
+					<l>en dan begonst hebben den <datum datum='1751-04-25'>25 april</datum> in dese </l>
+					<l>metropolitaen van <locatie>Mechelen </locatie>maer dese pointen </l>
+					<l>behaegde geensins het <locatie>Brussels</locatie> hof, daer in </l>
+					<l>vindende veele mogelykheden, soo heeft den cardi</l>
+					<l>nael nae <locatie>roomen </locatie>geschreven, om in de bulle van </l>
+					<l>Z. Heyligheyd een veranderinghe te becomen </l>
+					<l>en dese becomen hebbende is den generaelen jubile </l>
+					<l>gestelt op <datum datum='1751-06-13'>13 junii </datum>voor geheel het Diocés ieder in </l>
+					<l>syne stadt of dorpe voor 6 achtervolgende weken </l>
+					<l>ende voor <locatie>Mechelen </locatie>waeren gestelt deze vier </l>
+					<l>de Metropol., de collegiaele van O.L.V. de parochie van </l>
+					<l><locatie>St Peeters</locatie> en<locatie> Catharina</locatie> de selve processie geweest</l>
+				</lg>
+			</p>
+			<pb n='72'/>
+			<p>
+				<lg>
+					<l>te besoeken vyf mael en separaet 15 mael </l>
+					<l>dese processie van den <datum datum='1751-03-25'>25 meert</datum> heeft tot <locatie>Mechelen </locatie></l>
+					<l>gegaen langs den <locatie>Brul O L V. straet</locatie> <hi rend='strikethrough:true;'>de s</hi></l>
+					<l><locatie>gulde straet</locatie> en den <locatie>langen steenweg</locatie> met alle de </l>
+					<l>biddende ouders, parochien en de clergie van het </l>
+					<l>metropolitaen capittel met hunne choorcappen</l>
+					<l>den cardinael Z. Em<hi rend='superscript:true;'>tie</hi>, die gonck daer van achter </l>
+					<l>met een gevolg van over de 3000 Menschen. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='73'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-04-26'>April 26 1751</datum></l>
+					<l>is binnen <locatie>Mechelen </locatie>gepubliceert de octroye </l>
+					<l>gegeven tot <locatie>Brussel </locatie>den <datum datum='1751-03-10'>10 meert</datum> aen de </l>
+					<l>stadt van <locatie>Mechelen </locatie>waerdoor hun toegestaen</l>
+					<l>wordt te lichten eenen halven twintigsten </l>
+					<l>voor den termyn van elf continueele jaeren </l>
+					<l>aen welke alle de supposten van de clergie </l>
+					<l>en van den grooten raede sullen onderworpen </l>
+					<l>zyn ( weynige uytgenomen ) doch maer voor</l>
+					<l>hun eygen huysen, die zy selver sullen </l>
+					<l>bewoonen, ende niet die zy hueren oft </l>
+					<l>verhueren. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='74'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-06-13'>junius 13 1751</datum></l>
+					<l>Is den jubile begonst, het Cruys is <locatie>S<hi rend='superscript:true;'>te</hi> Rombauts</locatie></l>
+					<l>geplant van de canoniken, ten 7 uren,  smorgens</l>
+					<l>het zelve van hun gedraegen tot in &apos;t middel</l>
+					<l>van de Kercke, singende <hi rend='underlined:true;'>Vexilla regis</hi> &amp;. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='75'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-06-19'>junius 19</datum></l>
+					<l>is de <persoonsnaam>S<hi rend='superscript:true;'>t</hi> Rombauts </persoonsnaam>casse gedraege naer het</l>
+					<l><locatie>klooster Betanie</locatie> om gesagriert te worden de</l>
+					<l>reliquien zyn gedraeghen in het capittel huys</l>
+					<l>door vier capellaenen, het kasken daer de</l>
+					<l>reliquien in syn is met roode linten overbonden</l>
+					<l>deze kasse ontrent 4 voeten lanck ende twee</l>
+					<l>voeten breedt en becleedt met rooden fluweel</l>
+					<l>met goude gallonnen en <hi rend='strikethrough:true;'>rood</hi> vergulde nagelkens</l>
+					<l>en van den <persoonsnaam>Aertsbisschop alphonsus de Berghes</persoonsnaam></l>
+					<l>met 5 zegels gezegelt, alle der reliquien gedrae¬</l>
+					<l>gen naer het capittel huys, vergezelschapt <hi rend='strikethrough:true;'>door</hi></l>
+					<l>met</l>
+					<l><hi rend='strikethrough:true;'>met</hi> flambeuwen met 4 capellaenen, waeren daer</l>
+					<l>present 2 heeren gedeputeerden van het capittel</l>
+					<l>Den <persoonsnaam>borgemeester Lafeus</persoonsnaam>, den schepenen van der</l>
+					<l>Laen enden <persoonsnaam>greffier scheppers</persoonsnaam> de stads werklieden</l>
+					<l>die gemeynelyk de casse aflaeten en die de selve</l>
+				</lg>
+			</p>
+			<pb n='76'/>
+			<p>
+				<lg>
+					<l>getransporteert hebben naer  <locatie>Detanien</locatie></l>
+					<l>Dese Kasse is gekuyst <hi rend='strikethrough:true;'>geweest</hi> geworden</l>
+					<l>ter oorzaeke dat den <datum datum='1751-06-30'>30 junii</datum> het volle silvere</l>
+					<l>ornament, zoo mildelycke en de ryckelyk vergunt</l>
+					<l>van zyne Eminentie op den hoogen autaer saude</l>
+					<l>staen ende <datum datum='1751-06-30'>den 30 dito </datum>de silvere casse wederom</l>
+					<l>gebracht naer de choor ende h. reliquien</l>
+					<l>als voore wederom ingestelt. &amp;. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='77'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-07-08'>Julius 8.</datum></l>
+					<l><datum datum='1751-07-08'>1751</datum></l>
+					<l>zyn over eenen circulairen brief van Z: Eminentie den aers¬</l>
+					<l>bisschop, tevoren toegezonden an <persoonsnaam>Z:H: Benedictus XIV</persoonsnaam>, door </l>
+					<l>verzoek van de Koniginne de naervolgende Heylig daegen </l>
+					<l>afgestelt. te weten<datum datum='1751-02-24'> St Mathias</datum>. <datum datum='1751-03-19'>Joseph </datum><datum datum='1751-04-13'>3<hi rend='superscript:true;'>de</hi> paesdag</datum> (en voor </l>
+					<l>Mechelen den <datum datum='1751-04-14'>4<hi rend='superscript:true;'>de</hi></datum>) <datum datum='1751-06-01'>3<hi rend='superscript:true;'>de</hi> sinxendag</datum>, <datum datum='1751-05-11'>philippus </datum>en <datum datum='1751-07-25'>jacobus</datum>, de <datum datum='1751-xx-xx'>H</datum></l>
+					<l><datum datum='1751-xx-xx'>cruys vindinge OLV</datum>: <datum datum='1751-03-25'>visitatie, Maria Magdalena,</datum> <datum datum='1751-07-25'>jacobus</datum>, <datum datum='1751-08-10'>Lauren¬</datum></l>
+					<l><datum datum='1751-08-10'>tius</datum>, <datum datum='1751-08-23'>Bartholomeus</datum>, <datum datum='1751-09-21'>Matheus</datum>, <datum datum='1751-09-29'>St Michiel</datum>, <datum datum='1751-10-28'>simon </datum>en <datum datum='1751-10-28'>judas </datum></l>
+					<l><datum datum='1751-11-30'>andreas </datum><datum datum='1751-12-21'>thomas </datum><datum datum='1751-06-24'>joannes </datum>en de <datum datum='1751-12-28'>onnoosele Kinderen</datum>, met </l>
+					<l>obligatie nogtans van misse te hooren op deze daegen </l>
+					<l>en te vasten als voren, dit is geschiet, zoo om de </l>
+					<l>menigvuldigheyd der feesdaegen als om de armen liede </l>
+					<l>soude aen hunnen kost geraeken (VDN)</l>
+				</lg>
+			</p>
+			<pb n='78'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-10-08'>8</datum></l>
+					<l><datum datum='1751-10-08'>October </datum></l>
+					<l><datum datum='1751-10-08'>1751</datum></l>
+					<l>was binnen <locatie>Mechelen</locatie> eenen oproer van de werklieden </l>
+					<l>van de <locatie>Lovensche vaert </locatie>tegen de commissarissen </l>
+					<l>van <locatie>Loven</locatie>, tin eynde sy hun droevig handwerk </l>
+					<l>niet betaelt en wierden, want die 30 guld. verdient </l>
+					<l>hadden wilden sy tot ter tyd maar 30 stuyvers ge¬</l>
+					<l>ven dese oproerige waeren wel 300 sterk den </l>
+					<l>oproer begonst aen <locatie>de herberge de Ketel </locatie>op </l>
+					<l>de coren merkt daer de <locatie>lovensche </locatie>comissarissen </l>
+					<l>waeren. deze commissarissen ziende dat het met </l>
+					<l>hun voor goet soude gegaen hebben zyn gevlugt door </l>
+					<l><locatie>O L.V. Kerke</locatie> in <locatie>de herberge de czaer </locatie>(gestaen inde </l>
+					<l><locatie>OLV. straet</locatie> by <locatie>den vyfhoek</locatie> ) sluytende dit huys </l>
+					<l>vluchte over eenen muer in een schoenlappers </l>
+					<l>huys, maer ziende dat deze oproeringhe bezet </l>
+					<l>waeren hebben hun ten laesten in de handen van </l>
+					<l>de oproerige gegeven leydende dezelve, al morrende </l>
+					<l>naer de hoofdwagt, en van daer naer de conciergie </l>
+					<l>van de stad willende absoluet van hun hand werk</l>
+				</lg>
+			</p>
+			<pb n='79'/>
+			<p>
+				<lg>
+					<l>betaelt syn, aenstonds wirden oock door de oproerighe </l>
+					<l>de poorten ende wegen <hi rend='strikethrough:true;'>beset</hi> van de <locatie>Brusschelse </locatie>en <locatie>hans¬</locatie></l>
+					<l><locatie>wijk poorten</locatie> beset, het welke de <persoonsnaam>princesse van <locatie>Lichten¬</locatie></persoonsnaam></l>
+					<l><persoonsnaam><locatie>stein</locatie></persoonsnaam> alles gesien hebbende, heeft aen den </l>
+					<l><persoonsnaam>minister</persoonsnaam></l>
+					<l><persoonsnaam>marquis</persoonsnaam></l>
+					<l><persoonsnaam>de Botta</persoonsnaam> binnen <locatie>Mechelen </locatie>by haer arriveerende</l>
+					<l>daer over clachte gedaen naer dat aen den voos.</l>
+					<l>Minister van eenen der armste een requeste ge¬</l>
+					<l>presenteert was, tusschen middelen tyd hebben</l>
+					<l>de commissarissen in den nacht weten te ont¬</l>
+					<l>vlugten langhs de Thienste (sic) poorte maer</l>
+					<l>immers door ordonnatie vanden Marquis</l>
+					<l>hebben aenstonts de selve moeten betaelen.</l>
+					<l>(VDN)</l>
+				</lg>
+			</p>
+			<pb n='80'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-12-03'>3 xbr</datum></l>
+					<l><datum datum='1751-12-03'>1751</datum></l>
+					<l>was <persoonsnaam>prins Karel</persoonsnaam> hier ter stede, vooreerst reed hy naer </l>
+					<l>het <locatie>magazyn van oorlogs gerieven</locatie>, vandaer naer de </l>
+					<l>canongietery en zoo langs de <locatie>stadsvesten </locatie>naer de <locatie>canon¬</locatie></l>
+					<l><locatie>boordery </locatie>in den watermolen, langs achter is hy naer </l>
+					<l>de <locatie>commandery van Pitzenborg </locatie>ingetreden waer hy X</l>
+					<l><hi rend='strikethrough:true;'>s&apos;noenens</hi> het noenmael genomen heeft. en ten half </l>
+					<l>twee uren is hy naer <locatie>Bonheyden </locatie>vertrokken om er de </l>
+					<l>exercitie der kanoniers te zien en ontrent de vyf </l>
+					<l>uren is hy naer <locatie>brussel </locatie>vertrokken</l>
+				</lg>
+			</p>
+			<pb n='81'/>
+			<p>
+				<lg>
+					<l><datum datum='1751-12-11'>December 11</datum></l>
+					<l><datum datum='1751-12-11'>1751</datum></l>
+					<l>is binnen <locatie>Mechelen </locatie>gecomen den <persoonsnaam>Eerw. Pater Sigismund </persoonsnaam></l>
+					<l><persoonsnaam>â Terraria</persoonsnaam> generael <hi rend='strikethrough:true;'>van</hi> der capucienen, grande d&apos;Es¬</l>
+					<l>pagne ten half dry uren na noen met eenen </l>
+					<l>treyn van 16 Koetsen, den <persoonsnaam>Prior van <locatie>Hanswyk </locatie></persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>veltom</persoonsnaam> </locatie>sat by hem in de Koetse van den </l>
+					<l>president van den grooten raed. tusschen Krygsoeffe</l>
+					<l>ning van de <locatie>oostenrycksche </locatie>canoniers en het </l>
+					<l>geschal van Keteltrommels en trompetten &amp;.</l>
+					<l><datum datum='1751-12-13'>Den 13<hi rend='superscript:true;'>e</hi></datum> heeft hem den Aersbisschop een <hi rend='strikethrough:true;'>vis</hi> pleghti¬</l>
+					<l>ghe visite <hi rend='strikethrough:true;'>gedaen</hi> gegeven en den <datum datum='1751-12-15'>15 dito</datum> hem </l>
+					<l>zeer treffelyk ten taefel onthaelt. en den <datum datum='1751-12-16'>16<hi rend='superscript:true;'>e</hi></datum> heb¬</l>
+					<l>ben de heeren van het magistraet den generael </l>
+					<l>in het clooster der capucienen getracteert &amp;. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='82'/>
+			<p>
+				<lg>
+					<l><datum datum='1752-04-05'>April 5 1752</datum></l>
+					<l><datum datum='1752-04-05'>woendag naer Paesschen</datum> pleeg altijd solemneel </l>
+					<l>heyligh-dagh in de stad en territoire van <locatie>Mechelen </locatie></l>
+					<l>te zyn maer op dit jaer is maer obligatie van </l>
+					<l>misse te hooren en de winkels te sluyten tot dat </l>
+					<l>de solemnele processie van <persoonsnaam>St Rombauts</persoonsnaam> geyndigt </l>
+					<l>is. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='83'/>
+			<p>
+				<lg>
+					<l><datum datum='1752-05-05'>Mey 5 1752</datum></l>
+					<l>Is <locatie>de Brugge van de hanswykpoorte </locatie>den eersten</l>
+					<l>steen gelegdt door <persoonsnaam>M.H. sestigh borgemeester</persoonsnaam> en</l>
+					<l>van volder tresorier &amp; de Brugge is aengenomen</l>
+					<l>door de <persoonsnaam>Metsers N van Parck en N van Naelen</persoonsnaam></l>
+					<l>voor 11500 guldens. (VDN)</l>
+					<l><datum datum='1752-05-06'>Mey 6</datum></l>
+					<l>is by de <locatie>brusselsche poort</locatie>, aen de <locatie>Lovensche vaert</locatie></l>
+					<l>de brugge en het das begonst.</l>
+				</lg>
+			</p>
+			<pb n='84'/>
+			<p>
+				<lg>
+					<l><datum datum='1752-07-22'>julius 22 1752</datum></l>
+					<l>synde <persoonsnaam>Maria Magdalena</persoonsnaam>. is dit jaer maer obligatie </l>
+					<l>van misse te hooren geweest, en op dien dag </l>
+					<l>pleeg eene solemnele processie te gaen langs de </l>
+					<l>stad met de ambagten, gildens biddende orders </l>
+					<l>en de geheele clergie &amp;. die op dit jaer afgebro¬</l>
+					<l>ken is, het selve is geschiet, soo met den H. dag </l>
+					<l>als processie op den<datum datum='1752-08-29'> feestdag van S<hi rend='superscript:true;'>t</hi> Michiel den </datum></l>
+					<l><datum datum='1752-08-29'>29 Augusti</datum> (V.D.N.)</l>
+				</lg>
+			</p>
+			<pb n='85'/>
+			<p>
+				<lg>
+					<l><datum datum='1752-09-06'>6</datum></l>
+					<l><datum datum='1752-09-06'>september</datum></l>
+					<l><datum datum='1752-09-06'>1752</datum></l>
+					<l>is binnen <locatie>Mechelen </locatie>overleden den <persoonsnaam>Baron van</persoonsnaam></l>
+					<l><persoonsnaam>Haxthausen </persoonsnaam>van het order teutonique en <locatie>commandeur</locatie></l>
+					<l><locatie>van Pitzenborg</locatie>. hy is in desselfs commandery <hi rend='strikethrough:true;'>seer</hi></l>
+					<l><hi rend='strikethrough:true;'>treffelyk</hi> op een praelbedde behangen in het zwart</l>
+					<l>en gecleedt in het harnas ten toon geleydt</l>
+					<l>naer maer over de 3 maenden deze commandery</l>
+					<l>bedient te hebben, en <datum datum='1752-09-29'>den 29</datum> is met grooten</l>
+					<l>toeloop van volk savonts ten half ure 7 begraven</l>
+					<l>in den kelder voor den hoogen Autaer, desselfs</l>
+					<l>solemniteydt geschieden als volgt, men bragt langs</l>
+					<l>den kant van het hof van de trappen het dood</l>
+					<l>lichaem, vooraf gaenden den standaert met</l>
+					<l>deszelfs waepen hier naer 3  trompetters met een</l>
+					<l>timbalier in het swert, daer naer een peerd</l>
+					<l>lang behagen in het zwart met de waepens</l>
+					<l>hier naer 8 priesters en naer hun 3 minderbroeders</l>
+					<l>den officiant diaken en subdiaken ter zyde 24</l>
+				</lg>
+			</p>
+			<pb n='86'/>
+			<p>
+				<lg>
+					<l>putterye jongens alle bekleert met swarte mantels </l>
+					<l>en in de hand een witte flambeeuw. die het lichaem </l>
+					<l>Draegden waeren bediende van <locatie>Pitzenborg </locatie>gecleed </l>
+					<l>in het swart  met een lang hangende flaars.</l>
+					<l>4 putterye jongens gekleedt in het swart in eene </l>
+					<l>hand een </l>
+					<l>witte </l>
+					<l>flambeeuw met witte handschoenen hielden</l>
+					<l>het uytsterste van het baercleedt vast, naer desselfs </l>
+					<l>volgden den rentmeester. en den grooten rouw op </l>
+					<l>gelegd door den pastoor met een bonnette op zyn </l>
+					<l>hoofd en achter hun verscheyde treffelyke </l>
+					<l>persoonen, als ook de Knechten met lang han</l>
+					<l>gende flaars. alle met witte handschoenen </l>
+					<l>naer dat de officie verrigt was hoorden met de </l>
+					<l>tompetters en Keteltrommel, inde kerk eenigen </l>
+					<l>tyd overluydt blaesen en slaegen waer mede </l>
+					<l>alles geyndigt was behalven dat men daer 3 mael</l>
+					<l>dags ses weken lang geluyt heeft en 3 zeer treffelyke </l>
+					<l><hi rend='strikethrough:true;'>diensten</hi> uytvaerden ende seker <locatie>capelle in Pitzenborg </locatie></l>
+					<l>geschiet zyn. waerop volgde 3 treffelyke maeltheden voor de bedienden</l>
+					<l>van <locatie>Pitzenborg</locatie>. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='87'/>
+			<p>
+				<lg>
+					<l><datum datum='1752-10-14'>14 8<hi rend='superscript:true;'>br</hi></datum></l>
+					<l><datum datum='1752-10-14'>1752</datum></l>
+					<l><persoonsnaam>Zyne Eminentie Thomas Philip</persoonsnaam> die eertyds tot</l>
+					<l><locatie>Roomen </locatie>priester geweyd was geweest den <datum datum='1752-10-14'>14 8<hi rend='superscript:true;'>br</hi></datum></l>
+					<l><datum datum='1752-10-14'>1752</datum> doet tot <locatie>Mechelen </locatie>op den voorzeyden</l>
+					<l>dag zynen vollen jubile. Den<datum datum='1752-10-14'> 14<hi rend='superscript:true;'>de</hi></datum> s&apos;avonds</l>
+					<l>luyde alle de  Klokken van de stad,</l>
+					<l>s&apos;anderdaegs s&apos;morgens ontrent 9 uren wiert</l>
+					<l>hy gehaelt naer de Kerke door geheel zyn</l>
+					<l>Metropolitaen capittel alwaer eene groote</l>
+					<l>Misse met den te Deum gezongen wirt</l>
+					<l>in de tegenwoordigheyd van het Magistraet</l>
+					<l>s&apos;avonds waeren daer illuminatien en</l>
+					<l>vreugde vieren door geheel de stad niemant</l>
+					<l>uytgenomen.</l>
+				</lg>
+			</p>
+			<pb n='88'/>
+			<p>
+				<lg>
+					<l><datum datum='1752-12-24'>December 24</datum></l>
+					<l><datum datum='1752-12-24'>1752</datum></l>
+					<l>s&apos;avonds is de <locatie>vaert van loven </locatie>aen het <locatie>Sennegat</locatie></l>
+					<l>door gespoelt en het waeter ingekomen tot</l>
+					<l>tegen het <locatie>sas by Mechelen </locatie>aen de <locatie>Brusselsche</locatie></l>
+					<l><locatie>poort</locatie>, het is te noteeren, als dat dan aen</l>
+					<l>battel nog geen sas was maer een aen de</l>
+					<l><locatie>Brusselsche poort</locatie> dat gevallen is, en voorts</l>
+					<l>afgebroken en de brugge alleen gelaeten hebbende</l>
+					<l>met het hooft. &amp;. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='89'/>
+			<p>
+				<lg>
+					<l><datum datum='1753-01-25'>januarij 25</datum></l>
+					<l><datum datum='1753-01-25'>1753</datum></l>
+					<l>Is er eene groote ruine geweest aende metzelry </l>
+					<l>en de sluysen van het sas gelegen op <locatie>campenhout</locatie></l>
+					<l>naest den <locatie>lovensche Steenweg</locatie> de metzery is ontrent </l>
+					<l>de 60 voeten weg gespoelt to groote schaede der </l>
+					<l><locatie>Lovenaers </locatie>waer van gemaekt is dit cronicon.</l>
+					<l><datum datum='1753-xx-xx'>CaDentIs MIserere CanaLIs</datum></l>
+				</lg>
+			</p>
+			<pb n='90'/>
+			<p>
+				<lg>
+					<l><datum datum='1753-07-18'>julius 18</datum></l>
+					<l><datum datum='1753-07-18'>1753</datum></l>
+					<l><datum datum='1753-07-18'>julius den 18 </datum>smorgens is tot <locatie>Loven </locatie>het waeter in </l>
+					<l>de vaert gelaeten en was ten 5 naer noen<datum datum='1753-07-19'> den 19 dito</datum> </l>
+					<l>aen het <locatie>sas by Mechelen</locatie>. <persoonsnaam>Bartholomeus Marielis </persoonsnaam></l>
+					<l><persoonsnaam>eenigsten schipper</persoonsnaam> van en tot <locatie>Loven</locatie>, is s&apos;avonts op </l>
+					<l>den<datum datum='1753-07-19'> 19 dito </datum>noch binnen het <locatie>sas aen het Sennegat </locatie></l>
+					<l>gedreven en zoo voorts tot in het <locatie>broek van battel</locatie> </l>
+					<l>waer hy heeft moeten blyven liggen door gebreck </l>
+					<l>van waeter tot op den <datum datum='1753-07-20'>20 dito</datum> wanneer hy s&apos;morgens </l>
+					<l>ten 11 uren aen het <locatie>sas by de Mechelsche poort </locatie></l>
+					<l>gearriveert is hy was ongelaeden en <hi rend='strikethrough:true;'>voor</hi> gonck 2 voet </l>
+					<l>3 duym diep, het schip is opgeschort aen het <locatie>sas by </locatie></l>
+					<l><locatie>Mechelen </locatie>met twee van de gemaekte schuyten op den </l>
+					<l><datum datum='1753-07-21'>21 dito </datum>ten 5 uren naer noen. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='91'/>
+			<p>
+				<lg>
+					<l><datum datum='1753-08-06'>Augustus. 6</datum></l>
+					<l><datum datum='1753-08-06'>1753</datum></l>
+					<l>is er langs de <locatie>vaert van Loven </locatie>eenen boot met </l>
+					<l>musselen gelaeden voorby gevaeren die in het weder-</l>
+					<l>keeren op den <datum datum='1753-08-08'>8 Augusti</datum>, door de commissie van </l>
+					<l>S. Maj<hi rend='superscript:true;'>ts</hi> tolle binnen <locatie>Mechelen</locatie>, gearresteert is </l>
+					<l>sy hebben hem op den <datum datum='1753-08-16'>16 dito</datum> ten 3 uren naer noen </l>
+					<l>meynen te verkoopen maer door order van het </l>
+					<l>hof te <locatie>Brussel </locatie>is alte gekomen tot nader order </l>
+					<l>soo nochtans dat de eygenaers de koste hebben </l>
+					<l>moeten betaelen die tot dato deser geschiet waeren </l>
+					<l>bedragende 26 guldens 3 st. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='92'/>
+			<p>
+				<lg>
+					<l><datum datum='1753-08-09'>Augusti 9</datum></l>
+					<l>is naest de <locatie>commandery van Pitzenborg</locatie> de deure</l>
+					<l>van het verhuert huys der commandery, competeerende</l>
+					<l>met yzere hamers dezer stad  (naer op dezelve wel 100</l>
+					<l>slaegen gegeven te hebben) ingeworpen en met de</l>
+					<l>heeren der stadt hardt uytgehaelt over het wygeren</l>
+					<l>van het huys geld, als pretenderende vry te zyn</l>
+					<l>waer over den geheelen <locatie>Brul </locatie>te heen was. Den</l>
+					<l><persoonsnaam>rentmeester Maes </persoonsnaam>met eenige zynder bediende hebben</l>
+					<l>tegen den heer Borgemeester groote woorden gehad</l>
+					<l>en <datum datum='1753-08-14'>den 14 dito</datum> hebben de heeren vande stad uyt de</l>
+					<l>twee ander huysen vande commandery publieken</l>
+					<l>koopdag gehouden over het weygeren van het</l>
+					<l>huysgeld.  Naer dit verschil heeft den <persoonsnaam>Prins carel</persoonsnaam></l>
+					<l>geordonneert deze huysgelden te betaelen over het</l>
+					<l>weygeren van het huysgeld. (VDN)</l>
+				</lg>
+			</p>
+			<pb n='93'/>
+		</body>
+	</text>
+</TEI>

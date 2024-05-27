@@ -1,0 +1,986 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1830_Tilb_Leli - Cronijkje van eenige zaken die zedert en in het jaar 1774 te Tilburg en daaromstrent zijn voorgevallen tot den 18 julij 1830</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>X 256</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>HS</l>
+					<l>C 129</l>
+					<l>BIBLIOTHEEK</l>
+					<l>Provinciaal Genootschap van</l>
+					<l>Kunsten en Wetenschappen</l>
+					<l>in Noordbrabant</l>
+					<l>&apos;s Hertogenbosch</l>
+					<l>386</l>
+					<l>Oud catalogusnr 464</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>Ex libris L.R. Hermans</l>
+					<l>Cronykje</l>
+					<l>Van eenige zaken die</l>
+					<l>zedert en in het jaar</l>
+					<l>1774 te Tilburg en</l>
+					<l>daaromtrent zyn</l>
+					<l>voorgevallen tot</l>
+					<l>den 18 July 1830</l>
+					<l>afgeschreven door Hr Veenhorst</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>Cronykje.</l>
+					<l>Van eenige zaken die zedert en in het jaar 1774</l>
+					<l>alhier te Tilburg en Omtrent Tilburg zyn voorgevallen.</l>
+					<l><hi rend='underlined:true;'>1774</hi> In t&apos; begin van deasen zomer zyn alhier de twee</l>
+					<l>Roomsche Kerken vergroot, te weten aan die op t&apos;</l>
+					<l>Heyken, 4 gebonden aan een Noorden Kant</l>
+					<l>en aan die op het Goirken 2 dito aan den Oosten kant.</l>
+					<l>In dit jaar is de ouden Steenweg alhier opgebro¬</l>
+					<l>ken en eenen nieuwen gelegt, doch van de oude</l>
+					<l>steenen heeft men Steenweg gelegt</l>
+					<l>Een deel inden noordhoek, en op den heuvel en</l>
+					<l>op den Nieuwendyk. </l>
+					<l><hi rend='underlined:true;'>1775</hi> Tusschen den 16 en 17 April (zynde de eerste</l>
+					<l>en 2<hi rend='superscript:true;'>de</hi> Paasdag is alhier aan de groote Kerk, in</l>
+					<l>destar by Bartel Heestermans gebroken en gestoolen</l>
+					<l>de dieven hadden door muur een gat gemaakt, en daar</l>
+					<l>gestoolen Catoenen, Sitsen, Zyden doeken etc etc</l>
+					<l>Den 31 July zynde de feestdag van den Heyligen Igna-</l>
+					<l>tius heeft onzen Heer Pastoor ign<hi rend='superscript:true;'>s</hi> Sprong, Zynen</l>
+					<l>jubile gegeven van 50 jaar van zyne Professie, als</l>
+					<l>wanneer in tyden de Kerken een solemnele Misse met</l>
+					<l>4 Priesters is geschied.</l>
+					<l>1775. Den 16 Augustus zyn hier op de Zaterdagsche markt</l>
+					<l>gemaakt twee nieuwe Steene Pompen.</l>
+					<l>Den 28 dito heeft Hendrikus Schaaps meerdere</l>
+					<l>voor de derdemaal den Koningsvogel met den hand</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>boog afgeschoten, en Keij van de gilde geworden</l>
+					<l>Den 24 November is Leonardus Damen begraven</l>
+					<l>Dat  is  den Eersten geweest, alwaar alhier de Vrienden</l>
+					<l>gebuuren, de Regeering etc allemaal meteen Egaal</l>
+					<l>tractement getracteerd zyn, te weten met <hi rend='underlined:true;'>NIET</hi>.</l>
+					<l>Den 13 Xb<hi rend='superscript:true;'>r</hi> is Philippus Bakkers en zyn huys-</l>
+					<l>vrouw begraven, naardat zy te saamen 56 jaaren</l>
+					<l>getrouwd waren geweest, en ineen en dezelve uur gestorven.</l>
+					<l>Den 29 dito is hiervoor de eerste Rys met de mu-</l>
+					<l>ziek instrumenten ineen misse van Requiem gespeeld</l>
+					<l>te weeten in de Kerkenregte van Hendrik van de Knikker</l>
+					<l>1776 Den 25 Maij is alhier den jubile begonnen,</l>
+					<l>vergunt door Paus Pius den 6 van het algemeen </l>
+					<l>jubeljaar te Romen begonnen in 1775 en alle de geenen</l>
+					<l>die denzelven wilden verdienen, moesten gebiecht</l>
+					<l>en gecommuniceerd hebben en vervolgens 15 maal</l>
+					<l>de Kerk bezoeken, indifferente dagen en daaren</l>
+					<l>boven 15 maal vasten, de Kinderen van 7 jaaren en</l>
+					<l>daarboven, die de Eerste Comunie niet gedaan hadden</l>
+					<l>houden den zelven ook verdienen, metin deplaats</l>
+					<l>van te Comuniceeren te Bidden 7 Vader Onsen endien</l>
+					<l>jubile duurden tot den 24 November, dus 6</l>
+					<l>maanden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>3</l>
+					<l><hi rend='underlined:true;'>1776</hi> In de maand Juny is de hykensche Kerk opgedekt</l>
+					<l>met nieuw Riet, het voorige dak had er 44 jaar opge-</l>
+					<l>legen.</l>
+					<l>Den 19 July heeft de Captyn Fransus de Nianten en</l>
+					<l>Zyn huysvrouw den Jubile gegeven van 50 jaaren te samen</l>
+					<l>getrouwd wezende</l>
+					<l>Den 26 8b<hi rend='superscript:true;'>r</hi> is alhier door Drossaard en schepenen ge-</l>
+					<l>publiceerd, als dat op de saturdagsche markt, een ieder</l>
+					<l>mag koopen en verkoopen alle soorten van graan, als</l>
+					<l>mede Bakten, Eyeren, en dat ook alle goederen als</l>
+					<l>visch etc vry zonder paspoort magt ingebragt worden</l>
+					<l>op de markt.</l>
+					<l>N.B. Zulks wierd afgeleesen niet aandegewoone</l>
+					<l>puijn, maar dooreen Raam in de herberg genoemd</l>
+					<l>het Zwaan.</l>
+					<l><hi rend='underlined:true;'>1777</hi> Den 2 April is den Eerw Heer Theo<hi rend='superscript:true;'>d</hi> Ign<hi rend='superscript:true;'>s</hi> Sprong</l>
+					<l>Pastoor en Jubilaris overleden.</l>
+					<l>Den 7 dito is op het Goirken eene Instrumentaale</l>
+					<l>Kerken rechten geschied voor Sprong.</l>
+					<l>Den 14 dito heeft de Heer Martinus van Bommel,</l>
+					<l>op het Hyken voor Sprong eene Solemneele Kerken rechte</l>
+					<l>laaten doen, met 4 Priesters, en de autooren etc alles</l>
+					<l>op t prachtigste versierd.</l>
+					<l><hi rend='underlined:true;'>1777</hi> Den 9. 8b<hi rend='superscript:true;'>r</hi> Zynde St Dionisius dag, heeft alhier</l>
+					<l>voor de eerste maal den vollen aflaat geweest,</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>die een geheel Octaaf duurde, door eene Bulle</l>
+					<l>van Zyne Heyligheijd Pius den Zesden.</l>
+					<l>1778 Den 10 Januarij is door den Heer Martinus</l>
+					<l>van Bommel in de hykensche kerk Een Beeld</l>
+					<l>van St Sebastiaan met eene Religuie vereerd</l>
+					<l>Den 25 Feb<hi rend='superscript:true;'>ry</hi> is alhier voor de Eerste Kyzer de Comedie</l>
+					<l>vertoond, zynde alles ten voordeele van den Grooten</l>
+					<l>Of H G. Amen.</l>
+					<l>Den 17 July is alhier in de avond, eenen Heer</l>
+					<l>by C. Kools in den Roskam gearresteerd geworden,</l>
+					<l>van Eenen die hem vervolgde van Duijnkerken tot</l>
+					<l>hiertoe, &apos;s anderendaags is zyne (zoo men zeyde)</l>
+					<l>byzit, hier ook gearresteerd, en zijn den 20 dito te</l>
+					<l>saamen zwaar geboeid naar Duijnkerken gevoerd,</l>
+					<l>zy wierden hier gevangen, omdater gedagten waaren</l>
+					<l>van plichtig te zyn aan de moord van den Eerstge-</l>
+					<l>noemde zyn vrouw.</l>
+					<l>Den 24 9<hi rend='superscript:true;'>br</hi> is deesen Heer  te Douay gerabraakt,</l>
+					<l>ende byzet is ineen Spin of treurhuijs gezet.</l>
+					<l><hi rend='underlined:true;'>1779</hi> Maart is weer gebroken gestolen by Bartel</l>
+					<l>Heestermans, in destar, doch op het allarm Klep-</l>
+					<l>pen van den Klepperman Klaas van Besouw, heb-</l>
+					<l>ben de dieven de gestolen goederen moeten verlaaten,</l>
+					<l>daags daarvoor heeft de Voornoemde Heestermans</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>5</l>
+					<l>daar goedheyd van den Heer Drossaard Hend<hi rend='superscript:true;'>k</hi> Maas, alle zyne</l>
+					<l>goederen wederom ontfangen, zonder een Duijt schaade te lyden.</l>
+					<l>Den 10 Augustus is Antonius van Gils, de Zoon van</l>
+					<l>Jan Janssen van Gils, te Leuven als Primus uitgeroepen</l>
+					<l>Den 31 dito is voornoemde Heer alhier ingehaald</l>
+					<l>met vier Schutteryen etc etc etc de toestel was onge-</l>
+					<l>meen, die hier gemaakt wierd, zelfs prachtige Eeren</l>
+					<l>boogen, die men verschyde zag; te Korvel, aande Kerk,</l>
+					<l>op den heuvel en aande Veldhoven.</l>
+					<l>Omtrent Bamis is alhier dan Roodeloop geweest</l>
+					<l>waarvan Omtrent 45 zyn gestorven.</l>
+					<l><hi rend='underlined:true;'>1780</hi> Den 20 May, is op den Dyk, in de kraam be-</l>
+					<l>vallen de Vrouw van Adriaan vanden Heuvel van</l>
+					<l>drie levendige Kinderen, doch welke Kinderen binnen</l>
+					<l>twee dagen waren overleden.</l>
+					<l><hi rend='underlined:true;'>1781</hi> Den 16 July heeft voor de Eerste maal gereden</l>
+					<l>de postwagen van &apos;s Bosch op Breda, vice versa Die hier</l>
+					<l>verwisseld by Juff<hi rend='superscript:true;'>r</hi> de Wed Colyn inde 3 goude Zwaanen</l>
+					<l>1781 In het laast van dit jaar is alhier weer den Rooden-</l>
+					<l>loop geweest, waarvan Ontrent 27 Zyn gestorven.</l>
+					<l><hi rend='underlined:true;'>1783</hi> Den 3 Aug<hi rend='superscript:true;'>s</hi> namiddag ontrent half 3 uuren heeft</l>
+					<l>hier een zwaar onweer geweest, vergeselt door groote</l>
+					<l>hagelsteenen, zoodat er veele glazen zyn in stukken</l>
+					<l>geslagen, ook groote schade aan boomen en huijsen,</l>
+					<l>ook den boekwyt bedorven, het welk het ergste is</l>
+					<l>geweest te Boxtel, Haren, Esch en Dinter.</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>Den 27 7b<hi rend='superscript:true;'>r</hi> is begraven de Heer Martinus van Bommel.</l>
+					<l><hi rend='underlined:true;'>1784</hi> De winter va dit Jaar, is zoolang en koud geweest, dat</l>
+					<l>veele oudelieden zeggen van nooijt zoo eenen beleeft te</l>
+					<l>hebben, en het ys is ontrent drie maanden op het water geweyt.</l>
+					<l>Den 28 Xb<hi rend='superscript:true;'>r</hi> is den Drossaard Hendrik Maas in den</l>
+					<l>ouderdom van Circa 83 jaaren overleden.</l>
+					<l><hi rend='underlined:true;'>1785</hi>. Den 16 Januarij is in de geheele Meyerye in de Room¬</l>
+					<l>sche Kerken afgeleesen door Order vanden Eerw Heer</l>
+					<l>Vicarius, als dat men zynen Souveryn moest gehoorzaa¬</l>
+					<l>men, dat Zondags daarna nog eens herhaald wierd.</l>
+					<l>Tusschen den 8 en 9 Maart is hierin de Ronde Schouw</l>
+					<l>by Fransus van Iersel gebroken en gestolen, dienzel¬</l>
+					<l>ven nagt is ook gebroken bij Corn<hi rend='superscript:true;'>s</hi> van Hoof byv: B:</l>
+					<l>van Doormaal en op het Raadhuijs.</l>
+					<l><hi rend='underlined:true;'>1785</hi> In de maand April heeft de Eerw Heer B. Beeren</l>
+					<l>broek Capellaan alhier de Volkstelling laaten doen,</l>
+					<l>en is bevonden als volgd</l>
+					<l>Communicanten op het Goirken 3809.</l>
+					<l>Comm<hi rend='superscript:true;'>ten</hi> op het heyken<hi rend='underlined:true;'> 2620</hi>.</l>
+					<l>6429.</l>
+					<l>Kinderen op het heyken 832.</l>
+					<l>Kinderen op het Goirken<hi rend='underlined:true;'> 1167.</hi></l>
+					<l>1999.</l>
+					<l>Gereformeerde op het hyken 189.</l>
+					<l>Geref op het Goirken<hi rend='underlined:true;'> 37.</hi></l>
+					<l>226.</l>
+					<l>Jooden op het heyken 11.</l>
+					<l>Beloopt in alles 6429.</l>
+					<l>1999 Kinderen</l>
+					<l>226 gereformeerden</l>
+					<l><hi rend='underlined:true;'>  11</hi> Jooden.</l>
+					<l>tesaamen 8665 zielen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>7</l>
+					<l>Eenige dagen daarnaar heeft den voorn Beerenbroek bevon¬</l>
+					<l>den dat op de Pastorij nog brieven lagen, waarlijk bleek dat</l>
+					<l>in het jaar 1619. het getal der Communicanten was 3535, dus blykt</l>
+					<l>het dat in 166 jaaren het getal der Communicanten 2894 vr</l>
+					<l>grootis.</l>
+					<l>Den 15 of 16 is te &apos;S Bosch overleden de Groot van Hoogen</l>
+					<l>dorp Heer van Tilborg en Goirle, rentmeester der Geestelijke</l>
+					<l>goederen der Meyery van &apos;s Bosch, waarvoor alhier en te Goirle </l>
+					<l>geduurende zes weeken alle dagen 3 uuren geluye wierd.</l>
+					<l><hi rend='underlined:true;'>1785</hi> Den 30 7<hi rend='superscript:true;'>br</hi> is den Heer Prince van Oranje alhier ge</l>
+					<l>weest, omde Revue te doen, overeen Bataillon Waldekkers, dat</l>
+					<l>hier geplaseerd was.</l>
+					<l><hi rend='underlined:true;'>1786</hi> Tusschen den 26 en 27 January is op het Goirken byde</l>
+					<l>Clagter van Baesten gebroken en gestolen, waarvan de schaa¬</l>
+					<l>debegroot wierd op ontrent 800 Guldens.</l>
+					<l>Den <hi rend='underlined:true;'> </hi> <hi rend='underlined:true;'> </hi> <hi rend='underlined:true;'> </hi> Juny is by J: van de Knikken te Korvel gebroken</l>
+					<l>en gestolen.</l>
+					<l><hi rend='underlined:true;'>1787</hi> in September is alhier door goedvinden van de Ma</l>
+					<l>gistraat en eenige goede ingezetenen, de Oranjevlag opden</l>
+					<l>toren gesteld.</l>
+					<l>Den 9, 10, en 11 9<hi rend='superscript:true;'>br</hi> hebben de Hollandsche Militairen</l>
+					<l>in &apos;S Bosch geplundert.</l>
+					<l><hi rend='underlined:true;'>178</hi>8 Den 7 Maart is alhier weer een nieuwe vlag</l>
+					<l>op den Toren gesteld.</l>
+					<l>Den 27 8<hi rend='superscript:true;'>br</hi> heeft er te Turnhout een zwaar gevegt plaats</l>
+					<l>gehad tusschen de Kyzerlyke Soldaten en de Brabandsche</l>
+					<l>patriotten.</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>1791 In het laatst van dit jaar, is alhier weer een soort</l>
+					<l>van Roodeloop geweest, meest op heyken ente Broek¬</l>
+					<l>hoven waarvan ontrent 12 van zyn gestorven.</l>
+					<l>1792 &apos;S nachts tusschen den 30 en 31 January is</l>
+					<l>er weer gestolen en gebroken by de Dogter van Baas¬</l>
+					<l>ten op het Goirken, alle de Sissen en Katoenen</l>
+					<l>ontrent 700 Guldens.</l>
+					<l>1793 den 1. feb<hi rend='superscript:true;'>ry</hi> heeft Vrankrijk den oorlog ge¬</l>
+					<l>declareerd aan den Prins van Oranje.</l>
+					<l>1794 den 4 7b<hi rend='superscript:true;'>r</hi> kwam alhier de Eerste fransche</l>
+					<l>patrouille aan, doch vertrokken weer den zelven dag.</l>
+					<l>Den 6 dito viel er een gevegt voor, ontrent den heu¬</l>
+					<l>vel byden hoogen Dries, tusschen de fransche hou</l>
+					<l>zaaren, en die der geallieerde, waarvan ontrent</l>
+					<l>10 dooden van weerkanten zyn gebleeven.</l>
+					<l>Den dito viel alhier een groot gedeelte in van</l>
+					<l>het fransch leger, welk gedeelte men op ontrent</l>
+					<l>4000 man begrootte, de welke in de heyden en in</l>
+					<l>de akkers van stroo en Rossen hunne tenten maakten,</l>
+					<l>en kwamen hier vervolgens in schier alle de huijsen</l>
+					<l>om levensmiddelen te zoeken, sommigen van hun kogten</l>
+					<l>die voor papieren geld, en anderen namen die</l>
+					<l>met geweld, schoons hunne Officieren dat zoo veel</l>
+					<l>in hun was, trachteden te beletten.</l>
+					<l>1794 den 12. 8b<hi rend='superscript:true;'>r</hi> is S Bosch aan de Franschen overgegaan.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>9</l>
+					<l>Den 6. 9b<hi rend='superscript:true;'>r</hi> is alhier op het kerkhof Eenen Vryheidsboom geplant.</l>
+					<l>N.B. Sedert Augustus tot December heeft men alhier sterk den</l>
+					<l>Rooden loop gehad, zodanig dat het getal der overledenen</l>
+					<l>van die ziekten, als mede van de Schrikken op ontrent</l>
+					<l>500 wierd begroot.</l>
+					<l>1797. In t midden van deezen zomer is aan het Kraaij¬</l>
+					<l>ven, door het onweer een huijs in brand geraakt, waar¬</l>
+					<l>door drie huijzen van te saamen 5 wooningen geheel zyn afge¬</l>
+					<l>brand.</l>
+					<l>De 6 July is door het scheyden der parochien alhier,</l>
+					<l>op het heyken Een solemneele missche geschied, door</l>
+					<l>den Eersten Pastoor Den Eerw. Heer W. Tabbers en de twee</l>
+					<l>eerste Capellanen, de Eerw Heeren de Kiers mackers</l>
+					<l>en Zegers. De kerk was ten eynde op het Prachtigsten</l>
+					<l>versierd, en voor den hoogen autaar eenen heerelyken</l>
+					<l>throon gesteld, benevens twee piramiden, en verders was</l>
+					<l>de Kerk versierd met toepasselyke jaarschriften.</l>
+					<l>1798 Den 5 Juny is alhier den Eersten steen gelegt</l>
+					<l>aan den Volmolen aan den hoeven.</l>
+					<l>1799 Den 7 Maij is in de voornoemde molen voor de</l>
+					<l>Eerste Rys Lakens gevuld.</l>
+					<l>1800. Den 14 Maart is s avonds op den heuvel een zwaa¬</l>
+					<l>ren brand geweest, zynde 2 groote huijzen met stallinge</l>
+					<l>etc afgebrand, alsook de Brouwery van Bartel Mombers.</l>
+					<l>In het begin van dit jaar is nog tweemaal brand geweest,</l>
+					<l>als het huijs en smis dat Arn van den Eynde bewoonde</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>aan de Veldhoven, en nogeen Huijs inde Veldhovensche Mo¬</l>
+					<l>lenstraat.</l>
+					<l>Den 9. 9b<hi rend='superscript:true;'>r</hi> is alhier als ook overal geheele Land een</l>
+					<l>hevige storm geweest, die een onnoemelijke schaade</l>
+					<l>heeft toegebragt, zelfs veele huysen  en Torens ingen¬</l>
+					<l>stort, en genoegzaam niet een huijs onbeshadigt ge¬</l>
+					<l>bleven, en ook menige Zwaare boomen omverrege¬</l>
+					<l>slagen, en veel mastbosschen geheel bedorven.</l>
+					<l>De voornoemde storm begon naar middag omhalf</l>
+					<l>zien duurde hevig tot s&apos;avond half 6 uuren.</l>
+					<l><hi rend='underlined:true;'>1802</hi> Den 20 July is alhier op het hyken op Hyve</l>
+					<l>Zand s&apos; avonds om half Elf een zwaaren brand geweest</l>
+					<l>Zynde de huijzinge van Van de Pol, waarin afge¬</l>
+					<l>brand zijn de boerenhuysinge met stal, schuur etc</l>
+					<l>met nog vier wooningen.</l>
+					<l>Den 20 dito is op het Goirke inde Kerk voorde</l>
+					<l>Eerste Ryse de Misse met de Orgel gespeeld.</l>
+					<l>Den 20 en 23 July is alhier op het hyken in de kerk</l>
+					<l>door de Eerw Heer Bisschop van Roermonde (die tans</l>
+					<l>in de stad Grave woond :) gevormd.</l>
+					<l>Den 28 Augustus is in de hykensche Kerk voorde</l>
+					<l>Eerste Ryse de Misse met de Orgel gespeeld, welke</l>
+					<l>orgel gekomen is uyt het Klooster, genaamd Roosen¬</l>
+					<l>daal by Mechelen, en word gehouden voor <hi rend='strikethrough:true;'>e</hi> eene der</l>
+					<l>fraaijste orgels van Nederland.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>11</l>
+					<l>1804 Den 24. feb<hi rend='superscript:true;'>ry</hi> namiddag even voor 5 uuren is alhier een</l>
+					<l>zwaar onweer geweest, bestaande is 3 donderslagen vergeseld</l>
+					<l>met weerlicht, doch heeft hier geen schaade bygebragt het was</l>
+					<l>onder zwaare sneeuw en hagelbuijen kort daar na las men</l>
+					<l>in de Couranten, dat het voornoemde onweer op dien dag veel</l>
+					<l>schade had toegebragt in Maarhees en Brabant, ook door </l>
+					<l>gansch Holland en Utrecht, bestaande uit schaade het meest</l>
+					<l>in torens en Molens en andere hooge gebouwen.</l>
+					<l>Den 16 Juny &apos;s namiddags om 6 uuren is alhier in de Koeijen¬</l>
+					<l>straat een huijs, bestaande in 3 huijsgezinnen afgebrand,</l>
+					<l>van weleke 3 huysgesinnen den Eygenaar was Adriaan Rynen</l>
+					<l>en er twee anderen bewooners waren Jan Rykers, en Adam van den</l>
+					<l>Hoek.</l>
+					<l>1804 Den 17 October is door Permissie van het Departemen</l>
+					<l>taal Bestuur, alhier aande Veldhoven voorde Eerste keer</l>
+					<l>Woensdagsche week maakt gehouden.</l>
+					<l><hi rend='underlined:true;'>1805</hi> Den 15 Maij is alhier aan het Groeseynd een huijs</l>
+					<l>van 2 wooningen afgebrand.</l>
+					<l><hi rend='underlined:true;'>1806</hi> Den 17 Maart is alhier overleden eene Joodin, zynde</l>
+					<l>de moeder van Levi Hartog in den hoogen ouderdom van </l>
+					<l>101 jaaren Een maanden 17 dagen etc Zywas geboren den 31 January</l>
+					<l>1705 en laat naar 60 kindskinderen en 45 Kinds - kindskinderen</l>
+					<l>Den 22 dito is alhier te Korvel een Eerst geboren jong kind,</l>
+					<l>dood in eenen put gevonden.</l>
+					<l>Den 18 9<hi rend='superscript:true;'>br</hi> is overleden den Eerw Heer W: Tabbers,</l>
+					<l>Pastor op het heyken alhier inden ouderdom van 64 jaaren</l>
+					<l>en indesselfs plaats is gekomen tot Pastor den Eerw Heer</l>
+					<l>An<hi rend='superscript:true;'>as</hi> Beke, die ook Prior was.</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>1807. Den 18 februarij heeft alhier en over het gehee¬</l>
+					<l>le land Een Zwaare storm geweest, vergezeld met</l>
+					<l>sneeuw, die overal veele schade heeft toegebragt zelfs</l>
+					<l>in Holland Dyken doorgebroken NB deze storm heeft den geheelen</l>
+					<l>avond geduurd.</l>
+					<l>Den 6 December is overleden den Eerwaar den Heer Anselmus</l>
+					<l>Beke, Prior en Pastor alhier op het heyken, en is in</l>
+					<l>des zelfs plaats tot Pastor gekomen Den Eerwaarden</l>
+					<l>Heer Evermodus Du Champes.</l>
+					<l>1808.  Den 22 Januarij is de vrouw van Cornelis van</l>
+					<l>Eijk, in de kraam bevallen van <hi rend='underlined:true;'>drie Wel</hi></l>
+					<l><hi rend='underlined:true;'>geschape Levendige Kinderen</hi>, de welke dien zelven</l>
+					<l>morgen alle in de kerk op het heyke gedoopt zyn</l>
+					<l>NB het waren alle drie meysjens, dewelke op</l>
+					<l>den derden dag alle zyn overleden</l>
+					<l>Den 1. Maart is Antonie Blomjous en Peter Ver¬</l>
+					<l>hoeven inhet ven gevallen, zodanig dat P. Verhoeven</l>
+					<l>dien zelfden nagt en A Blomjous 2 dagen later</l>
+					<l>is overleden.</l>
+					<l>1809. Den 29 Januarij, s&apos; morgens ten 5 uuren is de</l>
+					<l>schuur afgebrand by de Weduwe J. Lomberts op het</l>
+					<l>Goirken.</l>
+					<l>In de maand van Maart, is alhier een exacte volks¬</l>
+					<l>telling gedaan, en zyn bevonden</l>
+					<l>9271 Roomsche</l>
+					<l>165 Gereformeerde</l>
+					<l>10 Lutersche</l>
+					<l>14 Jooden</l>
+					<l>3 Remonstratne</l>
+					<l>2 Mennonisten</l>
+					<l>Saamen</l>
+					<l>9465. zielen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>11</l>
+					<l>1809 Den 17 April is zyne Majesteit Den Koning van Holland</l>
+					<l>alhier geweest, en heeft zyn intrek genomen ten huijse</l>
+					<l>van den Heer Martinus Cornelis van Dooren, alwaar hy ook</l>
+					<l>zyn nagt verblyf gehouden heeft. Zo haast als hy gear¬</l>
+					<l>riveerd was, heeft hy aanstonds audientie verleend</l>
+					<l>aan verschyde Commissien, doch het eerst aan de Roomsch</l>
+					<l>Catholieke Heeren Pastor en Capellaanen</l>
+					<l>Die zelfden avond heeft zyne Majesteit met zyn gevolg</l>
+					<l>in de Commedie geweest, en heeft toen aan de Liefhebbers</l>
+					<l>van t Toneel geselschap ten behoeve van de armen doen</l>
+					<l>terhand stellen Eene Somma van Vyf honderd Guldens.</l>
+					<l>Des anderen daags heeft hy hier de 2 Schuurkerken</l>
+					<l>en de torenkerk bezigtigd, en heeft opdien zelven</l>
+					<l>dag door een Decreet Tilburg tot een Stad verheven.</l>
+					<l>Er waren alhier 6 prachtige Eerebogen gesteld, en</l>
+					<l>is door alle drie de Schutteryen als ook soor de Gar</l>
+					<l>des d&apos;Honneur plechtiglyk ingehaald, die hem by zyn</l>
+					<l>vertrek ook weer begeleyd hebben, zelf de Gardes d&apos;</l>
+					<l>Honneur tot &apos;s Bosch toe.</l>
+					<l>NB Kort na &apos;s Konings vertrek, heeft hem behaagd</l>
+					<l>om door een Decreet het parochiaal kerk gebouw</l>
+					<l>vanhier als ook dat van Goirle aan de Roomsch</l>
+					<l>Catholieken dier gemeentens toe te kennen</l>
+					<l>1809 Den 4 May is alhier voor den Eersten keer</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>de weekmarkt gehouden des vrydags, dewelke tot hiertoe</l>
+					<l>was gehouden des Saturdags</l>
+					<l>Den 2 Juny Zyn de kinderen op het Goirke doorden</l>
+					<l>Hoogwaarden Heer Bisschop uit Amsterdam ge¬</l>
+					<l>vormd, het welk den 3 dito op het heyke is geschied</l>
+					<l>Den 24 Dito was het Parochiaal Kerkgebouw te</l>
+					<l>Goirle reeds zodanig in staat gesteld, dat op</l>
+					<l>diendag de Missen daarin geschied zyn.</l>
+					<l><hi rend='underlined:true;'>1810</hi> Den 25 Maart is des avonds ontrent half</l>
+					<l>8 in Ooisterwyk een Zwaaren brand ontstaan</l>
+					<l>waarin binnen 2 a 3 uuren teyd, circa 48 wooningen</l>
+					<l>zijn afgebrand.</l>
+					<l>Den 30 Maart is te Parys door den franschen Kyzer</l>
+					<l>en onzen Koning geratificeerd, het tractaat op den</l>
+					<l>16 daar te voren gemaakt, waardoor dit Departement</l>
+					<l>Braband en Zeeland, mitsgaders Nymegen en t&apos;</l>
+					<l>land van Altena aan Frankryk word afgestaan.</l>
+					<l>Den 16 April des morgens heel vroeg is alhier</l>
+					<l>gevangelyk door getransporteerd naar Parys, Den</l>
+					<l>Haag meheer Ant van Alphen Vicarius des Bisdoms</l>
+					<l>van &apos;s Bosch</l>
+					<l><hi rend='underlined:true;'>1810</hi> den 6 May is den franschen Keyzer met zyne</l>
+					<l>gemalin hier door gepasseerd, vergezeld door</l>
+					<l>den Koning en Koningin van Westphalen etc etc</l>
+					<l>Den 9 July is gansch Holland door een keizerlyk de</l>
+					<l>creet aan Frankryk vereenigd en Amsterdam tot de derde</l>
+					<l>stad van het ryk verklaard.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>15</l>
+					<l><hi rend='underlined:true;'>1811</hi>. Des nagts tysschen 12 en Een uur, tusschen den 20 en 21</l>
+					<l>Februarij, zyn alhier aande Hasselt twee huijsen afgebrand.</l>
+					<l>Den 18 Maart heeft hier voor de Eerste ryze, de loting der </l>
+					<l>jongens, geboren in t&apos; jaar 1788 plaats gehad.</l>
+					<l>Het Canton Tilburg, waartoe ook behoren Dongen en</l>
+					<l>Goirle moest er 18 leveren, als 12 voorde Landmagt</l>
+					<l>en 6 voorde Marine n NB hier dient bygevoegd te wor¬</l>
+					<l>den, dat den Eerw Heer Peter Peters, die opden 10 februarij</l>
+					<l>laatstleden tot Priester gewyd is, uit het Seminarie naar</l>
+					<l>hier is moeten Komen en om ook te laten, hetwelk ( naar</l>
+					<l>des morgens alhier op het Heyke misse gelesen te hebben)</l>
+					<l>hy benevens de andere ook gedaan heeft.</l>
+					<l>Den 4 April is den Eersten Steen gelegt aan den koren</l>
+					<l>windmolen alhier by den Noordhoek.</l>
+					<l>In t&apos; begin derzelve maand, is alhier in de Schyf het </l>
+					<l>nieuwe Kerkhof gemaakt, het welk omringd is van</l>
+					<l>eenen buukentuin, en veelen populieren daarom en</l>
+					<l>ingeplant.</l>
+					<l><hi rend='underlined:true;'>1811</hi>. Den 14 Juny is den Eersten Steen gelegt aanden Volmolen,</l>
+					<l>die gebouwd word tusschen Tilburg en Moergestel bij het</l>
+					<l>zogenaamde Galge Ven</l>
+					<l>Den 15 dito is alhier overleden de Heer Martinus Corne</l>
+					<l>lis van Dooren, eertse Maire dezer Stad, hy wierd be¬</l>
+					<l>graven den 18 dito - Zyne begrafenis was luysterlyk,</l>
+					<l>trekkende de drie schutteryen in rouw gewaad vooraf, en</l>
+					<l>vervolgens de hooge en laagere ambtenaren.</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>Den 8 7b<hi rend='superscript:true;'>r</hi> Zijnde Zondag is des avonds een quartier uurs voor</l>
+					<l>tien Uuren, voor den Eerste keer de klok geluijd, naar welk</l>
+					<l>luijden de herbergen en Logementen gesloten moesten wezen. </l>
+					<l>Geduurende de maanden 7b<hi rend='superscript:true;'>r</hi> en 8b<hi rend='superscript:true;'>r</hi> is hier allen avonden</l>
+					<l>en nachten, in het noord westen een Commeet of Staartsteker</l>
+					<l>te Zien geweest.</l>
+					<l>Des nagts tussen den 4 en 5 9b<hi rend='superscript:true;'>r</hi> is alhier in de heyken¬</l>
+					<l>sche schuurkerk gebroken, doch men hoord niet dat </l>
+					<l>er veel gestolen is, als de Awylen en Kleeden tot</l>
+					<l>over de dekking van de Autaaren.</l>
+					<l>1812 Den 1 Maart is alhier in den ouderdom van</l>
+					<l>79 jaaren overleden den Eerw Heer Hermanus Jose¬</l>
+					<l>phus Franken, Pastor alhier op het Goirken.</l>
+					<l>Den 15 Juny zyn detwee Eerw Heeren van Gils en</l>
+					<l>Moser, presidenten in t&apos; Seminarie, doororder van</l>
+					<l>den prefekt gedeporteerd: welkers eerste bestemming</l>
+					<l>te Mechelen, en de tweede te Dijon in Frankrijk was.</l>
+					<l>Eenigen tyd daar naar heeft den Eerw Heer presi¬</l>
+					<l>dent Smits het Seminarie ook moeten verlaaten</l>
+					<l>en zich Schuijl moeten houden.</l>
+					<l>1813 Den 5 December wierd hier als naar gewoonte</l>
+					<l>den Te Deum gezongen wegens de Kroning en Slag te Aus¬</l>
+					<l>terlits.</l>
+					<l>Den 10 dito kwamen hier des avonds ontrent 10 uuren</l>
+					<l>eene patrouille van Circa 65 Kozakken aan, die</l>
+					<l>vertrokken naarden Bosch Kant.</l>
+					<l>Den 12 dito kwamen deselve hier weer terug, naar te</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>17</l>
+					<l>Balkom, met overwinning tegende Gensdarmes gevogten</l>
+					<l>te hebben</l>
+					<l>Hierop volgden zwaare requisitien van haver, hooij</l>
+					<l>etc waarvan alhier een Magazijn wierd gemaakt.</l>
+					<l>Den 15 dito arriveerden hier des avonds eene groote me</l>
+					<l>nigte Kozakken en Russische hoezaaren, die hier</l>
+					<l>bleven tot op den 19 dito.</l>
+					<l>Den 19 dito wierd hier de 3 kouleurige vlag opden</l>
+					<l>Toren gesteld.</l>
+					<l>Den 22 dito zijn hier voor de Eerste maal de doo¬</l>
+					<l>den op het Nieuw Kerkhof, in den Schyf begraven,</l>
+					<l>er waren op dien dag 5 leyken, te weeten den Eerste</l>
+					<l>Bartel Mombers, 2<hi rend='superscript:true;'>de</hi> devrouw van fransus van Kraeij</l>
+					<l>3<hi rend='superscript:true;'>de</hi> de Wed<hi rend='superscript:true;'>e</hi> Willem Scharenborg en 4<hi rend='superscript:true;'>e</hi> een kind van Peter Manni en</l>
+					<l>5 Michiel Manni</l>
+					<l>Den 23 dito wierd van hier den Konvooij naar Breda</l>
+					<l>gezonden, bestaande in haver, hooij vette beesten</l>
+					<l>etc het welk te Dordt door de franschen wierd aange</l>
+					<l>vallen, maar niet genomen.</l>
+					<l>1814 Den 1 Jan<hi rend='superscript:true;'>ry</hi> is hier de Orange vlag op den Toren gesteld</l>
+					<l>Den 7 dito lagen hier veel Kozakken en Eenige Pruys</l>
+					<l>sische houzaaren, wanneer ontrent den middag alarm</l>
+					<l>wierd geblazen, waarop die alle op Goirle op aansnelde,</l>
+					<l>omdat circa 600 paardevolk en 300 man voetvolk fran¬</l>
+					<l>schen van Turnhout naar hier op weg waren met oogmerk</l>
+					<l>(zoo men zyde) omhier het magazijn te komen vernielen,</l>
+					<l>doch de Kozakken en Pruyssen, intrent Poppel defranschen</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>ontmoeten, zoo wierd aldaar en te Weelde en Ravels sterke</l>
+					<l>gevogten, alwaar de geallieerden het slagveld behielden</l>
+					<l>en eenen buijt van circa 80 wel gemonteerde paarden,</l>
+					<l>en eenige franschen Krijgsgevangenen hier aan bragten.</l>
+					<l>Eenen vande Kozakken bleef aldaar dood, die sy</l>
+					<l>mede bragten, die sy hier (omdat het eenen</l>
+					<l>dragt meester was) met volle krijgseer op het kerk</l>
+					<l>hof begraafden, en stellenden op zyn graf een houten</l>
+					<l>Kruijs.</l>
+					<l>Den 26 dito is de stad &apos;s Bosch door de Geal¬</l>
+					<l>lieerden voor den Prince van Orange met Storm ingenomen</l>
+					<l>Den 20 feb<hi rend='superscript:true;'>ry</hi> is zyne hoogheyd den Heere Erf Prins van</l>
+					<l>Orange, van Breda komende hier door gepasseerd</l>
+					<l>en heeft zich in het hotel de Goude Zwaan hier</l>
+					<l>2 uuren opgehouden en aldaar gehoor verleend aande</l>
+					<l>Bedienaars der onderscheydene godsdienst, als ook</l>
+					<l>aan de Maire en nog eenige anderen.</l>
+					<l>Den 22 dito zijn de Eerw Heeren van Gilden en Moser</l>
+					<l>weder van hun deportatie uyt Frankrijk ingoede</l>
+					<l>welstand in t Semenarie gekomen.</l>
+					<l>In deze week is men weer begonnen met over den</l>
+					<l>dooden te luyden, hetwelk in den afgelopen winter</l>
+					<l>verboden was, uyt hoofde der troubels.</l>
+					<l>Den 25 dito is hier door gepasseerd, zijne hoogheyd</l>
+					<l>den Hertog van Clarence, Zoon van Zijne Majesteyt de</l>
+					<l>Koning van Engeland.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>19</l>
+					<l><hi rend='underlined:true;'>1814</hi> Den 24 April is den Hoogw Heer Vicarius uyt zyne</l>
+					<l>Deportatie te Parys, in goede welstaat te Schyndel op zyne</l>
+					<l>Pastory gearriveerd.</l>
+					<l>In de maand Juny is op het Raadhuijs naar gezien, hoe</l>
+					<l>veel militairen alhier, van den 1 October 1813 tot den</l>
+					<l>1 Mey 1814 zyn ingekwartierd, welk getal bevonden is</l>
+					<l>250.100 man.</l>
+					<l>Den 5 September is op de Goirkensche Kerk eenen</l>
+					<l>Coepel-toren gezet, met een Klokje daarin.</l>
+					<l><hi rend='underlined:true;'>1815</hi> In de maand Januarij is in den voornoemden</l>
+					<l>Toren een uurwerk gesteld.</l>
+					<l>Den 9 Juny is den Prins van Oranje, Koning der</l>
+					<l>Nederlanden van &apos;s Bosch komende, alhier</l>
+					<l>doorgereysd, hystapte niet uijt de Koets, doch</l>
+					<l>wierd gesproken door onzen Burgemeester en door</l>
+					<l>onzen Vreede Rechter</l>
+					<l><hi rend='underlined:true;'>1816</hi> Op den 18 Maart is Nicolaus Daamen en zijnen</l>
+					<l>Zoon Petrus, door het van de Steenweg vallen</l>
+					<l>van de Kar, waarop zy gezeten waren bij &apos;s Bosch</l>
+					<l>verdronken.</l>
+					<l>Ook is met hen nog verdronken zekeren Uijtjens</l>
+					<l>die als Remplacant van den zoon van de Wed<hi rend='superscript:true;'>r</hi></l>
+					<l>Corn<hi rend='superscript:true;'>s</hi> van Bommel mede op die selve Kar was</l>
+					<l>gezeten.</l>
+					<l>In t&apos; begin van November is op het Goirken aanden</l>
+					<l>Noordenkant der Kerk aldaar een Kerkhof gemaakt</l>
+					<l>tot Begraving der Lijken van die Parochie als ook</l>
+					<l>aldaar een grafmaker aangesteld.</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>Den 11 dito is op het voornoemde kerkhof voor de Eerste</l>
+					<l>maal een dooden begraven Zynde  een kind genaamd</l>
+					<l>Martinus Vermeer</l>
+					<l>Hier diend by aangemerkt, dar de meeste lyken</l>
+					<l>die aldaar begraven worden, geschied zonder het</l>
+					<l>gewoon geluij onser torem met alleeniglyk het</l>
+					<l>geluij van het klokje op de Goerkensche Kerk</l>
+					<l>1817. Den 17 Jan<hi rend='superscript:true;'>ry</hi> is des morgens te 3 uuren</l>
+					<l>alhier in de Schyfstraat brand geweest, zynde</l>
+					<l>het huijs bewoond door Cornelis van Gils geheel</l>
+					<l>afgebrand.</l>
+					<l>In de maanden van Mey en Juny is den volmo</l>
+					<l>len, staande aan de haeven afgebroken, aan wel</l>
+					<l>ken molen den eersten steen wierd gelegt den 5 Ju</l>
+					<l>ny 1798. Zo dat den molen 19 jaaren gestaan heeft.</l>
+					<l>Den 7 Juny des morgens ten half tien uuren zyn alhier aan</l>
+					<l>de haeven, by het Kwaad-eynd 2 huijzen (bestaande</l>
+					<l>in 6 wooningen): afgebrand. </l>
+					<l>In dit jaar zyn de graanen als tarwe koren en boek#</l>
+					<l>wyt altyd zeer duur geweest als den boekwyt 40 guldens</l>
+					<l>het Mud, het koren nog vyf a zes guldens hoog in prys</l>
+					<l>zodat een roggenbrood van 12 pond in&apos;t laatst van Juny</l>
+					<l>was op 21 1/4 Stuivers en de oude aardappelen wierden</l>
+					<l>toen verkogt a 24 St het vat.</l>
+					<l>Den 1 July is overleden Den Eerwaarden heer Josephus</l>
+					<l>de Keirsmaeckers oudtsen Capellaan alhier op het heyken.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>21</l>
+					<l>in den ouderdom van 60 jaaren. </l>
+					<l>Zijne ziekte was veroorzaakt door het hollen van het paard</l>
+					<l>met de koetskar waarin hij gezeten was waar van het rat</l>
+					<l>hem over den Rug was gegaan, en bekwam een trap van</l>
+					<l>het paard op zyne heup, waarvan hy van teyd tot teyt</l>
+					<l>erger wierd, daar hij (tot groote droefheyd der parochi</l>
+					<l>uanen) van is overleden. --</l>
+					<l>N B dat hy het ongeluk heeft bekomen, is geweest</l>
+					<l>op den 10. Mey dezes jaars, in zyne terugkomst van Goirle</l>
+					<l>Den 4 dito is het lichaam van de voorgenoemden Heer de</l>
+					<l>Keersmaeckers op het Kerkhof in de Schyf begraven</l>
+					<l>dat geduurdende de lyk dienst in de Kerk had gestaan:</l>
+					<l>en dit is het eerste Lyk, dat men weet, het zy by ge</l>
+					<l>heugen of overlevering, dat ooit van de parochiaanen</l>
+					<l>in de heykensche Kerk, geduurende de Lijkdienst ge</l>
+					<l>staan heeft</l>
+					<l>Den 14 dito is alhier in den ouderdom van 52</l>
+					<l>jaaren overleden, den Eerwaarden Heer Bruno</l>
+					<l>Dingeren, Capellaan op het Goirke. </l>
+					<l>Den 23 September heeft Hendrik van Tulder en</l>
+					<l>zyne huijsvrouw den jubile gegeven van 50 jaaren</l>
+					<l>te saamen getrouwd wesende</l>
+					<l>Den 17 Oktober is by gebrek van Tongerlosche Pries¬</l>
+					<l>ters, op het heyke, een wereldlyken of zwarten</l>
+					<l>Priester tot Kapellaan gesteld, Komende uyt het</l>
+					<l>Seminarie, genaamd . . . . Smits (Antonius Alouisius)</l>
+					<l>als ook eenen dito op het Goirken genaamd</l>
+					<l>. . . . Van de Ven</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1818</hi></l>
+					<l>Den 9 Januarij is alhier overleden in den ouderdom van</l>
+					<l>80 jaaren Petronella van de Kerkhof Weduwe van</l>
+					<l>Hendrik van Akker deeken. Zy was geboren te Helmont</l>
+					<l>en nog jong zynde was Zy Sterk en groot van persoon</l>
+					<l>Zodat zyen haare jonkheyt te Nymegen dienst nam</l>
+					<l>als Grenadier, en heeft in die qualiteyt, de Hoog</l>
+					<l>Mogende Heeren Staaten ruym Een jaar gediend.</l>
+					<l>Den 9 february is alhier aan den hykant des</l>
+					<l>middags om 12 uuren Een huys met een grutmolen</l>
+					<l>afgebrand, toebehorende en bewoond wordende</l>
+					<l>door Gerard vandenHoudt.</l>
+					<l><hi rend='underlined:true;'>181</hi>9. In dit jaar is alhier aan de Goirkensche</l>
+					<l>Kerk eenen nieuwen toren gebouwd, waarvan</l>
+					<l>de hoogte is, te weten: van den grond tot den</l>
+					<l>haan toe ... voeten. Van welken toren den</l>
+					<l>Eersten Steen is gelegt.</l>
+					<l>Den 3 July is alhier des avonds in het noorden,</l>
+					<l>eene Comeet of Staart-ster gezien.</l>
+					<l>Den 4 dito is hier aan de Moerstraat des</l>
+					<l>avonds om half 8 uuren, door een zwaar on</l>
+					<l>weer, een schop in brand geraakt.</l>
+					<l>Den 12 dito is zyne Majesteit, den Koning</l>
+					<l>der Nederlanden, kmende van &apos;s Bosch</l>
+					<l>met zyn gevolg hier door gepasseerd.</l>
+					<l>Den 12 November des morgens om drie uuren,</l>
+					<l>is alhier aan de Leenhouwers een huijs</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>23</l>
+					<l>afgebrand, bewoond door Wouter van Beurden.</l>
+					<l>1820. Den 3 Januarij is Jan Panus voerman van hier </l>
+					<l>op Antwerpen, met het hooge water even buyten</l>
+					<l>Vuchtenpoort te &apos;s Bosch verdronken.</l>
+					<l>1821. Den 16 februarij des avonds ontrent 6 uuren, is</l>
+					<l>alhier aan de hoeven, ontrent de lagen aande Tonger¬</l>
+					<l>losche hoef een huys met 2 wooningen afgebrand.</l>
+					<l>Den 15 Mey is alhier op de Markt voor de eertse maal</l>
+					<l>de Boter gewogen met Nederlandsch gewigt.</l>
+					<l>Den 26 Juny is alhier agter den heuvel by den hand¬</l>
+					<l>wyzer aande Enschotsche Baan des morgens om</l>
+					<l>3 a 4 uuren Een huijs toebehorende aan Dionisius</l>
+					<l>Van de Sanden, afgebrand.</l>
+					<l>NB het voor<hi rend='superscript:true;'>n</hi> huijs was een geheel nieuw gebouw,</l>
+					<l>dat nogmaar drie dagen was bewoond.</l>
+					<l>Des nagts tusschen den 25 en 26 July is alhier aan</l>
+					<l>den heijkant, den Koren-Wind en Schorsmolen</l>
+					<l>geheel afgebrand.</l>
+					<l><hi rend='underlined:true;'>1821</hi>. Den 5 Augustus des avonds te half elf,</l>
+					<l>is alhier op den heuvel een Zwaren brand ont¬</l>
+					<l>staan, zynde het huijs toebehorende aan dese gemeen¬</l>
+					<l>te, waarin de Marechaussees geplaatst waren,</l>
+					<l>afgebrand, ook zyn daarin verbrand 5 paarden.</l>
+					<l>Nevens het voornoemde huijs zyn aan den Wes¬</l>
+					<l>ten Kant nog 2 huijzen afgebrand behorende</l>
+					<l>aan de erve van A: Hombers.</l>
+					<l>Den 21 September is alhier op den Rugdyk, des</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>ontrent 8 uuren, een huijs bestaande in 2 woningen afgebrand</l>
+					<l><hi rend='underlined:true;'>1822</hi>. Den 13 Mey is alhier, in de Zomerstraat, door het</l>
+					<l>Zoontje vanden Heer W: C: Momma den eersten</l>
+					<l>steen gelegt, van de nieuwe te Protestansche</l>
+					<l>Kerk.</l>
+					<l>Den 22 Mey, des namiddags ten 2 uuren, </l>
+					<l>zyn alhier aan de hasselt in de langestraat,</l>
+					<l>een huijs bestaande in 2 wooningen afgebrand,</l>
+					<l>waarvan den Eygenaar was Matthys de Koning.</l>
+					<l>Den 12 July is alhier in de kraam bevallen</l>
+					<l>de Vrouw van Peter Brokken van drie levendige</l>
+					<l>kinderen, zynde alle meisjes, dewelke alle drie</l>
+					<l>op dien zelven dag zyn overleden.</l>
+					<l><hi rend='underlined:true;'>1823</hi>. Den 25 January is alhier in de Querynstok</l>
+					<l>des morgens circa 4 uuren een boerestede afge¬</l>
+					<l>brand diw was toebehorende aan Jan Schenkerd.</l>
+					<l>Te midder nagt tusschen den 15 en 16 Junij 1823 is</l>
+					<l>alhier in de Zomerstraat, agter de huijzinge van</l>
+					<l>Wylen den Heer Bles, een woning afgebrand, bewoond</l>
+					<l>wordende door den Heer Timmermans, den Wynkoper.</l>
+					<l>In de maand November, zyn de kinderen vanhier,</l>
+					<l>door den Hoog. W. Heer Vicarius van Breda</l>
+					<l>in de naast  leggele gene Baronniesche Dorpen,</l>
+					<l>gevormd.</l>
+					<l>Den 22. 9b<hi rend='superscript:true;'>r</hi> zyn door een Koninglyk besluit,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>25</l>
+					<l>alle de schellingen en Zes Halves gesteld op 5 Stuivers</l>
+					<l>welk waarde die aannemen op den 17 Xb<hi rend='superscript:true;'>r</hi> hetwelke</l>
+					<l>door de inwisseling, zonder schade der Ingezetenen is</l>
+					<l>geschied.</l>
+					<l>NB hier diend nogby aangemerkt te worden,</l>
+					<l>Dat volgens Placcaat der Heeren Staaten Generaal</l>
+					<l>in dato 10 April 1693 de Schellingen die toen niet gestem¬</l>
+					<l>peld waren, wierden verminderd op 5 ½ Stuivers.</l>
+					<l>En volgens een placcaat der Heeren Staaten van</l>
+					<l>Holland en West-Vriesland, in dato 20 Mey 1693</l>
+					<l>moesten de Goud-Guldens of achten-twintigen</l>
+					<l>ook alle gestempeld waren, of wierden maar tegen</l>
+					<l>26 Stuivers aan genomen.</l>
+					<l><hi rend='underlined:true;'>1824</hi>. Den 25 Juny des namiddags ten half twee</l>
+					<l>uuren is te Waalwyk een Zwaren brand geweest</l>
+					<l>alwaar binnen de teyd twee uuren 51 huijsen en</l>
+					<l>14 schuren zyn afgebrand, waaronder het Raadhuijs</l>
+					<l>met de Archieven etc het getal der afgebrande per¬</l>
+					<l>sonen bestond in Circa 550 waarvan ontrent 300 in</l>
+					<l>groote armoede waren vervallen.</l>
+					<l>Den 9 September is een begin gemaakt met de</l>
+					<l>Bedding van den heuvel naar Enschot, voor den</l>
+					<l>te leggen Steenweg, welke Bedding opden 13 December</l>
+					<l>daaraan volgend geheel volmaakt was.</l>
+					<l><hi rend='underlined:true;'>1826</hi>. Den 20 April is den Eersten Steen gelegt,</l>
+					<l>aan den te bouwen Stoom- Volmolen, alhier te</l>
+					<l>Broekhoven.</l>
+					<l>Den 25 April des namiddags ontrent 6 uuren</l>
+					<l>zyn alhier in den Berkdyk 4 huijzen</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>bestaand in 9 wooningen afgebrand.</l>
+					<l>1827. Den . . . . April is in den Hoons _ Volmolen</l>
+					<l>te Broekhoven voor de eerste maal gevold.</l>
+					<l>Te Korvel is in April, Mey en Juny een stoommo¬</l>
+					<l>len gemaakt, op het fabriek van de Heeren</l>
+					<l>Diepe en Jellinghaus.</l>
+					<l>Den 30 Mei heeft in Den Bosch, de Besteding</l>
+					<l>van afbraak en wederopbouw der toren Kerk</l>
+					<l>alhier plaatsgehad, en zulks is publiek aan¬</l>
+					<l>genomen door N. van der Waals c.s. voor 35000</l>
+					<l>guldens. </l>
+					<l>Den 11 Juny is een begin gemaakt met het af¬</l>
+					<l>breken der voor noemde Kerk.</l>
+					<l>Den 23 July is Cornelis van der Schoot, opde</l>
+					<l>Goolsche baan dood gevonden, wiens vader</l>
+					<l>J. Bapt van der Sloot op den 21 July 1820</l>
+					<l>in de akkers te Oerle ook dood gevonden is.</l>
+					<l>Den 23 Augustus is alhier aan het Parochiaal Kerk</l>
+					<l>gebouw den Eersten steen gelegt door den Leen Heer</l>
+					<l>Everhardus Du Champs, Pastor op het heyke, en</l>
+					<l>zulks geschiede met groote plechtigheid, als met</l>
+					<l>optrekken der drie Schuttingen, en het luiden</l>
+					<l>der klokken. etc</l>
+					<l>Den 9 October is ook met groote plechtigheid</l>
+					<l>den Eersten steen gelegt aan de R.K. Kerk te Waalwijk.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>27</l>
+					<l>Den 9 December is alhier, en in andere steden en Dorpen</l>
+					<l>der Meyery in de Roomsche Kerken een plechtig Te Deum</l>
+					<l>gezongen, wegens het Concordaat tuschen Zijne Hei¬</l>
+					<l>ligheid Leo den XII. en Zijne Majesteit den Koning</l>
+					<l>der Nederlanden._ Om deze vreugde dag, waren des</l>
+					<l>avonds (onder de hykensche Parochie) verschijde</l>
+					<l>huizen geillumineerd.</l>
+					<l>Op den daaarop volgende Zondag, heeftdeze</l>
+					<l>viering ook plaats gehad, in de Baronnie van Breda</l>
+					<l>1828. Den 28 Juny, des namiddags omtrent 5 uuren</l>
+					<l>is alhier aan de haeven, bij het kwaadeynd, een</l>
+					<l>huijs bestaande in twee woningen afgebrand.</l>
+					<l>Den 5 July des namiddags om 3 uuren heb¬</l>
+					<l>ben wy alhier een zware storm gehad, waar</l>
+					<l>door met honderde (het meeste wit boomen)</l>
+					<l>om ver gewaaid en in stukken geslagen zyn._</l>
+					<l>N.B.In het begin des jaars is volgens de</l>
+					<l>telling, de bevolking alhier bevonden.</l>
+					<l>Goirke</l>
+					<l>Rijk . . . . . . . . . . . . .  435</l>
+					<l>hoeven . . . . . . . . .   435</l>
+					<l>Hasfelt . . . . . . . . . .  850</l>
+					<l>Stokhasfelt . . . . . . . 527</l>
+					<l>Westheykant . . . . . 976</l>
+					<l>Oostheykant . . . . 1129</l>
+					<l>Veldhoven . . . .<hi rend='underlined:true;'> . . 1312 </hi></l>
+					<l>                              5664</l>
+					<l>Heike</l>
+					<l>Oerle en Broekhoven . . .1477</l>
+					<l>Korvel en Laan . . . . . . . . 1015</l>
+					<l>Berkdijk . . . . . . . . . . . . . . . .551</l>
+					<l>Groot en Klein Loven . . . . 255</l>
+					<l>Kerk . . . . . . . . . . . . . . . . . . 1520</l>
+					<l>heuvel . . . . . . . . . . . .<hi rend='underlined:true;'> . . . . . 709</hi></l>
+					<l>                                  heike 5527</l>
+					<l>                               <hi rend='underlined:true;'>  Goirle 5664</hi></l>
+					<l>                         te Samen . . . . . .11191 inwo¬</l>
+					<l>                                                   ners,</l>
+					<l>Waarop volgd, hoe de bevolking hier ver¬</l>
+					<l>meerderd is, @@ @@</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>Anno 1687 bestond hier de bevolking is 4816 personen</l>
+					<l>Anno 1785    8665 personen</l>
+					<l>Anno 1809    9465 personen</l>
+					<l>Anno 1828 Zoals blijkt hier boven</l>
+					<l>Den 9 October ontrent de middag is alhier</l>
+					<l>in het haringv eynd een zwaren brand geweest</l>
+					<l>waardoor twee huijsen, bestaande in zes huijs</l>
+					<l>gezinnen, geheel zyn afgebrand.</l>
+					<l>Den 10 dito is te Korvel den Eersten steen</l>
+					<l>gelegt aan den steenweg door de Heeren Diepen</l>
+					<l>en Jellinghaus, loopende of beginnende aan</l>
+					<l>Eds. fabriek, tot by den Roskam.</l>
+					<l>1829. Den 29 Juny des morgens is zyne Majesteit</l>
+					<l>den Koning der Nederlanden alhier gepasseerd, en heeft</l>
+					<l>op het Raadhuys gehoor verleend aan verscheide au¬</l>
+					<l>thoriteiten, en heeft vervolgens de nieuwe Roomsche</l>
+					<l>Kerk bezigtigd, en daar naar heeft hy het groote Fabriek</l>
+					<l>van de Heeren Diepen en Jellinghaus ook geheel in ogen</l>
+					<l>schouw genomen, hetwelk uit der Maaten na zyn genoegen was.</l>
+					<l>Den 29 October is alhier de in weyding en den Eersten Dienst</l>
+					<l>geschied in de nieuwe Roomsch Catholieken Torenkerk,</l>
+					<l>zulksgeschiede door dee Eerw Heer J: H: van d Weijer</l>
+					<l>Pastor Land deken te Hilvarenbeek geassisteerd</l>
+					<l>door de Eerw Heeren</l>
+					<l>W: vande Ven, Pastoor opt Goirken als Diaken</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>29</l>
+					<l>Jro Le Bon Pastoor te Chaam        als subdiaken</l>
+					<l>A van Coll Pastorele Oisterwyk   als indey</l>
+					<l>en Dassen gewezen Pastoor te Poppel  als Baeularius</l>
+					<l>Dit alles is met de Meeste plegtigheid geschied.</l>
+					<l>1830. Den 7 februarij is alhier den jubile begonnen</l>
+					<l>vergand door Z: H: Pius VIII; die duurde tot</l>
+					<l>en met den 21 dito das 15 Dagen.</l>
+					<l>Den 8 Mey des namiddags eenhalf 5 uuren heef</l>
+					<l>alhier een onweer plaats gehad, waardoor een huijs,</l>
+					<l>in de wyk Korvel getroffen is, zelfs veel glasen ver</l>
+					<l>bryseld, den bewoner op zijn getouw eer nedergesla¬</l>
+					<l>gen, den Weefboom verpletterd, en hem enige Klederen</l>
+					<l>aan&apos;t lyf verscheurd, doch is verder behalven den</l>
+					<l>man (Cornelis Schaap) een wynig aan t&apos; lichaam</l>
+					<l>gekwetst, niet veel schade door veroorzaakt.</l>
+					<l>Den 18 July is Z.K.Hoogheid  de Kroonprins met desselfs</l>
+					<l>2 Zoontjes, Komende van Breda, hierdoor gepasseerd, en</l>
+					<l>heeft naar het ensprekenen der dienstdoende Schuttery alhier</l>
+					<l>die selve dag, de ryse nog voortgezet na &apos;s Bosch.</l>
+					<l>Den 5 Aug<hi rend='superscript:true;'>s</hi> op den namiddag is den Zoon van Bartus</l>
+					<l>Panis, de Voerman van hier op Turnhout naby de Goolsche</l>
+					<l>baan en dichtby Korvel onder het rad vande zwaarge</l>
+					<l>ladene kar gevallen, en aanstonds dood gebleven.</l>
+					<l>Dit afschrift is gemaakt naar het handschrift</l>
+					<l>opgesteld door den Heer Laurens de Lelie,</l>
+					<l>broeder van den schilder Lelie, en daar</l>
+					<l>mede na vergelijking eensluidend bevonden</l>
+					<l>L.R. Hermans 18 7/2 43.</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+		</body>
+	</text>
+</TEI>

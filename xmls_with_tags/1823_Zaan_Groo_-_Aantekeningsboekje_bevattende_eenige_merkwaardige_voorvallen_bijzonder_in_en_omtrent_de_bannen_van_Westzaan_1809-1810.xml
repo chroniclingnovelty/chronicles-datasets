@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1823_Zaan_Groo - Aantekeningsboekje bevattende eenige merkwaardige voorvallen bijzonder in en omtrent de bannen van Westzaan 1809-1810</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>Aantekenings Boekje</l>
+					<l>Bevattende</l>
+					<l>Eenige Merkwaardige voor</l>
+					<l>vallen byzonder in en Omtrent</l>
+					<l>de bannen van <locatie>Westzaan</locatie></l>
+					<l>Alsmeeden</l>
+					<l>Aantekeninge van booven¬</l>
+					<l>maate Koude en Hitte</l>
+					<l>beginnende</l>
+					<l>Met het Jaar <datum datum='1809-xx-xx'>1809</datum></l>
+					<l>door</l>
+					<l><persoonsnaam>Simon Jacobsz Groot</persoonsnaam></l>
+					<l>te</l>
+					<l><locatie>Westzaan</locatie></l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><datum datum='1809-xx-xx'>1809</datum></l>
+					<l><datum datum='1809-01-01'>Den 1 Januarij</datum> Verbrande tot <locatie>Oost:</locatie></l>
+					<l><locatie>Zandam</locatie>, <locatie>De Pelmoolen genaamt de</locatie></l>
+					<l><locatie>taanman</locatie>,</l>
+					<l>de <datum datum='1809-01-03'>3</datum>.<datum datum='1809-01-04'>4</datum>.<datum datum='1809-01-05'>5<hi rend='superscript:true;'>e</hi> van dien Zelve Maand</datum> had</l>
+					<l>men zulk een verbazende Sneeuw Jagt</l>
+					<l>verzeld met Strenge koude als bij</l>
+					<l>Menschen geheugen niet geweest is</l>
+					<l>zommige waaren naauwlijks in Staat</l>
+					<l>om uijt de huijzen te koomen, de</l>
+					<l>Wegen waren <hi rend='strikethrough:true;'>ga</hi> niet dan met veel </l>
+					<l>gevaar en moeielijk te gebruyken</l>
+					<l>dewyl de Sneeuw bergen <hi rend='strikethrough:true;'>waren</hi></l>
+					<l><hi rend='strikethrough:true;'>tot </hi> zo hoog waren als de daken</l>
+					<l>der huyzen</l>
+					<l>Op het laast van deze <datum datum='1809-01-xx'>Maand</datum> en</l>
+					<l>in <datum datum='1809-02-xx'>&apos;t begin van february</datum> hadden</l>
+					<l>wij veel Storm weer waar door</l>
+					<l>het Eijs en Sneeuw zeer Schielijk</l>
+					<l>in water herschapen wierd,</l>
+					<l>dit gaf in onze omtrek <hi rend='strikethrough:true;'>een</hi> vrij</l>
+					<l>wat ruijmte, dan helaas, veele</l>
+					<l>van onze landgenooten <hi rend='strikethrough:true;'>moesten </hi></l>
+					<l><hi rend='strikethrough:true;'>de klaegen</hi></l>
+					<l>geraakte</l>
+					<l>door &apos;t gemelde Storm</l>
+					<l>weer <hi rend='strikethrough:true;'>totd</hi> in de bitterste en</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>beklagenswaardigste Omstandigheid</l>
+					<l>dewijl, de <hi rend='strikethrough:true;'>rievieren moest overal</hi></l>
+					<l>boorden den Rievieren <hi rend='strikethrough:true;'>na</hi> op veele </l>
+					<l>plaatzen overliepen, en tevens</l>
+					<l>veele doorbraaken, der dyken ver¬</l>
+					<l>oorzaakten, waardoor veele Men¬</l>
+					<l>schen van haren en goederen <hi rend='strikethrough:true;'>be</hi></l>
+					<l><hi rend='strikethrough:true;'>rooft zijn geworden</hi>. Ja zelfs zom</l>
+					<l>mige van hun leven berooft zijn</l>
+					<l>geworden. </l>
+					<l>dag op dag ontfangen wij dienaan¬</l>
+					<l>gaande, de treurigste berigten door</l>
+					<l>middel der Nieuwspapieren.</l>
+					<l>Ik zal om iets van de kommervolle</l>
+					<l>toestand <hi rend='strikethrough:true;'>in d</hi> waar in onze landgenoo¬</l>
+					<l>ten door de droevigste overstroominge</l>
+					<l>gedompeld zyn geworden, aan het</l>
+					<l>geheugen te bewaren, dit volgende</l>
+					<l>berigt uyt de <locatie>haarlemsche </locatie>Courant</l>
+					<l>van <datum datum='1809-02-07'>7 februarary</datum> ten neder stellen</l>
+					<l>Extract uyt eenen brief</l>
+					<l>geschreven te <locatie>Culemborg </locatie>den</l>
+					<l><datum datum='1809-02-01'>1 februarij 1809</datum></l>
+					<l>Het is te veel gevergd myn Vriend</l>
+					<l>zo gy thans reeds eene min of meer</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>nauwkeurige beschrijving van onzen </l>
+					<l>Toestand, of laat ik liever zeggen van</l>
+					<l>dien van de geheele <locatie>Neder betuwe</locatie>, van</l>
+					<l>my zult hebben, een Stap verder en wy</l>
+					<l>waren alle verdelgd geweest, ik kan</l>
+					<l>uw onmooglyk alle de noodlottige om¬</l>
+					<l>standigheden optellen, en uyt dezelve</l>
+					<l>naauwlyks een keuze doen.</l>
+					<l>gy kunt u de rampen niet te erg</l>
+					<l>niet te groot voorstellen, de landman</l>
+					<l>is zonder huijs, zonder vee zonder voor¬</l>
+					<l>raad en zonder werktuijgen, weynige</l>
+					<l>famielien zyn er of zy hebben een</l>
+					<l>groot verlies te betreueren. hier is de</l>
+					<l>Egtgenoot van zijne vrouw beroofd <hi rend='strikethrough:true;'>daar</hi></l>
+					<l>daar de vrouw van haren Man hier</l>
+					<l>wederom de moeder van haar kind,</l>
+					<l>of ook de Ouders van hare kinderen.</l>
+					<l>daar broeders en zusters voor altyd</l>
+					<l>gescheiden in één woord, het ongeluk</l>
+					<l>ende ramspoed bereiken den hoogsten</l>
+					<l>trap, in het eerst scheenen de dykbreu¬</l>
+					<l>ken, niet van dat groote gevolg te zul¬</l>
+					<l>len zyn, het vloedwater groeijde lang</l>
+					<l>zaam. Ja viel tusschen beyden zoo</l>
+					<l>dat men zig met gelukkige vooruyt</l>
+					<l>zich</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>ten in het ongeluk begon te verbleyden,</l>
+					<l>maar deze hoop werd weldra verijdeld,</l>
+					<l>de Vorst weder hield slegts voor eene wijl</l>
+					<l>de woedende stroom. deed het vloedwater,</l>
+					<l>zodra hetzelve buyten de drift van den</l>
+					<l>val gekomen was bevriezen en zig als</l>
+					<l>een bedding van ijs overal vast zetten.</l>
+					<l>in dien Staat leefden wy verscheiden</l>
+					<l>dagen achter elkander toen de vaderlijke</l>
+					<l>bekommering van Z.M.<hi rend='superscript:true;'>*</hi> ons uyt onze </l>
+					<l>gevaarlijke gerustheid deed ontwaken in</l>
+					<l>tusschen was het weder veel zachter</l>
+					<l>geworden en de dooi ingevallen. wy hoor</l>
+					<l>den veel van opperwater en van de ver</l>
+					<l>bazende hoogten den bovenrievieren</l>
+					<l>maar gaven echter aan alle die</l>
+					<l>ongerustende tijdingen niet dat geloof</l>
+					<l>twelk dezelve helaas nader aangetoond</l>
+					<l>hebben te verdienen. </l>
+					<l>het vloedwater spoedig tot eene hoogte</l>
+					<l>geklommen van 07 duijmen boven den</l>
+					<l>vloed van <datum datum='1784-xx-xx'>1784</datum>. die de hoogste van alle</l>
+					<l>voorgaande geweest is, ligtte de ontzet</l>
+					<l>tende groote ysschots en bragt dat ver</l>
+					<l>schrikkelyk lichaam by gedeelten in be</l>
+					<l>weging ik zeg u bij gedeelten.</l>
+					<l>* <persoonsnaam>lodewijk Napoleon</persoonsnaam>, koning van <locatie>holland</locatie>. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>maar begrijp daardoor tog altijd zodanige</l>
+					<l>die de groote van eenige morgen lands</l>
+					<l>besloegen voeg hier nu bij de kracht van</l>
+					<l>water welke onophoudelyk door den stroom</l>
+					<l>der dykbreuken gevoed, en versterkt werd</l>
+					<l>en behoef ik uw dan nog te zeggen, dat</l>
+					<l>er geen tegenkracht kan uytgedacht worde</l>
+					<l>die daaraan weerstand zou hebben </l>
+					<l>kunnen bieden. een woedende Stroom</l>
+					<l>was alzoo in de <locatie>betuwe </locatie>ingedrongen.</l>
+					<l>vond daar sterk en gezond ys en deed</l>
+					<l>alles wat hy ontmoette wyken zig voort</l>
+					<l>stuwende tot aan de <locatie>diefdyk </locatie>en <locatie>lingen</locatie></l>
+					<l><locatie>dyken</locatie>, een wynig beneden ons gelegen</l>
+					<l>dan dit was nog het toppunt van on</l>
+					<l>ze rampen niet de zuydwestelyke or</l>
+					<l>kaan van den <datum datum='1809-01-31'>31 January</datum> Jongstleden</l>
+					<l>voltooyden ons ongeluk, hoe veele Men¬</l>
+					<l>schen door deze opgevolgde onheylen hun</l>
+					<l>graf hebben gevonden, hoe veele huyzen</l>
+					<l>er vernield en beschadigt zyn, hoeveel</l>
+					<l>vee er omgekomen is kan ik u niet</l>
+					<l>optellen. bedaarden oogenblikken zullen</l>
+					<l>daarvan het ontzettend verhaal in staat</l>
+					<l>zijn te maken - naar myn oordeel is er</l>
+					<l>geen of weynig herstel op te voorzien</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>ten zy onze liefdadige natie door eenen</l>
+					<l>geest gedreven zamenwerkt om den</l>
+					<l>landman op nieuw aan akkers, ploeg¬</l>
+					<l>staart paarden, vee, zaai-koorn poot</l>
+					<l>aard appelen schuren huyzing kleding</l>
+					<l>geld en moed te helpen. de Commissaris</l>
+					<l>generaal van s ryks waterstaat en de</l>
+					<l>midden Gevers van endegeest ons door</l>
+					<l>s Konings liefderijken zorg gezonden</l>
+					<l>om daar waar de nood het zou vorderen</l>
+					<l>met raad en daad by de hand te zyn</l>
+					<l>wekte overal eene zeer groote en</l>
+					<l>krachtdadige werkzaamheid op en</l>
+					<l>deed de noodige voorzorgen, die groote</l>
+					<l>lyks van dienst zyn bevonden Nacht</l>
+					<l>en dag onvermoeid bezig ontzag hy</l>
+					<l>nog gevaar nog arbeid, nog teleur¬</l>
+					<l>stellingen en merkte met den uyt¬</l>
+					<l>drukkelijken last het oogmerk en</l>
+					<l>den naam van zynen Meester in den</l>
+					<l>daad zeer </l>
+					<l>veel</l>
+					<l>goeds uijt daar zyn voorbeeld</l>
+					<l>ieder een aanvuurde zo dat elk om</l>
+					<l>stryd poogde zynen pligt te betrachten.</l>
+					<l>Dagelijks heeft men de door den Stroom</l>
+					<l>geformeerde Ysbergen doorgeboord, om ter</l>
+					<l>redding der ongelukkigen te snellen men</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>is tot de instortende huyzen doorgedrongen</l>
+					<l>om er de menschen uijt te redden: men</l>
+					<l>heeft met een ligte ysboot tot 7 Menschen</l>
+					<l>te gelijk midden in ons veld, of liever in</l>
+					<l>ons ijsmein gered: zelfs de gegoedste inwo¬</l>
+					<l>ners stonden twee uuren achter een aan</l>
+					<l>de riemen om tot andere plaatsen te ge¬</l>
+					<l>raken en de ongelukkigen bijstand te gaan</l>
+					<l>bieden: by het afbreken den ijsschotsen</l>
+					<l>moest men van den een op den anderen</l>
+					<l>springen om zijn vaartuijg weder te be¬</l>
+					<l>reyken, en zo verder te komen: Zomme</l>
+					<l>gen hebben het geluk gehad van 50 en</l>
+					<l>meer Menschen, met gevaar van hun</l>
+					<l>eygen leven te behouden: in een Woord</l>
+					<l>een ieder heeft de grootste blijken van </l>
+					<l>onverschrokkenheid, Menschlievendheid</l>
+					<l>en Goedhartigheid aan den dag gelegd.</l>
+					<l>Wanneer men van hier in eene boot de</l>
+					<l>kom van de <locatie>betuwe </locatie>invoer, en van daar</l>
+					<l>naar <locatie>Maurik</locatie>, <locatie>Reyswyk </locatie><locatie>Ravenswaai</locatie>,</l>
+					<l><locatie>Beusichem</locatie>, <locatie>Zoelmond</locatie>, <locatie>Bunen</locatie>, <locatie>Asch</locatie>,</l>
+					<l><locatie>Erichem</locatie>, <locatie>Tricht </locatie><locatie>Buurmallem</locatie>, <locatie>Ma¬</locatie></l>
+					<l><locatie>rienwaard</locatie>, <locatie>Beest</locatie>, <locatie>Renoij</locatie>, <locatie><hi rend='strikethrough:true;'>Acq</hi> Acquoij</locatie></l>
+					<l><locatie>leerdam</locatie>, over het geheele <locatie>Culembourg¬</locatie></l>
+					<l><locatie>sche Veld</locatie>, en vervolgens de goudsche</l>
+					<l>Streek langs den <locatie>diefdijk </locatie>en <locatie>lekkendijk</locatie></l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>en verder opwaart met de Stad <locatie>Culom¬</locatie></l>
+					<l><locatie>bourg</locatie> bezogt dan zou men zig een Juijst</l>
+					<l>denkbeeld kunnen <hi rend='strikethrough:true;'>vormen</hi> maken van</l>
+					<l>de Akelige tooneelen welken zich in on¬</l>
+					<l>zen omttrek overal opdoen.</l>
+					<l><datum datum='1809-02-22'>22 february</datum> is op bevel van Zyn Majes</l>
+					<l>teyd de Koning van <locatie>holland </locatie>een plegtige</l>
+					<l>dank en bededag gehouden in alle</l>
+					<l>Kerken <hi rend='strikethrough:true;'>der</hi> in geheel het Koningrijk</l>
+					<l>in t Voorjaar van dit Zelve Jaar brak er</l>
+					<l>weder een verschrikkelyke oorlog uijt tussen</l>
+					<l><locatie>Vrankrijk </locatie>en <locatie>oostenrijk </locatie>welke met veel</l>
+					<l>bloedvergieten vergezeld ging en waar bij</l>
+					<l>de <locatie>franschen </locatie>tot binnen de Poorten van</l>
+					<l><locatie>Weenen </locatie>afanseerde, Ja Zefs tot over den</l>
+					<l><locatie>donau</locatie> voordrongen alwaar tusschen</l>
+					<l>beyde legers een wapenstilstand wierd</l>
+					<l>gesloten op het <hi rend='strikethrough:true;'>laatst</hi> laaste van <datum datum='1809-07-xx'>hooy¬</datum></l>
+					<l><datum datum='1809-07-xx'>maand</datum> ons vaderland moest in alle</l>
+					<l>die krijgsoperatien deelen met het</l>
+					<l>leveren van hun kontingent. het welk</l>
+					<l>zo wel in <locatie>Spanje </locatie>als in <locatie>duytsland</locatie></l>
+					<l>bezig was daar in <locatie>Spanje </locatie>en</l>
+					<l><locatie>portugal </locatie>nog <hi rend='strikethrough:true;'>op</hi> onophoudelyk tegen</l>
+					<l>de <locatie>fransche </locatie>wapenen gevogten wierd</l>
+					<l>en daar met deze wapenstilstand</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>nog met alles scheen te zijn gewon¬</l>
+					<l>nen. zo treden de <locatie>Engelsche </locatie>ontrend</l>
+					<l>dezen tyd op onzen vaderlandschen</l>
+					<l>bodem, en nemen in een Korten</l>
+					<l>tyd geheel <locatie>Zeeland </locatie>in t bezit. dit ver¬</l>
+					<l>wekt alhier niet weynig zenzazie</l>
+					<l>de Koning is op middelen van ver¬</l>
+					<l>dediging bedagt, <hi rend='strikethrough:true;'>n</hi> laat de weeskin¬</l>
+					<l>deren in de krygsdienst onderwyzen</l>
+					<l>begeerd twaalf batteljons vrywil¬</l>
+					<l>legers waar toe <locatie>Westzaanen </locatie>twaalf</l>
+					<l>Man moet leveren dog welke</l>
+					<l>door kooping van elders zyn gewor¬</l>
+					<l>ven.</l>
+					<l><datum datum='1809-08-11'>de 11 Augustus </datum>hadden wy hier en </l>
+					<l><hi rend='strikethrough:true;'>onze</hi> omtrent een Zwaare donderbuy</l>
+					<l>met den Avond waardoor een Moster</l>
+					<l>en Schelpzand moolentje tot <locatie>wormer¬</locatie></l>
+					<l><locatie>veer</locatie> getroffen en in de as gelegd</l>
+					<l>wierd</l>
+					<l><datum datum='1809-08-20'>20 dito </datum>deed <persoonsnaam>Gerbrand volten leraar</persoonsnaam></l>
+					<l>der <hi rend='strikethrough:true;'>op</hi> doopgezinde te <locatie>Westzaan </locatie>in</l>
+					<l>het <locatie>Zuijderend </locatie>zyn Afscheidsrede uyt</l>
+					<l>Judas vers 20.21. in verwagting</l>
+					<l>om het overige van zyne dagen in</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>rust door te brengen.</l>
+					<l><datum datum='1809-09-03'>3 September </datum>wierd hem in den</l>
+					<l>dienst bevestigd <hi rend='strikethrough:true;'>de</hi> De <persoonsnaam>Eerw: dirk huy</persoonsnaam></l>
+					<l><persoonsnaam>zinga</persoonsnaam> alhier van <locatie>Warder </locatie>beroepen</l>
+					<l>hebbende tot zyn text &apos;s Corinten s V<hi rend='superscript:true;'>s</hi> 21</l>
+					<l>&apos;s namiddags deed de <persoonsnaam>Eerwaarde huy</persoonsnaam></l>
+					<l><persoonsnaam>zinga</persoonsnaam> zyn intrede als gewoon Leer¬</l>
+					<l>aar in onze gemeente met Paulus</l>
+					<l>woorden <hi rend='strikethrough:true;'>wel </hi>aan de Christenen te</l>
+					<l>roomen en zyn brief Cap s V<hi rend='superscript:true;'>s</hi> 16</l>
+					<l><datum datum='1809-09-04'>4 dito </datum>had men by gelegendheid van</l>
+					<l>de verjaardag van onzen koning</l>
+					<l>een bedestond in alle kerken door</l>
+					<l>heel ons vaderland</l>
+					<l><datum datum='1809-09-15'>15 dito</datum> verbrande tot <locatie>wormer </locatie>een</l>
+					<l>boerderij door het hooy.</l>
+					<l>in de<datum datum='1809-10-xx'> Maand October</datum> Kwam de Vrede</l>
+					<l>tusschen <locatie>frankryk </locatie>en <locatie>oostenryk</locatie></l>
+					<l>tot Stand waarby de laastgemelden</l>
+					<l>verscheyden van zyne Staten aan</l>
+					<l><locatie>frankryk </locatie>en <locatie>Rusland</locatie> heeft afge¬</l>
+					<l>staan.</l>
+					<l>in <datum datum='1809-12-xx'>dezember</datum> Verlieten de <locatie>Engelschen</locatie></l>
+					<l>het eyland <locatie>Walcheren</locatie>;</l>
+					<l>op het laast van <datum datum='1809-12-xx'>dezer Maand</datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>had de onbinding van het huwelyk</l>
+					<l>tusschen <locatie>Keyzer Napoleon</locatie> en <persoonsnaam>Key¬</persoonsnaam></l>
+					<l><persoonsnaam>serin Josephine</persoonsnaam> Plaats.</l>
+					<l>op den avond van <datum datum='1810-03-15'>15 Maart des</datum></l>
+					<l><datum datum='1810-03-15'>jaars 1810.</datum> ontstond er brand te</l>
+					<l><locatie>Westzaandam </locatie>op de <locatie>hoogendyk </locatie>in</l>
+					<l>een ledigstaande Slagerij welke</l>
+					<l>Zodanig de overhand nam dat de</l>
+					<l>daarnaast Staande <locatie>bakkery ge¬</locatie></l>
+					<l><locatie>naamd de blaauwe oven</locatie> geheel</l>
+					<l>afbrande en nog een daar by staand</l>
+					<l>huijs merkelyk beschadig is gewor¬</l>
+					<l>den.</l>
+					<l>In de <datum datum='1810-04-xx'>Maand van April,</datum> is <persoonsnaam>Keyzer</persoonsnaam></l>
+					<l><persoonsnaam>Napoleon</persoonsnaam> andermaal in het Huwelijk</l>
+					<l>Bevestigd met <persoonsnaam>Maria Louiza <hi rend='strikethrough:true;'>van</hi></persoonsnaam></l>
+					<l><persoonsnaam>Aardshertogin van oostenrijk</persoonsnaam>.</l>
+					<l>omtrend dezen tijd, <hi rend='strikethrough:true;'>wier</hi> wierd ons</l>
+					<l>Vaderland met deszelfs Koning door</l>
+					<l><locatie>Vrankrijk </locatie>beschuldigd van ontrouw</l>
+					<l>te <hi rend='strikethrough:true;'>zyn</hi> handelen tegen de <hi rend='strikethrough:true;'>Alge</hi> door</l>
+					<l><locatie>Vrankrijk </locatie>genoemde algemeene Zaak</l>
+					<l>van het vaste land. het welk de </l>
+					<l>afstand van <locatie>zeeland </locatie>en een gedeelte</l>
+					<l>van <locatie>Gelderland </locatie>ten gevolgen heeft</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><hi rend='strikethrough:true;'>Waar lijkt niet</hi> Komt hierop toen wij</l>
+					<l>nog meende<hi rend='strikethrough:true;'>n</hi> onder de rang der volken</l>
+					<l>van <locatie>Europa </locatie>te behooren <hi rend='strikethrough:true;'>en</hi> onder het</l>
+					<l>bestuur van eenen Vorst welke alzints</l>
+					<l>de belangens van ons Vaderland Scheen</l>
+					<l>ter harte te nemen. doet dezelve in</l>
+					<l>het begin van de <datum datum='1810-07-xx'>maand van Julij</datum></l>
+					<l>vrywillige afstand van den troon Steld</l>
+					<l>zynen Zoon in deszelfs plaats onder</l>
+					<l>het opzigt der moeder. dan helaas,</l>
+					<l>de <hi rend='strikethrough:true;'>zestiende</hi></l>
+					<l><datum datum='1810-07-13'>dertiende van deze Maand</datum> houd</l>
+					<l>alle Zekerheid van ons bestaan als</l>
+					<l>volk op. een Keijzerlijk dekreet Ziet</l>
+					<l>het lîcht <locatie>holland </locatie>is met <locatie>Vrankrijk</locatie></l>
+					<l>vereenigd <hi rend='strikethrough:true;'>de Interesten worden</hi> de </l>
+					<l>Natieonale Schuld word op een derde</l>
+					<l>gebragt het land op hoopt met <locatie>fran¬</locatie></l>
+					<l><locatie>sche</locatie> troepen en toezienders, en op</l>
+					<l>de Coloniale goederen eene belas¬</l>
+					<l>ting van 50 Percent Gelegd. de ver</l>
+					<l><hi rend='strikethrough:true;'>sch slagenheid is algemeen. </hi></l>
+					<l><hi rend='strikethrough:true;'>de in de nacht van de <datum datum='1810-07-19'>19de dezen</datum></hi></l>
+					<l><hi rend='strikethrough:true;'>onstond er brand te <locatie>Krommenie </locatie>waar</hi></l>
+					<l><hi rend='strikethrough:true;'>door er</hi> op de <locatie>Heylige we</locatie>g waar door</l>
+					<l>twe huyzen geheel in de asch gelegd wer</l>
+					<l>den</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1810-08-27'>de 27 Augustus</datum> hadden wij den geheelen</l>
+					<l>dag donder, dan voor ons op een verre</l>
+					<l>afstand tot dat in den Avond uyt het</l>
+					<l>Zuydwesten een Zware buij opsteeg <hi rend='strikethrough:true;'>waar</hi></l>
+					<l>welke zeer lang zaam overdreef en</l>
+					<l>tot laat in de nacht duurden. wy had</l>
+					<l>den van dezelve hier geen de minste</l>
+					<l>Schade dog tot <locatie>Amsterdam </locatie><hi rend='strikethrough:true;'>meer</hi></l>
+					<l>Buyten de <locatie>leydsche Poort</locatie> wierd een</l>
+					<l>Koornmolen getroffen welk geheel</l>
+					<l>afbranden en <hi rend='strikethrough:true;'>der da</hi> enige der daar bij</l>
+					<l>Staande huijzen merkelyk beschadigde</l>
+					<l><hi rend='strikethrough:true;'>gelijk</hi> ook <hi rend='strikethrough:true;'>en tot</hi> in de nabijheid van</l>
+					<l><locatie>Alkmaar</locatie>, by de <locatie>Allemans brug</locatie> een</l>
+					<l>boerderij door het onweer geheel</l>
+					<l>afgebrand, welke brand door ons op</l>
+					<l>dien Zelve nacht gelijktydîg is gezien</l>
+					<l>geworden.</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l><datum datum='1822-xx-xx'>1822</datum></l>
+					<l><persoonsnaam>Jacob Haviksz</persoonsnaam>  Somme Debet</l>
+					<l><datum datum='1822-01-14'>January 14.</datum></l>
+					<l>10¼ el linnen</l>
+					<l>a 9½ St</l>
+					<l>Ƒ 4 - 17 - 6</l>
+					<l><datum datum='1822-01-17'>17 dito</datum> betaald</l>
+					<l>0 - 6 - 0</l>
+					<l><datum datum='1822-03-05'>Maart 5</datum> betaald </l>
+					<l>0 - 10 - 0</l>
+					<l>4 - 1 - 6</l>
+					<l>komt bij 2 el linne 49½ St   0 - 19 - 0</l>
+					<l>Ƒ  5 - 0 - 6</l>
+					<l><datum datum='1822-03-08'>8 Maart</datum> betaald</l>
+					<l>Ƒ 0 - 10 - 0</l>
+					<l><datum datum='1822-03-18'>18 Maart</datum></l>
+					<l>0 - 10 - 0 </l>
+					<l><datum datum='1822-04-03'>3 April</datum></l>
+					<l>0 - 10 - 0</l>
+					<l><datum datum='1822-04-13'>13 dito</datum></l>
+					<l>0 - 10 - 0</l>
+					<l><datum datum='1822-04-26'>26 April</datum></l>
+					<l>1 - 0 - 0 </l>
+					<l><datum datum='1822-05-15'>Mey 15</datum></l>
+					<l>1 - 0 - 0</l>
+					<l><datum datum='1822-05-31'>Mey 31</datum></l>
+					<l>1 - 0 - 8</l>
+					<l>5 - 0 - 8</l>
+					<l>Op Nieuw</l>
+					<l><datum datum='1822-06-17'>17 Juny</datum> 5 el linnen a 9½ St     Ƒ  2 - 7 - 8</l>
+					<l>2 paar kouzen a 11 St   1 - 2 - 0</l>
+					<l>6 el hilverzom  a 6¼ St    1 - 17 - 8</l>
+					<l>Gaaren en band    </l>
+					<l>0 - 4 - 2</l>
+					<l>5 - 11 - 2</l>
+					<l>Hier op betaald</l>
+					<l><datum datum='1822-12-19'>19 Dezember</datum></l>
+					<l>0 - 15 - 0</l>
+					<l><datum datum='1823-01-17'>Jan 17.</datum></l>
+					<l>1 - 0 - 0</l>
+					<l><datum datum='1823-01-31'>31 dito</datum></l>
+					<l>0 - 10 - 0</l>
+					<l><datum datum='1823-02-14'>feb 14 </datum> </l>
+					<l>1 - 0 - 0 </l>
+					<l>Word</l>
+					<l>3 - 5 - 0</l>
+					<l>2 - 6 - 2</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l><datum datum='1823-xx-xx'>1823</datum></l>
+					<l><persoonsnaam>Aaltje Valk</persoonsnaam> Debet</l>
+					<l><datum datum='1823-01-12'>12 January</datum></l>
+					<l>Ƒ 4 - 4 -</l>
+					<l>8</l>
+					<l><datum datum='1823-01-28'>28 dito</datum></l>
+					<l>betaalt</l>
+					<l>1 - 0 - 0</l>
+					<l><datum datum='1823-01-25'>25 dito</datum></l>
+					<l>0 - 10 - 0</l>
+					<l>2 - 14 - 8</l>
+					<l>komt bij  </l>
+					<l>0 - 9 - 0</l>
+					<l>3 - 0 - 0</l>
+					<l><datum datum='1823-02-09'>9 february</datum> betaald  </l>
+					<l>1 - 0 - 0</l>
+					<l><datum datum='1823-02-15'>15 dito</datum></l>
+					<l>0 - 10 - 0</l>
+					<l>1 - 10 - 0</l>
+					<l><datum datum='1823-02-23'>24 february</datum> komt bij 3¼ el linnen a 11 St   1 - 15 - 12</l>
+					<l>3 - 5 - 12</l>
+					<l><datum datum='1823-03-07'>7 Maart</datum> betaald</l>
+					<l>0 - 16 - 0</l>
+					<l><datum datum='1823-03-17'>17 Maart</datum></l>
+					<l>0 - 10 - 0</l>
+					<l><datum datum='1823-04-11'>11 April</datum></l>
+					<l>0 - 12 - 0</l>
+					<l>komt by</l>
+					<l>1 - 7 - 12</l>
+					<l><datum datum='1823-04-23'>23 April</datum> 1½ el hilvz  a 9 St</l>
+					<l>0 - 13 - 8</l>
+					<l>2 - 11 - 4</l>
+					<l>komt by</l>
+					<l>12½ el hazedebooy  </l>
+					<l>a 15 St   9 - 7 - 8</l>
+					<l>4 el bloemt</l>
+					<l>a 11 St   2 - 4 - 0</l>
+					<l>hierop betaald</l>
+					<l>13 - 12 - 12</l>
+					<l><datum datum='1823-06-08'>8 Juny</datum></l>
+					<l>Ƒ  1 - 0 - 0</l>
+					<l><datum datum='1823-07-05'>5 July</datum></l>
+					<l>3 - 0 - 0</l>
+					<l><datum datum='1823-08-09'>9 August</datum></l>
+					<l>2 - 0 - 0</l>
+					<l><datum datum='1823-09-10'>10 Septemb</datum></l>
+					<l>1 - 0 - 0</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>een Stuk linnen van h </l>
+					<l>hemelder</l>
+					<l>lang 50 el daarvan verkogt</l>
+					<l>3 el</l>
+					<l>voor 23 Gl. hierop betaald 7 - 0 - 0</l>
+					<l>6½ el</l>
+					<l>nog een <datum datum='1823-03-22'>22 Maart</datum> nog 11 - 0 - 0</l>
+					<l>3¼ el</l>
+					<l>Stuk lang <datum datum='1823-03-30'>30 Maart </datum>nog  6 - 0 - 0</l>
+					<l>3 el</l>
+					<l>als boven 4 St per el  <datum datum='1823-04-20'>20 April</datum>   5 - 0 - 0</l>
+					<l>voor 20 - 12 - 8</l>
+					<l>10 el</l>
+					<l>8¼</l>
+					<l>3¼.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>een Stuk Oosters linnen van</l>
+					<l>H hemnekloen daarvan Verkogt</l>
+					<l>1½ ellen</l>
+					<l>4 ellen</l>
+					<l><locatie>hilversum   </locatie>33 el a 6 St</l>
+					<l>daarvan Verkocht 4¼ el</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>Verkogt van de Goederen van</l>
+					<l><persoonsnaam>lammert holters</persoonsnaam></l>
+					<l>3 paar Wanten a 6 St  Ƒ  0 - 18 - 0</l>
+					<l>een paar geweven kouzen  0 - 16 - 0</l>
+					<l>een paar kinderkouzen  0 - 6 - 0</l>
+					<l>een kinder Slaapmutt  0 - 5 - 8</l>
+					<l>een paar lootkleurde kouzen  0 - 18 - 0</l>
+					<l>een paar Spenkelde kouzen  0 - 12 - 8</l>
+					<l>een paar Vrouwe kouzen  0 - 16 - 0</l>
+					<l>¼ el 4/4 els linnen  0 - 2 - 0</l>
+					<l>½ el asgraauw linnen  0 - 2 - 12</l>
+					<l>2½ el hilversoms linnen  1 - 0 - 0</l>
+					<l>2 el bys N<hi rend='superscript:true;'>o</hi> 1    0 - 14 - 0</l>
+					<l>2 paarse doeken  a 16 St  1 - 12 - 0</l>
+					<l><hi rend='strikethrough:true;'>1 blaauwen doek</hi>    <hi rend='strikethrough:true;'>0 - 10 - 0</hi></l>
+					<l>1 paar gebraayde kouzen  1 - 2 - 0</l>
+					<l>6/8 el oosters linnen  0 - 3 - 2</l>
+					<l>14 el linnen  a 10 St   7 - 0 - 0</l>
+					<l>1 paar Jongens kouzen  0 - 14 - 0</l>
+					<l>1 paar gebraaide kouzen  1 - 2 - 0</l>
+					<l>1½ el asgraauw linnen  0 - 18 - 4</l>
+					<l>1 roode bonte doek  0 - 17 - 0</l>
+					<l>7½ el bys N<hi rend='superscript:true;'>o</hi> 1  2 - 12 - 8</l>
+					<l>½ el bys No 1    0 - 3 - 8</l>
+					<l>1 rood bonte doek  a 12 St   0 - 12 - 0</l>
+					<l>1 paar k kousjes  a 8½ St   0 - 8 - 0</l>
+					<l>1 paar dito  8 St   0 - 8 - 0</l>
+					<l>1 paar groffe dito  6 St   0 - 6 - 0</l>
+					<l>4 el 4/4 els linnen  7    1 - 8 - 0</l>
+					<l>1½ el oosters linnen   0 - 7 - 8</l>
+					<l>een rood bonte doek  0 - 16 - 0</l>
+					<l>4 el oosters linnen   1 - 0 - 0</l>
+					<l>1 paar l k kouzen    0 - 17 - 0</l>
+					<l>1 paar k kouzen   0 - 6 - 2</l>
+					<l>1 paar gebraayde kouzen   1 - 2 - 0</l>
+					<l>1 rood bonte doek  a 19 St   <hi rend='underlined:true;'>0 - 19 - 0</hi></l>
+					<l>30 - 15 - 2</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<pb n='16'/>
+			<pb n='17'/>
+			<pb n='18'/>
+			<pb n='19'/>
+			<pb n='20'/>
+			<pb n='21'/>
+			<pb n='22'/>
+			<pb n='23'/>
+			<pb n='24'/>
+			<pb n='25'/>
+			<pb n='26'/>
+			<pb n='27'/>
+			<pb n='28'/>
+			<pb n='29'/>
+			<pb n='30'/>
+			<pb n='31'/>
+			<pb n='32'/>
+			<pb n='33'/>
+			<pb n='34'/>
+			<pb n='35'/>
+			<pb n='36'/>
+			<pb n='37'/>
+			<pb n='38'/>
+			<pb n='39'/>
+			<pb n='40'/>
+			<pb n='41'/>
+			<pb n='42'/>
+			<pb n='43'/>
+			<pb n='44'/>
+			<pb n='45'/>
+			<pb n='46'/>
+			<pb n='47'/>
+			<pb n='48'/>
+			<pb n='49'/>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,2222 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1720_Brus_Anon - Oudtheden ofte Chronychsche jaerboek der prinselijcke Stadt Brussel  door eenen liefhebber van het vaderlandt</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l> Oudtheden</l>
+					<l>ofte</l>
+					<l>Chronijchsche jaerboek</l>
+					<l>der prinselijcke stadt</l>
+					<l><locatie>Brussel</locatie>.</l>
+					<l>bij een vergaedert uijt verscheijde schrijvers</l>
+					<l>der stadt <locatie>brussel </locatie>door eenen liefhebber</l>
+					<l>van het vaderlandt</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l><pagenumber>pag 1 </pagenumber></l>
+					<l>Stadt <locatie>brussel</locatie></l>
+					<l>De prinselijke stadt <locatie>brussel</locatie>, heeft haer beginsel</l>
+					<l>gehadt van het jaer <datum datum='0974-xx-xx'>974</datum>. zijnde als dan een Casteel</l>
+					<l>ofte borght, dezen borght stont alzoo veele meijnen,</l>
+					<l>op de plaetse de welcke men nog hedendaegs</l>
+					<l><locatie>opbrussel </locatie>noemt.</l>
+					<l>ontrent dezen borght hebben hun eenige edel</l>
+					<l>lieden begeven de welke in het getal van seven,</l>
+					<l>hier ieder een Casteel hebbende, hebben voor</l>
+					<l>hun genomen op deze plaetsen eene stadt te</l>
+					<l>bouwen, ende ieder hun Casteel in eene stads</l>
+					<l>peerle te veranderen: waer van komt, dat nog</l>
+					<l>tegenwoordig elke poorte onder elck geslaghte</l>
+					<l>staet.</l>
+					<l>de <locatie>lovensche poorte</locatie> onder het <persoonsnaam>steenweg </persoonsnaam>geslaght,</l>
+					<l>de <locatie>Coudenbergsche poorte</locatie> onder <persoonsnaam>roodenbeke</persoonsnaam>,</l>
+					<l>de <locatie>opbrusselsch </locatie>poorte onder <persoonsnaam>serhuijs</persoonsnaam>,</l>
+					<l></l>
+					<l>de <locatie>anderleghsche poorte</locatie> onder <persoonsnaam>serleroeloft</persoonsnaam>,</l>
+					<l>de <locatie>vlaemsche poorte</locatie> onder <persoonsnaam>sweerts</persoonsnaam>,</l>
+					<l>de <locatie>laeke poorte</locatie> onder <persoonsnaam>sleeuws</persoonsnaam>;</l>
+					<l>en de <locatie>schaerebeeksche poorte</locatie> onder <persoonsnaam>Caudenberghs</persoonsnaam></l>
+					<l>geslaghte.</l>
+					<l>alzoo heeft <locatie>brussel </locatie>begonst eene stadt te worden,</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><pagenumber>2</pagenumber></l>
+					<l>zijnde allengskens tusschen deze zeven poorten</l>
+					<l>bemuert met arduijne vestens, ontrent het jaer</l>
+					<l><datum datum='1040-xx-xx'>1040</datum>, die men nog in de binne Stadt ziet, met</l>
+					<l>zommige oude poorten.</l>
+					<l><locatie>brussel </locatie>is van ouds geheeten boeksel, om dat het</l>
+					<l>zeer morasagtig was; zoo dat de <locatie>groote merdt</locatie></l>
+					<l>een Vijver was, daer eenige engenen op waeren,</l>
+					<l>ende het broodmaekers huijs. doen ter tijd een</l>
+					<l>Casteel.</l>
+					<l>het schijnt dat men ten opzighte van de seven</l>
+					<l>voornoemde geslaghten, heeft willen voorts werken;</l>
+					<l>want <locatie>brussel </locatie>heeft seven parochien, te weten:</l>
+					<l>de hooft <locatie>kerke van Sinte michael en gudula</locatie>.</l>
+					<l>de tweede, onze <locatie>lieve vrouwe ter Capelle</locatie>,</l>
+					<l>de derde <locatie>Sinte guericx</locatie>. de Vierde, <locatie>St. Catharina,</locatie></l>
+					<l></l>
+					<l>de vijfde <locatie>St. nicloaes</locatie>, de sesde, <locatie>St jacobs op</locatie></l>
+					<l><locatie>Caudenberg</locatie>; en de sevenste, onze <locatie>lieve vrouwe</locatie></l>
+					<l><locatie>Finis-terrae</locatie>.</l>
+					<l>ook heeft <locatie>brussel </locatie>zeven poorten, die boven</l>
+					<l>genoemt zijnde, hebben seven dorpen, staende</l>
+					<l>onder de Cuijpe dezer stadt: het eerste <locatie>laeke</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>3</pagenumber></l>
+					<l>de tweede <locatie>Scharenbeek</locatie>, het derde <locatie>St. judocus ten</locatie></l>
+					<l><locatie>noije</locatie>, het vierde, <locatie>elsen</locatie>, het vijfde, <locatie>St. gielis</locatie> ofte</l>
+					<l><locatie>opbrussel </locatie>genaemt, het sesde, <locatie>anderleght</locatie>, ende</l>
+					<l>het sevenste <locatie>molenbeek</locatie>.</l>
+					<l>Naer dat het stadt huijs gebouwt was te weten</l>
+					<l>in het jaer <datum datum='1442-xx-xx'>1442</datum>; heeft men elck van deze edele</l>
+					<l>familien ofte geslaghten een Camer gegeven,</l>
+					<l>alwaer zij jaerlijkx op den voorschreven dag bij</l>
+					<l>een vergaderen, om de nieuwe scheppenen te</l>
+					<l>Kiesen.</l>
+					<l>in het jaer <datum datum='1321-xx-xx'>1321</datum>, wierden in deze Stadt de negen</l>
+					<l>natien ingestelt. bestaende in de principaelste</l>
+					<l>ambaghten met hunne aghten raet makende</l>
+					<l>het derde lid dezer stadt <locatie>brussel</locatie>.</l>
+					<l>de negen natien zijn deze, te weten: onze lieve</l>
+					<l>vrouwe natie, St gielis natie. St. jans natie. St.</l>
+					<l>Christoffels natie. St. jacobs natie. St. lauwereijs</l>
+					<l>natie. St. guericx natie. St. peeters natie. ende</l>
+					<l>St. nicolaes natie.</l>
+					<l>In de selve stadt zijn ook ingestelt vijf</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>4</l>
+					<l>geswooren kompagnien of gildens, bestaende in</l>
+					<l>en uijt de principaelste borgers, ende dienende tot</l>
+					<l>verzekering van de stadt bewaringe van des zelfs</l>
+					<l>sleutels ende van den prins, te weten:</l>
+					<l>de groote gilde onder de bescherminge van de</l>
+					<l>alderheijligste maget maria, ende den <persoonsnaam>heijligen</persoonsnaam></l>
+					<l><persoonsnaam>georgius</persoonsnaam>, ingestelt in het jaer <datum datum='1213-xx-xx'>1213</datum></l>
+					<l><persoonsnaam>sinte joris</persoonsnaam> gilde is ingestelt in het jaer <datum datum='1422-xx-xx'>1422</datum>.</l>
+					<l><persoonsnaam>sinte antonius</persoonsnaam> en <persoonsnaam>sinte sebastiaens</persoonsnaam> gilde is ingestelt</l>
+					<l>in het jaer <datum datum='1428-xx-xx'>1428</datum>.</l>
+					<l><persoonsnaam>sinte Cristoffels</persoonsnaam> en <persoonsnaam>sinte barbara</persoonsnaam> gilde is ingestelt</l>
+					<l>in het jaer <datum datum='1477-xx-xx'>1477</datum></l>
+					<l><persoonsnaam>sinte michiels</persoonsnaam> gilde is ingestelt in het jaer <datum datum='1480-xx-xx'>1480</datum>.</l>
+					<l>In het jaer <datum datum='1131-xx-xx'>1131</datum>, heeft <persoonsnaam>innocentius den II paus</persoonsnaam></l>
+					<l>van roomen, de <locatie>Kerke van st. jan</locatie> op <locatie>den poel</locatie></l>
+					<l>geweijd.</l>
+					<l>in het jaer <datum datum='1140-xx-xx'>1140</datum>. is gestorven <persoonsnaam>godovaert met den</persoonsnaam></l>
+					<l><persoonsnaam>baerde als hertog</persoonsnaam> van <locatie>braband</locatie>, die in zijn leven</l>
+					<l>gestight hadde de proostdije van <locatie>onse lieve</locatie></l>
+					<l><locatie>vrouwe ter Capelle</locatie> tot <locatie>brussel</locatie>, <locatie>d&apos; apdije van</locatie></l>
+					<l><locatie>van de nonnen van grooten bijgaerden</locatie>, ende</l>
+					<l>leijd begraeven tot <locatie>affligem</locatie>.</l>
+					<l>in het jaer <datum datum='1152-xx-xx'>1152</datum>. begonst het <locatie>beggijn hof</locatie> tot</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>5</pagenumber>.</l>
+					<l><locatie>brussel</locatie>, ende is eerst gefondeert tot <locatie>molenbeek</locatie>, ende</l>
+					<l>aldaer gebleven tot dat het door de oorlogen in de</l>
+					<l>stadt gekomen is.</l>
+					<l>in het jaer <datum datum='1249-xx-xx'>1249</datum>. was de eerste fondatie tot <locatie>brussel</locatie></l>
+					<l>van de lieve vrouwe broeders ten tijde van <persoonsnaam>Sint</persoonsnaam></l>
+					<l><persoonsnaam>Simon Stock</persoonsnaam>.</l>
+					<l>in het jaer <datum datum='1320-xx-xx'>1320</datum>. quamen er 500 ruijters uijt <locatie>vlaenderen</locatie></l>
+					<l>in <locatie>braband</locatie>, afbrandende het klooster van <locatie>affligem</locatie>,</l>
+					<l>beneffens eenige dorpen: dit verstaende de <locatie>brusselaers</locatie>,</l>
+					<l>Vertrokken uijt de stadt 26. edele ridders met eene</l>
+					<l>groote menigte van borgers ende andere gewillige.</l>
+					<l>die de <locatie>vlamingen </locatie>tusschen <locatie>alst </locatie>en <locatie>assche </locatie>hebben</l>
+					<l>verslagen mede brengende 150. gevangenen.</l>
+					<l>in het jaer <datum datum='1345-xx-xx'>1345</datum>. wiert tot <locatie>brussel </locatie>den eersten steen</l>
+					<l>geleijd van <locatie>sinte Clara Clooster</locatie>.</l>
+					<l>In het jaer <datum datum='1346-xx-xx'>1346</datum>. arriveerde van <locatie>antwerpen </locatie>tot</l>
+					<l><locatie>brussel </locatie>het mirakuleus beeld van onse lieve</l>
+					<l>vrouwe op de <locatie>savel</locatie>.</l>
+					<l>In het jaer <datum datum='1352-xx-xx'>1352</datum>. is den eersten steen geleijd van</l>
+					<l>de halle of het <locatie>koren huijs</locatie> genaemt.</l>
+					<l>in het jaer <datum datum='1356-xx-xx'>1356</datum>. heeft den <persoonsnaam>hertog weneslaus</persoonsnaam>,</l>
+					<l>ontrent <locatie>brussel </locatie>eenen grooten slagh geslagen,</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l><pagenumber>6</pagenumber></l>
+					<l>tegen <persoonsnaam>ludovicus grave</persoonsnaam> van <locatie>vlanderen </locatie>in de welke</l>
+					<l>de <locatie>brabanders </locatie>de neerlaeg krijgende, wiert <locatie>brussel</locatie></l>
+					<l>ingenomen en geplundert.</l>
+					<l>in het jaer <datum datum='1357-xx-xx'>1357</datum>. maekte men tot <locatie>brussel </locatie>de</l>
+					<l>nieuwe buijten vesten.</l>
+					<l>In het jaer <datum datum='1357-xx-xx'>1357</datum>, heeft een <persoonsnaam>edelman Sr. herclaus</persoonsnaam></l>
+					<l>genaemt met eenige gevlughte borgers niet</l>
+					<l>konnende lijden dat de <locatie>vlaemingen </locatie>dese stadt</l>
+					<l>bezaten, over de mueren der vesten gekomen langs</l>
+					<l>den kant van de <locatie>storm straet</locatie>, die daer af</l>
+					<l>haren naem behouden heeft. zijn naer het</l>
+					<l>stadt huijs geloopen, ende hebben het vendel van</l>
+					<l>de <locatie>vlaemingen </locatie>afgeworpen, ende dat van</l>
+					<l><locatie>braband </locatie>in de plaetse gestelt ende de <locatie>vlamingen</locatie></l>
+					<l>wierden wederom uijt de stadt gejaeght.</l>
+					<l>In het jaer <datum datum='1367-xx-xx'>1367 </datum>viel den <locatie>toren van Sinte nicolaes</locatie></l>
+					<l>op <datum datum='1367-12-05'>Sinte nicasius</datum> avont, waer onder alleenelijck</l>
+					<l>een verken dood bleef.</l>
+					<l>In het jaer <hi rend='strikethrough:true;'>d</hi> <datum datum='1370-xx-xx'>1370</datum>. wierden op ons heer <datum datum='1370-xx-xx'>hemelvaert</datum></l>
+					<l>avont tot <locatie>brussel </locatie>aen de <locatie>wollendries toren</locatie> de</l>
+					<l>joden verbrand, om dat sij het heijlig Sacrament</l>
+					<l>van mirakel hadden gestolen ende gepoignardeert.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>7</pagenumber></l>
+					<l>In het jaer <datum datum='1375-xx-xx'>1375 </datum>begonst men het <locatie>Casteel van</locatie></l>
+					<l><locatie>vilvoorde</locatie> te maeken.</l>
+					<l>In het jaer <datum datum='1376-xx-xx'>1376</datum>. quamen de <locatie>vlamingen </locatie>tot</l>
+					<l><locatie>brussel </locatie>en mijnende de stadt te winnen, maer</l>
+					<l>wierden van de spilsielen uijt-gejaeght, zoo dat er</l>
+					<l>wel 15000. dood bleven.</l>
+					<l>In het jaer <datum datum='1379-xx-xx'>1379</datum>. waren de buijten muren dezer</l>
+					<l>stadt voltrokken.</l>
+					<l>In het jaer <datum datum='1380-xx-xx'>1380</datum>. braekt men af alle huijzen op de</l>
+					<l><locatie>merkt van brussel </locatie>om het stadt huijs te maeken.</l>
+					<l>In het jaer <datum datum='1381-xx-xx'>1381</datum>. op <datum datum='1381-12-05'>sinte nicolaes</datum> avont, sloeg de</l>
+					<l>Werck Klock voor de eerste reijze op <locatie>sinte nicolaes</locatie></l>
+					<l><locatie>toren</locatie>.</l>
+					<l>In het jaer <datum datum='1382-xx-xx'>1382</datum>. wiert den eersten steen geleijd op</l>
+					<l>den vijver om de <locatie>brusselsche poort</locatie> te bouwen.</l>
+					<l>In het jaer <datum datum='1404-xx-xx'>1401</datum>. begonst men dien loffelijcken bouw</l>
+					<l>van het stadt huijs te maeken, ende is begonst op</l>
+					<l>den hoek van de <locatie>steer straet.</locatie></l>
+					<l>In het jaer <datum datum='1405-xx-xx'>1405</datum>. was&apos;er op den <datum datum='1405-xx-xx'>goeden vrijdag</datum></l>
+					<l>eenen schroomelijken brand in de <locatie>Capelle </locatie>parochie,</l>
+					<l>soo dat&apos;er wel 1400 huijzen, ende meer als 4000</l>
+					<l>wolle wever getouwen verbrant zijn.</l>
+					<l>In het jaer <datum datum='1405-xx-xx'>1405</datum>. is er tot <locatie>brussel </locatie>een kind geboren,</l>
+					<l>in <locatie>sinte Catharina parochie</locatie>, drij voeten en vijf</l>
+					<l>duijm lanck waer van dat de moeder in den arrebeijd</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l><pagenumber>8</pagenumber></l>
+					<l>gestorven is, ende het kind is daer naer een groot</l>
+					<l>geleert man geworden.</l>
+					<l>in het jaer <datum datum='1412-xx-xx'>1412</datum>. ontfingen de schutters tot <locatie>brussel</locatie></l>
+					<l>hun eerste kleed van de stadt, te weten tabbaerden</l>
+					<l>van root laken, ter zijde met groen litsen, ende</l>
+					<l>een roode bonnet.</l>
+					<l>In het jaer <datum datum='1420-xx-xx'>1420</datum>. zijn de eerste borgemeesters ende</l>
+					<l>raets mannen uijt de gemeijnten gemaekt.</l>
+					<l>In het jaer <datum datum='1434-xx-xx'>1434</datum>. op <datum datum='1434-11-30'>sinte andries-dag</datum> begonst</l>
+					<l>eenen kouden winter, die duerden aghtien weken</l>
+					<l>lang, en het vriesde dertien weeken soo sterk</l>
+					<l>dat het ijs over al ses vierendeelen dick was.</l>
+					<l>in het jaer <datum datum='1440-xx-xx'>1440</datum>. Wierden op de <locatie>groote merkt</locatie> die</l>
+					<l>ses huijzen gemaekt, te weten: <locatie>de kluijs</locatie>, <locatie>de kreft</locatie>,</l>
+					<l>den wind molen, <locatie>den tinne pot</locatie>, den heuvel, en de</l>
+					<l><locatie>borse</locatie>.</l>
+					<l>In het jaer <datum datum='1442-xx-xx'>1442</datum>. is het loffelijck stadt huijs dezer</l>
+					<l>stadt naer 41 jaeren arbeijds, eerst in staet</l>
+					<l>gebragt</l>
+					<l>In het jaer <datum datum='1443-xx-xx'>1443</datum>. wierd <persoonsnaam>sinte michael</persoonsnaam>, groot</l>
+					<l>zijnde 15 voeten, op den toren gestelt.</l>
+					<l>In het jaer <datum datum='1444-xx-xx'>1444</datum>. wierd tot <locatie>brussel </locatie>voor de eerste</l>
+					<l>reijze, de bier<hi rend='strikethrough:true;'>@</hi> accijse verpaght, voor de somme</l>
+					<l>van 37300 guldens S&apos;jaers.</l>
+					<l>In het selve jaer, was het groot Schietspel</l>
+					<l>tot <locatie>brussel </locatie>soo dat&apos;er van te voren nog noijt</l>
+					<l>daer naer zulks is gezien geweest in geene</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>9</pagenumber></l>
+					<l>steden, want alderleije fruijtboomen wasten op de</l>
+					<l>merkt, gelaeden met fruijt, gelijck zij in de boomgaerde</l>
+					<l>staen ende daer vijvers rontdom, vol van alle sorten</l>
+					<l>van visschen, ende fontijnen daer gedurig rooden</l>
+					<l>en witten wijn uijt sprong.</l>
+					<l>In het jaer <datum datum='1455-xx-xx'>1455</datum>. wierd het stad huijs gemeten,</l>
+					<l>zijnde van boven tot beneden 364 voeten hoog.</l>
+					<l>In het jaer <datum datum='1456-xx-xx'>1456</datum>. is tot <locatie>brussel </locatie>een kind geboeren</l>
+					<l>met twee hoofden, ende al de rest die was gelijck</l>
+					<l>een ander kind dit schepsel die heeft geleeft, tot</l>
+					<l>in het tienste jaer; bij eenen sekeren accusieur.</l>
+					<l><persoonsnaam>joannes timmermans</persoonsnaam>, woonagtig in de <locatie>Capelle parochie</locatie>.</l>
+					<l>In het jaer <datum datum='1463-xx-xx'>1463</datum>. begonst men het <locatie>klooster van</locatie></l>
+					<l><locatie>de eerweerdige paters predicheeren</locatie> te bouwen.</l>
+					<l>In het jaer <datum datum='1471-01-21'>1471. op sinte agnis dag</datum> vertoonde</l>
+					<l>haer eene schroomelijke Comete die bij den naght</l>
+					<l>zoo klaer lightende was als de maen, die eene</l>
+					<l>zekere voorbode was van de aenstaende sterfte,</l>
+					<l>oorlog en dieren tijd.</l>
+					<l>in het jaer <datum datum='1483-05-xx'>1483. in den meij</datum> gaf deze stadt</l>
+					<l>koren uijt door bevel van den <persoonsnaam>hertig maximiliaen</persoonsnaam>,</l>
+					<l>tot 14. stuijvers het zister.</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l><pagenumber>10</pagenumber> jn het jaer <datum datum='1486-xx-xx'>1486</datum>- zijn binnen <locatie>brussel </locatie>ingestelt</l>
+					<l>door den <persoonsnaam>keijzer maximiliaen</persoonsnaam>, ende zijnen zone</l>
+					<l><persoonsnaam>philippus, hertog</persoonsnaam> van <locatie>braband</locatie>, twee vrije jaer</l>
+					<l>merkten.</l>
+					<l>in het jaer <datum datum='1488-xx-xx'>1488</datum>. wierd <locatie>vilvoorden </locatie>van de <locatie>brusselaers</locatie></l>
+					<l>ingenomen, ende meest verbrand.</l>
+					<l>in het jaer <datum datum='1489-xx-xx'>1489</datum>. begonst op <datum datum='1489-06-24'>sint jaensdag</datum> zulke</l>
+					<l>sterfte in geheel <locatie>braband </locatie>ende namentlijck in de stadt</l>
+					<l><locatie>brussel</locatie>, dat&apos;er in alle de parochien dezer stadt, de</l>
+					<l>putten, twelf en viertien voeten diep, maekte dat</l>
+					<l>men met leeders de doode lighaemen met dertig</l>
+					<l>a viertig op malkanderen stapelden, zoo dat in</l>
+					<l>deze sterfte in de stadt <locatie>brussel</locatie>, meer als 38000</l>
+					<l>menschen gestorven zijn, deze vreede peste had</l>
+					<l>zoodanig toegenomen, dat in de geheele stadt van</l>
+					<l><locatie>brussel</locatie>, bij naer geen pastoors ofte priesters meer</l>
+					<l>gevonden en wierden.</l>
+					<l>zoo heeft <persoonsnaam>pater dierick van <locatie>munster</locatie></persoonsnaam>, beroert zijnde</l>
+					<l>met bermhertigheijd, en medelijden zijnen dienst</l>
+					<l>gepresenteert en oorlof van zijnen oversten ver¬</l>
+					<l>zoght, om de pest zieken bij te staen; het welk</l>
+					<l>hij dan nu verkregen heeft, maer op dat <hi rend='strikethrough:true;'>zy</hi> hij</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>11</pagenumber></l>
+					<l>zijn klooster niet en zoude besmetten, zoo heeft hij</l>
+					<l>eene tente op de <locatie>groote merkt</locatie> gestelt, ende daer eenen</l>
+					<l>autaer van een tafel ingestelt of gemaekt; op het</l>
+					<l>welck het alderheijligste sacrament moeste rusten,</l>
+					<l>ende de ziekenen die konden gaen die quaemen</l>
+					<l>daer bij hem, naght en dagh gink hij langs de</l>
+					<l>straeten, binnen en buijten dezer stadt <locatie>brussel </locatie>om</l>
+					<l>de ziekenen de bieght te hooren, en de heijlige</l>
+					<l>sacramenten uijt te rijcken; te voren wetende wie</l>
+					<l>onder die het eerste zoude sterven, die hij eerst</l>
+					<l>diende en hij bleef ongeraekt van de peste. hij</l>
+					<l>hadde eenen koster van een kerke, die de belle en de</l>
+					<l>lanteirne droeg, <hi rend='strikethrough:true;'>de tot</hi> dat dien ook quaem te</l>
+					<l>sterven; daer naer heeft hij niemant meer konnen</l>
+					<l>krijgen, die met hem zoude gaen; dog daerom en</l>
+					<l>heeft hij zijnen jever ende moed niet verloren</l>
+					<l>gegeven maer heeft de lanteirne aen zijn koorde</l>
+					<l>gehangen, ende de Ciborie in zijn reghte hand</l>
+					<l>gehouden, en de belle in zijne slinke hand, om</l>
+					<l>dat hij van de menschen zoude gehoort worden.</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l><pagenumber>12</pagenumber></l>
+					<l>als het nu in den winter geworden was ende</l>
+					<l>begonst te waeijen te regenen, en dat hij het light</l>
+					<l>quaelijck in zijne tente konde brandende houden.</l>
+					<l>zoo is&apos;er eenen brouwer ontrent <locatie>de mert</locatie> geweest.</l>
+					<l>die hem in zijn huijs een Camer heeft gegeven</l>
+					<l>ende ziet wat een wonder godts bermhertigheijd</l>
+					<l>gebenedijdende, als alle de andere brauwerijen</l>
+					<l>van de stadt met ziekte besmet waeren, ende</l>
+					<l>niet brouwen en moghten, is de brouwerije</l>
+					<l>onbesmet gebleven, alzoo dat een iegelijck daer</l>
+					<l>moght bier uijt haelen, jae men heeft bevonden,</l>
+					<l>dat ale de ziekenen die van dit bier dronken,</l>
+					<l>dat zij voorts geneesden: ende de gezonden</l>
+					<l>daer van bewaert wierden.</l>
+					<l>deze pestelenze ziekte heeft geduert twee jaeren</l>
+					<l>lank, zoo dat&apos;er zijn gestorven 38000 menschen.</l>
+					<l>in deze stadt <locatie>brussel</locatie>, gelijck hier boven nog</l>
+					<l>verhaelt is. waer van dat dezen eerweerdigen</l>
+					<l>pater twee en dertig duijsend menschen heeft</l>
+					<l>hun heijlige reghten gegeven ende na dat</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>13</pagenumber></l>
+					<l>hij het volck hadde vermaent tot de danckbaerheijd,</l>
+					<l>als de peste ophiel; zoo heeft hij op den predicstoel</l>
+					<l>verklaert; dat hem van godt geopenbaert was,</l>
+					<l>dat van de 32000 menschen maer twee verdomt</l>
+					<l>en waeren; den eenen uijt oorzaeken dat hij</l>
+					<l>gewanhoopt hadde van de vergiffenisse <hi rend='strikethrough:true;'>zonden</hi></l>
+					<l>zijnder zonden; ende den anderen om dat hij niet</l>
+					<l>en wilde bighten en hadde. aengaende dezen</l>
+					<l>eerweerdigen <persoonsnaam>pater dirick van <locatie>munster</persoonsnaam> </locatie>is geboren</l>
+					<l>in de <locatie>westpalen </locatie>van de stadt <locatie>munster</locatie>; en daerom</l>
+					<l>wort d hij <persoonsnaam>dirick van munster</persoonsnaam> genaemt.</l>
+					<l>eerst heeft hij Augustijn geweest, ende daer naer</l>
+					<l>is hij mindebroeder geworden, en na dat hij in</l>
+					<l><locatie>brussel</locatie>, <locatie>bootendael</locatie>, <locatie>loven</locatie>, en <locatie>hoogstraten</locatie>, zijnen</l>
+					<l>uijtblusschelijken jever getoont hadde, is hij dan</l>
+					<l>eijndelijck binnen <locatie>brussel </locatie>gestorven. den <datum datum='1515-12-11'>11 van</datum></l>
+					<l><datum datum='1515-12-11'>de maend december 1515</datum>.</l>
+					<l>In het jaer <datum datum='1493-xx-xx'>1493</datum>. koste het koren 3 stuijvers</l>
+					<l>het zister, ende de terwe aght stuijvers.</l>
+					<l>In het jaer <datum datum='1493-09-07'>1493 den 7 September</datum> gaf den</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><pagenumber>14</pagenumber></l>
+					<l><persoonsnaam>hertog philippus</persoonsnaam> eenen schoonen prijs te winnen</l>
+					<l>voor de wijken.</l>
+					<l>In het jaer <datum datum='1504-xx-xx'>1504</datum>. was op <datum datum='1504-08-24'>sinte bartholomeus</datum></l>
+					<l><datum datum='1504-08-24'>avont</datum> een groote ardtbevinge, datter in <locatie>brussel</locatie></l>
+					<l>48 huijzen en drij kerken zijn ingevallen, en nog</l>
+					<l>veel beschadigt waren.</l>
+					<l>In het jaer <datum datum='1512-xx-xx'>1512</datum>. heeft den <persoonsnaam>prins Carolus</persoonsnaam>, twelf</l>
+					<l>jaeren oud zijnde onder de groote gilde den vogel</l>
+					<l>afgeschoten.</l>
+					<l>In het jaer <datum datum='1515-xx-xx'>1515</datum>. wierd <persoonsnaam>aerd de beer</persoonsnaam>, tot <locatie>brussel</locatie></l>
+					<l>ter dood verwezen, op het schavot zijnde, en zijn</l>
+					<l>oogen verbonden kreeg twee slagen met het zweert,</l>
+					<l>ende ontliep het tot de paters mindebroeders,</l>
+					<l>ende leefde daer nog veele jaeren tot <locatie>bergen</locatie></l>
+					<l><locatie>op zoom</locatie>; alwaer men hem noemden <persoonsnaam>beerken</persoonsnaam></l>
+					<l><persoonsnaam>alf gereght</persoonsnaam>.</l>
+					<l>In het jaer <datum datum='1516-xx-xx'>1516</datum>. begonst men tot <locatie>brussel </locatie>de</l>
+					<l><locatie>baille van het hof</locatie> te maeken van blouwen</l>
+					<l>steen met schoone figuren van metael daer</l>
+					<l>op ende volmaekt in t jaer <datum datum='1521-xx-xx'>1521</datum>.</l>
+					<l>In het jaer <datum datum='1518-xx-xx'>1518</datum>. begonst men tot <locatie>brussel </locatie>het</l>
+					<l>broodhuijs te maeken van blauwen steen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>15</pagenumber></l>
+					<l>In het zelve jaer heeft <persoonsnaam>vrouwe margareta</persoonsnaam> den</l>
+					<l>vogel afgeschoten, onder de groote gilde dezer stadt.</l>
+					<l>In het jaer <datum datum='1521-10-31'>1521. den laetsten october</datum> vertrokken</l>
+					<l>duijzent mannen uijt de ambaghten dezer stadt</l>
+					<l><locatie>brussel </locatie>naer het beleg van <locatie>doornick</locatie>, het welck</l>
+					<l>overgegaen zijnde, keerde de zelve eerst weder op <datum datum='1521-12-21'>sint</datum></l>
+					<l><datum datum='1521-12-21'>thomas dag</datum>.</l>
+					<l>In het jaer <datum datum='1525-xx-xx'>1525</datum>. is de <locatie>Kostelijke Capelle van het</locatie></l>
+					<l><locatie>hof</locatie> gemaekt.</l>
+					<l>In het jaer <datum datum='1529-10-03'>1529. den derden october</datum> wiert het al¬</l>
+					<l>derheijligste sacrament van mirakel met processie</l>
+					<l>omgedragen, de welke te voren in hondert jaeren</l>
+					<l>niet geweest en hadde.</l>
+					<l>In het zelve jaer zag men in de maent van</l>
+					<l><datum datum='1529-08-xx'>augustus </datum>eene schroomelijke sterre met eenen</l>
+					<l>steert in de loght.</l>
+					<l>In het jaer <datum datum='1531-xx-xx'>1531</datum>. wierd <persoonsnaam>Christianus Koning</persoonsnaam> van</l>
+					<l><locatie>denemarken </locatie>in deze stadt <locatie>brussel </locatie>zijnde, wierd</l>
+					<l>gedaeght door eenen huissier van den souvereijne</l>
+					<l>raede van <locatie>braband</locatie>, om getuijgenisse te geven in</l>
+					<l>zaeken van een proces het welke tusschen twee</l>
+					<l>partiquliere was opgerezen. den Koninck verscheen</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l><pagenumber>16</pagenumber></l>
+					<l> </l>
+					<l>zelfs in perzoon, in dezen raede, op den <datum datum='1531-07-13'>13 julius</datum>,</l>
+					<l>voor dezen l.z raets heer en <persoonsnaam>Commissaris joos</persoonsnaam></l>
+					<l><persoonsnaam>van der dussen</persoonsnaam>, en dede den Eed in zijne handen</l>
+					<l>op zijn Koninglijck woord.</l>
+					<l>In het jaer <datum datum='1534-02-18'>1534, den 18 februarij</datum> wierd den eersten</l>
+					<l>steen geleijd, van de <locatie>Choor van het alderheijligste</locatie></l>
+					<l><locatie>sacrament van mirakel</locatie>.</l>
+					<l>In het jaer <datum datum='1536-xx-xx'>1536</datum>. is den toren van de parochi¬</l>
+					<l>aele <locatie>kerke van sinte goiricx</locatie> tot <locatie>brussel</locatie>, naer</l>
+					<l>16 jaeren arbeijds eerst in staet gebraght.</l>
+					<l>In het jaer <datum datum='1537-xx-xx'>1537 </datum>is uijt <locatie>moskou </locatie>eenen man</l>
+					<l>in de stadt van <locatie>brussel </locatie>gekomen, die tien</l>
+					<l>voet en vier duijm lang was naer dat hij</l>
+					<l>eenige dagen in de stadt gewandelt hadde is</l>
+					<l>hij gestorven; ende is begraven onder de paro¬</l>
+					<l>chie van <locatie>sinte Catharina</locatie>.</l>
+					<l>In het jaer <datum datum='1540-xx-xx'>1540</datum>. is de Societeijd jesu van den</l>
+					<l><persoonsnaam>heijligen Ignatius</persoonsnaam> ingestelt.</l>
+					<l>In het jaer <datum datum='1541-xx-xx'>1541</datum>. heeft men beginnen te graven</l>
+					<l>die wonderlijke scheepvaert van <locatie>brussel </locatie>op</l>
+					<l><locatie>willebroek </locatie>ende volmaekt in het jaer <datum datum='1551-xx-xx'>1551</datum>.</l>
+					<l>In het jaer <datum datum='1546-xx-xx'>1546</datum>. is tot <locatie>brussel </locatie>eene vrouwe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>17</pagenumber></l>
+					<l>geweest met naeme <persoonsnaam>margareta de Koster</persoonsnaam> woon¬</l>
+					<l>aghtig in <locatie>sinte nicolaes</locatie> parochie, die vijf kinders</l>
+					<l>heeft gebaert vier van eender draght die eenige</l>
+					<l>maenden geleeft hebben, ende het waren vier kneghte</l>
+					<l>maer het vijfde die nog het grootste wonder godts</l>
+					<l>is; die en was niet grooter als een muijsken, ende</l>
+					<l>is dood ter wereld gekomen.</l>
+					<l>In het jaer <datum datum='1549-03-12'>1549 den 12 meert</datum> wiert&apos;er tot <locatie>brussel</locatie></l>
+					<l>twee mael aerdbevinge gevoelt.</l>
+					<l>In het jaer <datum datum='1564-02-19'>1564. den 19 februarij</datum>, zag men in de</l>
+					<l>loght een schroomelijck vuer over de stadt <locatie>brussel</locatie>.</l>
+					<l>In het jaer <datum datum='1567-xx-xx'>1567 </datum>worter verhaelt een wonderlijke</l>
+					<l>voorzegginge van <persoonsnaam>jean spel provoost ofte land-drost</persoonsnaam></l>
+					<l>in <locatie>braband </locatie>die gemeijnelijck noemt de roode roede,</l>
+					<l>te weten dat <hi rend='strikethrough:true;'>doctordock</hi> <persoonsnaam>doctoor gemma frisius</persoonsnaam></l>
+					<l>dezen <persoonsnaam>joan spel</persoonsnaam> zijn eijnde uijt de nativiteijd <hi rend='strikethrough:true;'>van</hi></l>
+					<l>voorzeijd zoude hebben op dezer manieren dezen spel</l>
+					<l>verstaen hebbende, dat <persoonsnaam>doctoor gemma</persoonsnaam> uijt de</l>
+					<l>nativiteijd van den grave van <locatie>hoorne</locatie>, geprognosti¬</l>
+					<l>ceert hadde zijn ongelukkige dood, en hielt niet</l>
+					<l>op soo dikwils als hij tot loven quam, den doctoor</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l><pagenumber>18</pagenumber></l>
+					<l>te quellen; dat hij zijn nativiteijd zou ondersoeken</l>
+					<l>ende wat hem zoude wedervaren bij geschrifte</l>
+					<l>stellen wilde, het welk hij wijgerde; als niet willende</l>
+					<l>met hem te doen hebben, hoe wel hem het zelfde</l>
+					<l>ten lesten, door de menigvuldige quellinge toezeijde:</l>
+					<l>maer als hij het elke reyze uijtstelde om te leveren,</l>
+					<l>zoo zoude Spel fortselijck <hi rend='strikethrough:true;'>gez</hi> tegen hem gezeijd</l>
+					<l>hebben: wel doctoor gij houd met mij uwen spot,</l>
+					<l>maer ik belove U Kan ik eens buijten de mueren</l>
+					<l>krijgen, gij en zult met niemant meer spotten,</l>
+					<l>want ik zal u aen eenen boom doen hangen.</l>
+					<l>daer op doctoor geantwoort zoude hebben, neen</l>
+					<l>provost, gij en zult my niet doen hangen, maer</l>
+					<l>den tijd zal komen dat ik des smorgens vroeg</l>
+					<l>uijt deze stadt reijzen zal, en zal U nog tot</l>
+					<l><locatie>brussel </locatie>naer de galge zien leijden, om te hangen;</l>
+					<l>gevende daer zijn voorzegginge, die hij op zijn</l>
+					<l>nativiteijd gestelt hadde over zeggende: maekt U</l>
+					<l>daer nu vrolijck mede; van welke zoo onverwagte</l>
+					<l>antwoorde hy zoo verbaest werd, dat hij zonder</l>
+					<l>eenig spreken weg gink: daer naer is hem dit</l>
+					<l>alzoo wedervaren in den jaere ons heere <datum datum='1569-xx-xx'>1569</datum>.</l>
+					<l>door dien hij beschuldigt was dat hij zommige,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>19</pagenumber></l>
+					<l>die men voor rebel hiet, ende bij hem gevangen genomen</l>
+					<l>waren, vrij gelaten hadde, hem hebbende met gelt daer</l>
+					<l>toe laten uijtkoopen, dat hij over zijn dienaer tegen het</l>
+					<l>gevoelen van de andere reghters executie gedaen hadde,</l>
+					<l>ende dat hij onder het dekzel der justisie, de onnoosele</l>
+					<l>gequelt, veele verdrukkingen en onbehoorlijke exuctien</l>
+					<l>gedaen hadde.</l>
+					<l>In het zelve jaer den <datum datum='1569-05-23'>23 van meij</datum> is binnen <locatie>brussel</locatie></l>
+					<l>een Kneghjen geboren naer de breedte van drij vingeren</l>
+					<l>lang zijnde, het wierd in <locatie>Sinte gudula Kerke</locatie> gedoopt,</l>
+					<l>ende <persoonsnaam>jan </persoonsnaam>genaemt: al en was het maer ses weken van</l>
+					<l>de moeder ontfangen ende gedragen, noghtans was</l>
+					<l>het volkomen in alle zyne leden. de Koninginne van</l>
+					<l><locatie>Frankrijck</locatie>, ende de Koninginne van <locatie>hongarien </locatie>wilden</l>
+					<l>het zelve zien ende het en leefde maer twee ueren alf.</l>
+					<l>In het jaer <datum datum='1584-xx-xx'>1584</datum>. wierd <locatie>vilvoorde </locatie>aen den Koninck</l>
+					<l>Van <locatie>Spanien </locatie>overgelevert.</l>
+					<l>In het jaer <datum datum='1585-03-10'>1585. den 10 meert</datum> was wedergekeert</l>
+					<l>onder de gehoorzaemheijd van den Koning van <locatie>Spanien</locatie></l>
+					<l>benoemt gouverneur dezer <locatie>nederlanden </locatie>ende stadt</l>
+					<l><locatie>brussel</locatie>. hij was daer en boven gouverneur van</l>
+					<l><locatie>sidnij quesnij</locatie>. Dit was eenen ouden en ervaren</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><pagenumber>20</pagenumber></l>
+					<l>Konings dienaer voorts gesproten uijt <locatie>henegouschen</locatie></l>
+					<l>adel Kolonel van een regement <locatie>Walsch </locatie>voet volk</l>
+					<l>met het welke hij binnen deze stadt is gekomen</l>
+					<l>den <datum datum='1584-03-19'>19 der zelve mant maert</datum>, vergeselt met nog</l>
+					<l>verscheijde andere kompagnien <locatie>walsche </locatie>en <locatie>spaensche</locatie></l>
+					<l>zoldaten.</l>
+					<l>In het jaer <datum datum='1587-xx-xx'>1587</datum>. wiert tot <locatie>brussel </locatie>het koren 18 guld¬</l>
+					<l>en 5 stuijvers het zister verkoght eenen Cabiliauw 12 guld¬</l>
+					<l>en 8 stuijvers elke oester 5 stuijvers eene rogh 4 guld 12 stuijv.</l>
+					<l>In het jaer <datum datum='1589-xx-xx'>1589</datum>. hebben de eerweerdige paters</l>
+					<l>agustijnen alhier hunne wooninge genomen.</l>
+					<l>In het jaer <datum datum='1607-xx-xx'>1607</datum>. begonst men te bouwen het <locatie>klooster</locatie></l>
+					<l><locatie>van de Carmeliterssen</locatie></l>
+					<l>In het jaer <datum datum='1615-xx-xx'>1615</datum>. heeft de doorlugtigste invante met</l>
+					<l>den Kruijs boogh op de <locatie>zavel Kerke</locatie> onder de groote</l>
+					<l>gilde den vogel af geschoten, dat alhier in de</l>
+					<l>Stadt groote vreugde verwekt heeft.</l>
+					<l>In het jaer <datum datum='1619-xx-xx'>1619</datum>. wierd haer van haer bevel van</l>
+					<l>hare hoogheden ingestelt den bergh van bermhertigheijd.</l>
+					<l>In het jaer <datum datum='1649-xx-xx'>1649</datum>. in de mand van <datum datum='1649-05-xx'>meij </datum>heeft zijne</l>
+					<l>hoogheijd den hertog van <locatie>loreijnen</locatie>, onder de Callo¬</l>
+					<l>veniers gilde, den vogel afgeschoten, waer over</l>
+					<l>groote vrolijckheden bedreven wierden.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>21</pagenumber></l>
+					<l>In het jaer <datum datum='1657-xx-xx'>1657</datum>. begonst men de groote en nieuwe</l>
+					<l><locatie>kerke van het beggijn hof</locatie> te bouwen.</l>
+					<l>In het jaer <datum datum='1659-xx-xx'>1659</datum>. vertrok zijn Koninglijke hoogheijd,</l>
+					<l><persoonsnaam>don joan van <locatie>oostenrijck</locatie></persoonsnaam>, naer <locatie>Spaninen</locatie>, latende voor</l>
+					<l>gouverneur der <locatie>nederlanden</locatie>, den <persoonsnaam>marck graef de</persoonsnaam></l>
+					<l><persoonsnaam>Caracena</persoonsnaam>.</l>
+					<l>In het jaer <datum datum='1660-03-18'>1660. den 18 meert</datum> is den vrede tot</l>
+					<l><locatie>brussel </locatie>gepubliceert, tusschen den Koning van <locatie>Spanien</locatie></l>
+					<l>ende den Koninck van <locatie>Vrankrijck</locatie>.</l>
+					<l>In het jaer <datum datum='1664-12-xx'>1664. in de maend van december</datum> is&apos;er</l>
+					<l>in de loght gesien geweest eene sterre met eenen</l>
+					<l>langen steert.</l>
+					<l></l>
+					<l>In het jaer <datum datum='1666-02-24'>1666. den 24. februarius</datum>, is tot <locatie>brussel</locatie></l>
+					<l><persoonsnaam>Carolus den tweeden, als hertog</persoonsnaam> van <locatie>braband </locatie>gehult.</l>
+					<l>In het jaer <datum datum='1670-xx-xx'>1670</datum>. is tot <locatie>brussel </locatie>geviert het drijhondert¬</l>
+					<l>jaerig jubilee van het heijlig sacrament van mirakel.</l>
+					<l>In het jaer <datum datum='1684-02-xx'>1684. in de mand van februarius</datum> vriesde</l>
+					<l>het al zoo sterk, dat men t <locatie>antwerpen </locatie>met peerden</l>
+					<l>ende wagens liep over <locatie>de schelde</locatie>.</l>
+					<l>In het jaer <datum datum='1685-07-31'>1685. den 31 julius</datum>, is de heude, varende</l>
+					<l>van <locatie>willebroek </locatie>naer <locatie>antwerpen</locatie>, door den sterken wind</l>
+					<l>in <locatie>de schelde</locatie> omgesmeten ende gezonken.</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l><pagenumber>22</pagenumber></l>
+					<l>In het jaer <datum datum='1687-01-27'>1687. den 27 januwarius</datum>, was tot</l>
+					<l><locatie>mechelen </locatie>het misverstand van de maen blusscherije,</l>
+					<l>In het jaer <datum datum='1692-03-26'>1692. den 26 meert</datum>, heeft den hertog</l>
+					<l>van <locatie>beijeren</locatie>, tot <locatie>brussel </locatie>zijnen <hi rend='strikethrough:true;'>zij</hi> intree gedaen.</l>
+					<l>In het jaer <datum datum='1695-08-14'>1695, op den 14</datum> en <datum datum='1695-08-15'>15 augustus</datum>, door een</l>
+					<l>al te groot onbermhertig bevel van <persoonsnaam>ludovicus den 14.</persoonsnaam></l>
+					<l><persoonsnaam>Koninck</persoonsnaam> van <locatie>vrankrijck</locatie>, die door een onmenschelijke</l>
+					<l>quaetaerdigheijd heeft doen onverzints, als de gealli¬</l>
+					<l>eerde maghten zaemen getrokken waer tot de</l>
+					<l>belegering der stadt en <locatie>casteel van naemen</locatie>,</l>
+					<l>overvallen ende de stadt met 33 mortieren gebom¬</l>
+					<l>bardeert, bijgevoeght, een groot getal canon, die</l>
+					<l>tusschen beijde continuelijck schoten met <hi rend='strikethrough:true;'>aglo</hi></l>
+					<l>geloeijende ballen, een zoo schrikkelijken brand</l>
+					<l>veroorzaekten, ende vervolgens tot ruwien gebrogt</l>
+					<l>hebben het schoonste van de stadt, en der pragtig¬</l>
+					<l>ste gebouwen, in stof en a<hi rend='strikethrough:true;'>f</hi>schen geleijd, niet </l>
+					<l>tegenstaende, dat door de onvermoelijke onvoorzig-</l>
+					<l>tigheijd van den hertog van <locatie>beijeren </locatie>gouverneur</l>
+					<l>der <locatie>nederlanden</locatie>, diversche huijzen zijn overgehaelt,</l>
+					<l>en doen springen, om zoo de hevigheijd des viers</l>
+					<l>te stutten eventwel de vlammen deurschietende,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>23</pagenumber></l>
+					<l>in de nouste straeten maekte zulken confusie, en</l>
+					<l>verbaestheijd onder het volk en borgerije, dat daer</l>
+					<l>geen order gehouden kost worden, om dit woedende</l>
+					<l>vier te blusschen, door dien dat daer den brand ontstont,</l>
+					<l>continuwelijck door den vijandt met bommen wierd</l>
+					<l>geworpen, daer door onmogelijck iet te bergen was ofte</l>
+					<l>te vlughten, maer moste troosteloos hunne goederen</l>
+					<l>zien verbranden, ende tot asschen consumeren het</l>
+					<l>gekrijd geschreeuw en gejammer, klom tot den hemel op,</l>
+					<l>en deden de menschen de haijren reijzen, den hertog</l>
+					<l>van <locatie>baijeren</locatie>, met veele voornaemste stats perzoonen</l>
+					<l>reden gedurig tusschen het vallen van menigte</l>
+					<l>bommen, door de stadt, zoghten alle mogelijke middelen</l>
+					<l>aen te wenden tot behoudenisse van de borgereij,</l>
+					<l>ende het beschermen haerder goederen, ende troosteloos</l>
+					<l>een hert in het lijf te spreken deden al dat in een</l>
+					<l>grooten noodt verheijste, men zag bij duijzende</l>
+					<l>menschen in arrebeijd om uijt de huijzen die nog</l>
+					<l>niet door de vlammen geraekt of verteert waren,</l>
+					<l>beste goederen naer de hoogte van de stadt vlughten,</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l><pagenumber>24</pagenumber></l>
+					<l>veele bergden hun in de warande van het</l>
+					<l>hof, de moeders met hare kinderen liepen langs</l>
+					<l>de straeten troosteloos, alles verlatende hebben</l>
+					<l>de andere raekten de poorten uijt, begaven hun</l>
+					<l>als verloren schaepen, dolende op onbekende wegen,</l>
+					<l>zoo dat de man van zijn vrouw, de kinderen</l>
+					<l>van hunne vaders als ballingen van malkande¬</l>
+					<l>ren gescheijden waeren, dit bombarderen oft</l>
+					<l>om beter te zeggen onmenschelijke vreetheijd</l>
+					<l>twee dagen en twee naghten geduert hebbende,</l>
+					<l>zag men door de vlammen te neer gestoot,</l>
+					<l>gebrand, verwoest, en in asschen liggende <hi rend='strikethrough:true;'>388</hi></l>
+					<l>3830. huijzen, waer onder zijn veele winkels</l>
+					<l>van alle kostelijke waeren en uijtmuntende</l>
+					<l>koopmanschappen, als goud, zilver en dierbare</l>
+					<l>gesteenten, lijnwater, Cramerij, seijde stoffen,</l>
+					<l>wolle, lakenen, boeter Caes, geheele biblioteken</l>
+					<l>van boekken &amp;<hi rend='superscript:true;'>c</hi>, onmogelijck om alles te noemen,</l>
+					<l>welke gedeelte van de Stadt boven in de afbeel¬</l>
+					<l>ding al brandende, en verbrand vertoont wordt,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>25</pagenumber></l>
+					<l>hoe het daer gestelt was dat kan een ieder gissen</l>
+					<l>z daer zoo groot getal van menschen ontbloot van</l>
+					<l>hunne huijzen ende alle onderhoud in d&apos;open loght</l>
+					<l>onder den blouwen hemel moeten logeren en gespijst</l>
+					<l>worden, van de naburige steden, haere schade te</l>
+					<l>rekenen is niet wel mogelijck, daer zoo groote Coop¬</l>
+					<l>stadt, voor het schoonste gedeelte in de asschen leijd.</l>
+					<l>Beschrijvinge van het droovig nood lot</l>
+					<l>der <locatie>fransche </locatie>bombarderinge aen stadt <locatie>brussel</locatie></l>
+					<l>van de eerste plaetse daer het vuer van</l>
+					<l>de bommen gevat heeft, makende een</l>
+					<l>omkeer tot aen <locatie>de groote meert</locatie> ende</l>
+					<l>omliggende plaetsen, alwaer dat bezon¬</l>
+					<l>derlijck de verwoestige begonst ende</l>
+					<l>geeijndight heeft, om aen den curieuzen</l>
+					<l>lezer beter de inbeelding te geven.</l>
+					<l>is het met stippen in zijn ronde aengewesen.</l>
+					<l>Soo haest het Canon, gloeijende kogels, en bommen</l>
+					<l>zonder ophouden wierden geschoten gedurende</l>
+					<l>den tijd van twee mael vier en twintig Ueren,</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><pagenumber>26</pagenumber></l>
+					<l>en dat met 33. mortieren seffens zoo zag men</l>
+					<l>aenstons vernielen en tot puijn hoopen brengen</l>
+					<l>alle deze naervolgende kerken, palijzen en huijzen</l>
+					<l>der stadt <locatie>brussel</locatie>, beginnnende eerst met een groot</l>
+					<l>deel van de <locatie>spaensche Casernen</locatie>, en Corps der guarde</l>
+					<l>op <locatie>de oude meert</locatie> met het meesten deel van de</l>
+					<l>huijzen aen dat gewest; voorder het geheel <locatie>klooster</locatie></l>
+					<l><locatie>en de Capelle van de swerte zusters</locatie>, en eenige</l>
+					<l>huijzen rond om van daer in <locatie>sinte gierickx</locatie>, van</l>
+					<l>welke kerke maer eene Capelle beschadight is,</l>
+					<l>voorts loopende naer <locatie>sinte Catharina kerke</locatie>, alwaer</l>
+					<l>twee bommen door het welfsel gedrongen zijn, ende</l>
+					<l>daer bight en predickstoel hebben gemorselt en het</l>
+					<l>grootste gedeelten van de gelazen gebrijselt; van daer</l>
+					<l>ziet men de <locatie>kieke meert</locatie> met het geheel <locatie>mindebroe¬</locatie></l>
+					<l><locatie>ders klooster</locatie> tot den grond verbrand niet over</l>
+					<l>blijvende als den verbranden overschot, van onverteerbaer</l>
+					<l>steenen, de gantsche <locatie>melk-meert</locatie>; <locatie>de oude kleerkoopers</locatie></l>
+					<l><locatie>staet</locatie>, met de <locatie>kerke en klooster van betania</locatie>, nu</l>
+					<l>genaemt de <locatie>magdalena</locatie>, van daer ziet men in</l>
+					<l>allende liggende koninglijke munte met alle de</l>
+					<l>huijzen dependerende aen dit gebouw: het zelve</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>27</pagenumber></l>
+					<l>lot is ook overkomen aen een menigte van andere</l>
+					<l>daer ontrent staende, zig keerende haer de groote staet</l>
+					<l>genaemt <locatie>de graght</locatie>, daer en ziet men op den reghten</l>
+					<l>kant anders niet als neergestorte huijzen, waer langs</l>
+					<l>men ontdeckt het verderf van het <locatie>klooster en de kerke</locatie></l>
+					<l><locatie>der predicheeren</locatie>, het <locatie>huijs van den hertog van holsteijn</locatie>,</l>
+					<l>dat van den grave van <locatie>bergijck</locatie>, en de <locatie>Capelle van sinte</locatie></l>
+					<l><locatie>Eloij</locatie> en het meeste gedeelte van dien teerlinck climm¬</l>
+					<l>ende van daer haer de <locatie>berg straet</locatie> daer ziet men in</l>
+					<l>het verbijgaen het schoon <locatie>huijs van aertschot</locatie>, geheelijck</l>
+					<l>van den grond gelijck afgeschoren met alle de huijzen</l>
+					<l>die het zelve omringen, gekomen zijnde in de <locatie>bergstraet</locatie>,</l>
+					<l>en het gezight keerende naer de <locatie>gersemeert</locatie>, daer</l>
+					<l>ontdeckt zig de heele <locatie>groote meert</locatie>, en oock de genoemde</l>
+					<l>straeten van weder zijden, van en met de vier eemers</l>
+					<l>ganschelijck verbrand, als mede de <locatie>Capelle van sinte</locatie></l>
+					<l><locatie>anna</locatie>, verlatende des struklie van de <locatie>berg straet</locatie> op¬</l>
+					<l>klimmende naer de <locatie>houd meert</locatie>, komt men in de</l>
+					<l><locatie>langewage straet</locatie> hier ziet men de putterij die</l>
+					<l>anders niet en vertoont als eenen hoop steenen de</l>
+					<l><locatie>magdaleene kerk</locatie>, en de straet genaemt <locatie>den steenweg</locatie>,</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l><pagenumber>28 </pagenumber>tot de helft van het zelve, op houdende aen de</l>
+					<l>seeperij van <persoonsnaam>sr. mols</persoonsnaam>, het welke overgebleven is,</l>
+					<l>van daer gaende naer de <locatie>spoormaekers straet</locatie>,</l>
+					<l>de <locatie>kesemeert</locatie>, de <locatie>kerke van Sinte jans gast-huijs</locatie></l>
+					<l>ende eenige huijsen van die straete, met het huijs</l>
+					<l>van den prins van <locatie>Chimij</locatie>, het welk zijn Cheurvorste¬</l>
+					<l>lijke hoogheijd den hertog van <locatie>beijeren </locatie>in zijne</l>
+					<l>tegenwoordigheijd heeft doen ondermeijnen en corts</l>
+					<l>daer naer doen springen om dat de vlammen</l>
+					<l>niet voorder en zoude loopen, en de geheele <locatie>graen</locatie></l>
+					<l><locatie>meert</locatie> op gaende naer de <locatie>Steen poort</locatie>, tot aen</l>
+					<l>de afspanning den hert, alle deze plaetsen hebben</l>
+					<l>de vlammen niet konnen ontgaen als men van</l>
+					<l>de <locatie>groote meert</locatie> gaet om te komen tot de l<locatie>ieve</locatie></l>
+					<l><locatie>vrouwe broeders</locatie>, daer vertoont hem een spectakel</l>
+					<l>van rieujnen, want alles is aldaer door het</l>
+					<l>bombarderen tot gruijs gemaekt, de kerke en</l>
+					<l>het zelve klooster van de selve paters de geheele</l>
+					<l>geburte tot de <locatie>walsche plaetse</locatie> in <locatie>Clues</locatie>, met</l>
+					<l>tien en twelf huijzen, in de <locatie>Cellebroeders straet</locatie>,</l>
+					<l>de nieuwe opgetrokken <locatie>kerk van onze lieve vrouwe</locatie></l>
+					<l><locatie>van bijstant</locatie>, met vier straten die rontom de</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>29</pagenumber></l>
+					<l>zelve zijn uijtgenomen den berg van bermertigheijd</l>
+					<l>die mirakeleuselijck is blijven staen, zijn alles door</l>
+					<l>het verslindende vier tot niet gemaekt.</l>
+					<l>het gelijck gebouw van het stadt huijs, is tot den grond</l>
+					<l>toe verdelgt, niet overlaetende als eenige mueren,</l>
+					<l>maer alles met papieren, previlegien, registers,</l>
+					<l>ende andere rariteijten door de woedende vreedheijd</l>
+					<l>aen den brand opgeoffert.</l>
+					<l>het vermaert <locatie>brood-huijs</locatie>, met alle de schoone huijzen</l>
+					<l>van de gilde, staende op de <locatie>meert</locatie>, met een menigte</l>
+					<l>van zilver werck, ende oude giften, zijn al door de</l>
+					<l>gierigheijd des viers ingeslockt, niet overlaetende</l>
+					<l>als eenige ontbrekbaere stukken steen.</l>
+					<l>de <locatie>kerke van sinte nicolaes</locatie> is het geheel dak</l>
+					<l>in het welfsel ingevallen en verbrand; alle de</l>
+					<l>schoone klokken met de orlogie den onwaerdeerbae¬</l>
+					<l>ren en aengenamen beaijard, is met toren en al</l>
+					<l>aen de ongenade des viers ten besten geweest, de</l>
+					<l>gantsche <locatie>beenhouwers straet</locatie>, de <locatie>gerse mert</locatie>, de </l>
+					<l>kerke en het <locatie>klooster der brigittienen</locatie>, en het dak</l>
+					<l>van de <locatie>Capelle kerk</locatie> zijn ook niet verschoont</l>
+					<l>geweest van dien onbermhertigen brand. soo dat</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l><pagenumber>30</pagenumber></l>
+					<l>men rekent dat door het Vier Vergaen zijn 3830.</l>
+					<l>huijzen en 460. grootelijkx beschadight, met de naervol¬</l>
+					<l>gende Kerken.</l>
+					<l>Beschrijvinge van de Kerken der stadt</l>
+					<l><locatie>brussel </locatie>die door desen brand beschadigt</l>
+					<l>ende verbrand zijn geweest.</l>
+					<l>De <locatie>kerke van S. geurickx</locatie>, is verbrand geweest</l>
+					<l>voor een gedeelte.</l>
+					<l>de <locatie>kerke van Sinte Catharina</locatie> is verbrand geweest</l>
+					<l>voor een gedeelte.</l>
+					<l>de <locatie>kerke en klooster van de mindebroeders</locatie> is geheelijck</l>
+					<l>verbrand geweest.</l>
+					<l>het <locatie>klooster van betanie, ende nu magdaleene</locatie> genoemt</l>
+					<l>is geheelijck verbrand.</l>
+					<l>het <locatie>predicheeren klooster met de kerk</locatie> is ook geheel</l>
+					<l>verbrand.</l>
+					<l>de <locatie>Capelle van Sinte Eloij</locatie> is ook geheel verbrand.</l>
+					<l>de <locatie>Capelle van Sinte anna</locatie> is ook geheel verbrand.</l>
+					<l>de <locatie>kerk van S. jans gasthuijs</locatie>, is ook geheel verbrand.</l>
+					<l>de <locatie>kerke en het klooster van de lieve vrouwe broeders</locatie> is</l>
+					<l>ook geheel verbrand.</l>
+					<l>de <locatie>kerke van onze lieve vrouwe ten bijstand</locatie> is ook</l>
+					<l>geheel verbrand.</l>
+					<l>de <locatie>kerke van St nicolaes</locatie> is geheel verbrand.</l>
+					<l>het <locatie>brood huijs</locatie> geboud door de <persoonsnaam>arts, hertoginne Isabella</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>31</pagenumber></l>
+					<l><datum datum='1424-xx-xx'>1424</datum>. is ook geheel verbrand,</l>
+					<l>het <locatie>stadt huys</locatie>, die men begonst te bouwen <datum datum='1402-xx-xx'>1402</datum>, ende</l>
+					<l>volmaekt <datum datum='1454-xx-xx'>1454</datum>. is geheel verbrand behalven den toren.</l>
+					<l>de <locatie>sweerte zusters</locatie> zijn geheel verbrand</l>
+					<l>de <locatie>brigittienen </locatie>zijn geheel verbrand</l>
+					<l>het <locatie>Clooster van jerico</locatie>, een weijnig beschadight.</l>
+					<l>het <locatie>Clooster van de beggaerden</locatie> een weijnig beschadight.</l>
+					<l>Exacte lijste.</l>
+					<l>van alle de ruinen; der princelijke Stadt</l>
+					<l><locatie>brussel </locatie>door de <locatie>fransche </locatie>bombaerderinge</l>
+					<l>veroorzaekt: opgenomen door expresse</l>
+					<l>ordre van de majestraet der selve stadt</l>
+					<l>aenwijzende de straeten meertten door</l>
+					<l>den brand vergaen, en geschonden.</l>
+					<l>De meerten.</l>
+					<l>De straeten.</l>
+					<l>de <locatie>groote meert</locatie>.</l>
+					<l>de <locatie>harnas maekers straet</locatie>.</l>
+					<l>den <locatie>kieke Meert</locatie>.</l>
+					<l>de <locatie>magdaleene straet</locatie>.</l>
+					<l>de<locatie> pens meert</locatie>.</l>
+					<l>de <locatie>putterij</locatie>.</l>
+					<l>de <locatie>gerse meert</locatie>.</l>
+					<l>de <locatie>bergh straet</locatie>.</l>
+					<l>de <locatie>Kaese meert</locatie>.</l>
+					<l>de <locatie>langewage straet</locatie>.</l>
+					<l>de <locatie>polder meert</locatie>.</l>
+					<l>de <locatie>bonten hos straet</locatie>.</l>
+					<l>de <locatie>Cole meert</locatie>.</l>
+					<l>de <locatie>greeps - straet</locatie>.</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l><pagenumber>32</pagenumber></l>
+					<l>de <locatie>Craentiens straet</locatie>,</l>
+					<l>de <locatie>beenhouwers straet</locatie>,</l>
+					<l>de <locatie>korte ridders straet</locatie>,</l>
+					<l><locatie>de munte</locatie>,</l>
+					<l>de graght van die zeijde,</l>
+					<l>de <locatie>melk straet</locatie>,</l>
+					<l>de straeten rontom <locatie>S nicolaes</locatie>,</l>
+					<l>de <locatie>kestemanneken straet</locatie>.</l>
+					<l>de <locatie>oudekleerkoopers straet</locatie>,</l>
+					<l>de <locatie>verciers straet</locatie>,</l>
+					<l>de <locatie>heirink straet</locatie>,</l>
+					<l>de <locatie>heuver straet</locatie>,</l>
+					<l>de <locatie>boter straet</locatie>,</l>
+					<l>de <locatie>steen straet</locatie>,</l>
+					<l>de <locatie>hoeijstraet</locatie>,</l>
+					<l>de <locatie>hoijmaekers straet</locatie>,</l>
+					<l>de <locatie>stoof straet</locatie>,</l>
+					<l>de <locatie>gasthuijs straet</locatie>,</l>
+					<l>het <locatie>koren huijs</locatie>,</l>
+					<l>de <locatie>katte straet</locatie>,</l>
+					<l>het <locatie>manheken pis</locatie>,</l>
+					<l>de <locatie>raep straet</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>eenige huijzen op de</l>
+					<l><locatie>walsche plaets</locatie>,</l>
+					<l>eenige huijzen in de</l>
+					<l><locatie>Cellebroeders straet</locatie>,</l>
+					<l>de <locatie>Okeleij straet</locatie>,</l>
+					<l>de <locatie>priem straet</locatie>,</l>
+					<l>de <locatie>steenhouwers straet</locatie>,</l>
+					<l>de <locatie>proost straet</locatie>,</l>
+					<l>de <locatie>Eijcke straet</locatie>,</l>
+					<l>de <locatie>verver straet</locatie>;</l>
+					<l>de <locatie>beggaerde straet</locatie>;</l>
+					<l>eenige huijzen in de</l>
+					<l><locatie>schip straet</locatie>,</l>
+					<l>veele huijzen op den</l>
+					<l><locatie>alderlegschen Steenwegh</locatie></l>
+					<l>daer en boven hier en</l>
+					<l>daer eenige huijzen aen</l>
+					<l>den vaert kant</l>
+					<l>Volgens calculatie vint</l>
+					<l>men 3820. huijsen</l>
+					<l>geruineert en verbrand.</l>
+					<l>ende ontrent 460</l>
+					<l>zeer beschadight;</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>33</pagenumber></l>
+					<l>Deze Schade word dan gerekent op</l>
+					<l>22 a 23. milioenen, hier onder begrepen</l>
+					<l>alle de verbrande ende verdestrueerde</l>
+					<l>meubelen en koopmanschappen.</l>
+					<l>In het jaer <datum datum='1696-11-07'>1696 den 7. november</datum>, ontrent drij ueren naer</l>
+					<l>den noen, viel den toren van den spiegel op de <locatie>gras¬</locatie></l>
+					<l><locatie>meert</locatie>, nedertrekkende twee huijsen van het goud-smit</l>
+					<l>ambaght die onder den zelven toren eenen nieuwen</l>
+					<l>onderslag wilden maeken, en den zelven ondersteunende</l>
+					<l>met joffers, die het gewight van dezen toren niet en</l>
+					<l>konden dragen.</l>
+					<l>In het jaer <datum datum='1698-xx-xx'>1698</datum>. schoot <persoonsnaam>maximiliaen Emanuel, hertog</persoonsnaam></l>
+					<l>van <locatie>beijeren</locatie>, den vogel af, aen de wollendries toren,</l>
+					<l>onder de caloveniers, gilde waer voor dat hij deze</l>
+					<l>gilde heeft doen kleeden, in zeer praghtige Kleederen.</l>
+					<l>In het jaer <datum datum='1701-02-24'>1701. den 24 februarius</datum> is het <locatie>frans</locatie></l>
+					<l>leger oft garnisoen, in <locatie>brussel </locatie>en <locatie>antwerpen </locatie>geleijd,</l>
+					<l>ende den <datum datum='1701-05-15'>15. meij</datum> heeft den keijzer, en <locatie>engeland</locatie>,</l>
+					<l>en <locatie>holland</locatie>, den oorlog gedeclareert aen <locatie>vrankrijck</locatie></l>
+					<l>In het jaer <datum datum='1706-xx-xx'>1706</datum>. is tot <locatie>brussel</locatie>, rotdom <locatie>sinte</locatie></l>
+					<l><locatie>gudula kerke</locatie>, de trap ende de balustrade gemaekt,</l>
+					<l>In het jaer <datum datum='1706-05-23'>1706. den 23 meij</datum> hebbe de geallieerde,</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l><pagenumber>34</pagenumber></l>
+					<l>onder den hertog van <locatie>malbourg</locatie>, het <locatie>franch </locatie>ende</l>
+					<l>het <locatie>spaensch </locatie>leger in routen geslagen, korts</l>
+					<l>daer naer hebben de steden, <locatie>loven</locatie>, <locatie>brussel</locatie>, <locatie>antwerpe</locatie>,</l>
+					<l><locatie>mechelen</locatie>, <locatie>lier</locatie>, <locatie>gend</locatie>, <locatie>brugge</locatie>, etz. sig overgevende</l>
+					<l>aen de geallieerde, voor <persoonsnaam>Carolus den derden</persoonsnaam>.</l>
+					<l>In het jaer <datum datum='1708-11-22'>1708. den 22 november</datum>, heeft</l>
+					<l><persoonsnaam>maximiliaen, hertog van <locatie>beijeren</locatie></persoonsnaam>, <locatie>brussel </locatie>belegert</l>
+					<l>maer zoo haest als zij vernomen hadden dat</l>
+					<l>den hertog van <locatie>malbourg</locatie>, met het geallieert leger</l>
+					<l>over <locatie>de schelde</locatie> was getrokken om de Stadt te</l>
+					<l>ontzetten, is hij verplight geweest het beleg op</l>
+					<l>te breken, den <datum datum='1708-11-27'>27</datum>. dito, aghterlatende alle zijn</l>
+					<l>geschut etz.</l>
+					<l>In het jaer <datum datum='1709-xx-xx'>1709</datum>, in <datum datum='1709-01-xx'>Januarius</datum>, <datum datum='1709-02-xx'>februarius</datum>, <datum datum='1709-03-xx'>meert</datum>,</l>
+					<l>en <datum datum='1709-04-xx'>april </datum>heeft het zoo sterk gevrosen, dat men</l>
+					<l>over de <locatie>zuijd-zee</locatie> gegaen, als over het land:</l>
+					<l>en dat het koren ende terve, en veel boomen</l>
+					<l>waeren in de aerden bevrosen, het welk eenen</l>
+					<l>grooten dieren tijd veroorzaekte:</l>
+					<l>In het jaer <datum datum='1710-xx-xx'>1710</datum>. wierd het koren 9 - 16 stuijvers</l>
+					<l>het zister verkoght, ende de terwe 16 guldens</l>
+					<l>het zister.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>35</pagenumber></l>
+					<l>In het zelve jaer den <datum datum='1710-09-11'>11 september</datum>, is den slagh</l>
+					<l>van <locatie>malplaquet </locatie>geslagen.</l>
+					<l>In het jaer <datum datum='1714-07-29'>1714. den 29 julius</datum> S&apos;avonds ontrent tien</l>
+					<l>ueren is den <locatie>toren van sinte nicolaes</locatie> gevallen,</l>
+					<l>ende beschadight door zijnen val ontrent twintig</l>
+					<l>omliggende huijzen, als mede de helft van de kerke</l>
+					<l>onder welkers ruinen versmaght is een huijsgezin</l>
+					<l>van vier perzoonen alsoo eijndigde met eenen de</l>
+					<l>vreugde der inwoonders der stadt <locatie>brussel</locatie>, die zij maer</l>
+					<l>eenen korten tijd hebben genoten, door het geluijd</l>
+					<l>van den schoonen bijaerd, die daer op gestelt was.</l>
+					<l>Daer leijd dat trots gebouw, waer jeders oog op zag,</l>
+					<l>het Cieraet van <locatie>brussel</locatie>, is tot puijn en stof herschaepen,</l>
+					<l>het schaemde zig te vallen op den hel&apos;dren dag,</l>
+					<l>waerom het den naght verkoos, als jeder lust te slaepen,</l>
+					<l>dus nedervallende, zoo broomt de hooft klok uijt,</l>
+					<l>wat swakke voeten had dit eerlijck geluijd.</l>
+					<l>in het jaer <datum datum='1717-04-11'>1717. den 11 april</datum> is den cezaer van</l>
+					<l><locatie>moscovien</locatie>, te water uijt <locatie>holland </locatie>binnen <locatie>antwerpen</locatie></l>
+					<l>gearriveert, den <datum datum='1717-04-12'>twelfsten </datum>bezagh hij daer veele</l>
+					<l>kostelijke rariteijten, en Vertrok den <datum datum='1717-04-13'>13 </datum>naer <locatie>brussel</locatie>.</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><pagenumber>36</pagenumber></l>
+					<l>in het zelve jaer is <persoonsnaam>Carel den sesden Keijser</persoonsnaam></l>
+					<l>der  <locatie>romeijnen </locatie>Koninck van <locatie>Spaignien</locatie>, als hertog</l>
+					<l>van <locatie>braband </locatie>gehult, den <datum datum='1717-10-08'>8 october</datum> ende besworen</l>
+					<l>den <datum datum='1717-10-11'>ii </datum>der selve maendt in den jaere <datum datum='1717-xx-xx'>1717</datum>.</l>
+					<l>In het selve jaer <datum datum='1717-09-08'>1717. den 8 september</datum>, heeft men</l>
+					<l>tot <locatie>brussel</locatie>, over des Keijzers triomphante overwinnin¬</l>
+					<l>gen ende veroeveren van <locatie>belgrado</locatie>, met groote</l>
+					<l>magnificenti onder het luijden van alle klokken</l>
+					<l>van de stadt den tedeum gezongen, ende de</l>
+					<l>vierige publike maeltijden, ende de vrolijckheden</l>
+					<l>onder de borgers, duerde den geheelen naght, als</l>
+					<l>ook op den volgenden zondag, is het zoo</l>
+					<l>uijtstekende geweest als men uijt diergelijke</l>
+					<l>occasien in deze stadt <locatie>brussel </locatie>gezien heeft.</l>
+					<l>In het zelve jaer <datum datum='1717-05-01'>1717. op den i dag meij</datum> is</l>
+					<l>de majestraet van <locatie>brussel </locatie>verandert, waer van</l>
+					<l>dat de <persoonsnaam>heer decker tot borgemeester</persoonsnaam> gecosen</l>
+					<l>wierd ende mijn heer <persoonsnaam>Cano tot president</persoonsnaam></l>
+					<l><persoonsnaam>schepenen</persoonsnaam> nevens eenige anderen schepenen,</l>
+					<l>en korts daer naer zijn de dekens gekozen,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>37</pagenumber></l>
+					<l>waer door eenige brulle is ontstaen, om hun te</l>
+					<l>doen doen den Eedt, en terwijlen dat zij in de vorige</l>
+					<l>diensten eenige jaeren hebben gedaen den Eedt, op</l>
+					<l>het nieuwt reglement additioneel, gemaekt op den</l>
+					<l><datum datum='1700-08-12'>12 augustij 1700</datum>, zoo hebben deze nieuwe gekosene tot</l>
+					<l>dekens eenige opstokers gehad oft gemaekt van den</l>
+					<l>nieuwen additionelen Eedt van den jaere <datum datum='1700-xx-xx'>1700</datum>, niet te</l>
+					<l>willen doen.</l>
+					<l>terwijlen dat zij verzoghten den ouden Eedt te doen</l>
+					<l>van den <persoonsnaam>hertog albertus</persoonsnaam> ende <persoonsnaam>Isabelle infante</persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>spaignien</locatie></persoonsnaam>, ende van de andere vorige princen</l>
+					<l>ingestelt, zoo dat dit eenigen tijd bleef dueren,</l>
+					<l>eer die gekosenen tot dekens satis factie hadden.</l>
+					<l>zijn daer naer eenige dekens ontboden geweest bij</l>
+					<l>den heer <persoonsnaam>baillee, president van <locatie>mechelen</locatie></persoonsnaam>, ende</l>
+					<l>ook zijn zij ontboden geweest twee a drij reijzen</l>
+					<l>natie voor natie bij den <persoonsnaam>raets heer wijnants</persoonsnaam>,</l>
+					<l>om hun voor te houden tot het doen van den</l>
+					<l>nieuwen Eedt additionelen van den jaeren <datum datum='1700-xx-xx'>1700</datum>.</l>
+					<l>het welke niet en heeft gelukt, zoo dat zij dan</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><pagenumber>38</pagenumber></l>
+					<l>eenige dagen daer naer zijn ontboden geweest bij</l>
+					<l>den <persoonsnaam>prince du ruban pre</persoonsnaam>, ook in het bisdom bij</l>
+					<l>zijn hoogheijd en eerweerdigen den <persoonsnaam>aerts bischop</persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>mechlen </locatie>thomas d&apos;alzace</persoonsnaam> etc;</l>
+					<l>sone van den heer prince van <locatie>simaij</locatie>, waertegens</l>
+					<l>de gekosen tot dekens sterk gestreden hebben, ende</l>
+					<l>niet het minste en hebben willen hooren, van te</l>
+					<l>doen den Eedt van het nieuwe regelement van</l>
+					<l>den jaere <datum datum='1700-xx-xx'>1700 </datum>maer wel te doen den ouden Eedt</l>
+					<l>zoo dat dit nog eenigen tijd bleef duren, eer</l>
+					<l>die gekosenen tot dekens, de welke repesenteren</l>
+					<l>het derde lit dezer stadt <locatie>brussel</locatie>, Conten waeren,</l>
+					<l>het gebeurde dan als dat de heeren staeten</l>
+					<l>van <locatie>braband </locatie>hun daer mede hebben gemoeijt,</l>
+					<l>en verzoghten comissarissen uijt de negen</l>
+					<l>nasien om hun te aenhooren, het welke sij</l>
+					<l>deden, ende de comissarissen gekosen hebbende,</l>
+					<l> Ider een uijt zijn natie nevens de boetmeesters,</l>
+					<l>zijn zij aldan gequart geweest op het stad</l>
+					<l>huijs ter presentie van de heeren Staeten</l>
+					<l>van <locatie>braband</locatie>, neffens comissarissen uijt het</l>
+					<l>majestraet, ende uijt den weijden raede</l>
+					<l>van <locatie>braband</locatie>, hebben de comissarissen van de</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>39</pagenumber></l>
+					<l>negen natien hun daer laten vinden om hun</l>
+					<l>te verantwoorden, zoo dat er al eenige questie</l>
+					<l>voor vielen, waer in de gekozenen tot dekens niet</l>
+					<l>en hebben Connen rejonisseren het gebeurde</l>
+					<l>tusschen beijde dat de huldinge van sijn <persoonsnaam>keijserlijke</persoonsnaam></l>
+					<l><persoonsnaam>majesteijd, Carel den sesde</persoonsnaam> ende den derden van</l>
+					<l>dien naem, Koninck van <locatie>spanien </locatie>etz. aenstaende</l>
+					<l>was, de welke geschiede op den <datum datum='1717-10-11'>ii van October 1717</datum>.</l>
+					<l>met groote praght en pomperijen op de baillie van</l>
+					<l>het hof, daer den heer den <persoonsnaam>marquis de prie</persoonsnaam> represen¬</l>
+					<l>terende sijn keijserlijke majesteijd. heeft aldaer alle de</l>
+					<l>previlesien besworen, gelijck de vorige princen voor</l>
+					<l>dezer tijd hebben gedaen, niet tegenstaende dat</l>
+					<l>de gekosene tot dekens van <locatie>brussel</locatie>, de welke repre¬</l>
+					<l>senterende het derde lit nog in geenen Eedt en waren</l>
+					<l>soo is het daer naer gebeurt als dat d&apos; heeren</l>
+					<l>staeten van <locatie>braband </locatie>hebben geschreven op den <datum datum='1717-11-21'>21<hi rend='superscript:true;'>e</hi> november</datum></l>
+					<l>ende op den <datum datum='1717-12-04'>4 december 1717</datum> twee brieven naer <locatie>Weenen</locatie></l>
+					<l>aen sijn hoogheijd den <persoonsnaam>prins Eugenius van <locatie>savoijen</locatie></persoonsnaam>,</l>
+					<l>buijten de weet van de negen natien welke brieven</l>
+					<l>zijn hoogheijd den <persoonsnaam>prins Eugenius</persoonsnaam> op den <datum datum='1717-02-05'>vijfden</datum></l>
+					<l><datum datum='1717-02-05'>februarij 1717</datum>. heef beantwoord den de heere Staeten</l>
+					<l>van <locatie>braband </locatie>ende hebben dien brief eenigen tijd</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l><pagenumber>40</pagenumber></l>
+					<l>daer naer geremonnestreert aen de gekosene tot</l>
+					<l>dekens de welke hebben geantwoort, dat sij geene</l>
+					<l>permissie hebben gegeven aen de heere staeten</l>
+					<l>van <locatie>braband</locatie>, om te schrijven naer <locatie>weenen</locatie>. Waer</l>
+					<l>door dat de gekosenen tot dekens, nog al debatteerde</l>
+					<l>om den Eedt te doen van den Jaere <datum datum='1700-xx-xx'>1700</datum>. hebben dan</l>
+					<l>op den <datum datum='1717-05-10'>tienden dag meij 1717</datum>. de negen natien</l>
+					<l>doen Compareren op hunne ambaghts Kamere</l>
+					<l>ter presentie van de heere Commissarissen van</l>
+					<l>het majestraet ende den pensionaris dezer</l>
+					<l>stadt <locatie>brussel</locatie>, ook uijt den weijden raede van</l>
+					<l><locatie>braband </locatie>om te revenderen het verzoek van den</l>
+					<l>brief van zijn hoogheijd den <persoonsnaam>prins Eugenius</persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>Savoijen</locatie></persoonsnaam>, het welke de gekosene tot dekens</l>
+					<l>nog niet en hebben willen aenveerden de heeren</l>
+					<l>Commissarissen van het majestraet ende wijeden</l>
+					<l>raede van <locatie>braband</locatie>, dit altemael aenziende, is</l>
+					<l>dit werk eenige dagen stil gebleven, om</l>
+					<l>dat zij er geen Cans over en zagen. zoo</l>
+					<l>heeft dan den heere <persoonsnaam>borgemeester dekker</persoonsnaam></l>
+					<l>de gekosene tot dekens de welke maeken</l>
+					<l>de negen natien, op den <datum datum='1717-05-24'>24 Meij 1717</datum>. hun op</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>41</pagenumber></l>
+					<l>het stadt huijs doen Compareren, daer altemael</l>
+					<l>vergadert zijnde ter presentie van het geheel</l>
+					<l>majestraet, hebben zij daer gezien eenen brief op</l>
+					<l>een root fluweel kussen, die van zijn keijzerlijke</l>
+					<l>en Chatlijke majesteijd geschreven tot <locatie>weenen </locatie>op</l>
+					<l>den <datum datum='1717-02-22'>22 februarij 1717</datum>. aen die gekosene tot dekens</l>
+					<l>door eenen secretaris dezer stadt <locatie>brussel </locatie>wiert</l>
+					<l>voorgelezen ende dien uijtgelezen zijde heeft den</l>
+					<l>heere <persoonsnaam>borgemeester dekker</persoonsnaam> aen de gekosene tot</l>
+					<l>dekens gevraeght om op het verzoek van zijn</l>
+					<l>keijserlijke en Catolijke majesteijd te doen den</l>
+					<l>Eedt van den Jaere <datum datum='1700-xx-xx'>1700</datum>. waer onder eenen van</l>
+					<l>de gekosene tot <persoonsnaam>dekens genaemt van ijpen</persoonsnaam></l>
+					<l>den Eedt heeft gedaen op het reglement addition¬</l>
+					<l>eel van den Jaere <datum datum='1700-xx-xx'>1700</datum>. het welke een groote</l>
+					<l>Consternatie veroorzaekte onder het volk. de</l>
+					<l>gekosenen tot dekens dan afkomende van het</l>
+					<l>stadt huijs, vonden eene groote menigte van</l>
+					<l>gepeupel op de meert staen, ende hoorende</l>
+					<l>dat&apos;er eenen sekeren <persoonsnaam>van ijpen</persoonsnaam> den Eedt hadde</l>
+					<l>gedaen op het reglement additioneel van den</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l><pagenumber>42</pagenumber></l>
+					<l>jaere <datum datum='1700-xx-xx'>1700 </datum>heeft het gepeupel gewaer geworden,</l>
+					<l>dat dien <persoonsnaam>van ijpen</persoonsnaam> ivers van aghter het stadt</l>
+					<l>huijs is afgekomen. het gepeupel dat gewaer</l>
+					<l>wordende zijn met groot gedruijs van de <locatie>meert</locatie></l>
+					<l>geloopen om hem op het lijf te vallen, soo dat</l>
+					<l>hij hun ook te gouw was, ende salveerden hem</l>
+					<l>in een borgers huijs tegen over de oude <locatie>waege</locatie></l>
+					<l><locatie>genaemt de Keijzers Kroon</locatie>, daer nouwelijks in</l>
+					<l>gesalveert zijnde, quaem daer zulk eene</l>
+					<l>menigte van volkeren, dat de luijden in</l>
+					<l><locatie>Keijzers Kroon</locatie> niet anders en hebben gemeijnt</l>
+					<l>ofte hun huys wiert geplundert, ende genoot¬</l>
+					<l>zaekt waeren naer dat het wel een Uer</l>
+					<l>oft onder alf geduert hadde, van vier gecom¬</l>
+					<l>mitteerde, die het gepeupel uijt den hoop kozen,</l>
+					<l>te laeten het geheel huijs van onder tot</l>
+					<l>boven visiteren om dien <persoonsnaam>van ijpen</persoonsnaam> te vinden.</l>
+					<l>hebben bevonden, dat dien <persoonsnaam>van ijpen</persoonsnaam> langx</l>
+					<l>eene venster van aghter het huijs door eene</l>
+					<l>gote was gevlught in de gebueren, dat</l>
+					<l>die vier gecommitteerden paert gegeven</l>
+					<l>aen het gepeupel op de straet, het welke</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>43</pagenumber></l>
+					<l>met honderde voor de deure stont, dat dien <persoonsnaam>van</persoonsnaam></l>
+					<l><persoonsnaam>ijpen</persoonsnaam> het ontvlught was, daer mede hebben zij</l>
+					<l>hun al te mael gerettireert van het huijs, en</l>
+					<l>zijn voorders gegaen haer het huijs van dien</l>
+					<l><locatie>van ijpen</locatie>, daer zij eenige steenen hebben beginne</l>
+					<l>te werpen naer de Vensters ende ziende dat zijne</l>
+					<l>vrouwe grootelijkse lammenteerde ende daer sat</l>
+					<l>met zeven oft aght kinderen ende nog een op</l>
+					<l>den wegh, zaegen dat zij niet veel buet en</l>
+					<l>kosten maeken, zijn zy niet tegenstaende het</l>
+					<l>traverseren van eenige regimenten soldaten</l>
+					<l>langks de stadt eenpaerlijck gegaen naer</l>
+					<l>het huys van den <persoonsnaam>borgemeester decker</persoonsnaam> het welk</l>
+					<l>zij zoo danig hebben geplundert, dat zij&apos;er</l>
+					<l>niet met allen hebben ingelaeten zoo dat</l>
+					<l>dit werk duerden van snoenens tot savons,</l>
+					<l>waer naer het heel stil bleef. het gebeurde</l>
+					<l>daer naer dat de gekosene tot dekens nog al</l>
+					<l>wierden gemolisteert tot het doen van den</l>
+					<l>additioneelen Eedt van den jaere <datum datum='1700-xx-xx'>1700</datum>. en agh¬</l>
+					<l>terhaelt hebbende dat den raede van <locatie>braband</locatie></l>
+					<l>gemaekt hadde twee decreten een op den <datum datum='1717-07-11'>11 julij</datum></l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l><pagenumber>44</pagenumber></l>
+					<l>en <datum datum='1717-07-24'>24 Julij 1717</datum>. hebben daer tegen malcontent</l>
+					<l>geweest, zoo dat zij doen nog al diffirente</l>
+					<l>reijzen zijn vergadert geweest op hunne am¬</l>
+					<l>baghts camere, om daer over te consulteren,</l>
+					<l>soo hebben zij als dan op den <datum datum='1717-07-16'>16 julij 1717</datum>.</l>
+					<l>ieder natie doen vergaderen met hunnen agh¬</l>
+					<l>terraet op hunne ambaghts camere om te</l>
+					<l>resolveren over de decreten gegeven op den <datum datum='1717-06-11'>11</datum></l>
+					<l><datum datum='1717-06-11'>junij</datum> en <datum datum='1717-07-21'>21 julij 1717</datum> ende hebben daer opinens</l>
+					<l>gewijs gevoteert om die decreten te vernietigen,</l>
+					<l>zoo dat er eenige natien zijn geweest die content</l>
+					<l>waeren te vernietingen van de twee decreten te</l>
+					<l>niet gedaen hebben, met dat er nog een was</l>
+					<l>gegeven op den <datum datum='1477-09-19'>19 september van den jaere 1477</datum>. Waer</l>
+					<l>toe de negen boetmeesters gecommitteert wierden</l>
+					<l>om rapport te draegen in dezer stadt tresorije,</l>
+					<l>ende heeren reflexie gemaekt hebbende op</l>
+					<l>het rapport van de negen boetmeesters hebben</l>
+					<l>hun met een requestie geaddreseert aen zjn</l>
+					<l>excelentie <hi rend='strikethrough:true;'>@</hi> <persoonsnaam>marquis de prie</persoonsnaam>, de welke daer</l>
+					<l>over zijn beraet genomen hebbende, liet</l>
+					<l>dat nog wat verloopen en op den <datum datum='1717-07-17'>17 julij</datum></l>
+					<l><datum datum='1717-07-17'>1717</datum> waeren de heeren van het majestraet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>45</pagenumber></l>
+					<l>savons op het stadt huijs gekomen, waer bij de</l>
+					<l>boetmeesters waeren daer eenige debatten met</l>
+					<l>de selve voorvallen in de camere van de heeren</l>
+					<l>op het vernietigen van de decreten, het welke</l>
+					<l>duerde tot savons ontrent de tien ueren en alf</l>
+					<l>ende de heeren gezien hebbende, den toe loop</l>
+					<l>van het volck, dat op het stadt huijs tot tegen</l>
+					<l>de heere camer, en op de <locatie>groote meert</locatie> stont,</l>
+					<l>eenige gedegwisseert, en andere gearmeert wierden</l>
+					<l>benout en zijn van aghter afgegaen, en eenige</l>
+					<l>boetmeesters van voren de welke gevraeght</l>
+					<l>wierden van het gepeupel dat op het stadt</l>
+					<l>huijs was, daer zij moesten door passeren,</l>
+					<l>oft zij content waeren hebben geantwoort dat</l>
+					<l>contentement hadden, het gene het gepeupel</l>
+					<l>niet en wilde aennemen, oft het moest ter puijen</l>
+					<l>afgepubliceert worden het welke niet en geschiede</l>
+					<l>het gepeupel dan razende wordende, zijn</l>
+					<l>savonts ontrent elf ueren begonnen t&apos; attroppere</l>
+					<l>zijn te zaemen geloopen reght naer het</l>
+					<l>huijs van den <persoonsnaam>heer grisper onsen Caselier</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l><pagenumber>46</pagenumber></l>
+					<l>van <locatie>braband</locatie>; waer dat zij het geheel huijs</l>
+					<l>hebben geplundert, ende zijne Carosse tot op</l>
+					<l>de <locatie>groote meert</locatie> gevoert hebben om in zijn</l>
+					<l>brand te steken, het zij niet gedaen en hebben,</l>
+					<l>maer zijn met de Carosse wederom te rugge</l>
+					<l>gekeert, en hebbene in brand gesteken voor</l>
+					<l>het huijs van den Canselier, daer alles</l>
+					<l>geplundert watter in huijs was, ook den raet</l>
+					<l>van <locatie>braband </locatie>zijn dan gekomen aen het huijs</l>
+					<l>van eenen zekeren de <persoonsnaam>griek pettier</persoonsnaam> van</l>
+					<l>zijnen stiel ende oudt Raetsman dezer Stadt</l>
+					<l><locatie>brussel</locatie>, woonende in de <locatie>magdaleene steenweg</locatie>,</l>
+					<l>daer sij meest alles hebben verbrand ende</l>
+					<l>geplundert; zijn ook gekomen aen het huijs</l>
+					<l>van mijn heer <persoonsnaam>Cano president schepene</persoonsnaam></l>
+					<l>dezer stadt <locatie>brussele</locatie>, waer zij ook alles</l>
+					<l>hebben geplundert ende verbrand, waer onder</l>
+					<l>eenen borger wiert geschoten in zijnen buijck</l>
+					<l>ende Corts daer naer van zijne quetzure</l>
+					<l>gestorven; en hebbende daer naer ook geweest</l>
+					<l>aen het huijs van mijn heer den <persoonsnaam>schepenen</persoonsnaam></l>
+					<l><persoonsnaam>lasse</persoonsnaam>, waer dat de Canalien al de gelasen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>47</pagenumber></l>
+					<l> hebben uyt geworpen, maer in het huijs niet</l>
+					<l>konnende komen om dat het van de borgelijke</l>
+					<l>waghten bezet wiert: zoo dat zij dan gekomen</l>
+					<l>zijn in de <locatie>Corte ridder straet</locatie> bij eenen oude</l>
+					<l><persoonsnaam>Cleer verkooper van muijlder</persoonsnaam> genaemt, waer</l>
+					<l>zij ook alles hebben verbrand ende geplundert,</l>
+					<l>ende zijn dan gekomen aen het huijs van mijn</l>
+					<l>heer <persoonsnaam>van den brock griffer</persoonsnaam> van d&apos; heeren staeten</l>
+					<l>van <locatie>braband</locatie>, waer zij alles hebben verbrand en</l>
+					<l>verwoest ende geplundert, waer dat&apos;er verscheijde</l>
+					<l>dood geschoten zijn, zoo dat het niet en was</l>
+					<l>om te stutten zijn dan ook gekomen aen de</l>
+					<l>refusie van <locatie>d&apos;abdije van diligem</locatie>, waer zij ook</l>
+					<l>alles geplundert hebben, tusschen beijde deze</l>
+					<l>plunderinge hebben eenige heeren van het majestraet</l>
+					<l>de boetmeesters doen quarten met een stats</l>
+					<l>knaepe, om te Compareeren op het Stadt huijs,</l>
+					<l>om hun te waerschouwen dat zij hun zouden</l>
+					<l>addresseren bij den heere <persoonsnaam>raetsheer Collins</persoonsnaam>,</l>
+					<l>om te zien vernietigen de decreten het welke</l>
+					<l>wierd gedaen, ende zoo aenstonts begaf den</l>
+					<l>heere <persoonsnaam>raet Collins</persoonsnaam> hem in de Carosse met</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l><pagenumber>48  </pagenumber>eenige boetmeesters bij, om te vernietigen de</l>
+					<l>decreten ende te publiceren op de Clijne puije</l>
+					<l>van Stadt huijs, het welke geschiet zijnde</l>
+					<l>waeren de Canalien nog niet Content de borgers</l>
+					<l>dan in de wapens zijnde hebben zij gepatrou¬</l>
+					<l>leert langs de Stadt om alles te stutten, ende</l>
+					<l>wierd van d&apos;heeren van het majestraet</l>
+					<l>geordineert aen de borgers dat zij den dag</l>
+					<l>daer naer zouden den ouden Eedt doen, de</l>
+					<l>borgers dit hoorende, en hebben niet willen</l>
+					<l>zoo lang waghten, zoo dat zij verzoght</l>
+					<l>hadden van den zelven dag den ouden Eedt</l>
+					<l>te mogen doen, het welke d&apos;heeren van het</l>
+					<l>majestraet hebben aengedient aen zijn</l>
+					<l>exellentie <persoonsnaam>marquis de prie</persoonsnaam>, soo dat zij den</l>
+					<l>heer <persoonsnaam>marquis de prie</persoonsnaam> uijt den naem van</l>
+					<l>zijn keijserlijke majesteijd het heeft toegestaen</l>
+					<l>waer naer dat zij volgde dat den heere</l>
+					<l><persoonsnaam>president Schepenen Cano</persoonsnaam>, de gekosene tot</l>
+					<l>dekens heeft doen quarten op het stadthuijs</l>
+					<l>tegens savonts ten ses ueren, hebben hun</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>49</pagenumber></l>
+					<l>daer begeven ende den ouden Eedt gedaen</l>
+					<l>zonder eenige Conditien ofte restricten in de hande</l>
+					<l>van mijn heer den <persoonsnaam>Schepenen Cano</persoonsnaam>, dit gedaen</l>
+					<l>zijnde wiert&apos;er een teeken gegeven op het stadt¬</l>
+					<l>huijs aen alle de gilde broeders, die op de <locatie>meert</locatie></l>
+					<l>in de wapens waeren, dit ziende hebben instante¬</l>
+					<l>lijck uijt alle hun musquetterije drijmael, salvo</l>
+					<l>geschoten, waer naer alles in ruste was.</l>
+					<l>doen zijnder eenige dekens geweest bij zijn</l>
+					<l>excelentie <persoonsnaam>marquis de prie</persoonsnaam> om hem te bedancken</l>
+					<l>ende hem geoffreert dat zij goet en bloet hadde</l>
+					<l>voor zijn keijserlijke majesteijd.</l>
+					<l>Eenige dagen daer naer gebeurde dat zijn</l>
+					<l>exelentie den heer <persoonsnaam>marquis de prie</persoonsnaam> uijt den</l>
+					<l>naem van zijn keijzerlijke majesteijd, dede</l>
+					<l>voordraegen aen de nieuwe dekens een subsidie</l>
+					<l>van twee xx. penningen in deze stadt <locatie>brussel</locatie></l>
+					<l>ende drij xx penningen op het plat land</l>
+					<l>Voor den jaere <datum datum='1717-xx-xx'>1717</datum>. wierd door de natien door</l>
+					<l>het lanck boven gaen afgeslagen soo dat</l>
+					<l>met dit werk wederom al eenige Confusie</l>
+					<l>voor viel.</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l><pagenumber>50  </pagenumber>waer bij het hof ziende dat het Consent</l>
+					<l>niet en luckte, zijn de natien door den heere</l>
+					<l><persoonsnaam>borgemeester decker</persoonsnaam> gelicentieert tot naerder</l>
+					<l>ordens. de negen natien meijnende nu gerust</l>
+					<l>te zijn, ende uijt alle hunne brouillie, zoo is&apos;er</l>
+					<l>eene andere tragedie voorgevallen, siende ende</l>
+					<l>hoorende dat&apos;er eenige vremde trouppen uijt</l>
+					<l><locatie>oostenrijck </locatie>afquaemen om dit werk dat zoo</l>
+					<l>lank geduert hadde hier tot <locatie>brussel </locatie>te stutten.</l>
+					<l>ende dat wij het hof van <locatie>weenen </locatie>als rebellen</l>
+					<l>gedeclareert wierden, uijt den hoofden van</l>
+					<l>niet te willen geobieert te hebben aen den</l>
+					<l>brief van zijn hoogheijd den <persoonsnaam>prins Eugenius</persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>Savoijen</persoonsnaam> </locatie>geschreven den <datum datum='1717-02-05'>5 februarij 1717</datum> ende</l>
+					<l>ook niet geobedieert aen den brief van zijn Keijserlijke</l>
+					<l>en Catholijke majesteijd, geschreven op den <datum datum='1717-02-02'>2 februarij</datum></l>
+					<l><datum datum='1717-02-02'>1717</datum>. welke trouppen hier zijnde, is alles eenigen</l>
+					<l>tijd tranquil geweest. het gebeurde datter een</l>
+					<l>orden quaem van het hof van op alle de groote</l>
+					<l>plaetsen van <locatie>brussel </locatie>te stellen Corde gardens, ende</l>
+					<l>die te bezetten met waghten van zoldaten, het</l>
+					<l>welke geschiede, ende eenige vrees gaf aen de</l>
+					<l>borgers eenigen tijd daer naer wierter op den <datum datum='1717-03-14'>14</datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1717-03-14'><pagenumber>51</pagenumber></datum></l>
+					<l><datum datum='1717-03-14'>meert 1717</datum>. een decreet gemaekt in den raet van</l>
+					<l><locatie>braband</locatie>, tot laste van de negen boet meesters deser</l>
+					<l>stadt <locatie>brussel</locatie>, ende ook tot laste van eenige dekens</l>
+					<l>en aghter raet, en wierd zoo aenstons geexecuteert</l>
+					<l>waer bij dat op den <datum datum='1717-03-14'>14 meert 1717</datum>. geroepen wierden</l>
+					<l>bij eenen zekeren <persoonsnaam>Colonel bonival</persoonsnaam> gelogeert in <locatie>st.</locatie></l>
+					<l><locatie>anna-straet</locatie> bij de savel, eenen zekeren <persoonsnaam>Francuscus</persoonsnaam></l>
+					<l><persoonsnaam>anniesens stoel maeker</persoonsnaam> en schale decker van zijnen</l>
+					<l>stiel, boet meester van <locatie>St. nicolaes</locatie> natie, om de stoelen</l>
+					<l>te leveren, en eenen <persoonsnaam>gabriel de haese pannemaeker</persoonsnaam></l>
+					<l>Van zijnen stiel ende aghteraet van <locatie>St: jans</locatie> natie</l>
+					<l>om Ketels te leveren, ende bij den lutenant Colonel</l>
+					<l>van het regiment van <persoonsnaam>prins eugeunius van <locatie>Savoijen</locatie></persoonsnaam></l>
+					<l>gelogeert in het huijs van <persoonsnaam>madam saison</persoonsnaam> bij den</l>
+					<l><locatie>wollen dries toren</locatie>, wiert geroepen eenen zekeren</l>
+					<l><persoonsnaam>francuscus van der borght Coopman</persoonsnaam> van Laekens</l>
+					<l>ende ook laekenmaeker van zijnen stiel, ende boet¬</l>
+					<l>meester van <locatie>st. guerickx</locatie> natie, om laekens te leveren,</l>
+					<l>ook eenen Zekeren <persoonsnaam>le june Carosse maeker</persoonsnaam> van</l>
+					<l>zijnen stiel ende boetmeester van <locatie>st jans</locatie> natie,</l>
+					<l>om modellen van Carossen te vertoonen, de welke te</l>
+					<l>saemen allemael op een Uer gequaert gewees zijn,</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l><pagenumber>52</pagenumber></l>
+					<l>hebben hun ten huijse van dien Colonels laeten vinden,</l>
+					<l>zij en waeren daer nouwelijck, zagen dat zij</l>
+					<l>overompelt wierden van de zoldaten, die daer in</l>
+					<l>huijs waeren, en wierder met zelve gearreesteert,</l>
+					<l>ende te zaemen geavironeert, om met goede waghten</l>
+					<l>van soldaten geconduisseert tot in de Corde garde</l>
+					<l>op de saevel, weijnigen tijd daer naer in arrest</l>
+					<l>gezeten hebbende, zijn met militaire waghten</l>
+					<l>getransporteert op het <locatie>steen port</locatie>, van de anderen</l>
+					<l>kant wierter ontboden bij den <persoonsnaam>borgemeester decker</persoonsnaam></l>
+					<l>eenen sekeren <persoonsnaam>adrianus Coppens meester metser</persoonsnaam></l>
+					<l>van zynen stiel ende deken van <locatie>st: peeters</locatie> natie;</l>
+					<l>om te komen ontfangen eenig gelt dat hij verdient</l>
+					<l>hadde van metselrije, naer dat hij langen tijd</l>
+					<l>met den <persoonsnaam>borge meester decker</persoonsnaam> gesproken hadden,</l>
+					<l>heeft hij zijn afscheijd genomen, ende wiert van</l>
+					<l>den borgemeester tot aen zijn deure uijtgeleijd,</l>
+					<l>dezen <persoonsnaam>Coppens </persoonsnaam>en was nouwelijkx op de Straet</l>
+					<l>oft wierd instantelijck gearresteert van den <persoonsnaam>lutenant</persoonsnaam></l>
+					<l><persoonsnaam>ampman</persoonsnaam> die eenige officieren bij hem hadde, de</l>
+					<l>welke daer uijt de huijzen quaemen, om hem te</l>
+					<l>transporteren op het <locatie>steen poort</locatie> het welke eene</l>
+					<l>groote vreeze causeerde onder het volk, en vele</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>53</pagenumber></l>
+					<l>van de dekens de vlught nemende buijten de Stadt</l>
+					<l>uijt vreeze van ook geapprehendeert te worden. waer</l>
+					<l>naer volgde dat den borgemeester de negen natien</l>
+					<l>dede quarten om op het stadt huijs te Komen, ende</l>
+					<l>hun voor te houden het subsidie van xx penningen</l>
+					<l>in de stadt ende drij xx buijten de stadt op het</l>
+					<l>plat land, het welke door de negen natien wierd</l>
+					<l>toegestaen, meijnende daer mede donceurs te vinden</l>
+					<l>voor hun Confraters, die op het <locatie>steen poort</locatie> gevangen</l>
+					<l>waeren maer niet tegenstaende hebben die</l>
+					<l>gevangene borgers daer langen tijd blijven zitten</l>
+					<l>eer zij wierden aenhoort van hunne reghters, het</l>
+					<l>geschiede dan op eenen zekeren tijd dat den heer</l>
+					<l><persoonsnaam>raetsheer du Chene</persoonsnaam> gekosen wiert tot Commissaris</l>
+					<l>met den heer <persoonsnaam>Charlier fiscael</persoonsnaam>, om die gevangen</l>
+					<l>borgers te examineren waer bij dat tusschen</l>
+					<l>beijde vele borgers wierden geciteert bij den heer</l>
+					<l><persoonsnaam>procureur generael Emptines</persoonsnaam> ter presentie</l>
+					<l>van den<persoonsnaam> heer fiscael</persoonsnaam>, welke hebben altemael</l>
+					<l>moeten Eedt doen in de handen van den procureur</l>
+					<l>generael ende <persoonsnaam>fiscael</persoonsnaam>, om te antwoorden op</l>
+					<l>het gene hun zoude gevraeght worden,</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l><pagenumber>54</pagenumber></l>
+					<l>noepende d&apos;affairens van de gevangene een</l>
+					<l>minigte borgers aenhoort hebbende, hebben de</l>
+					<l>heere raetsheeren geprocideert tot laste van</l>
+					<l>de vijf gevangen borgers ende ook eenige</l>
+					<l>plunderaers ende hun op de gevangenisse voor¬</l>
+					<l>gehouden als dat zij geene deffentie nogte</l>
+					<l>procureurs nogte advocaten zullen hebben om</l>
+					<l>hun te deffenderen terwijlen dat de heeren</l>
+					<l>raetsheeren hebben goetgevonden, dat de feijten</l>
+					<l>van de vijf gevangen borgers, Crime van</l>
+					<l>requeste mats te zijn het welke de gevangene</l>
+					<l>daer naer hebben moeten bezueren. en zekeren</l>
+					<l>tijd daer naer is&apos;er een subsidie gevraeght</l>
+					<l>aen de negen natie van twee xx penningen</l>
+					<l>in de stadt en haer Cuijpe ende drij buijten</l>
+					<l>voor het jaer <datum datum='1717-xx-xx'>1717</datum>. welke al eenigen tijd bleef</l>
+					<l>dueren eer dat het Consent was. de heeren</l>
+					<l>siende dat zij het Consent niet en kosten</l>
+					<l>bekomen hebben de negen natien wat meerder</l>
+					<l>doen boven komen om haer wat moeijelijker</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>55</pagenumber></l>
+					<l>te maeken; ende te verwilligen, tot het Consent,</l>
+					<l>niet tegenstaende dat d&apos;heere <persoonsnaam>pensonaris pipenpoij</persoonsnaam></l>
+					<l>voor de negen natien harangueerde, dat het</l>
+					<l>Consent zoude goet doen en dienen tot favuer</l>
+					<l>van die gevangene borgers beloofden aen de</l>
+					<l>negen natien dat d&apos;heeren van het majestraet</l>
+					<l>hun daer mede ook zoude bemoeijen in het vaveur</l>
+					<l>van die gevangene borgers. de natien ziende</l>
+					<l>dat door het peroren van den heere <persoonsnaam>pensonaris</persoonsnaam></l>
+					<l><persoonsnaam>pipenpoij</persoonsnaam> eenigte hun hebben bepijst, waer naer</l>
+					<l>bij te zaemen op den <datum datum='1719-06-27'>27 junij. 1719</datum>. s morgens ten</l>
+					<l>elf ueren, wierden op het stadt huijs geroepen</l>
+					<l>daer komende broghten Consent met drij natien</l>
+					<l>den pensonaris gezien hebbende dat het nog</l>
+					<l>niet door en gonck terwijlen dat&apos;er nog een</l>
+					<l>natie manqueerde, heeft weder door zijn peroreren</l>
+					<l>de natien zoeken te verwilligen tot het Consent,</l>
+					<l>wierden op den selven dag door ordre van</l>
+					<l>der borgemeester wederom gequaert op het</l>
+					<l>stadt huijs, s avonts ten ses ueren om voor te</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l><pagenumber>56</pagenumber></l>
+					<l>dragen eene favorabele opinie Van Consent.</l>
+					<l>de dekens en aghterraeden, hoorende dat de</l>
+					<l>zaeken niet wel en stonden ende ziende dat</l>
+					<l>de militaire in de warande die doen ter tijd</l>
+					<l>daer Campeerde, allemael gereet op de been</l>
+					<l>waeren, ende ook verdobbelt alle de waghten</l>
+					<l>die in de stadt waeren, zoo zijn de dekens</l>
+					<l>dan op den zelven dag, savons ten ses ueren</l>
+					<l>boven op het stadt huijs gegaen, ende in opinien</l>
+					<l>is&apos;er nog eene natie bij de drij andere gevallen,</l>
+					<l>waer mede het Consent was voltrokken,</l>
+					<l>voltrokken zijnde hebben de heeren van het</l>
+					<l>majestraet de goede mannen bedanct over</l>
+					<l>het Consent met gelofte, dat zij zullen de</l>
+					<l>hand aenhouden nevens de dekens int</l>
+					<l>faveur van die gevangene borgers. eenigen</l>
+					<l>tijd daer naer heeft den heere <persoonsnaam>borgemeester</persoonsnaam></l>
+					<l><persoonsnaam>dekker</persoonsnaam> Commissie gegeven aen zijn raets¬</l>
+					<l>man van te mogen doen vergaderen hunne</l>
+					<l>dekens en aghterraet op hunne ambachts</l>
+					<l>Camere ten eijnde dat zij met malkandere</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>57</pagenumber></l>
+					<l>mogen Consulteren over het maeken van een</l>
+					<l>requeste in het faveur van de gevangene borgers</l>
+					<l>dus zaemen geconsulteert hebbende hebben</l>
+					<l>zij goet gevonden van te verzoeken Commissaris¬</l>
+					<l>sen, te weten twee uijt de staeten van <locatie>braband</locatie>,</l>
+					<l>het welke hun wierd afgeslaegen twee uijt</l>
+					<l>het majestraet ende twee uijt den weijden</l>
+					<l>raede van <locatie>braband</locatie>, de welke door de borgemees¬</l>
+					<l>ter zijn toegestaen nevens comissarissen</l>
+					<l>uijt de natien welke Commissarissen een</l>
+					<l>paerlijck uijtgenomen die van de heere</l>
+					<l>staeten van <locatie>braband</locatie>, hebben geraemt van te presente¬</l>
+					<l>ren requestie aen den heere <persoonsnaam>marquies de prie</persoonsnaam>, tot</l>
+					<l>solaes van de gevangene borgers, waer bij zij hebben</l>
+					<l>doen komen vier a vijf van de principaelste advocaten</l>
+					<l>om van een <hi rend='strikethrough:true;'>reque</hi> saemen der hand te Consulteren</l>
+					<l>over het maeken van een requeste, het welke de</l>
+					<l>heeren advocaeten hebben opgestelt, het selve opdrae¬</l>
+					<l>gende aen de heeren van den weijden raede van</l>
+					<l><locatie>braband</locatie>, hebben het afgeslaegen, zoo dat het</l>
+					<l>request ook voorgedraegen wierd aen de negen</l>
+					<l>natien, zij daer over geraemt hebbende en</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l><pagenumber>58</pagenumber></l>
+					<l>ziende dat&apos;er een Claus in stont bij forme van</l>
+					<l>submisie, hebben niet geraetzaem gevonden van te</l>
+					<l>presenteren; soo dat het daer mede bleef tusschen</l>
+					<l>beijde de dekens hoorende dat de heere raetsheeren</l>
+					<l>voorts gingen met het examineeren van die gevan¬</l>
+					<l>genen, en dat&apos;er particuliere vrienden waren die</l>
+					<l>sterkt werkten bij zijn exelentie <persoonsnaam>marquis de prie</persoonsnaam>,</l>
+					<l>ook bij andere heeren en ziende dat zij niet</l>
+					<l>het minste en kosten bekomen, soo is het gebeurt</l>
+					<l>als dat de raets heeren op eenen zekeren morgent</l>
+					<l>hebben gezonden uijt ordere van <persoonsnaam>marquis de</persoonsnaam></l>
+					<l><persoonsnaam>prie</persoonsnaam> hunne deurweerders met eenige soldaten</l>
+					<l>van den prevoost om te apprehenderen eenen</l>
+					<l>sekeren <persoonsnaam>N. Willems stoelmaeker</persoonsnaam> van zynen stiel.</l>
+					<l>ende boetmeester van <locatie>sinte Christoffels</locatie> natie.</l>
+					<l>de welke zij hebben geappreendeert in zijn</l>
+					<l>eijgen huijs ende met groot escorte getransporteert</l>
+					<l>op het <locatie>steen poort</locatie>, het welcke een groot</l>
+					<l>geschreeuw onder het volk Causeerde, dien</l>
+					<l>dag op het <locatie>steen poort</locatie> gezeten hebbende, hebben</l>
+					<l>hem savonts met een sterk escorte van soldaten</l>
+					<l>getransporteert op <locatie>treurenberg</locatie>, tot verwonderinge</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>59</pagenumber></l>
+					<l>van vele menschen redene om dat de gemeijnte</l>
+					<l>hoorde dat hij geen aenspraek en kreeg van de</l>
+					<l>raetsheeren; ondertusschen dan is den heer fiscael</l>
+					<l>met den <persoonsnaam>heere raet du Chene</persoonsnaam> nog al voort gegaen</l>
+					<l>tot het examineren van die vijf gevangenen, en</l>
+					<l></l>
+					<l>wierden tusschen beijde nog al eenige plunderaers</l>
+					<l>geapprehendeert welken voortgank ten laeste</l>
+					<l>is op het eijnde gekomen deze affairens dan van</l>
+					<l>de raetsheren gelezen zijnde hebben daer op een</l>
+					<l>vonnis gemaekt tot laste van die vijf gevangene</l>
+					<l>borgers, ende ook tot laste van eenige plunderaers,</l>
+					<l>Zoo is het geschiet dat op den <datum datum='1719-09-17'>17. der maent</datum></l>
+					<l><datum datum='1719-09-17'>van September 1719</datum>. eenige gecommiteerde uijt</l>
+					<l>den raet van <locatie>braband </locatie>hun hebben laeten vinden</l>
+					<l>op het <locatie>steen poort</locatie>, en hebben voorgehouden aen</l>
+					<l><persoonsnaam>francuscus aniesens</persoonsnaam> boetmeester van <locatie>sinte nicolaes</locatie></l>
+					<l>natie, ook eenige plunderaers dat zij den dag</l>
+					<l>daer ook moesten sterven zonder hun te laeten</l>
+					<l>weten wat dood zij sterven zoude, ook dat</l>
+					<l>bij den dag daer souden komen in den raet</l>
+					<l>van <locatie>braband </locatie>om te hooren lezen hun vonnis</l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l><pagenumber>60</pagenumber></l>
+					<l>ofte sentensie wat dood zij zullen sterven</l>
+					<l>de raetsheeren dan eenigen tijd hunnen raet</l>
+					<l>gehouden hebbende, tegen over den raet van</l>
+					<l><locatie>braband </locatie>te weten in de refusie van d&apos;<persoonsnaam>abdijd</persoonsnaam></l>
+					<l><persoonsnaam>van perk</persoonsnaam>, zoo heeft den heere Canselier met</l>
+					<l>alle de raetsheeren op den <datum datum='1719-09-19'>19 September 1719</datum></l>
+					<l>smorgens van seven oft aght ueren vergadert</l>
+					<l>geweest in den raet van <locatie>braband</locatie>, den welken</l>
+					<l>alsdan in staet was, ende zijn daer mede gecon¬</l>
+					<l>tunueert om hunnen raet aldaer te blijven houden,</l>
+					<l>en hebben de refusie van perk verlaeten. soo</l>
+					<l>is dan op den zelven dag het geheel garnisoen</l>
+					<l>op de been gecommandeert, om alle de straeten</l>
+					<l>te besetten en den procureur generael smorgens</l>
+					<l>met alle zijne deurwaerders te peert geschrede,</l>
+					<l>is reght naer het <locatie>steen poort</locatie> gereden om af</l>
+					<l>te haelen den <persoonsnaam>boetmeester Francuscus Aniesens</persoonsnaam>,</l>
+					<l>afkomende van het <locatie>steen poort</locatie> hebben hem op</l>
+					<l>eene kairre gezet van den scherpreghter, bij</l>
+					<l>hem hebbende <persoonsnaam>pater jansens</persoonsnaam> eenen jesuit, die</l>
+					<l>hem uijtlighte, ook waerender bij eenige</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>61</pagenumber></l>
+					<l>plunderaers maer die gongen te voet, en zijn</l>
+					<l>al te zaemen met groot escorte, zoo geleijd naer</l>
+					<l>den raet van <locatie>braband </locatie>om te hooren lezen hunne</l>
+					<l>sentensie. dezen <persoonsnaam>boetmeester aniesens</persoonsnaam> nevens eenige</l>
+					<l>plunderaerts voor den raet gebraght zijnde, is</l>
+					<l>mett eenen grooten iever van zijne kairre gespronge,</l>
+					<l>en is zoo gekomen in den raet van <locatie>braband </locatie>daer</l>
+					<l>hij vont in forme zitten den heere Canselier met</l>
+					<l>alle de raets heeren vergadert, ende daer zijnde</l>
+					<l>quaem den heere <persoonsnaam>secretairis schanten</persoonsnaam> die hem</l>
+					<l>voorleesde zijne sentensie. dezen <persoonsnaam>aniesens </persoonsnaam>zijne</l>
+					<l>sentensie hoorende heeft hem aghteren begeven</l>
+					<l>van hem Cloekmoedelijck te verantwoorden van</l>
+					<l>artikel tot artikel het welke de heere raetsheeren</l>
+					<l>altemael aenhoorde ende aenzaegen, de sententie</l>
+					<l>gelezen zijnde, is&apos;er gevolgt dat hij met den</l>
+					<l>sweerde moeste gestraft worden, waer naer de</l>
+					<l>dood moest volgen dit gedaen zijnde quaemen</l>
+					<l>dan ook de plunderaers voor hunne reghters,</l>
+					<l>zoo dater zeven gecondaneert wierden om</l>
+					<l>gehangen te worden ende eenige om gegeeselt</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l><pagenumber>62</pagenumber></l>
+					<l>te worden en gebrantmerkt te worden deze</l>
+					<l>zentensie gelezen zijnde is den <persoonsnaam>boetmeester</persoonsnaam></l>
+					<l><persoonsnaam>anneesens</persoonsnaam> uijt den raet gekomen, ende moest</l>
+					<l>hem wederom begeven op den Scherpreghters</l>
+					<l>Kairre, om alsoo gevoert te worden, passerende</l>
+					<l>langs het huijs van den Canselier hebben zij</l>
+					<l>daer gezien voor zijne poorte eenen staek</l>
+					<l>met eene alve galge op, daer de vijf van de</l>
+					<l>plunderaers moesten aengegeeselt worden, dit</l>
+					<l>gedaen zijnde, zijn zij dan te saemen met</l>
+					<l>goet escarte, ende de straeten altemael met</l>
+					<l>militaire bezet geleijd naer de <locatie>meert </locatie>om</l>
+					<l>geexcuteert te worden, op de <locatie>meert </locatie>dan komende,</l>
+					<l>hebben die wel bezet gevonden met militaire,</l>
+					<l>en zaegen daer een schavot vol savel met</l>
+					<l>een dobbel galge, het welke haer al eenige alteratie</l>
+					<l>gaf den <persoonsnaam>boetmeester aniesens</persoonsnaam> met zijne Kairre</l>
+					<l>voor het schavot komende heeft hem van de</l>
+					<l>Kairre begeven, en zoo aenstons in zijne naghtrobe</l>
+					<l>met pater jesuiet op het schavot begeven,</l>
+					<l>waer hij met eenen kloeken moet met den pater</l>
+					<l>wel ontrent een alve uere gesproken heeft, ende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>63</pagenumber></l>
+					<l>is dan rond op het schavot gegaen en heeft aen</l>
+					<l>alle die op de <locatie>meert </locatie>waeren, gebeden gevraeght en</l>
+					<l>verzoght voor zijne ziele doen heeft hij zelfs een</l>
+					<l>witte slaepmutze uijt zijne naght robe getrokken en</l>
+					<l>die aen zijn hooft gedaen, waer naer hij knielende</l>
+					<l>in de zaevel den scherpreghter instantelijck zijn</l>
+					<l>oogen verbond, ende zijn sweert uijttrekken sloeg</l>
+					<l>zijn hooft af tot groote verwonderinge en droefheijd</l>
+					<l>van het volck ende vele borgers, en van alle de</l>
+					<l>gene die het hebben aensien: deze executie voltrokken</l>
+					<l>zijnde, is&apos;er een menigte van borgers gekomen naer</l>
+					<l>het schavot ende hebben verzoght aen den scherpregter</l>
+					<l>om mogen van zijn bloet te raepen, ende zijn ook</l>
+					<l>met eene menigte het schavot op geloopen, ende</l>
+					<l>hebben alzoo met hunne neusdoekken het bloet op</l>
+					<l>geraept ende opgenomen, het gepeupel dit ziende</l>
+					<l>zijn dan ook met eene menigte gekomen om van</l>
+					<l>dit bloet te raepen, ende weijnig niet meer vindende</l>
+					<l>hebben alle zaevel maer een weijnig root en was,</l>
+					<l>bij een vergadert ende hebben het de andere</l>
+					<l>borgers van de stadt tot grooten preijs verkoght.</l>
+					<l>dit alles geschiet zijnde heeft den Scherprechter</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l><pagenumber>64</pagenumber></l>
+					<l>hem beginnen te begeven om de plunderaers te</l>
+					<l>hangen, waer van dat&apos;er zeven moesten gehangen</l>
+					<l>worden, vijf van de zeven gehangen zijnde, is&apos;er voor</l>
+					<l>twee plunderaers pardon gegeven, de welke gestonden</l>
+					<l>met een bannissement, dit gedaen zijnde heeft&apos;er</l>
+					<l>den scherpreghter dan drij van de plunderaers ook</l>
+					<l>gegeeselt ende gebrantmerkt ende wierden ook</l>
+					<l>gebannen, deze executie voltrokken zijnde, zoo quaem</l>
+					<l>den scherpreghter tegen den avont om die doode</l>
+					<l>lighaemen te kisten het welke in de kist geleijd</l>
+					<l>zijnde, heeft die toegenagelt ende heeft willen het</l>
+					<l>dood lighaem geven aen vier Cellebroeders niet</l>
+					<l>konnende meester worden van het volk, zijn der</l>
+					<l>eenige borgers gekomen, die het dood lighaem</l>
+					<l>van dezen goeden man <persoonsnaam>aniesens </persoonsnaam>van Cellebroeders</l>
+					<l>afnaemen ende hebben het zelve gedragen naer</l>
+					<l>de parochie <locatie>kerke van onze lieve vrouwe ter</locatie></l>
+					<l><locatie>Capelle</locatie> het welke wierd gevolgt van eene groote</l>
+					<l>menigte van borgers, ende volkeren dezer stadt.</l>
+					<l>hier en tusschen wierd het vonnis gelezen</l>
+					<l>van de andere vier gevangenen, op het <locatie>steenpoort</locatie>,</l>
+					<l>die gestonden met een bannissement hun leven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>65</pagenumber></l>
+					<l>gedurende uijt de landen ende eerschappije van</l>
+					<l>zijn Keijserlijke en Koninglijke majesteijd te blijven,</l>
+					<l>welke vier gevangenen instantelijck met deurweerders</l>
+					<l>uijt den raet van <locatie>braband </locatie>nefens eenige volkeren</l>
+					<l>van den prevoost uijt de stadt geleden wierden tot</l>
+					<l>buijten de bareelen, te weten <persoonsnaam>N. le jeune</persoonsnaam> lankx de</l>
+					<l><locatie>opbrusselsche poorte</locatie>, <persoonsnaam>gabriel de haese</persoonsnaam> lankx de <locatie>vlaemsche</locatie></l>
+					<l><locatie>poorte</locatie>,<persoonsnaam> francus van der borght</persoonsnaam>, langs de <locatie>lovensche</locatie></l>
+					<l><locatie>poorte</locatie>, <persoonsnaam>adreaen Coppens</persoonsnaam>, langs de <locatie>anderleghsche poorte</locatie>,</l>
+					<l>waer zij den dag daer naer onder hun vieren hebben</l>
+					<l>malkanderen laten vinden tot <locatie>Etterbeek</locatie>: onze borgers</l>
+					<l>dat gehoort hebbende, zijnder met menigte naer <locatie>Etterbeek</locatie></l>
+					<l>gegaen, om hun te zien ende te spreken, en daer</l>
+					<l>gebleven zijnde tot ontrent de noen, hebben de gebannen</l>
+					<l>uijt vreeze daer niet derven blijven, zoo dat zij</l>
+					<l>als dan te zaemen zijn opgetrokken met eenige</l>
+					<l>vrienden die hun vergezelschapte tot <locatie>loven</locatie>, komende</l>
+					<l>in de stadt van <locatie>loven </locatie>zijn daer van vele vrienden</l>
+					<l>onthaelt geweest en hebben hun daer begeven in</l>
+					<l>een logiment te weten in <locatie>het wit schaep</locatie>, daer</l>
+					<l>zij met alle de vrinden wel sestig oft seventig</l>
+					<l>sterk waeren, ende hebben daer den geheelen naght</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l><pagenumber>66</pagenumber></l>
+					<l>daer te zaemen vrolijck geweest, zoo dat de gebanne</l>
+					<l>s anderdaegs hunne reijze hebben voort gezet tot</l>
+					<l>binnen <locatie>tienen</locatie>, ende van daar naer den <locatie>luijckxen</locatie></l>
+					<l>bodem, daer zij vrij waeren, tot aldertijd toe dat</l>
+					<l>zij hun zullen geraetzaen vinden waer zij hun</l>
+					<l>zullen placeren. weijnige daegen daer naer is</l>
+					<l>den heere procureur generael nog al voort gegaen</l>
+					<l>met eenige tot wiens laste nog eenige decreten</l>
+					<l>waeren te weten tot laste van <persoonsnaam>N: van der Schrick</persoonsnaam></l>
+					<l><persoonsnaam>boetmeester</persoonsnaam> van <locatie>Sinte lauwerijes</locatie> natie, <persoonsnaam>N. Ruelens</persoonsnaam></l>
+					<l><persoonsnaam>boetmeester</persoonsnaam> van <locatie>Sinte jacobs</locatie> natie. <persoonsnaam>N. Cool.</persoonsnaam></l>
+					<l><persoonsnaam>boetmeester</persoonsnaam> van <locatie>Onze lieve vrouwe</locatie> natie. <persoonsnaam>N. de pauw,</persoonsnaam></l>
+					<l><persoonsnaam>boetmeester</persoonsnaam> van <locatie>Sinte peeters</locatie> natie. <persoonsnaam>N.  godtseret</persoonsnaam></l>
+					<l><persoonsnaam>deken</persoonsnaam> van <locatie>Sinte gielis</locatie> natie. <persoonsnaam>N. stillet deken</persoonsnaam> van</l>
+					<l><locatie>geurickx</locatie> natie, <persoonsnaam>henderick fremineur deken</persoonsnaam> van</l>
+					<l><locatie>Sinte jacobs</locatie> natie, die bij cop eenen morgent de</l>
+					<l>deurwaerders wederom emploijeerden met eenige</l>
+					<l>zoldaeten van den <persoonsnaam>heere droshaert van <locatie>braband</locatie></persoonsnaam>,</l>
+					<l>zond in executie, in die huijzen van die boet¬</l>
+					<l>meesters ende dekens hier boven vermelt zijn,</l>
+					<l>net laste van die t&apos; apprechenderen, de deurweerders</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>67</pagenumber></l>
+					<l>met hunne zoldaten in die huijsen komende, en</l>
+					<l>niet eenen van die boetmeesters ofte dekens vindende</l>
+					<l>als in zommige huijzen hunne vrouwen, zoo dat zij</l>
+					<l>ziende dat die mans altemael weg waeren hebben</l>
+					<l>volgens hun ordre in executie blijven liggen drij</l>
+					<l>daegen lanck waer zij alle de meubelen ende effecten</l>
+					<l>hebben moeten beschrijven, dit gedaen zijnde, hebbende die</l>
+					<l>vrouwen ofte hunne vrinden moeten borge stellen</l>
+					<l>voor al het gene dat&apos;er beschreven en getaxeert</l>
+					<l>was, ende de deurwaerders nevens de zoldaten</l>
+					<l>moeten betaelen waer naer sij hun buijten de</l>
+					<l>huijzen hebben begeven,</l>
+					<l>In het jaer <datum datum='1720-xx-xx'>1720</datum>. is tot <locatie>brussel </locatie>het drijhondert</l>
+					<l>en vijftig jarig jubile geviert van het heijlig</l>
+					<l>sacrament van mirakel.</l>
+					<l>In het jaer <datum datum='1720-02-05'>1720. op den vijfden februarij</datum> is</l>
+					<l>binnen de stad <locatie>brussel </locatie>ter grooter puijen</l>
+					<l>van het <locatie>stad-huijs</locatie> gepubliceert eenen</l>
+					<l>brief onderteekent van zijn keijserlijke en</l>
+					<l>Catholijke majesteijd behelzende als dat zij</l>
+					<l>alle de gekosene ende aenkomende dekens</l>
+					<l>van de negen natien, zullen hebben te doen</l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l><pagenumber>68</pagenumber></l>
+					<l>den Eedt op het reglement additioneel</l>
+					<l>gemaekt op den <datum datum='1700-08-12'>12 augusti van den Jaere 1700</datum>.</l>
+					<l>op pene van bannissiment uijt de heer¬</l>
+					<l>schappije, ende Confiscatie van goederen.</l>
+					<l>Waer op sij op den zelven stont van den</l>
+					<l>borgemeester door de stad knaepen met</l>
+					<l>gedrukte biletten zijn gequaert tegens</l>
+					<l>s morgens ten negen uren wezende den <datum datum='1720-02-06'>6.</datum></l>
+					<l><datum datum='1720-02-06'>februarij 1720</datum>. met eenen is er ook gerepubli¬</l>
+					<l>seert, als dat alle de decreten hier voren</l>
+					<l>vernietight van de dekens zullen worden</l>
+					<l>ingebroght en wederom in hun figuer zullen</l>
+					<l>blijven, ende ook geregisteert worden in de</l>
+					<l>boekken van den raede van <locatie>braband</locatie>, en hun</l>
+					<l>effect hebben gelijck zij voor dezen gehad</l>
+					<l>hebben op den <datum datum='1720-02-06'>sesden februarij 1720</datum>. hebben</l>
+					<l>de dekens van de negen natien eenpaerlijck</l>
+					<l>op het <locatie>stadt huijs</locatie> gecompareert ende eene</l>
+					<l>voor eene den Eedt gedaen op het reglement</l>
+					<l>additioneel in de handen van den <persoonsnaam>borgemeester</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><persoonsnaam><pagenumber>69</pagenumber></persoonsnaam></l>
+					<l><persoonsnaam>decker</persoonsnaam>, en dat met gesloten deure dat niet</l>
+					<l>en plaght te geschieden nota de principaelste</l>
+					<l>posten dezer stadt ook met militaire zijn</l>
+					<l>beset geweest terwijlen dat de dekens op het</l>
+					<l><locatie>stadt huijs</locatie> waeren doenden hunnen Eedt op den</l>
+					<l><datum datum='1720-02-26'>26 februarij 1720</datum>. hebben de stadts knaepen door</l>
+					<l>ordre van den heere <persoonsnaam>borgemeester decker</persoonsnaam> met</l>
+					<l>gedrukte biletten de dekens van de negen natien</l>
+					<l>gequaert om te Compareren op het <locatie>stadt huijs</locatie></l>
+					<l>tegen den <datum datum='1720-02-27'>27 februarij. 1720</datum>. om aldaer te</l>
+					<l>aenhooren het gene hun zal voorgehouden</l>
+					<l>worden: de negen natien op het <locatie>stadt huijs</locatie></l>
+					<l>gecompareert zijnde in hunne loken geroepen</l>
+					<l>in sijne Camer ende als dan man voor man</l>
+					<l>uijtgeroepen in de Collegie Camer, daer zij</l>
+					<l>jeder in soldum; ter presentie van eenige</l>
+					<l>van het majestraet hebben hooren lezen</l>
+					<l>eenen brief van zijn keijserlijke majesteijd</l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<p>
+				<lg>
+					<l><pagenumber>70</pagenumber></l>
+					<l>welke behelsde dat zij de decreten hier</l>
+					<l>voren vermelt, die te niet gedaen waeren,</l>
+					<l>zullen hebben intebrengen in den raede van</l>
+					<l><locatie>braband</locatie>, ofte te examineren waerse gebleven</l>
+					<l>zijn, het welke sij niet en hebben Connen</l>
+					<l>aenwijzen ter wijlen&apos;t dat de boetmeesters</l>
+					<l>man voor man die het naer alle apprentie</l>
+					<l>moesten weten weg waeren, zoo hebben de</l>
+					<l>dekens door ordre van de boetmeesters en den</l>
+					<l>borgemeester man voor man appaert geroepen</l>
+					<l>jeder uijt zijn natie twee Commissarissen</l>
+					<l>moeten kiezen, die gekosen zijnde; zijn de</l>
+					<l>dekens van de Collegie Caemer wederom</l>
+					<l>jeder naer zijn loke gegaen waer naer den</l>
+					<l>pensionaris als dan voor de negen natien</l>
+					<l>heeft gecompareert, ende heeft uijt jeder</l>
+					<l>natie geroepen twee Commissarissen om</l>
+					<l>de zaeken van de decreten voorder te vervol¬</l>
+					<l>gen en op te zoeken ende die te stellen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>71</pagenumber></l>
+					<l>in de handen van mijn heer den fiscael en</l>
+					<l>en dat met Conditie dat die gekosene Commis¬</l>
+					<l>sarissen niet en mogen buijten de stadt gaen</l>
+					<l>op pene van arbritaele Correctie en dat zij</l>
+					<l>hun altijt paraet moeten houden tegen dat</l>
+					<l>zij gequaert worden.</l>
+					<l>Den <datum datum='1720-02-27'>27 februarij 1720</datum> zijn de seventien gekosene</l>
+					<l>Commissarissen van wegens den procureur</l>
+					<l>generael ende fiscael door eenen huissier</l>
+					<l>uijt den raede van <locatie>brabant </locatie>gedaegt</l>
+					<l>tegen den <datum datum='1720-02-29'>negenentwintigsten </datum>dito om te</l>
+					<l>Compareren tegen seven Ueren en alf in</l>
+					<l>de Capelle Kamer van den raet van <locatie>brabant</locatie></l>
+					<l>op pene hier voren vermelt om aldaer te</l>
+					<l>aenhooren wat hun zal gevraegt worden</l>
+					<l>alle 17 daer present zijnde, heeft den fiscael</l>
+					<l>hun gevraegt oft sij daer altemael bij een</l>
+					<l>waeren hun voorders vraegde oft zij</l>
+					<l>van de getracteerde decreten niet en</l>
+					<l>wisten, hebben de Commissarissen hem</l>
+					<l>geantwoort dat sij hunne opinien daer</l>
+				</lg>
+			</p>
+			<pb n='38'/>
+			<p>
+				<lg>
+					<l><pagenumber>72</pagenumber></l>
+					<l>van den dag te voren op het <locatie>stadt huijs</locatie></l>
+					<l>gezeijd hadden en dat zij&apos;er niet van en</l>
+					<l>wisten, zoo dat den fiscael als dan gezeijd</l>
+					<l>hadde weet het gij lieden niet ik weet het,</l>
+					<l>waer op eenen van de Comissarissen</l>
+					<l>antwoorde als het mijnheer den fiscael weet</l>
+					<l>en heeft het ons niet te vraegen zoodat</l>
+					<l>hij aen de Commisarissen seijde het ligt</l>
+					<l>in de Comme van <locatie>sintjans toren</locatie> waer hij</l>
+					<l>instantelijck ordonneerde als dat de</l>
+					<l>Commissarissen hun zullen hebben laeten</l>
+					<l>vinden naer den middag tegen drij ueren</l>
+					<l>op de Comme die gemaekt was op den</l>
+					<l>toren van <locatie>st. Jans Kerke op den poel,</locatie></l>
+					<l>daer komende hebben zij die plaetse wel</l>
+					<l>bezet gevonden met militaire soo dat sij</l>
+					<l>dan van binnen gongen en hebben daer</l>
+					<l>gewaegt tot dat de heeren van den raet</l>
+					<l>van <locatie>braband </locatie>quaemen. den heer procureur</l>
+					<l>generael met den heer fiscael, en den</l>
+					<l>raet duchene hun begeven hebbende in de</l>
+					<l>Carosse zijn tusschen drij a vier ueren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>73</pagenumber></l>
+					<l>uijt gereden met 6. oft 7. huissiers voor uijt</l>
+					<l>met de waepens van zijn majesteijd in de hand</l>
+					<l>en zijn reght gereden naer <locatie>st. jans</locatie> toe, daer</l>
+					<l>komende hebben zij de Aghtien Commissarissen</l>
+					<l>daer gevonden, en zijn dan te saemen boven</l>
+					<l>gegaen op de Comme, welke den procureur</l>
+					<l>generael heeft doen de negen sloten afsmijten</l>
+					<l>en daer inkomende en hebben daer niet gevonden</l>
+					<l>als alleenelijck de decreten de welke den fiscael</l>
+					<l>mede namp ende gaf ordre aen de Aghtien</l>
+					<l>Commissarissen van wederom <hi rend='strikethrough:true;'>te</hi> naer den raet</l>
+					<l>te keeren daer vergadert zijnde heeft den fiscael</l>
+					<l>gevraegt aen hun wie de oudste natie was</l>
+					<l>en ook de oudste dekens van die natie waer op</l>
+					<l>de beenhouwers hebben geantwoort dat sij het</l>
+					<l>waere, waer op den fiscael dan seijde tegen</l>
+					<l>eenen van hunne komt hier en ik stelle U dat</l>
+					<l>decreet ter hand op dat gij het zoud geven in</l>
+					<l>mijne handen die in den raede ter presentie</l>
+					<l>van den heere Canselier en alle de raetsheere</l>
+					<l>vergadert zal zijn, dezen Commissaris van</l>
+					<l>hamme vergezelschap van d&apos; ander Commissa¬</l>
+					<l>rissen heeft het decreet in den vollen raede</l>
+					<l>ter hand gestelt in de handen van den fiscael</l>
+				</lg>
+			</p>
+			<pb n='39'/>
+			<p>
+				<lg>
+					<l><pagenumber>74</pagenumber></l>
+					<l>en wierd zoo aenstonts gegeven aen den</l>
+					<l><persoonsnaam>griffier Schouten</persoonsnaam>, die het instantelijck ende</l>
+					<l>registreerde, waer naer de Commissarissen</l>
+					<l>hun hebben geretireert.</l>
+					<l>Den <datum datum='1717-02-28'>29</datum> dito zijn de 18 Commissarissen van</l>
+					<l>de negen natien wederom gequaert op den</l>
+					<l><datum datum='1717-03-01'>eersten meert</datum> tegen negen ueren voor den</l>
+					<l>noen op het <locatie>stadt huijs</locatie> om aldaer volgens</l>
+					<l>den brief van zijn keijserlijke majesteijd</l>
+					<l>gedatteert op den <datum datum='1717-02-21'>21 februarij 1717</datum>. etc. daer</l>
+					<l>Compareerende, wiert hun voorgehouden de</l>
+					<l>appointementen hun voor dezen gegeven,</l>
+					<l>nopende de decreten die geen registreert</l>
+					<l>waeren door eenen deurwaerder uijt den</l>
+					<l>raede van <locatie>braband </locatie>te doen traceren.</l>
+					<l>Den <datum datum='1720-03-04'>4 meert 1720</datum>. zijn de aghtien</l>
+					<l>gedeputeerde van de negen natien, uijt de</l>
+					<l>ordien van den borgemeester wederom gequaert</l>
+					<l>tegen den <datum datum='1720-03-05'>vijfden </datum>dito in de <locatie>pant van de</locatie></l>
+					<l><locatie>paeters lieve vrouwe broeders</locatie> om aldaer</l>
+					<l>volgens den brief van zijn keijserlijke ende</l>
+					<l>Catholijke majesteijd te Compareeren met</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>75</pagenumber></l>
+					<l>den <persoonsnaam>griffier van veen</persoonsnaam> om aldaer in de Comme</l>
+					<l>die aengaet de natie van <locatie>St Lauwerijs</locatie> te</l>
+					<l>lighten de Coppeije van de decreten op pene etc.</l>
+					<l>Op den <datum datum='1720-03-05'>vijfden </datum>dito in <locatie>de lieve vroubroeders</locatie></l>
+					<l><locatie>pant</locatie> Comende soo is bij de 18 gedeputeerde</l>
+					<l>gecompareert den<persoonsnaam> heer tiberscant</persoonsnaam> met den <persoonsnaam>heer</persoonsnaam></l>
+					<l><persoonsnaam>greef, alle beijde schepenen</persoonsnaam> uijt het majestraet</l>
+					<l>nevens den <persoonsnaam>griffier van veen</persoonsnaam>, en hebben gevraegt</l>
+					<l>naer die vijf sleutels van die Comme, waer</l>
+					<l>van datter vier ter hand gestelt wierden ende</l>
+					<l>den vijfden niet te vinden, dat bij dat slot hebben</l>
+					<l>moeten afsmijten, ende zoo de Comme geopent,</l>
+					<l>waer in sij de Copije van het decreet hebben</l>
+					<l>gevonden geschreven op eenen parquementen</l>
+					<l>brief dat die heeren schepenen hebben mede</l>
+					<l>genomen om op het <locatie>stadt huijs</locatie> aen den heere</l>
+					<l>borgemeester te geven waer naer de gedepu¬</l>
+					<l>teerde van de Schepenen wierden afgedankt.</l>
+					<l>Op den <datum datum='1720-03-17'>17 meert 1720</datum> zijnde de dekens van</l>
+					<l>de negen natien gequaert om op den <datum datum='1720-03-18'>18</datum></l>
+					<l>dito ten elf uren te Compareeren op het</l>
+					<l><locatie>stadt huijs</locatie> daer gecompareert zijnde is</l>
+					<l>hun voorgedragen een subsidie van twee</l>
+				</lg>
+			</p>
+			<pb n='40'/>
+			<p>
+				<lg>
+					<l><pagenumber>16</pagenumber></l>
+					<l>in twintigste penningen binnen dese</l>
+					<l>stadt en hare Cuijpe ende drij twintigste</l>
+					<l>op het plat land voor het jaer <datum datum='1719-xx-xx'>1719 </datum>ook is</l>
+					<l>hun  voorgedraegen de 25 stuijvers op jeder</l>
+					<l>tonne biers buijten op het platland.</l>
+					<l>Den <datum datum='1720-04-02'>2 april 1720</datum> heeft <locatie>St. guerickx</locatie> natie</l>
+					<l>de bovenstaende twee xx  penningen ge###</l>
+					<l>Den <datum datum='1720-04-23'>23 april 1720</datum> heeft <locatie>St. lauwerijs</locatie></l>
+					<l>de twee xx penningen smorgens geconsenteert</l>
+					<l>den zelven dito heeft <locatie>St. Jacops</locatie> natie nae</l>
+					<l>den middag ten vier ueren geconsenteert.</l>
+					<l>Den <datum datum='1720-04-24'>24 </datum>dito heeft <locatie>St. Gilis</locatie> natie dan ook</l>
+					<l>geconsenteert waer mede dat het boven¬</l>
+					<l>staende Consent is doorgegaen en hebben</l>
+					<l> de heeren van het majestraet de negen</l>
+					<l>natien bedanckt over haer gedraegen</l>
+					<l>Consent.</l>
+					<l>Den <datum datum='1720-07-14'>14 julij 1720</datum> is tot <locatie>brussel </locatie>geviert</l>
+					<l>den jubile van drij hondert en vijftig</l>
+					<l>van het poignaerderen van de heijligen</l>
+					<l>hostien van heijlig Sacrament van mirakel</l>
+				</lg>
+			</p>
+			<pb n='41'/>
+			<p>
+				<lg>
+					<l>Une chronique <locatie>bruxelloise</locatie></l>
+					<l>Fragments inedits</l>
+					<l>Il nous a paru intéressant de résever</l>
+					<l>aux lecteurs de ce périodique la copie</l>
+					<l>de plusieurs extraits d&apos;un manuscrit</l>
+					<l>fragmentaire consacré au parsé de</l>
+					<l><locatie>Bruxelles</locatie>. Il s&apos;agit en l&apos;espère</l>
+					<l>d&apos;un travail réalisé au <datum datum='1800-xx-xx'>XVIII</datum><hi rend='superscript:true;'>e</hi> siècle</l>
+					<l>par un compilateur qui à l&apos;instas</l>
+					<l>d&apos;autres croniqueurs du temps</l>
+					<l>a rassemblé quelques faits entés</l>
+					<l>sur notre histoire locale et qu&apos;il</l>
+					<l>groupa suivant la chronologie</l>
+					<l>Loin de moi la pensée de prétendre</l>
+					<l>que cet auteur enrichisse nos</l>
+					<l>connaissances; mais ayant l&apos;occa¬</l>
+					<l>sion d&apos;en faire bénéficier le</l>
+					<l>publie lettré, j&apos;ai cru utile de</l>
+					<l>signaler à son attention <hi rend='strikethrough:true;'>9</hi> plusieurs</l>
+					<l>textes inédits, <hi rend='strikethrough:true;'>nter ie</hi></l>
+					<l><hi rend='strikethrough:true;'>tammnt pzedesz tee</hi> la plupart</l>
+					<l>des annales manuscrites du genre</l>
+					<l>n&apos;ayant pas été imprimées</l>
+					<l>jusqu&apos;ici <hi rend='strikethrough:true;'>/////</hi></l>
+					<l><hi rend='strikethrough:true;'>////</hi></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l> Ca manuscrit de dimensions modestes</l>
+					<l>(0,185 x 0,15) composte 76 pages.</l>
+					<l>Il est intitulé  <hi rend='underlined:true;'>Oudtheden ofte</hi></l>
+					<l><hi rend='underlined:true;'>Chronijsche Jaerboek der</hi></l>
+					<l><hi rend='underlined:true;'>prinselijcke stadt <locatie>Brussel</locatie></hi></l>
+					<l><hi rend='underlined:true;'>bijeen vergaedert uijt verscheyde</hi></l>
+					<l><hi rend='underlined:true;'>schrijvers der stadt <locatie>Brussel </locatie>door</hi></l>
+					<l><hi rend='underlined:true;'>eenen liefhebber van het vaderlandt.</hi></l>
+					<l>Démuni de convesture, il sébrite</l>
+					<l>par ces mots:</l>
+					<l><hi rend='underlined:true;'>Stadt <locatie>Brussel</locatie>. De prinselijke</hi></l>
+					<l><hi rend='underlined:true;'>stadt <locatie>Brussel </locatie>heeft haer beginsel</hi></l>
+					<l><hi rend='underlined:true;'>gehadt van het jaer <datum datum='0974-xx-xx'>974</datum>.</hi></l>
+					<l><hi rend='underlined:true;'>zijnde als dan een Casteel ofte</hi></l>
+					<l><hi rend='underlined:true;'>borght, dezen borcht stont</hi></l>
+					<l><hi rend='underlined:true;'>alzoo veele meynen op de</hi></l>
+					<l><hi rend='underlined:true;'>plaetse de welcke men nog</hi></l>
+					<l><hi rend='underlined:true;'>hedendaegs op <locatie>brussel </locatie>noemt.</hi></l>
+					<l>La 76<hi rend='superscript:true;'>e</hi> et dernière page</l>
+					<l>se termine ainsi:</l>
+					<l><hi rend='underlined:true;'>Den  <datum datum='1720-07-14'>14 Julij 1720</datum> is tot <locatie>Brussel</locatie></hi></l>
+					<l><hi rend='underlined:true;'>geviert den Jubile drij hondert</hi></l>
+					<l><hi rend='underlined:true;'>en vijftig van het poignaerderen</hi></l>
+					<l><hi rend='underlined:true;'>van de heijligen hostien van</hi></l>
+				</lg>
+			</p>
+			<pb n='42'/>
+			<p>
+				<lg>
+					<l>3</l>
+					<l><hi rend='underlined:true;'>heijlig sacrament van miraekel</hi></l>
+					<l>Il est manifeste que le Cahier</l>
+					<l>que possède le dépôt les Archives</l>
+					<l>de la Ville de <locatie>Bruxelles</locatie>, sub n<hi rend='superscript:true;'>o</hi></l>
+					<l>a été détaché - avant d&apos;y parvenir</l>
+					<l>d&apos;un ensemble qui, espérons le</l>
+					<l>ne laissera pas d&apos;être reconstitué</l>
+					<l>un jour</l>
+					<l>Extraits du manuscrit n<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>2959</hi><hi rend='underlined:true; superscript:true;'>B</hi></l>
+					<l>les Archives de la Ville de <locatie>Bruxelles</locatie>.</l>
+					<l> Ha@@@s uit ter Handschrift N. 2929B</l>
+					<l>van het stadsarchief van <locatie>Brussel</locatie></l>
+					<l>1<hi rend='superscript:true;'>o</hi></l>
+					<l>(pages 7 à 9);</l>
+					<l>2<hi rend='superscript:true;'>o</hi></l>
+					<l>(pages 25 à 33);</l>
+					<l>(pages 49 à 64).</l>
+					<l>3<hi rend='superscript:true;'>o</hi></l>
+					<l><persoonsnaam>Ch. Pergameni</persoonsnaam></l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>

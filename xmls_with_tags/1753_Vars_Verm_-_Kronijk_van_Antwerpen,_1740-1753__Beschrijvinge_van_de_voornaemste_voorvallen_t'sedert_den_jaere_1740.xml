@@ -1,0 +1,901 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1753_Vars_Verm - Kronijk van Antwerpen, 1740-1753. Beschrijvinge van de voornaemste voorvallen t'sedert den jaere 1740</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>N<hi rend='superscript:true;'>o</hi> 7027</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Pk 134</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>xxxxxx</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>Archief No 6575</l>
+					<l>30-11-1939</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>127800</l>
+					<l>2822</l>
+					<l>Cat. Moorthamer</l>
+					<l>20</l>
+					<l>21</l>
+					<l>Beschrijvinge</l>
+					<l>vande</l>
+					<l>voornaemste voor</l>
+					<l>vallen &apos;t sedert den</l>
+					<l>Jaere 1740</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>Dit Bouxken is inde <datum datum='1789-07-'>Maendt Julij 1789</datum> geschreven</l>
+					<l>Ende in t&apos;nette gestelt door <persoonsnaam>fr. Govaert senior</persoonsnaam> in sijnen</l>
+					<l>ouderdom van circa tachtentig Jaeren</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>Beschrijvinge Vande</l>
+					<l>Vande Voornaemste voor vallen T Zedert den jaere</l>
+					<l>1740. Voorgevallen ten tijde van mij <persoonsnaam>J. Vermeersch - </persoonsnaam></l>
+					<l><persoonsnaam>Coster der Parochie van Varsoenaere</persoonsnaam>, Ende is ghe¬</l>
+					<l>schiet soo hier naer is Volgende</l>
+					<l>Alvooren de dierte der graenen op <datum datum='xxxx-xx-xx'>drije</datum></l>
+					<l><datum datum='xxxx-xx-xx'>Coningen Avondt</datum> begon het te Vriesen en deurde</l>
+					<l>17. daegen, dan begon het te Sneeuwen, en te doijen</l>
+					<l>twee daegen, dan Vorst verhief hem Wederom, met</l>
+					<l>een grooten Noord Oosten Windt, en daer Bij</l>
+					<l>Schromelick koudt, den 1<hi rend='superscript:true;'>en</hi>. februarij Sneeuwde het</l>
+					<l>meer als de hoogte van knie, den <datum datum='1740-03-02'>3. ditto</datum> doeijet met</l>
+					<l>Grooten regen, soo dat de Sneeuw gesmolten Was,</l>
+					<l>en de Aerde gelijck moortel, <datum datum='1740-07-02'>den 7<hi rend='superscript:true;'>en</hi>. Ditto</datum> smeet</l>
+					<l>Hem den Windt Weder in t&apos;noordt Oosten en het</l>
+					<l>maeckte sulcken groote koude besonderlick <datum datum='xxxx-xx-xx'>Op den</datum></l>
+					<l><datum datum='xxxx-xx-xx'>Saterdag Voor Vette Sondag</datum> den Welcken als dan</l>
+					<l>genaempt Wiert den kouden Saterdag, ick en mijn</l>
+					<l>Vrauwe Waeren naer <locatie>Brugge</locatie> maer in Wederkeeren</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>en hebbe mijn leven nooijt meenen beter te ver</l>
+					<l>vriesen ick moste in een huys loopen om mij te</l>
+					<l>warmen, Op den selven dag vervroosen vier</l>
+					<l>persoonen, een vrauwe op <locatie>den Blanckenbergschen</locatie></l>
+					<l><locatie>Wegh die naer Brugge</locatie> quam met kieckens, een</l>
+					<l>soldaet die op schilwacht stont, een arm man</l>
+					<l>aan <locatie>d&apos;Ezelpoorte</locatie>, en <persoonsnaam>een procureur, met name</persoonsnaam></l>
+					<l><persoonsnaam>Vergoude</persoonsnaam> die ick wel gekent hebbe, soo hij besigh</l>
+					<l>was met schrijven, want hij eenen kalen procureur</l>
+					<l>was men seijd&apos; Oock datter een peirdeknegt doodt</l>
+					<l>sat op sijn peirdt, soo hij van Brugge t&apos;huijs</l>
+					<l>quaam, den Sondag, en den maandag en wast</l>
+					<l>niet minder kaut als den Saterdag, ik sat Son¬</l>
+					<l>dags savens bij een goet vier Godt Lof en een</l>
+					<l>wolle sargie op mijn schauderen, Nochtans en</l>
+					<l>behalven den saterdag en hebbe ick mijn leven</l>
+					<l>meerder koude geleden, ick en mijn vrauw en</l>
+					<l>kinderen met nog ander persoonen drijncken</l>
+					<l>The bij een goed vier, maer de potten ver¬</l>
+					<l>vriesen aende tafel, soo datter een druppel viel</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>het was ijs, Emmers soo men ons handen</l>
+					<l>aan ijser staecken het bleef er aen kleven, ick</l>
+					<l>laat den leser deser considereren, hoe dat met den</l>
+					<l>arme menschen moste gaen, die nog haut, nog klee¬</l>
+					<l>ren en hadden, godt bewaartse, het Eecken farseel</l>
+					<l>golt 36 a 37, Schellingen t&apos;hondert, en het ander naer</l>
+					<l>advenante, het bleef vriesen al Even sterck tot den</l>
+					<l><datum datum='1740-12-04'>12<hi rend='superscript:true;'>en</hi> April</datum>, daer quamen noch drije koude dagen maer</l>
+					<l>soo forsig niet gelijck de ander, <datum datum='1740-xx-xx'>S<hi rend='superscript:true;'>t </hi>Marsdag</datum>, en</l>
+					<l>was het nog niet door dooijt want het ijs, was bij</l>
+					<l>naer drije voeten dicke, sij reeden met peerden en</l>
+					<l>wagen met hoij geladen over den <locatie>Oostenschen Vaert</locatie></l>
+					<l>gelijck over een Brugge, <persoonsnaam>Sekeren Jan Sanders, boer</persoonsnaam></l>
+					<l><persoonsnaam>tot Clemskercke</persoonsnaam>, brochte op een Wagen met Vier</l>
+					<l>Peerden 13½ hoet sucrioen en hij reedt soo stout</l>
+					<l>over de vaert gelijck op de aerde Considereert;</l>
+					<l>naer <datum>S<hi rend='superscript:true;'>t </hi>Marsdag</datum> soo gingen de Boeren hun</l>
+					<l>vervrogen vrugten her saeijen, dat&apos;er stond, dat</l>
+					<l>lietense staan, maer sij saeijden somer Tarwe</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>Somer Geirste, Somer Rugge, in het Winter goet</l>
+					<l>Stont&apos;er niet, Sij reeden Het landt geheel om en Het</l>
+					<l>Waeren de beste Vruchten, maer de graenen</l>
+					<l>Wierden Soo te rijsen vanden eenen tot den anderen</l>
+					<l>marct dag dat de Terwe gegolden heeft Ƒ 2.0.0 g.</l>
+					<l>de Maete, en nog <persoonsnaam>Sekeren Jacob Sanders Hier</persoonsnaam></l>
+					<l><persoonsnaam>boer Sijnde</persoonsnaam> en Wildese niet min laeten dan 11 lb gl</l>
+					<l>Wisselgelt, maer hij en kreeg dat niet, <datum datum='1741-xx-xx'>t&apos;jaer 1741?</datum>-</l>
+					<l>most hij het laeten Som a lb 0.16.0 gl en Som 14 schel¬</l>
+					<l>lijngen gl het Wiert hem Wel gejont, en daer bij braeve</l>
+					<l>belacchen, Want hij Verdient het. Sij gelt genoeg,</l>
+					<l>Die hun graan mosten koopen om hun Vervrose</l>
+					<l>Vrugten te Hersaeijen, Siet hoe dier Het Was, -</l>
+					<l><persoonsnaam>Sekeren francois Logghe hier op dese Prochie</persoonsnaam></l>
+					<l><persoonsnaam>Woonende</persoonsnaam>, kochte aenden <persoonsnaam>Voornoomden Jan Sanders</persoonsnaam>,</l>
+					<l>Een Hoet Somer Terwe, en moste daer Vooren </l>
+					<l>Geven bij de maete, tot Lb 2.15.0 gl Was Lb.11.0.0. gl</l>
+					<l>Voor Een Hoet, et Was te Vele, maer Waerachtig is</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>de Somer Rugge bij de maete tot 3 Lb 24 Schellijngen </l>
+					<l>grooten en nog blijde dat Sij het konden krijgen,</l>
+					<l>Den almogende GODT versag het Want de Ersaeijde</l>
+					<l>Vruchten brochten graen bij, de Vruchten t&apos;sij Wat</l>
+					<l>maniere het Was, die Stonden den geheelen Voor</l>
+					<l>Somer Soberlijck, maer Hoort goe dat het begonde te</l>
+					<l>beteren. het Was een Schromelicke droogte, daer bij</l>
+					<l>geheel dunne Voortskommende, Wij hielden Bidt¬</l>
+					<l>dagen om den regen te verkrijgen, En Soot godt Ver¬</l>
+					<l>hoorde Ons gebedt, Want op <datum datum='xxxx-xx-xx'>S<hi rend='superscript:true;'>t</hi>. Jans Baptiste</datum></l>
+					<l><datum datum='xxxx-xx-xx'>dag</datum> regent: et viamant, maer het Was eenen Vrugt</l>
+					<l>baeren Regen, de Vruchten die Quamen van dagh tot</l>
+					<l>dage toe, dat Wij het van acht dagen te agt daegen</l>
+					<l>bekenden, Want Siet ick, en <persoonsnaam>mijn swager Wagchemaec¬</persoonsnaam></l>
+					<l><persoonsnaam>ker met Naeme Jacob de Bouver</persoonsnaam>, en <persoonsnaam>Sekeren</persoonsnaam></l>
+					<l><persoonsnaam>Lodewijck Dobbelaere boer Zijnde</persoonsnaam>, pagten dan</l>
+					<l>Westhoeck tot de Somme Van Lb 20..10.0 gl. soo dat</l>
+					<l>al de Menschen met ons Loegen dat Wij Soo diere</l>
+					<l>Pachten, Emmers de Thiende ginck over al schroome¬</l>
+					<l>lick diere, daer bij den Meulen houck tot 31 Lb</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>pagten Wij oock maer noijt Soo Veel gegolden,</l>
+					<l>Ick, en mijn Swager <persoonsnaam>J. De Boudere</persoonsnaam>, en Sekeren</l>
+					<l><persoonsnaam>Guilliame De Groote Onsen Smit</persoonsnaam>, gingen eens Wan¬</l>
+					<l>delen inden <locatie>meulen Houck</locatie> 14 dagen naer de thiende</l>
+					<l>Verpagtijnge, en Wij Quamen op een Stick bij den</l>
+					<l>Molen ende Wij Waeren Verwondert dat de Rogge</l>
+					<l>op soo een korten tijdt toe gekommen Was Wij telden</l>
+					<l>differente Struijcken, en daer Waeren in Som 48,</l>
+					<l>49, 57, 58, 63. ende 64, Emmers daer Waeren der Van</l>
+					<l>84 en 85, Aren ofte Staelen in een Struijck, ofte Hut</l>
+					<l>Het Welck Ongelovelick is, maer nochtans Waer is, gij</l>
+					<l>lieden die dit Van Sijn Leven leest, ofte Hort Lesen,</l>
+					<l>dit en moet UL: niet Verwonderen, over den dunnen</l>
+					<l>Ougst, en daer naer Sulck een groot beschot, ick</l>
+					<l>Hebbe het UL: geschreven, Godt Sij Lof, Hier vooren,</l>
+					<l>maer de dierte der graenen om den uyttreck naer</l>
+					<l>Ander landen, en hier in het leste in Courtresoe </l>
+					<l>komende, Wiert Soo groot dat geen Arme Menschen</l>
+					<l>en konden Coopen, ick sal UL: Schrijven Wat leven dat</l>
+					<l>Het Was, bij den Gemeenen man Want de terwe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>gelijck ick geseijt Hebbe, de Rogge, tot 16 a 17 Schel¬</l>
+					<l>lijngen Grooten Courant de Maete, het Sucrijoen</l>
+					<l>38, 39, 40 Schellijngen grt. het Hoet, Haver 36 tot 39</l>
+					<l>par Hoet, Boucqueet Van 13, 14, 15 Guldens, daer heeft¬</l>
+					<l>er geweest van 17½ guldens, maer t en Was Twee</l>
+					<l>marctdagen, Den Herten ofte Erweten, te Weten de</l>
+					<l>Blauwe golden Van 16, 17 en 18 guldens het Hoet, en</l>
+					<l>ander alles naer advenante, ick gaen noch al Voorder</l>
+					<l>UL: Sult Hooren t&apos;Swijnen Vleesch bij de ponde geldt</l>
+					<l>7. Stuijvers, Aerdappelen bij het Vat 13 a 14. Stuijvers,</l>
+					<l>Eijeren Vier Schellijngen grt. Emmers al Wat men</l>
+					<l>in den Mont Stack Was even diere, en hadden d&apos;heeren</l>
+					<l>Van Het Vrije, geen graen uijt Ander Landen Ontboden</l>
+					<l>dat genaampt Wiert <locatie>Revelaere</locatie>, ten hadde niet hoope¬</l>
+					<l>lick geweest, Want in dit landt en Was geen graen,</l>
+					<l>maer Godt Lof het beterde, Daer Quam oock spelcke</l>
+					<l>om te brauwen in plaetse Van Sucrijoen Ofte Geerste,</l>
+					<l>Want geirste, Sucrijoen, Som boucqueet, met Revelaere</l>
+					<l>Gemengelt, Was Voor Soo Veel menschen hun dage¬</l>
+					<l>lijcx Broodt, Ick laete UL: duncken hoe diere Het</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>moste Zijn, Want Wij Wonnen met drijen aende</l>
+					<l>Voorseijde Houcken thienden boven Alle Lasten tot</l>
+					<l>Lb 49.15.4. grt. <persoonsnaam>Courant, Sekeren Pieter Sanders</persoonsnaam></l>
+					<l>kochte tegen sijn Vader twee gemeten Terwe, ende</l>
+					<l>raet hoe Veele, Siet hier Lb 33.12.0 grt. en Vier lijnen</l>
+					<l>Rogge tot Lb 11.2.0 grt. en ick hebbe <persoonsnaam>dijtto Sanders</persoonsnaam></l>
+					<l>Hooren Seggen dat hij noch Merckelijck baete daer</l>
+					<l>aen gedaen heeft, De Boter 10. a 11 Stuijvers, Het</l>
+					<l>Schapen en koeijen Vleesch tot 5 a 6 Stuijvers, de</l>
+					<l>kappers a 8 Stuijvers de Stoop, den brou Was al</l>
+					<l>Vervrosen, soo dat Zij die hem Van doen hadden</l>
+					<l>mosten geven Lb 1.0.0 grt. par hondert, sekeren Schip¬</l>
+					<l>per Van Oostende, bode 18 Schellijngen, Want hij</l>
+					<l>hadde 400 Van doen om sijn Schipplancken Te</l>
+					<l>ploeijen, maer niet min als een pondt groote, en nog</l>
+					<l>blijde dat hij hem kreeg, Ick laete UL: Considereren Wat</l>
+					<l>een droef Leven dat het Was Voor de Arme Men¬</l>
+					<l>schen, men Sal Van tjaer achte lange Spreken</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>maer van tjaer 1740 meer;</l>
+					<l><datum datum='1741-xx-xx'><hi rend='underlined:true;'>t&apos;Jaer 1741</hi></datum></l>
+					<l>Begon het Wat te beteren Van levens middel</l>
+					<l>Godt Lof, maer het hout bleef even diere, Wij alle,</l>
+					<l>Wierden Ons te Verblijden maer korts daer naer</l>
+					<l>het vuijlde de blijdtschap en deurde niet lanck want</l>
+					<l><persoonsnaam>Onse Coninginne van hongarien</persoonsnaam> en <persoonsnaam>den koninck</persoonsnaam></l>
+					<l><persoonsnaam>Van Vranckrijck</persoonsnaam> niet konnende Over een komen,</l>
+					<l>Soo Wiert Zij gedwongen tot den Oorloge, of moetse</l>
+					<l>de keijserlicke Croone Verlaeten, Zij dat niet Wil¬</l>
+					<l>lende doen, Soo begon het Allinxkens, Wij Waeren</l>
+					<l>dit geheel Jaer in benauwtheijdt, <datum datum='1741-xx-04'>het selve jaer 1741</datum></l>
+					<l><datum datum='1741-xx-04'>in April</datum> Sijnde den lesten dag hoorde men den eersten</l>
+					<l>donderslag, Waer door de Halle thoren genocht in brandt</l>
+					<l>door godts handt, t&apos;Was Jammer Van dien Schoonen</l>
+					<l>thooren; Men heeft oock Verre en naer laeten hooren</l>
+					<l>dat niet en Waere door godts handt, het Waere Sond¬</l>
+					<l>en schand, Want tis&apos;er al in gebrandt, Oock al die</l>
+					<l>Schoone klocken die dagelicx Wierden getrocken,</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>men sag den Brandt van alle kant grauwelick uijt¬</l>
+					<l>komen, het Was een Schroomen Voor de Lien</l>
+					<l>die t&apos;konden sien, maer hadt geweest een quant hij</l>
+					<l>roert van hant,</l>
+					<l>Om te komen tot ons voor nemen Causa Oorloghe,</l>
+					<l>Soo Wilde <locatie>Vranckrijck</locatie>, <locatie>Spaegnien</locatie> Voor keijser</l>
+					<l>hebben, die als dan Zijn Schoon Sone Was, daer Wij</l>
+					<l>Hier Spaensch geweest Hadden maer niet Sonder</l>
+					<l>Oorloge, Soo Quam Zij over een met den Coninck</l>
+					<l>Van <locatie>groot Britanien</locatie> geseijdt <locatie>Engelandt,</locatie> en den</l>
+					<l>Oorloge Wiert tegen haer gedeclareert en Tegen</l>
+					<l><locatie>Engelant,</locatie></l>
+					<l><datum><hi rend='underlined:true;'>1742</hi>: den 13<hi rend='superscript:true;'>en</hi> Meij</datum> Quamen 17000 Engelsche</l>
+					<l>Soldaeten, den 18. Ditto 7000 Schotten al Mannen</l>
+					<l>Sonder Broeckx Wij in dit landt noeijt sulcke Volck</l>
+					<l>gesien hebbende, de menschen liepen te hoope, Om</l>
+					<l>Sulcke Volck te sien, en t&apos;Was al fris, en kloeck Volck,</l>
+					<l>Veel Stercker als d&apos;Engelsche, t jaer <datum datum='1743-xx-xx'>1743:</datum> quaemen</l>
+					<l>ijerlanders, Esoclansche en Anoversche maer niet over een </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Want al die natien Versmaden d&apos;Engelsche Natie,</l>
+					<l>Want de Schotten die Waeren dickwils in duelle, Ofte</l>
+					<l>in gevecht, en veel Engelsche doodt bleeven, maer dit Jaer</l>
+					<l>en Was&apos;er noch geen Oorloge maer gedeurig Passagie</l>
+					<l>en Repasagie, maer Wij niet sonder Vreese, maer het</l>
+					<l>Verginck Wel, Zij Quamen Van <locatie>Vranckrijck </locatie>Naer</l>
+					<l><locatie>Brugge</locatie>, Van daer naer <locatie>ghend</locatie>t, Van <locatie>ghend</locatie>t Weder naer</l>
+					<l><locatie>Brugge</locatie>, dan naer <locatie>Oostend</locatie>e, dan naer <locatie>Nieuwpoort,</locatie></l>
+					<l>Wederom naer <locatie>Brugge</locatie>, en <locatie>ghendt</locatie>, dan Waeren Wij</l>
+					<l>hun Quijt,</l>
+					<l><datum><hi rend='underlined:true;'>1744</hi></datum>: Quamen de fransche Voor <locatie>Meenen</locatie> <datum datum='1744-05-22'>22</datum><hi rend='superscript:true;'>en</hi>. Meije en</l>
+					<l>ginck over <datum datum='1744-06-04'>4</datum><hi rend='superscript:true;'>e</hi>. Junij, men leede de Hollanders Wegen op H:</l>
+					<l>Sacraments dag met al hun Bagagie, den <datum datum='1744-06-04'>4</datum>e. Junij hoorde </l>
+					<l>den <persoonsnaam>Coninck van <locatie>Vranckrijck</locatie></persoonsnaam> met al sijn hovelijngen</l>
+					<l>de Eerste misse binnen <locatie>Meenen</locatie> met het Singen</l>
+					<l>De te Deum Laudamus Van daer trocken Zij naer</l>
+					<l><locatie>Spae,</locatie> daer schooten Zij Vijf dagen op <locatie>tforteknocke,</locatie> en </l>
+					<l>drije dagen op de stadt, en ginck over, Van daer naer</l>
+					<l><locatie>Veuren</locatie>, en deurde 15 dagen, en ginck Soo over, men</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>liet de <locatie>hollanders</locatie> Vrij passagie, met al hun bagagie,</l>
+					<l>Canon, Mortieren, en Anders, het Welck noijt ge¬</l>
+					<l>hoort en is, en leedende al t&apos;<locatie>Sas Van ghendt</locatie> reght</l>
+					<l>naer <locatie>hollant</locatie> toe, met belofte Van in Ses Jaeren niet</l>
+					<l>meer te dienen, <locatie>Nieuwpoort</locatie> uijt Vreese, die Staken</l>
+					<l>Water een mijle int&apos; ronde, soo dat alle de Vette</l>
+					<l>Gansen daer Ontrent geinnondeert Wierden, daer nae</l>
+					<l>met Sprinck Vloet, Soo dat de Terwe, en Andere</l>
+					<l>Vruchten tot de Hauwe in Water Stonden, de Men¬</l>
+					<l>schen daer Ontrent mosten hun huijs abandoneren</l>
+					<l>t&apos;Was bedroeft om Sien, en om te Hooren in <locatie>Camer¬</locatie></l>
+					<l><locatie>linckx</locatie> en geheel <locatie>Veuren Ambacht</locatie> <locatie>Quamper</locatie> Een</l>
+					<l>Plage Onder de koeij beesten, die men Noemde</l>
+					<l>de Peste, godt beschermt ons al, Soo dat Zij in</l>
+					<l>2 a 3 dagen doodt Waeren, daer Was een boer</l>
+					<l>Op <locatie>Leffinge</locatie> hij Verloor op Eenen nacht 18. beesten</l>
+					<l>Onder groot en kleen, dan Wiert geheel het landt</l>
+					<l>door Bidt dagen in gestelt drije Weken lanck,</l>
+					<l>men Ontboodt twee Vande Principaelste</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Meesters uijt <locatie>duijtslandt</locatie>, en een uijt <locatie>Vranckrijck</locatie></l>
+					<l>om hulpe, maer te vergeefs, men sneed de beesten</l>
+					<l>Open, daer Wiert Van binnen aen t&apos;herte bevonden</l>
+					<l>Een Swert plaxken de grotte van een peirde boone,</l>
+					<l>men Ordonneerde Sulcke beesten te doen delven</l>
+					<l>Ses Voeten diepe, met Vel en al, en d&apos;ander Beesten</l>
+					<l>t&apos;sij gesonde, ofte Ongesonde, in te geven een Vierendeel</l>
+					<l>Witten Aluijn, in een kanne Versch Water geweeckt, en</l>
+					<l>de Tonge met Aerde te Vrijven tot dat Sij bloede,</l>
+					<l>en alsoo dat Water in gegoten, soo dickwils tot dat</l>
+					<l>Sij Zeeverden, ofte quijlden en godt Lof het beterde</l>
+					<l>ijets, maer Weijnig, die gasten trocken uijt dit landt,</l>
+					<l>met elck vracht geldt, daer quamen Meesters genoeg,</l>
+					<l>en elck Wiste Wat different om hulpe, maer t&apos;Was</l>
+					<l>om geldt te Crijgen, maer Soo de koude Aenquam</l>
+					<l>dan beterde het, daer Waeren Sommige die door de</l>
+					<l>Quaele Quamen en die noemden men Reeuwers, vele</l>
+					<l>Persoonen Oordeelden dat de plage Quam uijt Het</l>
+					<l><locatie>fransch</locatie> leger, Ander vande repsens, <datum datum='xxxx-03-xx'>Maert dit jaer</datum></l>
+					<l>Waeren extremigh Veel Repsens, Soo dat Zijn</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><pagenumber>600</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Het gars bekropen, en naer Etelick Weeren,</l>
+					<l>Dit Jaer Waeren d&apos;er oock soo veel duijvels Naelden</l>
+					<l>en die Vlogen met hoopen, gelijck Bie Swarmen Som</l>
+					<l>kleen, Som groot, achterwaerts, tegen dat Zij moesten ver¬ </l>
+					<l>trecken, daer vergaderden Zulck een menichte bij mal¬</l>
+					<l>kanderen, dat Zij een lommeringe gaven tegen de Sonne,</l>
+					<l>maer Sij deden geen quaet, maer Zij Vlogen Voor bij</l>
+					<l>Ons aensicht gelijck de Muggen,</l>
+					<l>Tot <locatie>Thourout</locatie> op <datum datum='xxxx-06-29'>S<hi rend='superscript:true;'>t</hi>. Pieters dag</datum>, quamen Ontrent</l>
+					<l>600 fransche Ousaren en die Naemen al de Peirden</l>
+					<l>Vande Marct, en Voerdense naer <locatie>Cortrijck</locatie> Alwaer</l>
+					<l>het fransch Leger lagh, t&apos;Was een schoone Vanck</l>
+					<l>geheel het Brugsche Vrije meeste naer <locatie>Cortrijck</locatie></l>
+					<l>leveren, soo hout, hoij stroij, haver, en klaver, ijder</l>
+					<l>Parochie Vijf keeren, en dat met twalf Wagens, ijder</l>
+					<l>met drije Peirden en twee knechten, in<locatie>de kercke Van</locatie></l>
+					<l><locatie>Arelbeke</locatie> Was hun Magazijn, dan most men drije</l>
+					<l>keeren leveren naer<locatie> Dixmude</locatie>, tot <locatie>Pruckelaere</locatie> lagen </l>
+					<l>Zij in Campement, Op <locatie>Thourout</locatie> kermisse quamen</l>
+					<l>Salvo Justo 300 fransoze, en die hielden daer</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>kermisse, gelijck UL Wel dincken kont, Zij setten braef</l>
+					<l>hun Sijden op, en Vraegden geldt toe, Zij moesten geven</l>
+					<l>of Zij haddense al gebrandt, Want <locatie>Thourout </locatie>hadde</l>
+					<l>nog een quaden Naeme Van het Jaer achte, Zij</l>
+					<l>hadden dat Onthouden,</l>
+					<l>Dan quamen Sij op Vele Parochien en Vroeg¬</l>
+					<l>den Eten en drijncken dat hun luste en nog geldt</l>
+					<l>toe, daer naer quamen Zij met kamerbrieven Om</l>
+					<l>d&apos;hooftmans, dat sij mosten naer <locatie>Cortrijck</locatie> gaen</l>
+					<l>en Soo Zij daer Quamen men Staeckse in Vange¬</l>
+					<l>nisse twee en twee met ketens geboeijt, Aen</l>
+					<l>Armen en beenen, som d&apos;handen aende Voeten</l>
+					<l>gebonden dobbel tot dat Zij hun Vrage hadden,</l>
+					<l>dat Zij op de Parochien Vraegden, Sekeren <persoonsnaam>Sebas¬</persoonsnaam></l>
+					<l><persoonsnaam>tiaen Jonckheere hooftman der Parochie Van</persoonsnaam></l>
+					<l><persoonsnaam><locatie>Snolleghem</locatie></persoonsnaam> Oock Ontboden Zijnde, en niet Wetende</l>
+					<l>Waer om, hij komt tot <locatie>Cortrijck</locatie> Aende Poorte, seke¬</l>
+					<l>ren cortrijsaen Vraegde hem Waer naer Toe</l>
+					<l>Hij seijde hem dat hij Ontboden Was bij Camer</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>brief, dien man seijde keert vrijelick Weder Om</l>
+					<l>Zij Sullen U Oock Soo Accomoderen, dien <locatie>Cortrij¬</locatie></l>
+					<l><locatie>saen</locatie> Vertelt hem de maniere van Leven en de Oor¬</l>
+					<l>saecke, ick laet UL: Overdencken hadde dat moeten</l>
+					<l>uijtkomen Wat dat sij Hadden gedaen met dien</l>
+					<l><locatie>Cortrisaen</locatie>, hij keert Wederom en Het is nogal</l>
+					<l>Wel vergaen godt Lof,</l>
+					<l>De Vrage Was op <locatie>Snelleghem</locatie> 3500 Troussen</l>
+					<l>ijder trousse Wegende 350 Pondt, ten Was Niet</l>
+					<l>Gevelick maer in veerthien dagen lanck en dorsten</l>
+					<l>geen Van die Parochie op Hun bedde slaepen, Om</l>
+					<l>dat hij niet en hadde ghecompareert, Zij dreven de</l>
+					<l>Beesten in Haghen, en Bosschen, dus Sonder</l>
+					<l>grooten Noodt Sij gingen Soo op Vele Parochien,</l>
+					<l>maer <locatie>Varssenaere</locatie> Was Vrij Godt Lof, Zij hadden</l>
+					<l>Een Brandtbrief om geheel <locatie>Stalhille</locatie> te branden,</l>
+					<l>en te verdestrueren, maer Al de Pompen en Schuij¬</l>
+					<l>ten Waeren Wegh, Soo en konden Sij niet Over, Even</l>
+					<l>Wel met een Troch gingen daer twee Over, en Sij</l>
+					<l>en dorsten hun niet lange prijckelen sij staecken</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>in den nacht een hoij Vimme in brande, daer Over</l>
+					<l>10. a 12 dagen te vooren een hondert Ponden grooten</l>
+					<l>Vooren geboden Was,</l>
+					<l><datum datum='1744-09-05'>1744: den 5<hi rend='superscript:true;'>e</hi>. Septembre</datum> Quamper een fransche Ozaer</l>
+					<l>Partije, inden nacht in <locatie>Oudenburgh</locatie>, en naemen den</l>
+					<l>den Burghmeester, den Prior, en den Supprior mede,</l>
+					<l>en deden hun te Voet Achter hun Peerden gaen ghe¬</l>
+					<l>lijck houden door Qua, en goede Wegen en bleven</l>
+					<l>gevangen, tot dat Sij hun Vrage hadden,</l>
+					<l>In dese Maendt quamper een Vremt geslachte</l>
+					<l>van Volck in het landt, tot bijstant vande Coneginne</l>
+					<l>dat seer Boos, quaet, en Ongeloovigh Was, die ghe¬</l>
+					<l>noemt Waeren Landoeren, Zeer Boos Van Leven</l>
+					<l>Welck levens mij hier niet georlooft en is te beschrijven</l>
+					<l>Om gheen Eerlijcke ooren te Onstichten, Want De</l>
+					<l>Coneginne geen Christen Princen en konde Crijgen,</l>
+					<l>Om dat Zij niet en Wilde Cederen Van het gene Zij</l>
+					<l>Besat, nochtans Van al dat de fransche gedaen hebben,</l>
+					<l>Soo nu heeft Zij geen Tegenstant gedaen, dat Verwon¬</l>
+					<l>derijnge Was Van alle Menschen dat men Sijnen</l>
+					<l>Vijant laet geworden, Want Sij naemen <locatie>Brugge</locatie></l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>Sonder tegenstant, de heeren Vande Stadt en Van het</l>
+					<l>Vrije, gingen tegen met de Sleutels Vande Poorten,</l>
+					<l>Op een fluweel kussen, Welck kussen lag op een</l>
+					<l>gouden Schotel elck riep Viva Viva den <persoonsnaam>franschen</persoonsnaam></l>
+					<l><persoonsnaam>Coninck</persoonsnaam>, en dat Was hun Zeer Aengenaem, Corts</l>
+					<l>daer naer quam den Coninck Zijn intré doen</l>
+					<l>en geel de Stadt Was op het Eerlickste en Rijckelick¬</l>
+					<l>ste gepareert, en bij duijsent Menschen gingen</l>
+					<l>kijken en elck riep Viva den <persoonsnaam>Coninck Van Vranck¬</persoonsnaam></l>
+					<l><persoonsnaam>rijck</persoonsnaam>, Van <locatie>Brugge</locatie> gijngen naer <locatie>Nieupoort</locatie> en konnen</l>
+					<l>t&apos;in 26 dagen,</l>
+					<l>T&apos;jaer <datum><hi rend='underlined:true;'>1745</hi></datum> Wiert&apos;er een Commeet sterre Ofte</l>
+					<l>een Sterre met een steert gesien, Sij Rees in Het</l>
+					<l>Oosten met haer Steert Wijsende in <locatie>Hollandt</locatie>, En</l>
+					<l>Savonts sat Zij in het Westen met Haer steert in</l>
+					<l><locatie>Engelandt</locatie>, haer steert meerderde van dage tot daghe,</l>
+					<l>Soo dat hij soo breedt Was gelijck een grooten</l>
+					<l>Besem, en Wel 3, a 4 Roen lanck, Veele Oude</l>
+					<l>Menschen die nog sterren met Steerten gesien</l>
+					<l>Hadden, die Oordeelden dat <locatie>hollandt</locatie>, en <locatie>Enghelandt</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Het erste Souden Wegh dragen gelijck het hier naer</l>
+					<l>is gebleken, gelijck gij hooren sult in mijn Vervolgh,</l>
+					<l>men Seijde dat de Selve Sterre gevallen is in Engelandt,</l>
+					<l>en aldaer Verdwenen,</l>
+					<l>1745 daags naer <datum datum='xxxx-xx-xx'>S<hi rend='superscript:true;'>t</hi>. Bartholomeus dagh</datum> ginck De</l>
+					<l>stadt Van <locatie>Oostende</locatie> Over, naer langh geschoten te hebben,</l>
+					<l>maer de stadt Was Verdestrueert, Zij naemen den</l>
+					<l><persoonsnaam>Prins De Linije</persoonsnaam>, Sijn Volck met al d&apos;ander Soldaten, en</l>
+					<l>brochten hun met Schepen naer <locatie>Brugge</locatie> om op het landt</l>
+					<l>geen quaet te doen, dan trock Vranckerijck naer <locatie>ghendt</locatie>, en</l>
+					<l>Wont het Op Eenen nacht; met bedrogh, maer ghendt heeft Het</l>
+					<l>Hart gehadt, Want Sij en Wilden Hun niet kennen Voor</l>
+					<l>Hun Coninck, <locatie>Doornijck</locatie>, Aet ende Ander Watren Oock</l>
+					<l>al Voor <locatie>Vranckrijck</locatie>,</l>
+					<l><datum datum='1745-10-23'>23<hi rend='superscript:true;'>en</hi>. Octobre 1745</datum> tot den <datum datum='1746-03-23'>23en. Maerte 1746</datum>. Waeren hier</l>
+					<l>gedeurig 37. Cavailliers die Wij moesten Onderhouden,</l>
+					<l>dan Vertrocken Sij naer <locatie>Brussel</locatie>, en Wonnen dat in 17.</l>
+					<l>dagen, Van daer naer <locatie>Antwerpen</locatie>, en Wonnen dat in</l>
+					<l>19. dagen maer het Casteel gedeurde langer, Onse</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>Wagens moesten dagelijcx Rijden om de Maga¬</l>
+					<l>Sijnen te vervoeren, en soo seen de knechten geen</l>
+					<l>geldt noch foragie meer en hadden alwederom Ander,</l>
+					<l>Voorsien van Levens middel, en setten hun Peirden</l>
+					<l>inde Vruchten, gelijck bij ons de koeijen inde bilcken</l>
+					<l>daar Wiert niet gespaert, de boeren van het hage</l>
+					<l>landt die quamen daer tegen op, maer ten konde</l>
+					<l>hun niet baeten, men Seijde dat er 20 aen Een</l>
+					<l>Boom gehangen wierden, en het geheel landt ver¬ </l>
+					<l>der Frueert, in <datum datum='1745-09-xx'>7bre 1745</datum>. meijnde den pretendent</l>
+					<l><persoonsnaam>Prins Wallis, ofte Stuaert</persoonsnaam>, met bij stant van <locatie>Vranck</locatie></l>
+					<l><locatie>rijck</locatie>, sijn Erf deel te gaen besitten, en <persoonsnaam>Coninck van</persoonsnaam></l>
+					<l><persoonsnaam>Engelant</persoonsnaam> te worden, gelijck het hun van reghts</l>
+					<l>Wege toe quam hij was al reede <persoonsnaam>Meester van </persoonsnaam></l>
+					<l><persoonsnaam><locatie>Schotland</locatie></persoonsnaam>, en ijerlandt, Waerom de Schotten</l>
+					<l>en ijerlanders geheel blijde Waeren, meijnende</l>
+					<l>Alsoo Verlost te Worden van het Swaer Jock</l>
+					<l>Van <locatie>Engelant</locatie>, maar het viel qualijck uijt Want</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>hen meenende te vervoorderen Wiert Schrome¬</l>
+					<l>lick op de Zee geslagen Vande Engelsche, en van</l>
+					<l>den kaes boer, geseijt den Hollander, maar den</l>
+					<l>Hollander Wiert sijn kaes geschript, want vande</l>
+					<l>Bergh Schotten geseijdt Wilde Menschen verloor</l>
+					<l>5 a 6000 Mannen, Want ijder Schot quam te velde,</l>
+					<l>hun Bloet honden en de honden deden meer quaet,</l>
+					<l>als de Wilde Schotten, maar <persoonsnaam>Stuaert</persoonsnaam> moest het laeten</l>
+					<l>Steken, Want Vranckrijck en dede hem geen bijstant,</l>
+					<l>Want hij ginck altijdts voort van d&apos;een Stede naer</l>
+					<l>d&apos;ander en al Loffelijck gewonnen, soo dat hij meer fer-</l>
+					<l>Wiert Van <locatie>Vlaenderen</locatie> en geheel <locatie>Brabant</locatie>, in een Jaer</l>
+					<l>en drije maenden, sij bleven dien Winter ginter overal bij</l>
+					<l>de boeren, de <persoonsnaam>Coneginne Van <locatie>Hongarien</locatie></persoonsnaam> die sochte van </l>
+					<l>Alle vremde Natien t&apos;haerder baete, maer de benedic¬</l>
+					<l>tie van Godt, en Was met hun niet, soo en kondt het niet</l>
+					<l>helpen, Want t&apos; Jaer 1745 Verloren de Engelsche</l>
+					<l>en de Schotten den Velt Slagh, Soo dat er van</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>d&apos;Engelsche en Schotten veel doodt bleven, maer d&apos;hol¬</l>
+					<l>landers en dorsten hun niet roeren, en <persoonsnaam>de Coneginne</persoonsnaam></l>
+					<l>spaerde haer Volck, Want de duijtsche en moesten</l>
+					<l>niet Vechten, t&apos;Was Seker een bedrog Voor<locatie> Engelandt,</locatie></l>
+					<l>Want Sij kregen S&apos;Weirels loon, doet Imant deught</l>
+					<l>gij krigt nog slagen toe, segt T&apos;Evangelie,</l>
+					<l><datum datum='1747-03-xx'>T&apos;Jaer <hi rend='underlined:true;'>1747</hi>. in Maerte</datum> Vertrocken Wederom</l>
+					<l>Veel fransche naer het Leger toe, Sij Quamen</l>
+					<l>Van alle Steden uijt <locatie>Vranckrijck</locatie>, het Scheen dat de</l>
+					<l>Weirelt Vol Soldaeten Was, Sij passeerden, een</l>
+					<l>Repasseerden Alhier negen dagen lanck Som in de</l>
+					<l>gotsche straete, Som al<locatie> Thourout,</locatie> Som al <locatie>de Vaert</locatie>,</l>
+					<l>Alhier door dit dorp, inde Negen dagen passeerden</l>
+					<l>der 40000, Soo de Soldaten Ons Seijden, maer al</l>
+					<l>Sonder quaet, ten Waere hier en daer een hunne,</l>
+					<l>daer ginck goede Orders Onder, dat Was Veel,</l>
+					<l>daer Waeren Vier Achterloopers op een boeren Hof,</l>
+					<l>en pachten elck een hespe, ofte hamme, maer</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Soo Sij binnen de poorte Quamen Wierden gevisi¬</l>
+					<l>teert, den boer kreeg Sijn hammen Weder en Sij </l>
+					<l>Wierden alle Viere opgehangen, op <locatie>de Vaert</locatie> aen <locatie>het</locatie></l>
+					<l><locatie>padde gat</locatie>, Waeren hun thiene op een boeren hof, en</l>
+					<l>naemen daer kleer en lijnen, en Juweelen, tot de Weerde</l>
+					<l>van 10 a 12 Ponden grt. den boer hun Wel belettende</l>
+					<l>liet hun geworden, en liep naer<locatie> Brugge </locatie>Sijn klachten</l>
+					<l>doen aen <locatie>d&apos;Ezel poorte</locatie> komende, den kapiteijn dede¬</l>
+					<l>se grijpen en Waer bevonden Sijnde, Wierden alle</l>
+					<l>thiene ^</l>
+					<l>^ op gehangen</l>
+					<l>Van <locatie>Brugge, </locatie>gingen Sij naer <locatie>ghendt,</locatie> bij loose</l>
+					<l>Listen, het Wiert den hollander gewaerschauwt dat</l>
+					<l>de franschen naer <locatie>Sluijs</locatie> Wilden gaen, maer hij en</l>
+					<l>Wilde het niet geloven maer bleeck Wel, Want op eenen</l>
+					<l>nacht Was<locatie> Sluijs </locatie>in Vier Quartieren Ontset, De</l>
+					<l>fransche Ousaren Waeren in <locatie>Cadsant,</locatie> en boerden</l>
+					<l>daer brave Sij Vonden de Rijnckxdaelders Wel die</l>
+					<l>Van <locatie>Sluijs </locatie>schoten Vier dagen met al dat Sij konden</l>
+					<l>krijgen Soo Calsije, Steenen, brocken ijser, gebrande</l>
+					<l>Smede kolen, en Oock met gelas Stucken, en schailien</l>
+					<l>Het Welck in het frans leger groote schaede dede,</l>
+					<l>Soo datter Wel 1000 Doodt bleven en Veel maer</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>gequelde, <persoonsnaam>Prins Lovendaele</persoonsnaam> dit gewaer wordende</l>
+					<l>sondt twee trompetters naer de Stadt, om te vragen</l>
+					<l>of hij wilde ophouden van met sulck geschut te </l>
+					<l>schieten, ofte niet, seggende in dien het niet en liet</l>
+					<l>dat sij de stadt souden oploopen te vier en te</l>
+					<l>sweerde, en al vermoorden datter was, dus hij heeft</l>
+					<l>het gelaeten en Capitulatie gevraegt sij hebben</l>
+					<l>twee en half dagen geseten in Capitulatie, maer</l>
+					<l>niet konnende over een komen, soo schreef <persoonsnaam>lovendaele</persoonsnaam></l>
+					<l>eenen Brief naer <persoonsnaam>Duc du saxen</persoonsnaam> die generael van</l>
+					<l>het groot Leger was, of hij de stadt soude beschieten</l>
+					<l>of niet, ende kreeg voor Antwoorde, Ja, dat hij het soude</l>
+					<l>plat leggen, dit raport naer de stadt gedaen door</l>
+					<l>twee Trompetters, en kreegen voor antwoorde dat</l>
+					<l>sij hun over gaven, de fransche Zijn binnen ghe-</l>
+					<l>gaan en hebben de stadt drije dagen en twee </l>
+					<l>nachten gesloten, datter niemant uijt of in en konde</l>
+					<l>om de fransche deserteurs te soucken, alsoo is-</l>
+					<l><locatie>Sluijs</locatie> over gegaen sonder eens te schieten.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Op den <datum datum='1747-04-16'>16<hi rend='superscript:true;'>e</hi> April 1747</datum> en al gepackt voor Buijt</l>
+					<l>van daer trocken Zij naer het <locatie>Zas van gendt</locatie> <datum datum='1747-04-30'>1747</datum></l>
+					<l><datum datum='1747-04-30'>den lesten</datum> april was er sulck een groote triumph</l>
+					<l>binnen <locatie>Brugge</locatie>, dat het schier Onmogelick is</l>
+					<l>sulcx te doen over twee h:h: Capucijnen gevon</l>
+					<l>den in <locatie>Italien</locatie>, die t&apos;Jaer <datum datum='1543-xx-xx'>1543</datum> aldaer begraven</l>
+					<l>Zijn geweest met Naemen <persoonsnaam>Pater Joseph</persoonsnaam> Ende</l>
+					<l><persoonsnaam>Pater Fijdelis</persoonsnaam>, Welcken groot vader van <locatie>antwerpen</locatie></l>
+					<l>van geboortig Was en naer <locatie>Italien</locatie> ginck Woonen</l>
+					<l>met Naeme <persoonsnaam>Joannes</persoonsnaam>, desen <persoonsnaam>Joannes</persoonsnaam> kreegh <persoonsnaam>fidelis</persoonsnaam></l>
+					<l>Zijn moeder Was genaampt <persoonsnaam>genoveva van Roo¬</persoonsnaam></l>
+					<l><persoonsnaam>senberghe</persoonsnaam> alsoo den Prior in sijn sermoen ver¬</l>
+					<l>klaerde, daer gingen in processie twee hemel</l>
+					<l>Waijghens, magnifijck om Sien, alles was te been</l>
+					<l>soo geestelicke als Weirelicke, kruepele, En</l>
+					<l>mancke, het selve jaer in Julij maeckten De</l>
+					<l><persoonsnaam>Paters Recolletten</persoonsnaam> met geheel de stadt niet min</l>
+					<l>Triumphe, over eenen H van hun orders, gevon</l>
+					<l>den in<locatie> Turkien</locatie> die aldaer over de 200 Jaeren</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>gemarteliseert was, omdat hij aldaer het waare</l>
+					<l>geloove ginck verkonden, in het selve Jaer trock</l>
+					<l>den fransman met al hun begagie naer <locatie>Bergen</locatie></l>
+					<l><locatie>op Zoom</locatie> een stercke stadt, want is van sij leven</l>
+					<l>Elf keeren belegert geweest, en noijt gewonnen maer</l>
+					<l>altijdt moeten verlaeten, maer soo lovendaele daer bij</l>
+					<l>quam, hij schreef een brief naer <persoonsnaam>Cond&apos; du <locatie>Saxen</locatie></persoonsnaam>,</l>
+					<l>die sijn Outsten broeder was, als nu <locatie>Saxen</locatie> vraagde</l>
+					<l>of het van boven open was als <persoonsnaam>Loffrendaele</persoonsnaam>, dese</l>
+					<l>antwoorde verstaen hadde, soo ginck hij met alle</l>
+					<l>macht daer naer toe, en men schoot 83 dagen en 9</l>
+					<l>uren al eer het over gingh, maer ten lesten Zij</l>
+					<l>moesten het oploopen Want hun geschut en konde</l>
+					<l>hun niet baeten Want de mueren van lauter Or¬</l>
+					<l>duijn sijn, dan liet hij door den <persoonsnaam>koninck van</persoonsnaam></l>
+					<l><persoonsnaam>Vranckrijck</persoonsnaam> de Canonnen komen die sij noemden</l>
+					<l>de Twaelf Apostelen, doen gaf hij sijn volck</l>
+					<l>sulck een Couragie, dat sij hun diffendeerden van</l>
+					<l>alle sijden, een Canonier vraagde aan <persoonsnaam>lovendale</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>waer hij de Eerste Schote, ofte Bal wilde hebben,</l>
+					<l>hij seijd schiet den thooren in brandt, hij dedet, nog¬</l>
+					<l>tans moesten sij hun batterijen verlaeten, men vont</l>
+					<l>geraetsaem de stadt op te loopen, de eerste keer liet</l>
+					<l>hij boven de 7000 Mannen, en den tweeden keer wel</l>
+					<l>10000 Mannen, den derden keer goe keer en liet ontrent</l>
+					<l>5000 Mannen, soo dat de vesten gevult waeren</l>
+					<l>vande doode Lichaemen, men gaf Ordre om de geheele</l>
+					<l>Stadt te plunderen tot meerder Couragie, dese Stadt</l>
+					<l>nu in geloopen Zijnde, den gouverneur met al het</l>
+					<l>Ongelovigh Volck waeren wel 3 a 4 uren al d&apos;ander</l>
+					<l>kant uijt de stadt, met al hun bagagie, maer de Christe¬</l>
+					<l>nen en wilde hij daer niet uijt laeten, soo dat zij</l>
+					<l>mosten blijfven, het was jammer om sien, Want</l>
+					<l>al de Christenen quamen de fransche soldaeten tegen</l>
+					<l>met het Cruficix in hun Armen, sij baeden hun</l>
+					<l>Lijfsgenaede, maer t en hielp niet, want de Men¬</l>
+					<l>schen wierden ontkleet moedernaeckt, lancxt de</l>
+					<l>straeten gaende, daer was een schroomelijck</l>
+					<l>gekrijt, ende gehuijl gelijck Ulieden kont duncken, want</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>men spaerde niet sij waeren te seer verbittert op</l>
+					<l>de stadt, hoort eens wat dat dien schelmen van dien</l>
+					<l>gouverneur voorstelde, om met de fransche te</l>
+					<l>spotten, hij hadden een houten osse doen maecken, en</l>
+					<l>onder zijn steirdt, een bondt vlasch gesteken, hij dede</l>
+					<l>door een van sijn Trompetters uijtroepen mijn heer den</l>
+					<l>gouverneur die doet mij seggen soo haest desen os</l>
+					<l>dien bondt vlasch sal geswingelt hebben, soo is</l>
+					<l>de stadt voor Ulieden: men gaf weder om al meer vier,</l>
+					<l>dan dede hij maecken een hoogen Balcon ofte Stellijnge,</l>
+					<l>en daer dede hij op setten een houten Ezel met een</l>
+					<l>bondt hoij voor sijn Muijle, hij dede al wederom door</l>
+					<l>twee Trompetters uijtroepen tot meerder spot, soo</l>
+					<l>haest als desen Ezel sal dien bondt hoij opgeeten</l>
+					<l>hebben hebben, soo sal de stadt over gaen, sij wierden</l>
+					<l>verheet van gramschap, maer de arme Catholijc¬</l>
+					<l>ken moesten t&apos;al bekoopen want hij was met t&apos;sijne</l>
+					<l>gevlucht, ende de Catholijcken en mochten niet</l>
+					<l>vluchten, de plunderijnge gedaen zijnde, voor</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>16 a 17. guldens kost men koopen de weerdije</l>
+					<l>van 8 a 10 @@@ en meer de Catholijcke persoonen</l>
+					<l>soo vrouw als man die liepen achter de straete</l>
+					<l>met hun Crucefix in hun Ermen om gespaert te</l>
+					<l>worden, maer ten konde niet helpen want sij</l>
+					<l>ontkleeden de menschen soo naeckt als Puijden,</l>
+					<l>het welck te beclaegen was;</l>
+					<l><datum datum='1748-xx-xx'>1748</datum> Ontstack de Plage der beesten noch eens</l>
+					<l>maer soo hart niet als de voorlede Jaeren, en daer</l>
+					<l>quam er veel meer door de plage maer de Boter,</l>
+					<l>en houdt bleef al even diere, het hout was dierder</l>
+					<l>acht Jaeren lanck als in het Jaer <datum datum='1740-xx-xx'>1740</datum>.</l>
+					<l><datum datum='1748-03-xx'>1748 in Maerte</datum>, wiert de vermaerde stadt van</l>
+					<l><locatie>Maestrigh</locatie> Belegert, en wiert gewonnen naer</l>
+					<l>twee maenden op <datum datum='xxxx-xx-xx'>H. Bloetdagh</datum> ginck zij over zij</l>
+					<l>lagen lange voor de maese ofte den <locatie>Maes</locatie>, sij sloe¬</l>
+					<l>gen hun pontons daer over de <locatie>maese</locatie>, en reeden</l>
+					<l>met al de bagagie daer over ter wijlent zij</l>
+					<l>de brugge maeckten men seght dat <persoonsnaam>Lovendaele</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l>Seijde, dit is de <locatie>Brugge</locatie> van paijs en Vrede, soo de</l>
+					<l>stadt over was, godt lof het wiert Paijs, daeren</l>
+					<l>wiert een gebodt gegeven om heel t&apos;noorden te Be¬</l>
+					<l>leggen met Ruijterije, ter wijlen het gars in abondan¬</l>
+					<l>tie was, en weijnig koebeesten, en in het Zuijden</l>
+					<l>het voetvolck tot t&apos;naeste Jaer, maer het wiert</l>
+					<l>afgeslagen vermits wij hun moesten onderhouden</l>
+					<l>van leverantie, maer den hollander en was niet ten</l>
+					<l>vollen Parijs</l>
+					<l>De Oorsaecke van dierte van t&apos;hout, en boter, was de</l>
+					<l>redenen, t hout en hadde t&apos;sedert t Jaer <datum datum='1740-xx-xx'>1740</datum> soo</l>
+					<l>geen termenagie, ende den zeevaert was gesloten</l>
+					<l>soo datter geen kolen en konden komen, dan fran¬</l>
+					<l>sche, aengaende de Boter letter beesten, en geen</l>
+					<l>Engelsche, aengaende den Visch 5-6-7 stuijvers </l>
+					<l>t&apos;Pondt voor Moluwe want <locatie>Blanckenberghe</locatie></l>
+					<l>en dorst in Zee niet gaan, want den Engels¬</l>
+					<l>man, en <locatie>hollant</locatie> loerden op hun, maer soo de</l>
+					<l>commertie begonde te gaen en de Zee ontsloten</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>sijnde, het beterde (Godt zij Lof) het belegh van <locatie>Maes¬</locatie></l>
+					<l><locatie>trigh</locatie> daer stonden seven batterijen rondt de stadt,</l>
+					<l>sij hadden 340 stucken Canon en 84 Mortieren,</l>
+					<l>sij konden daermede gewelt doen,</l>
+					<l>Den peijs wiert gepubiceert binnen <locatie>Brugge</locatie> op</l>
+					<l>den <datum datum='1748-10-13'>13<hi rend='superscript:true;'>en</hi> Octobre 1748</datum> daer ijder een blijde om was,</l>
+					<l>maer de soldaeten bleven noch al bij den Boer, Wij</l>
+					<l>moesten noch al peirden doen om hun Bagagie wegh</l>
+					<l>te voeren som aen Schepen, en ander aen Carotten,</l>
+					<l>Zij vertrocken soo Allinxkens, want sij wierden</l>
+					<l>al sieck, sij seijden dat het hier te qaede locht was,</l>
+					<l>sij en konden hier niet blijven hermen;</l>
+					<l>Een wonder voorval van Des</l>
+					<l>koninckx Droom gebeurt ten Jaere <datum datum='1748-xx-xx'>1748</datum>. het heeft</l>
+					<l>inde gazette ghestaen voor waer;</l>
+					<l>Men segt dat den <persoonsnaam>Coninck van <locatie>Vranckrijck</locatie></persoonsnaam> op den</l>
+					<l><datum datum='1748-10-10'>10<hi rend='superscript:true;'>en</hi> Octobre 1748</datum> soude hebben gedroomt, ofte Een</l>
+					<l>visioen gehadt, van twee vette katten in een hoop</l>
+					<l>mager katten, en een blinde katte ontwaeckende</l>
+					<l>stondt geheel verbaest, hij dede al sijn mijse, en</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l>Raats mannen bij een vergaderen tot uijtleggen</l>
+					<l>des visioen maer niemant dat kennende doen, heeft</l>
+					<l>waerseggers opgesocht, maer niemant dat konnen¬</l>
+					<l>de bedieden t&apos;is ter Ooren gekomen aen Een simpel</l>
+					<l>soldaet, die seijde, dat ick mochte bij den koninck</l>
+					<l>gaen om hem te spreken ick soude sijnen droom</l>
+					<l>wel uijtleggen, den Coninck dit vernemende, hij gaf</l>
+					<l>hem Audientie, om bij hem te komen in Presentie</l>
+					<l>van al sijn HEEREN en seijde HEER CONINCK, dit</l>
+					<l>is de Bediedenise uws drooms, den grooten hoopen</l>
+					<l>Mager katten dat sijn al uwe simpel Soldaten,</l>
+					<l>en de twee vette katten, dat sijn uwe twee Onder¬</l>
+					<l>saten /: Te weten :/ <persoonsnaam>saxen</persoonsnaam> en <persoonsnaam>Lovendaele</persoonsnaam>, en de</l>
+					<l>Blinde katte dat sijt ghij HEER CONINCK, hoe seijde</l>
+					<l>den koninck, soo soud&apos; ick dan blind wesen, neen</l>
+					<l>heer koninck seijde hij, niet bij der Ooghen maer bij</l>
+					<l>verstande, want <persoonsnaam>Sacxen</persoonsnaam> en <persoonsnaam>Lovendaele</persoonsnaam>, die en</l>
+					<l>gheven aen u Soldaten niet dat hun Toecompt</l>
+					<l>soo van vleesch als amenitie en andersints daer</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>om worden wij al mager, en sij worden vet, en sij</l>
+					<l>maecken U Edele wijs daer van U E. niet en weet, al</l>
+					<l>dien kant wordt U Edelen de Oogen uijtgestoken,</l>
+					<l>Door dit uijtleggen des drooms ofte visioens, dien man</l>
+					<l>en bleef geen simpel Soldaet mede, Maer wiert</l>
+					<l>aangenomen vanden koninck voor een van sijn Princi¬</l>
+					<l>paelste hovelingen, en die twee <persoonsnaam>Princen sacxen</persoonsnaam> en</l>
+					<l>en <persoonsnaam>Lovendaele</persoonsnaam> die van dien tijdt naer der Rekeninge</l>
+					<l>bewijsen, Dat en was geen Sot.</l>
+					<l>Op den <datum datum='1749-09-30'>Lesten Septembre 1749</datum> wierdt het geldt af</l>
+					<l>geropen door de <persoonsnaam>Coninginne van<locatie> hongarien</locatie></persoonsnaam> maer t</l>
+					<l>alle silver specien wierden vermindert, alle goude</l>
+					<l>geldt moste gewegen zijn en Ontfangen worden</l>
+					<l>naer Proportie vande Asen die sij te cort weegen,</l>
+					<l>T Jaer <datum datum='1751-xx-xx'>1751</datum> wierden al spaensche Oortjens, ge¬ </l>
+					<l>seijt de hinckelaers af geropen, en men maeckte nieuwe,</l>
+					<l>men sloegh dan geldt binnen <locatie>Brugge</locatie> van alle soorten,</l>
+					<l>soo gout, als silver, en oock Aeppenningen,</l>
+					<l><datum datum='1752-xx-xx'>1752</datum> Begonden zij tot <locatie>Brugge</locatie> de Coupeure Te</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>maecken maer daer quam een Alte, Zij moesten het</l>
+					<l>staecken Want in <datum datum='xxxx-xx-xx'>Mey Maendt</datum> Was het quaet</l>
+					<l>weder, en in <datum datum='xxxx-xx-xx'>Augst tusschen 12 en 13</datum> viel het sae</l>
+					<l>in gronde, soo dat Zij Werck genoeg hadden met</l>
+					<l>aan den vaert te Wercken om de Zee te stoppen</l>
+					<l>en de Dijcken te verhoogen maer met den Macht</l>
+					<l>van Volck sij Wierden meester,</l>
+					<l>Ten selven Jaere hebben sij de <locatie>Calsijde</locatie> geleijt van</l>
+					<l><locatie>Brugge</locatie> naer <locatie>Cortrijcke</locatie>, en van <locatie>Brugge</locatie> naer <locatie>Meenen</locatie>,</l>
+					<l>Oock een naer <locatie>Thourhout</locatie>;</l>
+					<l>Daer Waeren drije Engelsche Coopmannen die al</l>
+					<l>het geldt souden ghegeven hebben Wilden zij de</l>
+					<l>Copeure voltrecken, het Welcke gedaen Wiert, en</l>
+					<l>den <locatie>gendtschen vaert</locatie> Wiert gedolven vermits zij en¬</l>
+					<l>gels mannen hunnen vrij deurganck ofte Passagie hadden,</l>
+					<l>met hun Coopmans goederen, het Welck hun geconsenteert</l>
+					<l>Wiert bij de <persoonsnaam>Coninginne van hongarien</persoonsnaam>, en dat maer</l>
+					<l>voor seven Jaeren sonder Thol te betaelen VS. kont</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>dencken hoe veel geldt dat Zij moesten verschieten,</l>
+					<l>In het selve Jaer Wierden al de saeghmolens gestelt</l>
+					<l>bij <locatie>Oostende</locatie>, waer van sij promenantie hadden van <persoonsnaam>Prins</persoonsnaam></l>
+					<l><persoonsnaam>Charle</persoonsnaam>, ofte <persoonsnaam>prins Carel</persoonsnaam> Waer door den Eersten ende</l>
+					<l>grootsten molen genaemt Wiert, Prins Charle ofte Prins</l>
+					<l>Carel hij Was volmaeckt tegen den <datum datum='1752-09-08'>8<hi rend='superscript:true;'>en</hi> septembre</datum></l>
+					<l><datum datum='1752-09-08'>1752</datum>? maer noijt gedraeijt ofte gesaeght, ten sij <persoonsnaam>Prins</persoonsnaam></l>
+					<l><persoonsnaam>Carel</persoonsnaam> selve quam sien naer hun Werck, en dat Was</l>
+					<l>op den <datum datum='xxxx-09-24'>24<hi rend='superscript:true;'>en</hi> septembre int&apos; selve Jaer</datum>,</l>
+					<l>Dan maeckten sij het Nieuw Zas van Slijckens om den</l>
+					<l><locatie>vaert van Oostende</locatie> te Conserveren, ende het Zeewater</l>
+					<l>te laeten vloeijen in de <locatie>Polder van Zantvoorde</locatie> en</l>
+					<l>aldaer sij konden.</l>
+					<l><datum datum='1753-05-01'>1753 1<hi rend='superscript:true;'>en</hi> Meije</datum> sijn de oude schellingen Billioen</l>
+					<l>geropen;</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+		</body>
+	</text>
+</TEI>

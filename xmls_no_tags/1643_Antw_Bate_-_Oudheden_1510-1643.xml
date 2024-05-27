@@ -1,0 +1,3759 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1643_Antw_Bate - Oudheden 1510-1643</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>PK 113</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>69</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>A N<hi rend='superscript:true;'>o</hi> 13728</l>
+					<l>19 Febr 1886</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Gekocht in de Veiling vanden straeten</l>
+					<l>Moons van Leriva voor fr. 24.-</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1529 Op Sinte Michielsdach isser in brabant een</l>
+					<l>groote sieckte opgestaen geheeten de engelsche</l>
+					<l>sweetende sieckte soo date de lieden binnen 24 uren</l>
+					<l>affstorven nadat hen die siekte overquam maer</l>
+					<l>nergens en wert sij meer gesien dan binnen die Stadt</l>
+					<l>van Antwerpen in welcke binnen 3 dagen tijt</l>
+					<l>over de 500 menschen affstorven.</l>
+					<l>1529. den 6 october verbrande t&apos;antwerpen des nachts</l>
+					<l>ten 12 hueren onse lieve vrouwe kercke</l>
+					<l>1530 den 5 november verdronken in dese nederlanden</l>
+					<l>vier hondert en 4 prochien</l>
+					<l>1540. den 26 februarii leijde die van Antwerpen den</l>
+					<l>eersten steen van het nieu Stadthuijs.</l>
+					<l>1542. in hoeijmaent op Sint jacops avont is Merten</l>
+					<l>van Rossem met ruijters en knechten voor</l>
+					<l>Antwerpen gecomen meijnende de Stadt intenemen</l>
+					<l>dwelck hem faelgeerde stack alle de menschen</l>
+					<l>op willeboorts veer in brant en trock voort na</l>
+					<l>loeven daer hij oock met schande moeste aftrecken</l>
+					<l>1566 den 20 Augusti werden de beelden binnen Antwerpen</l>
+					<l>van heijligen Godts afgeworpen en tot meer andere</l>
+					<l>plaetsen tonse schaden</l>
+					<l>1570 den eersten meij dede sijn eerste incomst binnen</l>
+					<l>Antwerpen heer franciscus Sonnius als eerste bisschop</l>
+					<l>1576. den 4 november sijn de Spaengnarts deurt casteel</l>
+					<l>van Antwerpen in de Stad gecomen ende die met</l>
+					<l>gewelt ingenomen ende sijn ontrent 9500 menschen</l>
+					<l>soo van de staten soldaeten als van borgers bleven en</l>
+					<l>noch 4000 die verdroncken daer die grave Enersteijn</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>mede verdronck sij verbrande 700 huijsen met het</l>
+					<l>nieu Stadthuijs ende hebben de borgers groot</l>
+					<l>ransoen doen betaelen</l>
+					<l>1576 den 27 februarij wert binnen Antwerpen gepubliceert</l>
+					<l>den pijs die gesloten was binnen Mechle in januarij</l>
+					<l>met don jan</l>
+					<l>1576 den 20 meert sijn de spaengnaerts met hunnen buet</l>
+					<l>uijt het Casteel van Antwerpen getrocken stellende</l>
+					<l>het Casteel in bewaernisse van den hertogh van Aerschot</l>
+					<l>die sijnen sone den prince van chijmeij als Casteleijn</l>
+					<l>daer in stelde.</l>
+					<l>1576. den 28 Augusti op Sint jans onthoofdingen avont</l>
+					<l>des snachts na den 12 ueren is geboren joan batens</l>
+					<l>peters willem <hi rend='strikethrough:true;'>@@@t</hi> verlint ende johanna jeronimus</l>
+					<l>van yckx huijsvrouwe</l>
+					<l>1569 den 9 november is digna batens geboren smorgens</l>
+					<l>tusschen vier en vijf ueren peters jantes en</l>
+					<l>fredigande</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1510</hi> Reser een oorloge tusschen Conincx Ha@@t</l>
+					<l>van denemercken met die stede van hollant van</l>
+					<l>seelant vrieslant tegen die oostlansche sees</l>
+					<l>steden als lubeeck ende rostwyck geduerende</l>
+					<l>twee Jaren</l>
+					<l>anno <hi rend='underlined:true;'>1511</hi> Ordineerde keyser Maxmilliaen tot ausbor:</l>
+					<l>eenen rycx Dach daer voor hem gebracht wie##</l>
+					<l>een groff mensche die soo gulsich was dat ##</l>
+					<l>een rau calff ende schaep op eenen tyt adt</l>
+					<l>sonder daer aff versaet te syne</l>
+					<l>anno <hi rend='underlined:true;'>1512</hi> Vroost 9 Weken lanck datmen op sommige</l>
+					<l>plaetsen ove saut wate ginck</l>
+					<l>anno <hi rend='underlined:true;'>1513</hi> Ontrent halff 10st is henricus de 8 van</l>
+					<l>dyen name Coninck van Engelant gecomen</l>
+					<l>met veel crychsvolck tot Calis ende opde fron</l>
+					<l>tieren van Vlaenderen om tegen die francoisen</l>
+					<l>te orlogen</l>
+					<l>anno <hi rend='underlined:true;'>1514</hi> In Januarj werden in Wittenborch in sassen dry</l>
+					<l>sonnen inde locht gesien Ende in elcke sonne</l>
+					<l>een bloedich sweert ende opden XI dach der selve</l>
+					<l>maent dry manen</l>
+					<l><hi rend='underlined:true;'>1514</hi> Int iae den derthienden october wert binnen</l>
+					<l>leyden een kint geboren sonder hooft met</l>
+					<l>oogen en mont inde borst, de armen ende handen</l>
+					<l>aen syn syde gevesticht ende was levende ront</l>
+					<l>sonder beenen oft voeten</l>
+					<l><hi rend='underlined:true;'>1514</hi> Int selve iare den 7 meert waren inde locht</l>
+					<l>twee regenbogen gesien staende rugge tege</l>
+					<l>Rugghe</l>
+					<l>anno <hi rend='underlined:true;'>1515</hi> Prima Januarj Is gestorven Lodewyck Coninc</l>
+					<l>van Vranckryck</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1514</hi> Des saterdachs na lichmis quam hertoch Carle</l>
+					<l>binnen Antwerpen ende wert des daechs daer</l>
+					<l>na gehult ende ontfinck voort alle tlant</l>
+					<l>anno <hi rend='underlined:true;'>1516</hi> Den 26 van octobre gaff hertoch Carle binnen</l>
+					<l>Brussel de oorden vande gulden vliese</l>
+					<l>anno <hi rend='underlined:true;'>1517</hi> Den XII Augusti reysde hertoch Carle na spaengnien</l>
+					<l>om daer tontfangen die Croone</l>
+					<l>Int selve iaer ginck men t Antwerpen over den</l>
+					<l>schelde en men Reet tot seelant met wagenen en</l>
+					<l>peerden ove twate in brabant</l>
+					<l>anno <hi rend='underlined:true;'>1518</hi> Is hertoch Carle binnen de stadt valedolick gecroont</l>
+					<l>Coninck van Spaengnien</l>
+					<l>Int selve Jare wert t antwerpen volmaeckt onse</l>
+					<l>lieve vrouwen Thoren ende opden Jersten 7tembre</l>
+					<l>wert het cruys daerop gesedt</l>
+					<l>anno <hi rend='underlined:true;'>1519</hi> Sterff de goede keyser Maxmilliaen groot</l>
+					<l>vader van hertoch Carle opden XII Januari</l>
+					<l>Int selve Jaer In februari cocht den Coninck van</l>
+					<l>vrancryck franchois van valoys henricus van</l>
+					<l>Engelant voor een selve Somme gelts</l>
+					<l>Int selve iaer cocht men den rogge om 9 stver. ende de terwe</l>
+					<l>om XII<hi rend='superscript:true;'>en</hi> stver. de veertele</l>
+					<l>anno <hi rend='underlined:true;'>1520</hi> Is Coninck Carle tot spaengnien gecomen om</l>
+					<l>de keyserlycke croone te ontfangen die hy corts</l>
+					<l>daer naer binnen aken ontfangen heeft</l>
+					<l>Int selve Jaer in October verbrande te Rommerswale</l>
+					<l>in seelant meer dan 300 huysen</l>
+					<l>Int selve Jaer den 14 octobre dede de keyser syn</l>
+					<l>Intre binnen de stadt @@estricht</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>2</l>
+					<l>anno <hi rend='underlined:true;'>1521</hi> Leyde den keyser in presentie vande Coninck van d@##</l>
+					<l>mercken den eersten steen ende bereyde de mor@####</l>
+					<l>eenen truweelle vande nieuwen choor van onse lieve</l>
+					<l>vrouwe kerck binnen Antwerpen</l>
+					<l><hi rend='underlined:true;'>1521</hi> In hoymaent Is t antwerpen geweest groot Rumoer</l>
+					<l>om het consenteren vande valuatie</l>
+					<l><hi rend='underlined:true;'>1521</hi> In Novembre wert de stadt van Dornick beleyt wt</l>
+					<l>S keysers naem ende gewonnen op sint Andries</l>
+					<l>Dach Ende is sindert geweest op onse sydde</l>
+					<l>anno <hi rend='underlined:true;'>1522</hi> Is dat Eylant van Robes Ingenomen geweest vande</l>
+					<l>turcxen keyser Soliman</l>
+					<l>Gheduerende tbelch van Robes soo was tantwerpen </l>
+					<l>een Rumoer onder de gemeynte seggende dat de</l>
+					<l>backers oorsaecke waren vande duerte des Corens</l>
+					<l>desgelyckx deden de vrouwen binnen mechelen ende</l>
+					<l>Brussel oock oploop tegen de core coopers</l>
+					<l><hi rend='underlined:true;'>1522</hi> In April wert by Egmont eenen vis gevangen 80</l>
+					<l>voeten lanck ende groot na advenant waer aff</l>
+					<l>gehouden wert meer dan 109 tonnen vis sonder</l>
+					<l>het Ingewant</l>
+					<l><hi rend='underlined:true;'>1522</hi> Op palmsondach waren te keulen geboren 2 kinderen</l>
+					<l>aen een hebbende 2 hoofden 2 armen 2 voeten wesende</l>
+					<l>tschepsel van een meysken ende waren gedoopt eer sy</l>
+					<l>storven</l>
+					<l><hi rend='underlined:true;'>1522</hi> Was in Duytsland den boeren crych die veel Godts</l>
+					<l>huysen en cloosters beroofden ende de geestelyckheyt</l>
+					<l>verjaechden die welcke door de soldaten vande paltsgrave</l>
+					<l>ende den Bisschop van mens met andere Bisschoppen</l>
+					<l>ende heeren meest doot geslagen werden</l>
+					<l>1522 Op St. Andries dach bieck een schippers vrouwe</l>
+					<l>te moerbecke by bouweloys broot van schoon Terwe</l>
+					<l>Bloeme en alst vuyten hoven quam wast soo</l>
+					<l>swert als peck</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1523</hi> In Meert wast soo grooten storm van donder ende blicxem</l>
+					<l>dat dae vielen hagelsteenen alsoo groot als hunnen¬</l>
+					<l>eyeren van diverssche coleuren</l>
+					<l>anno <hi rend='underlined:true;'>1524</hi> Verbrande binnen Troyen In Champaignien</l>
+					<l>meer dan 5000 huysen</l>
+					<l>anno <hi rend='underlined:true;'>1525</hi> Geduerende t belech van Pavien Rees in duytslant</l>
+					<l>groote beroerte deur tpreken van Merten luther soo</l>
+					<l>dat de boeren op vele plaetsen oploop deden op</l>
+					<l>cloosters en kercken die roovende en pillerende waer</l>
+					<l>door vele van hun overheyt gedoot werden</l>
+					<l>anno <hi rend='underlined:true;'>1525</hi> Troude de keyser Carolus des Conincx van</l>
+					<l>portugals dochtere binnen Sivillien in spaennien</l>
+					<l>anno <hi rend='underlined:true;'>1526</hi> Den 25 februari geschiede den affgryselycken slach</l>
+					<l>tusschen den keyser ende den Coninck van vrancryc</l>
+					<l>voor de stadt van Pavien waer de Coninck van</l>
+					<l>vrancryck die neerlage hadde ende gevangen wert</l>
+					<l>anno <hi rend='underlined:true;'>1527</hi> Den 7 mey wert binnen valedolice in spaengnien</l>
+					<l>geboren die eerste sone des keyserlycke Majesteyt</l>
+					<l>die genoempt wort Phillipus</l>
+					<l><hi rend='underlined:true;'>1527</hi> Wert de stadt van roomen van s keysers volck</l>
+					<l>beleyt ende ingenomen ende den Paus gevangen ende</l>
+					<l>int beclimmen der selve stadt wert den hertog</l>
+					<l>van bourbon doorschoten</l>
+					<l>anno 1528 Den 6 Meert syn 1500 geldersche knechten van</l>
+					<l>Utrecht met veel borgeren en fileerden des</l>
+					<l>Graven hage</l>
+					<l><hi rend='underlined:true;'>1528</hi> Wert gevonden dat groot Eylant van poven</l>
+					<l><hi rend='underlined:true;'>1528</hi> Den X July nam de Bisschop van Utrecht met</l>
+					<l>behulp der borgeren Utrecht wederom In</l>
+					<l>verslaende ende gevangen nemende alle de geldersse</l>
+					<l>capiteynen en soldaten.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>3</l>
+					<l>anno <hi rend='underlined:true;'>1529</hi> Den 26 7tembre Is de soldaen sulimanis 13<hi rend='superscript:true;'>en</hi> turck</l>
+					<l>sche keyse in groote Rustinge inde 40000 te</l>
+					<l>peerde ende een ontallycke menichte van voetknech</l>
+					<l>ten voor de stadt Weenen in Oostenryck gecomen</l>
+					<l>ende ontrent 5 weken de stadt belegert ende veel</l>
+					<l>stormen daevoor verloren hebben Is met schande</l>
+					<l>daer afgetrocken</l>
+					<l><hi rend='underlined:true;'>1529</hi> Op sinte Michiels Dach Isse in Brabant een</l>
+					<l>groote sieckte op gestaen geheeten die Engelsche</l>
+					<l>sweetende sieckte soo date de lieden binnen 24 uren</l>
+					<l>aff storven nadat hem die sieckte overquam mae</l>
+					<l>nergens en wiert sy meer gesien dan binnen die stadt</l>
+					<l>van Antwerpen in welcke binnen 3 dagen tyt</l>
+					<l>ove de 500 menschen aff storven</l>
+					<l><hi rend='underlined:true;'>1529</hi> Werden in duytslant de beelden affgeworpen wtter</l>
+					<l>kercken die cloosters afgebroken ende die monnicken</l>
+					<l>en Religiosen vrouwen verlaten hun habyten moesten</l>
+					<l>hun tot eenige neringe begeven oft moesten het</l>
+					<l>landt laten</l>
+					<l><hi rend='underlined:true;'>1529</hi> /33  Den 6 Octobe verbrande t antwerpen des Nachts</l>
+					<l>ten 12 uren onse lieve vrouwe kercke</l>
+					<l><hi rend='underlined:true;'>1529</hi> In Juny hadden de franchoisen voerende des keysers</l>
+					<l>baniere met subtylheyt melanen Innegenomen</l>
+					<l>meynen tslot oock in te crygen maer werden meest</l>
+					<l>al verslagen</l>
+					<l>anno 1530 Den 22 februari wert keyser Carle gecroont</l>
+					<l>Coninck van Lombardyen binnen Bouomien</l>
+					<l>dae den keyser des Paus voeten custe</l>
+					<l>anno 1511 den 13 Octobe begost Martinus Luther</l>
+					<l>tegen den Paus aflaten questie te maecken</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1530</hi> Den 23 Meert wert den eersten steen vant parlement</l>
+					<l>te mechelen geleyt Dwelck te parys plach te wesen</l>
+					<l><hi rend='underlined:true;'>1530</hi> Den 5 November verdroncken in dese nederlanden</l>
+					<l>vier hondert en @ prochien</l>
+					<l>anno <hi rend='underlined:true;'>1531</hi> Den 6 Januari quam den keyser binnen coelen daer</l>
+					<l>fernandus syn broeder Rooms Coninck gecroont</l>
+					<l>werdt</l>
+					<l><hi rend='underlined:true;'>1531</hi> In Augusto ontrent St. Laureys dach sach men</l>
+					<l>inde Nederlanden een comet met een vuerige vlamme</l>
+					<l><hi rend='underlined:true;'>1531</hi> In Augusto Is in hollant weder verre vande See</l>
+					<l>eenen visch gevangen lanck 68 voeten en dick 30 vo</l>
+					<l>synen muyl was 13 voeten breet</l>
+					<l><hi rend='underlined:true;'>1531</hi> heeft een vrouwe binnen ausborch 3 affgryselyc</l>
+					<l>monsters gebaert deerste had eens menschen</l>
+					<l>hooft 2 was een serpent met 2 hoofden hebbende</l>
+					<l>eenen Muyl van eenen snoeck voeten als een vorsch</l>
+					<l>ende een steert als een waterserpent het 3 was</l>
+					<l>een oprecht everswyn</l>
+					<l><hi rend='underlined:true;'>1531</hi> Was in portugael een aertbevinge dueren 8 dagen</l>
+					<l>lanck soo dat binnen lisboenen 1015 huysen terneder</l>
+					<l>vielen Dese aertbevinge geschiede somtyds seven</l>
+					<l>oft 8 reysen op eenen dach waerdoor d inwoonders</l>
+					<l>wt vreesen de stadt verlieten hun houdende</l>
+					<l>buyten opt velt</l>
+					<l>anno <hi rend='underlined:true;'>1532</hi> Sach men boven de stadt van Munste in west</l>
+					<l>phalen een gewapent man inde locht ryden</l>
+					<l>anno <hi rend='underlined:true;'>1533</hi> heeft henricus Coninck van Engelant syne</l>
+					<l>huysvrouwe Catherine Dochter van fernandus</l>
+					<l>Coninck van Spaengnien des keysers moye verworpen</l>
+					<l>ende een ander getrout genaempt Anna </l>
+					<l>boulyn</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>4</l>
+					<l>anno <hi rend='underlined:true;'>1533</hi> heeft hertoch Carle van Gelre met vyfduysent</l>
+					<l>voet knechten den grave van Oost vrieslant</l>
+					<l>die met 15000 mannen te velde quam verwonnen</l>
+					<l>ende verjaecht</l>
+					<l>anno 1534 Op onse lieve vrouwen avont in Meert syn eenen</l>
+					<l>grooten hoop herdoopers soo mans en vrouwen</l>
+					<l>tot hollant en seelant vergadert meynende te</l>
+					<l>trecken door haerlem na munster in westphalen</l>
+					<l>maer syn opt swerte water meest al gevangen</l>
+					<l>ende daer na verbrant en gerecht</l>
+					<l><hi rend='underlined:true;'>1534</hi> Int Eynde van Augusti Isser eenen grooten storm</l>
+					<l>geweest daer veel schepen ende menschen mede</l>
+					<l>verdroncken</l>
+					<l><hi rend='underlined:true;'>1534</hi> In hoymaent op St Marien Machdalenen dach</l>
+					<l>verbrande te Beduel meer dan dusent</l>
+					<l>huysen</l>
+					<l><hi rend='underlined:true;'>1534</hi> Verdroncken Door eenen storm van Winde over de</l>
+					<l>40 schepen met harinck geladen met alt volck</l>
+					<l>datter in was</l>
+					<l><hi rend='underlined:true;'>1534</hi> heeft Jan van leyden hooft vande Doopers met syn</l>
+					<l>consorten Ingenomen de stadt van Munster ende</l>
+					<l>hebben den Bisschop met alle de Gheestelycken</l>
+					<l>verjaecht maer deur tvast belech van des keysers</l>
+					<l>volck ende Deur den honger Isse wederom</l>
+					<l>gewonnen geweest ende Jan van leyden met syn</l>
+					<l>consorte gejusticeert</l>
+					<l><hi rend='underlined:true;'>1534</hi> Is in Vranckryck de stadt Clarvalle</l>
+					<l>van donder ontsteken en binnen 3 uren verbrant</l>
+					<l><hi rend='underlined:true;'>1534</hi> Is de stadt van Montabur liggen 2 mylen na</l>
+					<l>van covelens inden tyt van 2 uren verbrant</l>
+					<l>heel desen brant quam van colen die op eenen wage</l>
+					<l>geleyt niet wel gebust en waren,</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1535</hi> Op Pincxterendach tsavonts ten X uren maecten</l>
+					<l>de doopers tAmsterdam eenen allarm door</l>
+					<l>stekende den Borgmr. ende namen het raethuys</l>
+					<l>In Dwelck Dander borgers weder In Namen</l>
+					<l>ende alle de doopers doorschoten doorsteken</l>
+					<l>ende onthooft en te vensteren en thorens wt</l>
+					<l>gehangen hebben</l>
+					<l><hi rend='underlined:true;'>1535</hi> Ontrent Paesschen wort dat Clooster In</l>
+					<l>oostvrieslant geheeten dat aude clooster vande</l>
+					<l>herdoopers Inne genomen ende maecktent sterck</l>
+					<l>om houden maer sy werden verjaecht ende veel</l>
+					<l>verslagen ende Ruynident lant</l>
+					<l><hi rend='underlined:true;'>1535</hi> Den 24 July ginck Munster overaen het ryc</l>
+					<l>Deur grooten honger in westphalen</l>
+					<l>1535 Is de keyserlycke Ma<hi rend='superscript:true;'>te</hi>. met groot crysvolck</l>
+					<l>na Affrycka getroken ende heeft de barbarossen</l>
+					<l>wt de stadt van thunis verdreven en den</l>
+					<l>Coninck weder in syn Ryck gestelt</l>
+					<l><hi rend='underlined:true;'>1535</hi> Isser een Edelman levende inde eerde ge</l>
+					<l>soncken om dat hy syn schamele ondersaten gen</l>
+					<l>coren tot redelycken pryse vercoopen en wilde</l>
+					<l><hi rend='underlined:true;'>1536</hi> heeft henricus Coninck van Engelant</l>
+					<l>De 8 van dyen name tot versmadenisse vande</l>
+					<l>Paus om dat hy hem niet en waude consen</l>
+					<l>teren het scheyden van syn huysvrouwe Luthers</l>
+					<l>leeringe in syn lant toegelaten</l>
+					<l>anno <hi rend='underlined:true;'>1536</hi> Den 9 mey verbrande de stadt van delft</l>
+					<l>binnen dry uren</l>
+					<l><hi rend='underlined:true;'>1536</hi> In Junio Sterft den geleerden Erasmus</l>
+					<l>van Rotterdam</l>
+					<l>anno <hi rend='underlined:true;'>1537</hi> Quam Coninck van vrancryc francois valois</l>
+					<l>met 50000 mannen in Artois en nam de stadt</l>
+					<l>van hesdun met storm In</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>5</l>
+					<l>anno <hi rend='underlined:true;'>1537</hi> Wan en verbrande de Grave van Bueren de</l>
+					<l>stadt van sinte Pol ende monstruel ende beleyde</l>
+					<l>de stadt van terrewanen</l>
+					<l><hi rend='underlined:true;'>1537</hi> Den 12 Augusti waren te Gent geboren twee</l>
+					<l>meyskens aende anderen gegroyt hebbende 2 hoofden</l>
+					<l>vier voeten ende een Lichaem</l>
+					<l>anno <hi rend='underlined:true;'>1538</hi> Den 2 mey dede henricus Coninck van Engelant</l>
+					<l>destrueren vele kercken en cloosters nemende al</l>
+					<l>haer lieder goet</l>
+					<l>anno <hi rend='underlined:true;'>1539</hi> Den selven dach stierff binnen de stadt van toleten</l>
+					<l>Skeysers huysvrouwe vrou Isabelle dochter</l>
+					<l>vande Coninck van Portugael</l>
+					<l>1<hi rend='underlined:true;'>539</hi> Is binnen Gent tlant Juweel vande Rethoryck</l>
+					<l>geweest daer de viollette te weten de schilders</l>
+					<l>van Antwerpen Den hoochsten prys haelden</l>
+					<l>anno <hi rend='underlined:true;'>1540</hi> Den 26 februari leyde Die van Antwerpen den</l>
+					<l>eersten steen vant Nieu stadthuys</l>
+					<l><hi rend='underlined:true;'>1540</hi> Is de keyser wt Spaengnien gecomen binnen</l>
+					<l>Ghent Daer hy sommige ongehoorsaeme gestraft</l>
+					<l>heeft ende dede daer een casteel maecken</l>
+					<l><hi rend='underlined:true;'>1540</hi> Wast soo heeten somer dat den ryn wtdroochde</l>
+					<l>datmer deur ginck ende de seyne te parys oock ende</l>
+					<l>de vygen waren in vlaenderen soo Ryp gewassen</l>
+					<l>oft se wt spaengnien comen waren</l>
+					<l>anno <hi rend='underlined:true;'>1542</hi> Den 24 van hoymaent wert wederom openbaer</l>
+					<l>oorloge geroepen tusschen den keyser en den</l>
+					<l>Coninck van Vrancryck</l>
+					<l>1<hi rend='underlined:true;'>542</hi> In hoymaent op sint Jacops avont Is Merten</l>
+					<l>van Rossen met Ruyters en knechten voor</l>
+					<l>Antwerpen gecomen meynende de stadt in te nemen</l>
+					<l>dwelck hem faelgeerde stack alle de meulen op</l>
+					<l>willeboorts velt in brant ende trock voort na Loeven</l>
+					<l>daer hy oock met schande moesten aftrecken</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>A<hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'> 1542</hi> Heeft s keijsers volck den hertoch van Gullick</l>
+					<l>afgenomen de stadt van Bueren met meer</l>
+					<l>andere steden</l>
+					<l><hi rend='underlined:true;'>1542</hi> Syn In Duytslant menich dusent sprinchanen met</l>
+					<l>den regen wtte locht gevallen welcke groote</l>
+					<l>schade inde vruchten der aerden deden</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1543</hi> Heeft de keyse synen eenigen sone Phillippus</l>
+					<l>Coninck van spaengnien gemaeckt ende gaff hem</l>
+					<l>te houwelyck Joncvrou Isabelle des Conincx</l>
+					<l>van portugael dochter</l>
+					<l><hi rend='underlined:true;'>1543</hi> Quam de keyserlycke Mat<hi rend='superscript:true;'>e</hi>. wt spaengnien int lant van</l>
+					<l>Gulck den 8 Augustij beleijde hyde stadt van Dueren ende</l>
+					<l>dede die opeysschen maer die van binnen Antwoorden</l>
+					<l>hem datse niet bevreest en waren voor eenen die vande</l>
+					<l>visschen geten was Den keyser vergrampt wesende dede</l>
+					<l>die stadt in nemen ende al vermoorden cleyn end groot</l>
+					<l>al wat daer In was</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1544</hi> Werdden de Schotten in dese Nederlanden gedecla¬</l>
+					<l>reert vyanden keysers</l>
+					<l><hi rend='underlined:true;'>1544</hi> Dan 26 september na dat de keyser in Vrancryck</l>
+					<l>vele steden ende dorpen gewonnen ende verbrant had</l>
+					<l>Is binnen valencyn eenen peys gesloten tusschen den</l>
+					<l>keyse ende den Coninck van Vrancryck</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1545</hi> Den 8 July was in spaengnien inde stadt valedolick</l>
+					<l>geboren Coninck Phillippus eerste sone Carolus</l>
+					<l>A<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1546</hi> Den 28 februarj Is gestorven Martinus</l>
+					<l>Luther tot Alsteden</l>
+					<l><hi rend='underlined:true;'>1546</hi> Den lesten meert Is gestorven franchois de vallois</l>
+					<l>Deerste van dyen name Coninck van vrancryck</l>
+					<l><hi rend='underlined:true;'>1546</hi> Voerde de keyser orloge tegen hertoch hans</l>
+					<l>van saxen ende den lantgrave van hessen pro</l>
+					<l>testanten,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>6</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1546</hi> Wert in Walcheren gemaeckt het Casteel te @@@@</l>
+					<l>hoecke by Rammekens genaempt seeborch</l>
+					<l><hi rend='underlined:true;'>1546</hi> Den 11 Augustj quam den blixem binnen Mechelen</l>
+					<l>en eenen thoren. dae veel buspoede in was daer</l>
+					<l>groote schade by geschiede ende wel 1800</l>
+					<l>menschen doot bleven</l>
+					<l>@<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1547</hi> Sterff henricus die 8 Coninck van Englant</l>
+					<l>in wiens plaetse int selve iae synen eenighen</l>
+					<l>sone Eduwart out synde 9 Jaren oft daer</l>
+					<l>ontrent binnen Lonnen Coninck gecroont wert</l>
+					<l>1547 Den lesten Meert wert tot riemen eenen Coninck</l>
+					<l>gesalft henricus de 2 van dyen Name des</l>
+					<l>voorsz. franciscus sone</l>
+					<l><hi rend='underlined:true;'>1547</hi> Int eynde van April dede de keyser eenen hoop</l>
+					<l>met veel bevechten int lant van sassen daer werden</l>
+					<l>gevangen die hertoge van sassen ende den landt</l>
+					<l>grave van hessen hie af mocht gy lesen inde </l>
+					<l>voorss. historien van Duytslant</l>
+					<l><hi rend='underlined:true;'>1547</hi> Wert henricus de valois de 2 van dyen name</l>
+					<l>binnen Riemen Coninck van franckyck gecroont</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1548</hi> Is de keyser in Brabant gecomen met hem gevan</l>
+					<l>gen brengende den hertoch hans van sassen en</l>
+					<l>Phillips lantgrave van hessen</l>
+					<l><hi rend='underlined:true;'>1548</hi> Sont den keyse Maxmilliaen van oostenryck de</l>
+					<l>outste sone van fernandus na spaengnien dae hy</l>
+					<l>troude Isabelle Dochte van Carel de vyffde</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1549</hi> Is Coninck Phillips wt spaengnien in Ne</l>
+					<l>derlant gecomen Dae hy eerlyck ontfangen ende</l>
+					<l>als lantsheere gehult wert</l>
+					<l><hi rend='underlined:true;'>1548</hi> Den 13 octobe heeft de Prince Phillips syn blyde</l>
+					<l>incomst ged. binnen gent en dae na binnen Antwerp</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>a<hi rend='superscript:true;'>o</hi>.<hi rend='underlined:true;'>1549</hi> Smaendachs na Sinxen wert Caterina de</l>
+					<l>medecis tsint Denis Coninginne van</l>
+					<l>Vrancryck gecroont</l>
+					<l>a<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1550</hi> hebben de Christenen vande turcken ende mooren de</l>
+					<l>stadt van affricqua gewonnen</l>
+					<l>a<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1522 </hi>Is de lantsgrave van hessen ontslagen geweest</l>
+					<l>van syne gevanckenis</l>
+					<l><hi rend='underlined:true;'>1552</hi> Den 22 october beleyde De keyser de stadt</l>
+					<l>van Mets</l>
+					<l><hi rend='underlined:true;'>1552</hi> wert Jeronimus Deodato een Coopman van Luyck</l>
+					<l>tot Antwerpen deerlyck vermoort vande eenen</l>
+					<l>geheeten Symon turquy oock van luyck ende</l>
+					<l>dat in dese manieren De voors Symon hadde</l>
+					<l>desen Jeronimus in eenen speelhoff genoot ende om</l>
+					<l>sekere vyantschap diese wel tanderen tyden onder</l>
+					<l>linge gehadt hadden deden in eenen setel sitten die</l>
+					<l>soo costelyck gemaect was ende subdyl als dat</l>
+					<l>terstont als desen Jeronimus mede geseten was</l>
+					<l>soo sloet hem den setel van selfs toe dattet hem</l>
+					<l>niet mogelyck en was Dae wt te geraken in</l>
+					<l>sulcke vuegen gevangen sittende wert vande voors</l>
+					<l>Symon ende van synen knecht Deirlyck vermoort</l>
+					<l>niet lange Daer na alle dingen int openbaer</l>
+					<l>gecomen synde wert Symon torquy voor t stadt</l>
+					<l>huys in syne stoel levende verbrant ten aensie</l>
+					<l>ne vande gantse stadt ende van dae naet galg</l>
+					<l>velt gevuert aldaer lichaem metten</l>
+					<l>selven sweerde daer de moort mede</l>
+					<l>gedaen wert aen eenen staeck gevest</l>
+					<l>wert</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>7</l>
+					<l>a<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1559</hi> den xiij december wert binnen Brussel den</l>
+					<l>uuytvaert vande keyser gehouden</l>
+					<l><hi rend='underlined:true;'>1559</hi> Den 3 April is binnen Cambresis den peys</l>
+					<l>gesloten tusschen den Coninck van spaengnien</l>
+					<l>ende den Coninck van vrancryck alwaer de</l>
+					<l>Coninck Phillippus te houwelyck belooft</l>
+					<l>wert doudtste dochter van henricus Coninck</l>
+					<l>van vranckryck ende moeste elckanderen</l>
+					<l>weder restitueren desteden die sy deen den</l>
+					<l>anderen ontnomen hadden</l>
+					<l><hi rend='underlined:true;'>1559</hi> heeft den Coninck van spaengnien d outste</l>
+					<l>Dochte ondertrout vande Coninck henricus</l>
+					<l>In welcke ondetrouwinge geschiede groote</l>
+					<l>genuchte als van steken ende andersins wae</l>
+					<l>de Coninck int steken van monsieur Eummery</l>
+					<l>deur het visie int verhooft gequets wert dat</l>
+					<l>hye aff stierff den x<hi rend='superscript:true;'>en</hi>. van hoymaent</l>
+					<l><hi rend='underlined:true;'>1559</hi> Den xxi van hoymaent verbrande binnen ronse In</l>
+					<l>vlaenderen 3 kercken met by na alle de huysen</l>
+					<l>vande stadt</l>
+					<l><hi rend='underlined:true;'>1559</hi> den selven dach heeft de Coninck binnen Gendt</l>
+					<l>doen celebreren de ordre vande gulden vliese</l>
+					<l><hi rend='underlined:true;'>1559</hi> Corts hie naets de hertochinne van Parma</l>
+					<l>vuyt Itaellien gearriveert in dese nederlanden</l>
+					<l>al waesse de Coninck van spaengnien eer hy</l>
+					<l>na spaengnien trock stelde voor gouvenante</l>
+					<l><hi rend='underlined:true;'>1559</hi> Begonsten de schotten vande Roomsche kercke</l>
+					<l>te wycken</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1560</hi> In Januarie heeft Coninck Phillips binnen</l>
+					<l>guarda la Jara getrout van valoys Dochte van</l>
+					<l>Coninck Henricus van Vrancryck</l>
+					<l><hi rend='underlined:true;'>1560</hi> Den xxvj februarj leyden die van Antwerpen</l>
+					<l>den eersten steen vant nieu stadthuys</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1561</hi> in Meert quam die tydinge dat de Cardinael</l>
+					<l>carassa in Itaellien gejusticeert was om eenige</l>
+					<l>saecken die hy voorgenoomen hadden te doen</l>
+					<l><hi rend='underlined:true;'>1561</hi> Ontrent Augustj geschiede de Rethoryckelycke</l>
+					<l>triumche van tlandt Juweel van brabant</l>
+					<l>binnen Antwerpen dae Diverssche steden hee</l>
+					<l>Intre deden met groote Magnificentie</l>
+					<l><hi rend='underlined:true;'>1561</hi> Gebeurde de Ierste Intre ende passaige vande</l>
+					<l>schepen door de Nieuwe vaert van Brussel diese</l>
+					<l>hadde doen maecken</l>
+					<l><hi rend='underlined:true;'>1561</hi> Wert in Nederlant geordineert ter begeerten</l>
+					<l>vande Coninck ende by consent vande Paus In</l>
+					<l>diverssche steden Bisschoppen</l>
+					<l><hi rend='underlined:true;'>1561</hi> Heft de prince van Conde om eenige geschilden</l>
+					<l>die de heeren onder den anderen hadden om</l>
+					<l>tonderhouden van eenige placcaten gemaeckt</l>
+					<l>opt feyt van Religie met veel crysvolck</l>
+					<l>in genoemde vele steden in Vrancryck ende dese</l>
+					<l>noempdemen de hugenoten</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1562</hi> Heeft de Hertoge van guise vuyten naem van</l>
+					<l>Coninck Carel van Vranckryck ingenoemen</l>
+					<l>de stadt van Rouaen Dwelck de hugenoten in</l>
+					<l>hadden alwae hy vele heeren ende borgers</l>
+					<l>dede Justiceren</l>
+					<l><hi rend='underlined:true;'>1562</hi> 19 Decembe geschiede by orleans in vrancryck eenen</l>
+					<l>grooten slach tusschen den prince van conde en den her</l>
+					<l>toch van guise alwae den prince gevangen wert</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>8</l>
+					<l>ende den Coninck liet dae veel van syn meeste</l>
+					<l>heeren</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1563</hi> den 3 van April wert den dyck vande Nieuwe</l>
+					<l>vaert en tstas van Gendt Doorsteken</l>
+					<l><hi rend='underlined:true;'>1563</hi> den 3 van wert binnen Calis inde locht gesien</l>
+					<l>twee gewapende mannen bloedich totten kinnen</l>
+					<l>hebbende elck eenen schilt inde slincke hant</l>
+					<l>inden eenen stont een Cruyceficx en inden </l>
+					<l>anderen eenen vierigen Leeu ende achte elck</l>
+					<l>volchde een vrouwe met witte cleederen</l>
+					<l><hi rend='underlined:true;'>1563</hi> verbrande te Poperinge wel 800 huysen</l>
+					<l><hi rend='underlined:true;'>1563</hi> Den x van hoymaent verbrande te rotterdam meer</l>
+					<l>dan 250 huysen ende wel 60 schepen onder</l>
+					<l>groot ende cleyn ende harinck buysen</l>
+					<l><hi rend='underlined:true;'>1563</hi> In 7tembe quam binnen Antwerpen eenen</l>
+					<l>Oliphant de welck van dae naden keyser</l>
+					<l>gesonden wert</l>
+					<l>Was In Engelant soo grooten pest dat op een</l>
+					<l>weke binne lonnen stierven mee dan</l>
+					<l>18000 persoonen</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1564</hi> Den 17 Mey sterft Johannus Calvin</l>
+					<l>@<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1565</hi> Was den Schelde toegevrosen datmen dae</l>
+					<l>op vercochte wyn ende bie ende andere coopmanschap</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1566</hi> Den 5 april hebben eenen grooten Deel vande</l>
+					<l>Edele vande lande gepresenteert een requeste aen</l>
+					<l>madame van parma gouvernante vande nederlanden</l>
+					<l>versoeckende moderatie van alle placcaten gepublic</l>
+					<l>ceert wesen aengaende de <hi rend='strikethrough:true;'>@@@</hi> Religie</l>
+					<l><hi rend='underlined:true;'>1566</hi> Den 4 July begonstmen openbaerlyck te prdicken tot</l>
+					<l>vele plaetsen in dese nederlanden met groote Nieu</l>
+					<l>wicheden der religie vande Nieuwe geesten</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1566</hi> den 20 Augusti werden de beelden binnen Ant¬</l>
+					<l>werpen van heyligen Godts afgeworpen ende</l>
+					<l>tot mee andere plaetsen Godtbetert grootelyckx</l>
+					<l>tonse schaden</l>
+					<l>anno 1567 den xiiij Meert heeft de heere van Thoulouse</l>
+					<l>Sommighe soldaten aengenomen to Assistentie</l>
+					<l>vande Gheusen de welcke vande Ruyteren vande gouvernan</l>
+					<l>tot Austerweel buyten Antwerpen verslaghen</l>
+					<l>werden wae door de geusen vergaderde opde</l>
+					<l>meerbrugge En de Catholicquen opden oever</l>
+					<l>ende stonden soo tegen malcanderen het welck</l>
+					<l>den prince van Oraengien sliste</l>
+					<l>Die van Valencyn willende geen Garnesoen</l>
+					<l>innemen werden van myn heere van noircarmes</l>
+					<l>belegert en Inne genomen</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den 21 April den prince van Oraengnien verstaen</l>
+					<l>hebbende wat in Spaengnien gesloten was, ende</l>
+					<l>tselve den Grave van Egmont gewaerschout</l>
+					<l>hebbende Is van Antwerpen na duytslant getrocken</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den 22<hi rend='superscript:true;'>en</hi> Augusti wert Ducdalve eerlyck</l>
+					<l>binnen Brussel ingehaelt</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den 9 7tembre den Grave van Egmont ende van</l>
+					<l>horne synde int hoff by ducdalbe om vande</l>
+					<l>fortificatie van therm wille te spreken werden</l>
+					<l>gevangen ende na gent opt casteel gevoert</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den 27 Octobre Ducdalbe wesende binnen</l>
+					<l>Antwerpen hevet Casteel doen maecken</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>9</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den lesten Decembre vertrock Madama van parma</l>
+					<l>wt dese Nederlanden Ende corts dae na dede Duck</l>
+					<l>dalbe veel volcx vangen die de wapenen aengenomen</l>
+					<l>off ter predicatie geweest hadden en ordonneerde</l>
+					<l>binnen Brussel eenen raet van trouble.</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den xj April Is de prince van Oraengnien</l>
+					<l>ende die predicanten met een groote menichte van</l>
+					<l>volck tot Antwerpen vertrocken</l>
+					<l><hi rend='underlined:true;'>1567</hi> Den xiiij<hi rend='superscript:true;'>en</hi> Augusti quamen die duytsche lans</l>
+					<l>knechten eerst binnen Antwerpen </l>
+					<l>anno <hi rend='underlined:true;'>1568</hi> Den 22 Mey werden de Soldaten die myn heer</l>
+					<l>van vilers vergadert hadde by dalen int lant van</l>
+					<l>Gulck daer sy Ducdalbe mede meynden te verassen</l>
+					<l>wert vande Spaengnaerden verslagen</l>
+					<l><hi rend='underlined:true;'>1568</hi> Inde paesdagen heeft Graef Lodewyck van</l>
+					<l>Nassou In Vrieslant Ingenomen het huys te</l>
+					<l>Norden ende den Dam tegen Duckdalba <hi rend='strikethrough:true;'>derwarts</hi></l>
+					<l>om welcke te wederstaen Ducdalbe derwaerts</l>
+					<l>sont den Grave van Arenberg den Gouverneur</l>
+					<l>van Vrieslant met eenen hoop spaensche soldaten</l>
+					<l>ende Graeff Lodewyck Is hem Int gemoet</l>
+					<l>gecomen ende de selve met den Grave van arenberch</l>
+					<l>verslagen</l>
+					<l><hi rend='underlined:true;'>1568</hi> Opden eersten Juny dede Ducdalbe binnen Brus¬</l>
+					<l>sel onthalsen de Barons van Batenborch met</l>
+					<l>noch xvj edelen tot hem</l>
+					<l><hi rend='underlined:true;'>1568</hi> Den ij July sont ducdalve syn volck na vrieslant</l>
+					<l>tegen Graef lodewyck ende des graven duytse</l>
+					<l>soldaten niet willende vechten moesten hun saveren</l>
+					<l>swemmende doorde Emze</l>
+					<l><hi rend='underlined:true;'>1568</hi> Den 5 July syn binnen Brussel den Grave</l>
+					<l>van Egmont en van horne voort broothuys</l>
+					<l>onthalst</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>a<hi rend='superscript:true;'>o</hi><hi rend='underlined:true;'>1608</hi> Den x 7tembe Is Phillippus van Nassouw</l>
+					<l>Grave van Bueren sone vande Prinse van</l>
+					<l>Oraengien van Leuven na spaengnien gevaren</l>
+					<l><hi rend='underlined:true;'>1568</hi> In octobe trock de Prinse van van Oraengnien</l>
+					<l>met ruyters ende knegten by Stockhem over de</l>
+					<l>mase maer Deur faute van victalie moest met</l>
+					<l>schande vertrecken voorby henegau in vrancryc</l>
+					<l>byde hugenoten</l>
+					<l>a<hi rend='superscript:true;'>o</hi><hi rend='underlined:true;'>1569</hi> Er Is niet sonderlincx geschiet weerdich om</l>
+					<l>schryven</l>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1570</hi> Den eersten mey dede syn eerste Incompst binnen</l>
+					<l>Antwerpen heer francisco sonnius als</l>
+					<l>eerste Bisschop</l>
+					<l><hi rend='underlined:true;'>1570</hi> Den xvi Juny dede Ducdalbe een Generael</l>
+					<l>pardon publiceren</l>
+					<l><hi rend='underlined:true;'>1570</hi> Inde maent van April Is Graeff ladron binnen</l>
+					<l>valencyn van syn soldaten gevangen om hun</l>
+					<l>betalinge hy hun beloefde te voldoen hun</l>
+					<l>tantwerpen gebrocht en de princepaels te doen</l>
+					<l>hangen en Iusticeren opden 3 August.</l>
+					<l><hi rend='underlined:true;'>1570</hi> Opden 29 7tembe ginck de doorluchtige</l>
+					<l>Princess Anna van oostenryck in seelant</l>
+					<l>tschepe na Spaengnien</l>
+					<l>a<hi rend='superscript:true;'>0</hi> <hi rend='underlined:true;'>1571 </hi> Herman Ruyte tslot te loevensteyn Ingenomen</l>
+					<l>dwelck de spaengnarden corts dae na wede</l>
+					<l>met gewelt in naemen</l>
+					<l><hi rend='underlined:true;'>1571</hi> In xembe werden In Engelant gearresteert</l>
+					<l>de penningen die duckdalbe wt spaengnien</l>
+					<l>verwachte wae door hy de Engelsche die hiete</l>
+					<l>lande waren dede arresteren ende gaffe in bewaer¬</l>
+					<l>nisse vande spaengnarden</l>
+					<l>a<hi rend='superscript:true;'>o</hi><hi rend='underlined:true;'> 1572</hi> In february eyschten Duckdalba den thienden</l>
+					<l>pennick</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>10</l>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1572</hi> Den Eersten van April nam den Grave van</l>
+					<l>Lume in hollant met weynich soldaten den</l>
+					<l>briel In dae na hebben die van vlissingen en</l>
+					<l>enchuysen hun begeven aen de Geusen syde</l>
+					<l>tegen ducdalbe</l>
+					<l><hi rend='underlined:true;'>1572</hi> Den x april heeft de grave van bossu begeert</l>
+					<l>met vele spaengnarden te trecken door de stadt</l>
+					<l>Rotterdam daerop dat pas veel volcx doot bleeff</l>
+					<l>ende den Grave nam delfshaven In</l>
+					<l>1572 Den 29 Mey quam Graef Lodewyck met luttel</l>
+					<l>volcx uit Vrancryck en nam met practycke</l>
+					<l>Bergen In genegauwe de welcke Ducdalbe terstont</l>
+					<l>met groote macht beleyt heeft ende ter selve</l>
+					<l>tyt wert Valencyn Ingenomen mae wert terstont</l>
+					<l>wede verlaten, en overgegeven</l>
+					<l><hi rend='underlined:true;'>1572</hi> In Augusto passeerde den Prinse met syn heyr</l>
+					<l>by Doesborch over den ryn en nam Ruerremont In</l>
+					<l>en Loven met appoinctement mechelen wert overvallen</l>
+					<l>van dae troch hy na bergen henegauwe synen</l>
+					<l>broede te hulpe mae door de trubelen van</l>
+					<l>vrancryck synen broede geen bystant connen</l>
+					<l>doen heeft syn volck deur mechelen laten trecken</l>
+					<l>en Is na hollant gereyst</l>
+					<l><hi rend='underlined:true;'>1572</hi> Den 2 7tembe heeft Graeff Lodewyck siend</l>
+					<l>dat tbystant dat hem quam verstroyt was de stat</l>
+					<l>van Bergen henegau gegeven aen Ducdalbe</l>
+					<l>op Conditie dat hy hem geleyden saude tot</l>
+					<l>opden Rycx boden dwelck soo geschiede</l>
+					<l><hi rend='underlined:true;'>1572</hi> Den 1<hi rend='superscript:true;'>e</hi> Octobe wert mechelen Ingenomen ende de</l>
+					<l>borgers geplundert om dat se den Prinse van</l>
+					<l>Oraengnien Ingelaten hadden</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>A<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1572</hi> Den xx Octobe dede Monsdragon syn volck</l>
+					<l>Doort wate passeren In Suytbeverlant om</l>
+					<l>ter Goes te ontsetten dwelck vande Geusen</l>
+					<l>beleet was</l>
+					<l><hi rend='underlined:true;'>1572</hi> Den xiij Novembe namen de spaengnarden met</l>
+					<l>stormende hant Sutphen In</l>
+					<l><hi rend='underlined:true;'>1572</hi> Den xx Novembe heeft Don Frederick Duck</l>
+					<l>balseus soone Naerden Ingenomen</l>
+					<l><hi rend='underlined:true;'>1572</hi> In Octobre hadde don Jan van Oostenryck</l>
+					<l>groote victorie tegen den Turcq op de see</l>
+					<l><hi rend='underlined:true;'>1572</hi> In <hi rend='strikethrough:true;'>wa</hi> Januarij hebben de Geusen worcum</l>
+					<l>verbrant</l>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1573</hi> Is Don Fredericque voor Harlem getrocken ende</l>
+					<l>dat sterck beleyt</l>
+					<l><hi rend='underlined:true;'>1573</hi> Den xxiij<hi rend='superscript:true;'>en</hi> April Is den Capit. vant Casteel</l>
+					<l>van Antwerpen sancho Davvillio met een groote</l>
+					<l>armeje van schepen na Vlissingen gevaren</l>
+					<l>Die van Vlissingen hebben de schepen metten</l>
+					<l>Admirael gevangen genomen</l>
+					<l><hi rend='underlined:true;'>1573</hi> Den xiij July hebben de Borgers van Haerlem</l>
+					<l>hun over gegeven te discretie vande Coninc</l>
+					<l>want de provisie die hun den Prince sont deur</l>
+					<l>tgeleyde vande heeren van Batenborch was van</l>
+					<l>S conincx volck afgesmeten soo datse geen</l>
+					<l>secours meer en verwachten. de Borgers met</l>
+					<l>uuytlantsche soldaten syn Ingenade genoemen</l>
+					<l>mae alle de andere syn uuytgebracht ende gedoot</l>
+					<l><hi rend='underlined:true;'>1573</hi> Opden 4 Octobe wert het Casteel te</l>
+					<l>rammekens in Seelant aende geusen ove</l>
+					<l>gegeven ende corts dae na wert S<hi rend='superscript:true;'>t </hi>Geertrijen</l>
+					<l>berch vande heere van Poye in genomen Lieutenant</l>
+					<l>vande Prince</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>11</l>
+					<l><hi rend='underlined:true;'>1573</hi> Den 8 Octobe hebben de Spaengnaerden alcmar</l>
+					<l>beleyt datse door eenen wate vloet moesten</l>
+					<l>verlaten</l>
+					<l><hi rend='underlined:true;'>1573</hi> Den xij Octobe Is de Grave van Bossu met een</l>
+					<l>groote armeye van schepen tegen die van Eechuysen</l>
+					<l>gecomen waer hy gevangen wert en is te hoven</l>
+					<l>ghevoert</l>
+					<l><hi rend='underlined:true;'>1573</hi> Den ij Decembe Is Duck dalve getrocken na spaeng</l>
+					<l>dien laten de landen sonder eenicheyt</l>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1574</hi> heeft den Coninck gest. tot Gouverneur</l>
+					<l>inde plaetse van Ducdalbe Ludewyck de</l>
+					<l>requense Commandeur van S<hi rend='superscript:true;'>t</hi> Jacops orden</l>
+					<l>Dese meynende den Geusen lege voor Middel</l>
+					<l>borch op te lichten syn volck by Bergen</l>
+					<l>op Soom opden 24 Januari verslagen en gevangen</l>
+					<l><hi rend='underlined:true;'>1574</hi> Den 6 Februari hebben die van Middelborch</l>
+					<l>waer Mons Drago Gouverneur aff was na</l>
+					<l>een lanck belegh hun opgegeven inde handen</l>
+					<l>vande Geusen</l>
+					<l><hi rend='underlined:true;'>1574</hi> Den 5 April heeft de Commandeur te Brussel</l>
+					<l>en Generael pardon laten publiceren en dae</l>
+					<l>nae oyck binnen Antwerpen</l>
+					<l><hi rend='underlined:true;'>1574</hi> Den 24 Ditto hebben de Spaengnarden</l>
+					<l>verslagen de soldaten die voorden Prince</l>
+					<l>quamen opde moeckerhey wae overste war</l>
+					<l>Hertoch sone vande Palsgrave opden Ryn  </l>
+					<l>Graef Lodewyck ende Graeff Henrick</l>
+					<l>van Nassouw</l>
+					<l><hi rend='underlined:true;'>1574</hi> Den 26 Mey synde Spaengnarden wede</l>
+					<l>voor Leyden getrocken ende het belegert</l>
+					<l>ende hebben xxij bolwercken voor opgeworpen</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>1574  Den 26Aapril sijn de Spaengnarts neffens het</l>
+					<l>casteel binnen Antwerpen gecomen maeckende</l>
+					<l>door de stadt groot geschrey om hun betalinge sy</l>
+					<l>dwongen den Commendeur naer syn soldaten vuyt te</l>
+					<l>stad te trecken</l>
+					<l>1574 Ter seelver tyt quamen de mensen deur Antwerpen</l>
+					<l>en namen een deel schepen</l>
+					<l>1574 Op den 3 october wert Leyden wonderlyck gevic¬</l>
+					<l>tailleert door een hoop volcx van Capiteyn</l>
+					<l>Boisot en dat ses water vloet waer deur</l>
+					<l>sconincx volck op brach ende vertrock</l>
+					<l>1574 In decembre sant de Commandeur aen Prince</l>
+					<l>ende Staten van Holland en Seelant om van</l>
+					<l>peys te tracteren sy de vergaderinge om daer</l>
+					<l>van te spreken geschiede binnen Rozedael</l>
+					<l>1574 Den 26  A<hi rend='superscript:true;'>o</hi> geweest tgeroep van Spaengnaerden</l>
+					<l>heure villiance</l>
+					<l>1574 Den XII July traude den Prince van Oraenguien</l>
+					<l>binnen de stadt van Bremen me vrouwe</l>
+					<l>Catoletten van Borboen dochter van Hertoge</l>
+					<l>Monpensie</l>
+					<l>1574 Den 2 Augusti wert den dyck doorgesteken</l>
+					<l>om Leyden te ontsetten</l>
+					<l>1575  Wert de stadt met tcasteel te bueren des </l>
+					<l>Conincx volck over gegeven</l>
+					<l>1575 heden 18 Septembre belegerde sConincx</l>
+					<l>volck de stadt van Wie@t die corts dae</l>
+					<l>nae overgegeven</l>
+					<l>1575 Den xII Augusti wert Schoonhoven met</l>
+					<l>appoinctement des Conincx volck over </l>
+					<l>gegeven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>12</l>
+					<l>1575 Den 28 Augusti wert de stadt Oudewater</l>
+					<l>met den 3 storm ingenomen van des  </l>
+					<l>Conincx volck</l>
+					<l>1575 Den 28 7tembre is Scommandeurs volck</l>
+					<l>deurt water gepasseert in Sint Anna lant</l>
+					<l>duyve lant en St Phillips lant dae</l>
+					<l>boyset doot bleeff ende hebben tbolwerck</l>
+					<l>te bonnimie ingenomen en sterck zo beleydt</l>
+					<l>1576 Den 20 Februari nam des princen volck</l>
+					<l>crimpen wederom in</l>
+					<l>1576 Op den 5<hi rend='superscript:true;'>e</hi> Mert is de groote Commandeur</l>
+					<l>binnen Brussele gestorven ende doen wert</l>
+					<l>gouvernement des lants in handen vande</l>
+					<l>Staten ghestelt</l>
+					<l>1576 in Meije naemen de Spaengnarts Zierikzee</l>
+					<l>in en Coorts daer na verlieten sy de Seelanden</l>
+					<l>ondert decksel van hun betalinge en namen</l>
+					<l>hunnen wech nae Brussele en vernomen</l>
+					<l>hebbende datse hun wederstaen souden, synse </l>
+					<l>vertrocken na Aelst hebben de  stadt in</l>
+					<l>genoemen waer door sy vyanden des lants</l>
+					<l>verclaert syn opden 22 7tembre</l>
+					<l>1576 opden 23 7tembe heeft de heere van Hesen </l>
+					<l>Capiteyn van Brussele en gennes met hulpe</l>
+					<l>van(de) gemeynte de princepaelste heeren van</l>
+					<l>Staten te Brussele inden raet vergadert</l>
+					<l>synde gevangen genomen</l>
+					<l>1576 den 20 octobre hebben de Spaengnaerden</l>
+					<l>met commandement met de Staten veraccor</l>
+					<l>derende Maestricht met gewelt in genomen</l>
+					<l>deur hulpe vant Duyts garnesoen  datte</l>
+					<l>in was</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1576</hi> Den 4 Novembe syn de Spaengnarts deurt</l>
+					<l>Casteel van Antwerpen inde stadt gecomen</l>
+					<l>ende die met gewelt ingenomen ende syn</l>
+					<l>ontrent <hi rend='underlined:true;'>9500</hi> menschen soo vande staten soldaten</l>
+					<l>als vande Borgers bleven ende noch <hi rend='underlined:true;'>4000</hi> die</l>
+					<l>verdroncken daerdie Grave Eversteyn mede</l>
+					<l>verdronck sy verbrande <hi rend='underlined:true;'>700</hi> huysen met het</l>
+					<l>nieu stadthuys ende hebben de Borgers</l>
+					<l>groot Ransoen doen betalen</l>
+					<l><hi rend='underlined:true;'>1576</hi> Opden selven dach quam don Jan van Oosten</l>
+					<l>ryck binnen Luxenborch om tgouvernement</l>
+					<l>vande Nederlanden te aenveerden</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 8 der selve maent wert binnen Gent</l>
+					<l>den vrede gemaeckt metten Prince ende de</l>
+					<l>Staten van Hollant en Seelant</l>
+					<l>1576 Den 9 Novembe heeft den Grave van rencx(?)</l>
+					<l>Gouverneur van Vlaenderen het Casteel</l>
+					<l>van Gent beschoten wae deur de Spaengnarden</l>
+					<l>hun met appoinctement opgegeven hebben</l>
+					<l><hi rend='underlined:true;'>1576 </hi>Den 2 Novembe hebben de Borgers van</l>
+					<l>Vlaencyn de Duytsche knechten vuyt de</l>
+					<l>stadt doen trecken en de Spaengnarden</l>
+					<l>die opt Casteel waren tselve met appoinc</l>
+					<l>tement doen overgeven</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 15 Februarj belegerde die van Vuytrecht</l>
+					<l>hun Casteel ende dwongen de Spaengnarts</l>
+					<l>tselve te geven In handen vanden Grave</l>
+					<l>van Bossu</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 27 february wert binnen Antwerpen</l>
+					<l>gepubliceert den peys die gesloten was</l>
+					<l>binnen Merche in Famenne met Don Jan</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>13</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 20 Meert syn de Spaengnarts met</l>
+					<l>hunnen buet vuyt het Casteel van</l>
+					<l>Antwerpen getrocken stellende tcasteel</l>
+					<l>in bewaernisse vande Hertoch van Aerschodt</l>
+					<l>die synen sone den Prince van Chymey</l>
+					<l>als Castileyn dae in stelde</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den Prima Mey Is Don Jan binnen Brussel</l>
+					<l>vande heeren ende borgers met groote</l>
+					<l>blysschap ontfangen als Gouverneur van</l>
+					<l>dese Nederlanden</l>
+					<l><hi rend='underlined:true;'>1576</hi> Opden 2 July wert tusschen Schaeftingen</l>
+					<l>en Haeftingen eenen visch gevangen van 58</l>
+					<l>voeten lanck en 60 voeten hooch</l>
+					<l><hi rend='underlined:true;'>1576</hi> Opden 21 July quam don Jan binnen mechelen</l>
+					<l>en dae selve saecken metten Capiteynen die</l>
+					<l>binnen Antwerpen ende opt casteel lagen</l>
+					<l>gesloten hebbende Is hy nae namen gereyst</l>
+					<l>om de Hertochinne van Vendosme te</l>
+					<l>ontfanghen</l>
+					<l><hi rend='underlined:true;'>1576</hi> Opden 29 July nam Don Jan het Casteel</l>
+					<l>van Namen In ende was tbeginsel van</l>
+					<l>een nieu oorlogen</l>
+					<l>Den x Augustj wert de heere Tourlou Int</l>
+					<l>casteel van Antwerpen gevangen om het</l>
+					<l>vermoeden dat hy tcasteel In handen van Don</l>
+					<l>Jan stellen waude En syn soldaten werden</l>
+					<l>dae vuyt gedreven die mette Duytschen die</l>
+					<l>int stadt lagen de Nieustadt in namen Ende</l>
+					<l>hun dae beschansten ende door vreese vande</l>
+					<l>Geusen schepen die sy sagen comen namense</l>
+					<l>de vlucht hunnen coronel Focke nae Berghen</l>
+					<l>op Soom en Fronsbergen na Breda daese van hun</l>
+					<l>soldaten gevangen de Staten gelevert werden</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1576</hi> Den 28 Augusti heeft Mons de Bours het</l>
+					<l>casteel van Antwerpen gelevert inden handen</l>
+					<l>vande borgers diet tselve aende syde vande</l>
+					<l>stadt begonsten af te breken</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 18 7tembe quam de Prince van Orae¬</l>
+					<l>gnien binnen Antwerpen den 24 reysde hy</l>
+					<l>naeBbrussel Den 22 wert hy tot Gouve</l>
+					<l>neur van Brabant onde tgeroep van tquaet</l>
+					<l>volck afgedrongen.</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 18 Octobe hebben die van Gent den</l>
+					<l>hHrtoch van Aersschot gevangen genomen om</l>
+					<l>hun privilegie weder te crygen mae liete</l>
+					<l>hem corts wede vuyt ende opden selven tyt</l>
+					<l>namense oyck gevangen de busschoppen van</l>
+					<l>Yperen en van Brugge de heere van Rassingen</l>
+					<l>de hooch bailleau van Yperen ende Cortryck</l>
+					<l>en meer andere</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 13 Novembe heeft Princen van Oraengnien</l>
+					<l>volck Amsterdam In genomen Mae werden</l>
+					<l>vande borgers vromelyck wede Dae vuyt</l>
+					<l>geslagen</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 21 Ditto de Aertshertoge Matias des</l>
+					<l>Keysers broede binnen Antwerpen die</l>
+					<l>vande Staten tot Gouverneur vanden</l>
+					<l>lande geroepen was</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 8 Decembe wert Don Jan met syne</l>
+					<l>aenhangers vyant vande Coninck Ende</l>
+					<l>synen lande vuyt geroepen</l>
+					<l><hi rend='underlined:true;'>1576</hi> Den 28 Augusti op Sint Jans onthoof</l>
+					<l>dingen avont des snachts naden 12 uren</l>
+					<l>Is geboren Johan Baten peters Willem</l>
+					<l>Verlint ende Johanna Jeronimus van</l>
+					<l>Yckx huysvrouwe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>14</l>
+					<l><hi rend='underlined:true;'>1569</hi> Den 9 Novembe Is Digna Batens geboren</l>
+					<l>smorgens tusschen vie ende vyff uren</l>
+					<l>peters Jan tes ende fredigande </l>
+					<l>Cannen</l>
+					<l><hi rend='underlined:true;'>1574</hi> Den 12 July op Seven Maendach ten</l>
+					<l>twee uren nae de noene Is geboren</l>
+					<l>Guille. Baten tweede sone van dyen</l>
+					<l>naeme pete Ants Baten Oom vande</l>
+					<l>vade Inden Calande Pete Catheryne</l>
+					<l>Ritsarts ons behaude suste van myn</l>
+					<l>huysvrouwe vade</l>
+					<l><hi rend='underlined:true;'>1575</hi> Den 23 Mey opden tweeden Pinxen</l>
+					<l>dach Is Anna ende Digna Baten</l>
+					<l>gevormtet vande der heere ende</l>
+					<l>Bisschop Franciscus Sonnius</l>
+					<l><hi rend='underlined:true;'>1577</hi> Prima Augusti Des vrydachs op Sinte</l>
+					<l>Pieters banden geschiede de Duytsche</l>
+					<l>furie t Antwerpen sy hadden</l>
+					<l>de nieustadt in tcasteel in Ende meynden</l>
+					<l>hun selven te betalen mae Godt versachse</l>
+					<l>ende hun quam ten vreese ende liepen</l>
+					<l>al te slyckpoort vuyt van dier tyt</l>
+					<l>hebben de Borgers hun stadt wel</l>
+					<l>bewaert</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den 18 Januarj dede Aertshertoge Matias</l>
+					<l>binnen Brussel den Eede als Gouver</l>
+					<l>neur vande Nederlanden</l>
+					<l><hi rend='underlined:true;'>1577</hi> Int eynde van Januari hebben Don Jans</l>
+					<l>volck staten volck by naemen verslagen</l>
+					<l>en verstroyt ende namen In Genblou</l>
+					<l>Lueven Aerschot thienen Diest ende</l>
+					<l>Sichem</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1577</hi> Den 8 februari Is de stadt van Amsterdam</l>
+					<l>veraccordeert mette Staten van Hollant</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den 22 April wert de Pacificatie van</l>
+					<l>Gendt Antwerpen gepubliceert ende</l>
+					<l>de Jecuyten dat nuet willende doen </l>
+					<l>werden op Pincxten dach tschepe uuyt</l>
+					<l>gheleyt</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den xxj Mey wert de stadt van Philipeville </l>
+					<l>deur gebreck van victaellie ende Amonitie</l>
+					<l>met appoinctement Des Coninckx volck</l>
+					<l>ove gegeven</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den 20 July hebben de Duytschen die binnen</l>
+					<l>campen lagen de stadt gegeven deur het</l>
+					<l>belegh vanden Grave van Rennenborch In</l>
+					<l>Handen vande Staten</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den 25 July heeft S Coninckx volck het</l>
+					<l>Casteel van Lunborch belegert ende by</l>
+					<l>appoinctement Ingenomen</l>
+					<l><hi rend='underlined:true;'>1577</hi> Prima Augusti quam Don Jans volck tstaten</l>
+					<l>volck bespringen dat by romonant(?)lach onder </l>
+					<l>tgouvernement vanden Grave van bossu wae</l>
+					<l>dat een deel volcx bleeff</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den 4 Augusti Is doot bleven in een slach</l>
+					<l>tegen die mooren in Barbaryen Sebastianus</l>
+					<l>Coninck van Portugael</l>
+					<l><hi rend='underlined:true;'>1577</hi> Den 24 7tembre Hebben sommige vendelen walen</l>
+					<l>gemutineert onder tdecsel van hun betalinge</l>
+					<l>ende vande Catholycke religie Ende hebben</l>
+					<l>dae nae begonst met hulpe vande heeren</l>
+					<l>van Montiguy haerliede hooft Orloge</l>
+					<l>te voeren tegen die van Gendt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>15</l>
+					<l><hi rend='underlined:true;'>1578</hi> Prima Octobe Is Don Jan vande pest</l>
+					<l>gestorven ende in syn plaetse Is Alexander</l>
+					<l>Prince van Parme als gouverneur gestelt</l>
+					<l><hi rend='underlined:true;'>1578</hi> 29 Novembe Heeft de Heere van vise Grave</l>
+					<l>van Renenborch de stadt van Devente soe</l>
+					<l>beschoten dat hun de Duytschen met appoinc</l>
+					<l>tement op gaven</l>
+					<l><hi rend='underlined:true;'>1578</hi> 21 Decembe Is de Grave van Bossu gestor</l>
+					<l>ven binnen Antwerpen van een heete</l>
+					<l>cortse</l>
+					<l><hi rend='underlined:true;'>1578</hi> In Februario nam de Prince van Parma het</l>
+					<l>casteel van Weert in, ende quam van daer</l>
+					<l>voor Antwerpen daer hy veel van staten</l>
+					<l>volck versloech ende te vandae vertrocken</l>
+					<l>voor Maestricht ende heeft die stadt</l>
+					<l>vast beleydt</l>
+					<l><hi rend='underlined:true;'>1578</hi> Opden selven tyt syn binnen Ceulen vergadert</l>
+					<l>de Commissarisen van Coninck van Spaeng</l>
+					<l>nien ende vande Saten wegen om van peys</l>
+					<l>te trackteren mae syn sonde accoort</l>
+					<l>gescheyen</l>
+					<l>A<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1578</hi> Den xxviij<hi rend='superscript:true;'>en</hi> Mey Is de geestelycheyt see</l>
+					<l>schandelyc uuyt Antwerpen geleyt</l>
+					<l><hi rend='underlined:true;'>1578</hi> Den 29 July hebben S conincx volck de stadt</l>
+					<l>van Maestricht stormende hant Ingenoemen</l>
+					<l>en de soldaten meest omgebracht</l>
+					<l><hi rend='underlined:true;'>1578</hi> Mons. de Bourse Gouverneur van Mechelen</l>
+					<l>heeft heymelyck verbont gemaeckt metten</l>
+					<l>Prince van Parma, is oorsake geweest</l>
+					<l>dat de stadt aen des Conincx seyde</l>
+					<l>gecomen Is</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1578</hi> Den 19 7tembre Hebben de Duytschen de schans</l>
+					<l>te Willebroeck verlaten ende syn na Mechelen</l>
+					<l>getrocken verstaen hebbende dat Capiteyn la</l>
+					<l>Nove derwaerts met volck quam</l>
+					<l><hi rend='underlined:true;'>1578</hi> Den 20 Octobe nam Colonel Belfort Meenen </l>
+					<l>weder In ende de soldaten alle omgebracht Ende</l>
+					<l>dae nae heeft hy t Csteel van Halewyc</l>
+					<l>mette vlecke van waelwyck ingenoemen</l>
+					<l><hi rend='underlined:true;'>1577</hi> Is Overleden Hans vande Watere</l>
+					<l>Den 29 Juny wert Maestricht ingenomen</l>
+					<l>vande Spaengnaerts ende dae bleeff veel</l>
+					<l><hi rend='underlined:true;'>1579 volcx van beyde syde overste Parma</hi></l>
+					<l><hi rend='underlined:true;'>1579</hi> Den 2 Octobe wert Mechelen vande</l>
+					<l>Spaengnarts gepilleert</l>
+					<l> <hi rend='underlined:true;'>1580</hi> Den 27 Februarj wert de stadt van Cort¬</l>
+					<l>ryck door Monsieur Dallames Coronel</l>
+					<l>in genomen door de rysselsche poorte Ende</l>
+					<l>dat door behulp van sommige borgers die</l>
+					<l>een deel Conincx volck in hun huysen</l>
+					<l>verborgen hadden</l>
+					<l><hi rend='underlined:true;'>1580</hi> In April wert Mechelen wederom vande</l>
+					<l>Staten Ingenomen</l>
+					<l><hi rend='underlined:true;'>1581</hi> Den 18 July wert Brussele In</l>
+					<l>ghenomen</l>
+					<l><hi rend='underlined:true;'>1581</hi> Den 4 Octobe nam de Prince van Parme</l>
+					<l>Doornick in Vlaenderen In</l>
+					<l>Den 29 Octobe vertrock den Doorluchtigen</l>
+					<l>Hertoge Mathias uuyt Antwerpen ende</l>
+					<l>voort uuyt dese Nederlanden</l>
+					<l><hi rend='underlined:true;'>1582</hi> 19 febr. Is de Hertoge van Aniou tAntwerpen te schepe</l>
+					<l>aengecoemen en heerlyck vande Staten des lants ontfangen</l>
+					<l>ende opden 22 dach heeft hy als Hertoge van Bra¬</l>
+					<l>bant den eedt gedaen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>16</l>
+					<l><hi rend='underlined:true;'>1582</hi> den 18 Meert wert de Prince van oOaeng¬</l>
+					<l>nien tAntwerpen van renen Spaengnaert Jan</l>
+					<l>Jauregin In syn hooft geschoten</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 19 April heeft den Prince van Parme</l>
+					<l>de stadt van Audenaerden belegert mae</l>
+					<l>die van binnen siende datte geen ontsedt</l>
+					<l>en quam hebben de stadt by Appoinctement</l>
+					<l>ove gegeven</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 3 April wert den Cassier ende den </l>
+					<l>prieste voort stadthuys gejusticieert</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 23 ditto sterff de Princecsse van</l>
+					<l>Oraengnien binnen Antwerpen vande bruyne</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 23 ditto heeft Mons de Tian Coronel </l>
+					<l>ende mijn heere de tempel overste vande</l>
+					<l>ruyters met Mons de la guarde de stadt</l>
+					<l>Aelst ingenomen het garnesoen vermoort</l>
+					<l>de stadt geplundert ende de Borgers</l>
+					<l>geransonneert</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 27 Mey brack de duyvel een Jonghe</l>
+					<l>dochte den hals t Antwerpen opde Meer</l>
+					<l>inden Swarthen Arent</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den xij July Is den Hertoge van Aniou met</l>
+					<l>de Prince van Oraengnien van Antwerpen</l>
+					<l>tschepe gegaen nae Brugghe daerse in</l>
+					<l>gehaelt syn den 17 Dese</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 21 July Is Nicolaes de Salcedo die den</l>
+					<l>Hertoge van Aniou te Brugge meynden</l>
+					<l>om te brenghen gevangen ende naer</l>
+					<l>Vrancryck te Parys voor den Coninck</l>
+					<l>ghevoert Daer hy den xxij Octobe met</l>
+					<l>vie Peerden levende van Malcanderen</l>
+					<l>gescheurt wert</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1582</hi> Den 24 July sterff de Princesse van</l>
+					<l>pinoye</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 19 Ditto meynde den Jongen egmont den</l>
+					<l>prince ende hertoge te vergeven</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 2 Augusti wert Liere by Antwerpen vande</l>
+					<l>schotten die daer int garnisoen lagen In des</l>
+					<l>Princen van Parma macht gegeven veel solda</l>
+					<l>ten synde doot bleven ende de stadt Is</l>
+					<l>geplonder</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 15 augusti wert de hertoge van Aniou</l>
+					<l>binnen Gent als Grave van Vlaenderen</l>
+					<l>ontfangen</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 27 7tember Is de stadt van Lothem</l>
+					<l>deur de Geusen ontsedt</l>
+					<l><hi rend='underlined:true;'>1582</hi> In November heeft des Coninckx volck</l>
+					<l>steenwyck weder Ingenomen</l>
+					<l><hi rend='underlined:true;'>1582</hi> Inde selve maent namen sConincx volck</l>
+					<l>die van Nienhoven In</l>
+					<l><hi rend='underlined:true;'>1582</hi> Den 29 November wert Capiteyn Allonce</l>
+					<l>te Liere gevierendeelt van Malleconten</l>
+					<l>anno <hi rend='underlined:true;'>1583</hi> Den 17 Januari Is de hertoge van Aniou met</l>
+					<l>200 peerden gereden nade Kiddorppoort om</l>
+					<l>syn volck dat buyten lach te monsteren</l>
+					<l>maer comende opde Brugge heeft synen</l>
+					<l>valsschen aenslach begost want syn edelen</l>
+					<l>hebben de borgers staende metten blooten</l>
+					<l>hoofde geweldich overvallen ende den</l>
+					<l>Poorte Innemende dede syn soldaten</l>
+					<l>marcheren daer waren terstont binnen</l>
+					<l>de stadt 17 vendelen soldaten ende vier</l>
+					<l>Cornette peerden die hun inde straten ende opde</l>
+					<l>vesten bespreyt hadden ende roepende overal</l>
+					<l>tue tue tue vive la messe ville gaigne</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>17.</l>
+					<l>Ende waren tot aende Nieuborsse eert de bor</l>
+					<l>gers gewaer werden daer werdense met lutt</l>
+					<l>volcx wederstaen want het volck meest v##</l>
+					<l>tafel sadt de borgers Inde waepenen wesende</l>
+					<l>hebbense te rugge gedreven en meynden ter</l>
+					<l>Poorten uuyte te loopen synde deen op dan</l>
+					<l>der gevallen hebben de poorte ghevult </l>
+					<l>ende een schanse gemaeckt datter niemant</l>
+					<l>uuyt noch in en conste want de dooden lagen</l>
+					<l>onderhaest mans lengde hooch de borgers</l>
+					<l>hebben de vesten weder Ingenomen ende de</l>
+					<l>edelen gejaecht datse hun peerden verlieten</l>
+					<l>ende sprongen ter vesten aff int water, daer</l>
+					<l>bleven vande borgers 70 doot ende sommige</l>
+					<l><hi rend='underlined:true;'>1583</hi> gequetst vande franchoisen syne doot bleven</l>
+					<l>over de 1500 sonder die gequest wt geloop</l>
+					<l>ende daer na gestorven syn daer waren</l>
+					<l>oyck by de 1500 franchoisen gevangen</l>
+					<l>Godt de heere sy gelooft want hy de </l>
+					<l>victorie gaff.</l>
+					<l><hi rend='underlined:true;'>1583</hi> Den 23 februarj brande tantwerpen de nieuw</l>
+					<l>borsse alle de Cramen aff  t savonts ten 9</l>
+					<l>uren</l>
+					<l><hi rend='underlined:true;'>1583</hi> Den 25 ditto sterff Pieter vande Water</l>
+					<l>onsen oom vande loop</l>
+					<l><hi rend='underlined:true;'>1583</hi> Den 9 Mey Is Wau by Bergen op Zoom</l>
+					<l>over gegeven aende geusen syde</l>
+					<l><hi rend='underlined:true;'>1583</hi> Den 10 July wert den Prince van oraengnien</l>
+					<l>Inde stadt van delft doot geschoten</l>
+					<l>Den 5 Augustj heeft den Prince van</l>
+					<l>parme Dicxmuyen Ingenomen.</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1583</hi> Inden mey Is den hertoge van Aniou wt</l>
+					<l>Dermonde getrocken naer Duynkercken ende</l>
+					<l>opden lesten July Is hy van dae getrocken</l>
+					<l>ende het Conincx volck daer voor coemende</l>
+					<l>hebbent met appoinctement Ingenomen</l>
+					<l><hi rend='underlined:true;'>1583</hi> In Septembe Is yperen vanden Prince</l>
+					<l>van Parma beleyt</l>
+					<l><hi rend='underlined:true;'>1583</hi> Den 23 octobe namen sprincen van Parma</l>
+					<l>soldaten tSas van Gent In</l>
+					<l><hi rend='underlined:true;'>1583</hi> Den 24 Octobe heeft den bailliau van Waes</l>
+					<l>servaes van steenlant tlant van waes</l>
+					<l>in handen vande Prince van Parma gegeven</l>
+					<l>die van Antwerpen hebben den vlaemsschen</l>
+					<l>dyck te Borcht te Calloo en te meer</l>
+					<l>ander plaetsen doorgesteken</l>
+					<l><hi rend='underlined:true;'>1583</hi> In Decembe heeft Duck de Lancon begeert</l>
+					<l>dat kersmis 14 dagen eer saude comen</l>
+					<l>dan hy behoorde te weten A<hi rend='superscript:true;'>o</hi>. 1583 het </l>
+					<l>welck soo geschiede</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1584</hi> In februario Is Aelst den Prince van parma</l>
+					<l>overgegheven</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 28 Meert Is binnen Brugge den Peys</l>
+					<l>gepubliceert die sy metten Prince van</l>
+					<l>parma gemaeckt hadden deur den Prince</l>
+					<l>van chimey die de stadt syn alteze ove</l>
+					<l>Gaff</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 12 April Is yperen opgegeven aende</l>
+					<l>Prince van Parma</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den x Juny sterff de hertoge van Aniou</l>
+					<l>binnen chasteau van tiry</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 6 July beleyde den Prince van Parma</l>
+					<l>tfort van Lillo</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>18</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1584</hi> Den 10 July nam de Prince van parma</l>
+					<l>Liefkens hoeck In</l>
+					<l><hi rend='underlined:true;'>1584</hi> Inde selve maent verlieten de geusen de stadt</l>
+					<l>van herentals Daer des Coninckx volck</l>
+					<l>terstont In quam</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 25 Ditto heeft den Prince van Parma</l>
+					<l>calloo opden vlaemschen Dyck en Nordam</l>
+					<l>opden Brabantschen Dyck Ingenomen</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 16 Augusti werdt Dermonde opgegeven</l>
+					<l>aenden Prince van Parma</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 6 7tembe wert Vilvoorden gegeven</l>
+					<l>in handen vande Prince van Parma</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 20 Ditto Is de stadt van Gendt met</l>
+					<l>appoinctement veraccordeert metten</l>
+					<l>Prince van Parma</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 10 Octobe passerde voorby tfort van</l>
+					<l>Borcht 22 pleyten met 2 Galleykens Door</l>
+					<l>verdroncken Lant na Calloo</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 4 Novembe begonst den Prince van</l>
+					<l>Parma de Schelde by Calloo met schepen</l>
+					<l>te sluyten om Antwerpen te benauwen</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 26 Novembe overvielen die van Antwer¬</l>
+					<l>pen Des Conincx volck tsavonts onversins</l>
+					<l>aende Brugge by Calloo dootslaende</l>
+					<l>ontrent</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 2 April quam des Princen van Oraeng¬</l>
+					<l>ien leste huysf. Sarralot binnen Antwerp</l>
+					<l>die nae syn doot toe. gebleven Is</l>
+					<l>Den 14 April saudende twee gegangen ende</l>
+					<l>den Eenen werdt vande galge ge<hi rend='strikethrough:true;'>tochte</hi> afsnieden ende </l>
+					<l>ontsliep ontliep met een schuyte aende werff </l>
+					<l>dae den anderen gegangen wert</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1584</hi> Den 16 novembre sterff onsen Oom Anthons@</l>
+					<l>Swaen vande haestige siekte</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 12 Decembre maect men eenen nieuwen</l>
+					<l>boden inden ketel tonsent inden hantbo</l>
+					<l>ge daer men seep In siet</l>
+					<l><hi rend='underlined:true;'>1584</hi> Den 14 Meert wert het secreet inden</l>
+					<l>kelder geruympt inden hantboge</l>
+					<l>anno <hi rend='underlined:true;'>1585</hi> Den 19 Januari des smorgens nam den</l>
+					<l>Grave van hollack de stadt van s hertogen</l>
+					<l>bosch in ende wert daer weder uuyt gesla</l>
+					<l>gen achterlatende ontrent 400 dooden</l>
+					<l><hi rend='underlined:true;'>1585</hi> In februarj op Sinte Mattys avont was de</l>
+					<l>Brugge by calloo volmaeckt</l>
+					<l><hi rend='underlined:true;'>1585</hi> Prima Meert wert d&apos;accoort gesloten</l>
+					<l>tusschen den Prince van Parma ende</l>
+					<l>stadt van Brussel.</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 6 Meert heeft Nimmegen haer ghe</l>
+					<l>geven aen s Conincx syde ende den 9 </l>
+					<l>meert de stadt van Doesborch</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 29 Meert heeft Monsieur de la motte</l>
+					<l>ingenomen de stadt van Oostende maer</l>
+					<l>deurt gewelt van binnen moesten hy </l>
+					<l>weder te rugge</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 18 April wert de Capiteyn vande</l>
+					<l>Engelsen van Burgerhant gheworcht</l>
+					<l>opde Meer Brugge</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 4 april werden de Antwerpse brant</l>
+					<l>schepen aende Brugge tot calloo ontsteken</l>
+					<l>die groote schade deden onder des Conincx</l>
+					<l>volck</l>
+					<l>Ter selven tyt namen de hollanders en seelanders het</l>
+					<l>fort van liefkenshoeck , S.Anthonis hoeck en te veere</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>19</l>
+					<l>anno <hi rend='underlined:true;'>1585</hi> Den 26 Mey gebeurde den bloedigen slach opden</l>
+					<l>Cauwensteynschen dyck daer doot bleven ende</l>
+					<l>verdroncken ontrent 2000 menschen.</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 4 July souden de coronels van Antwerpen</l>
+					<l>met hun soldaten het onryp coren</l>
+					<l>ingehaelt hebben maer Godt heeft hunnen</l>
+					<l>aenslach wonderlyck beledt</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 17 July wert d accort gesloten tusschen</l>
+					<l>den Prince van Parma ende van</l>
+					<l>mechelen</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 11 Augustj ontfinck den Prince van</l>
+					<l>Parma met groote solemniteyt tgulden</l>
+					<l>vliese byden Brugge tot Calloo opde</l>
+					<l>branbrantsche syde</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 18 Ditto quamen ons heeren van Antwer¬</l>
+					<l>pen vanden Prince van Parme metten</l>
+					<l>peys</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 20 dien wert hy binnen Antwerpen</l>
+					<l>afgelesen</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 27 ditto quam den Prince van Parma</l>
+					<l>met eenen grooten staet binnen Antwerpen</l>
+					<l>daer hy met groote triumphen ontfan</l>
+					<l>ghen wert.</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 2 7tembre wert de Brugge by</l>
+					<l>calloo begonst af te breken</l>
+					<l>Den 6 ditto dede den Prince van Parma</l>
+					<l>syn eerste Justicie binnen Antwerpen</l>
+					<l>eenen Duytschen soldaet onthalst opde</l>
+					<l>groote Merckt soude stellagie die</l>
+					<l>overlast gedaen hadde</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1585</hi> Den 9 Novembe werden de Casteel vesten van</l>
+					<l>antwerpen weder gemaeckt door den Princ</l>
+					<l><hi rend='underlined:true;'>1585</hi> Den 25 Mey sterft Christoffelken Anthony</l>
+					<l>Swaens sone vande Loop</l>
+					<l><hi rend='strikethrough:true;'>1585</hi> Den 27 ende 28 Decembe wast hie tantwerpen</l>
+					<l>soo grooten mist in schoonen dage datmen in t</l>
+					<l>gen hant van voor ons hooft en sach</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1585</hi> Den 23 Januari op sinte Pauwels bekeerin¬</l>
+					<l>ge dach sont Michiel Wauters de kinderen</l>
+					<l>van Anthony Swaen t onsent</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 7 Meert wert Anthony swaen besteedt</l>
+					<l>tot Matheus de Riche boeckdrucke voor</l>
+					<l>vie Jaren deerste Jare voor 4 pond en het</l>
+					<l>derde voor 2 pond tsiaers</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 17 mey wert het privaet inden Lelien</l>
+					<l>ganck geruympt voor 22 gl. int exterken</l>
+					<l>te weten den Put 20 voeten lanck ende</l>
+					<l>acht voeten breet</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 8 Juny Is de stadt Grave na een</l>
+					<l>swaaer belech veraccordeert metten</l>
+					<l>Prince van Parma</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 24 Juny beschoet hy vendelo en den</l>
+					<l>29<hi rend='superscript:true;'>en</hi> won hyse</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 17 July hebben D Engelschen de stadt van</l>
+					<l>axel in vlaenderen ingenomen met verr¬a</l>
+					<l>derye.</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 17 ditto heeft den Prince van parma</l>
+					<l>de stadt van nuys belegert en opden</l>
+					<l>26 met stormender hant in genomen</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 2 July costen tcoren 15 gul<hi rend='superscript:true;'>s</hi>. ende</l>
+					<l>te voren haddet 16 gl. gecost</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>20</l>
+					<l>@<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1586</hi> Den 5 Augusti sterff Cornelis de Vosse</l>
+					<l>van Borgerhout</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 29 Augusti op sint Jans onthoofdinge</l>
+					<l>avont ginck Adriaen swaen na Thurenaut</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 25 Novembe op sinte Catherinen dach</l>
+					<l>stierff syken Michiels huysf. vande peste</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 9 Decembe maectemen een huere met</l>
+					<l>franchois hamels vant huys hie naest</l>
+					<l><hi rend='underlined:true;'>1586</hi> Den 10 Ditto Is tot cante by thienen bloet</l>
+					<l>geregent op het ys vande hoffgracht van</l>
+					<l>eenen edelman daert opt ys soo heet viel</l>
+					<l>dattet briste oftmen met heete yseren daer</l>
+					<l>Inne gesteken hadde dwelck by na denen</l>
+					<l>voet diep int ys sonck</l>
+					<l>@<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1587</hi> Den 7 Januari hebben de franchoisen tslot</l>
+					<l>van Wan overgegeven aenden Prince</l>
+					<l>van Parma</l>
+					<l><hi rend='underlined:true;'>1587</hi> Int selve Jae vercochten de visvercoopers tot</l>
+					<l>Brussel eenen cabbelliau 22 g. en 8 st.</l>
+					<l>7 bollingen 9 gl. en 10 st. het stuck van elcke</l>
+					<l>oeste 5 st. en de elcke roche 4 gl. 11 st.</l>
+					<l><hi rend='underlined:true;'>1587</hi> Int selve Jaer heeft de Coninginne van</l>
+					<l><hi rend='strikethrough:true;'>schotlant</hi> Engelant de Coninginne van</l>
+					<l>schottlant doen onthalsen</l>
+					<l><hi rend='underlined:true;'>1587</hi> Den 2 July Is Eyndoven Ingenomen van</l>
+					<l>Des Conincx volckx</l>
+					<l><hi rend='underlined:true;'>1587</hi> Inde selve maent Is de stadt van Devente</l>
+					<l>veraccordeert metten Prince van parm</l>
+					<l><hi rend='underlined:true;'>1587</hi> Den 4 July Is het Garnesoen van de stadt</l>
+					<l>Sheere veraccordeert metten Prince</l>
+					<l>van Parme</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1587</hi> den lesten Julii betaelde men tAntwerpen een</l>
+					<l>veertel corens 22 gulden ende de terwe 25 gulden</l>
+					<l>op de marckt ende int heymelyck 24 gulden</l>
+					<l>op de terwe 28 guldens</l>
+					<l><hi rend='underlined:true;'>1587</hi> den 6 Augusti sijn de soldaten van sluys</l>
+					<l>veraccordeeert metten Prince van Parma </l>
+					<l>na dat op de stadt geschoten was meer</l>
+					<l>dan 16000 scheuten</l>
+					<l><hi rend='underlined:true;'>1587</hi> den 22 december tsavonts hebben de Geusen</l>
+					<l>de stadt Vilvorden verrast de Borgers</l>
+					<l>geplundert en sommige huysen verbrant</l>
+					<l>en terstont daer na uuytgevlucht</l>
+					<l><hi rend='underlined:true;'>A</hi><hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'> 1588</hi> Den 22 7tembe is Bon bij Coelen veraccor</l>
+					<l>deert met sConincx volck</l>
+					<l> <hi rend='underlined:true;'>1588</hi> den 23 december heeft de Coninck Henricus</l>
+					<l>den iiien van vrancrijck verradelijcken binnen</l>
+					<l>blois doen vermoorden den Cardinael van</l>
+					<l>Guise met sijnen broeder den hertoge van</l>
+					<l>Guise</l>
+					<l><hi rend='underlined:true;'>1588</hi> Inden oost gauwet Coren 24 stuyvers ende </l>
+					<l>de terwe</l>
+					<l> <hi rend='underlined:true;'>1588</hi> den 3 7tembe quam de spaense armeye uuyt </l>
+					<l>Spaengien die 4 jaren hadden gereet om comen</l>
+					<l>gelegen en is verstroyt</l>
+					<l><hi rend='underlined:true;'>a</hi><hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'> 1589</hi> den 10 April hebben de Geusen soldaten</l>
+					<l>Geertuydenberch overgegeven aenden</l>
+					<l>Prince van Parma</l>
+					<l><hi rend='underlined:true;'>a</hi><hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'> 1589</hi> den 5 januari sterf den bisschop van</l>
+					<l>Mechelen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>21</l>
+					<l><hi rend='underlined:true;'>a</hi><hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'> 1589</hi> den prima Augusti is Hendricus den 9en van</l>
+					<l>dien name Coninck van Vrancryck wense</l>
+					<l>in sijn camer tot Sint clouy iParijs ban </l>
+					<l>eenen Jacobijn oft predriceren Monnick </l>
+					<l>genaempt Brue Jacques Clement in sijne</l>
+					<l>buijck gesteken waer aff hij den 2 Augusti</l>
+					<l>is gestorven</l>
+					<l><hi rend='underlined:true;'>a</hi><hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'>1590</hi> den 4 meert hebben die geusen met weynich </l>
+					<l>soldaten die in een torffschip verborgen</l>
+					<l>lagen het casteel ende de stadt van</l>
+					<l>Bredael ingenomen</l>
+					<l><hi rend='underlined:true;'>a</hi><hi rend='underlined:true; superscript:true;'>o</hi><hi rend='underlined:true;'>1590</hi>den 27 julii is den Prince van Parma van</l>
+					<l>Brussel nae Vrancryck getrocken om die</l>
+					<l>van Parijs te ontsetten die vande Coninck</l>
+					<l>van Navarre schrekkelyck belegert</l>
+					<l>waeren</l>
+					<l><hi rend='underlined:true;'>1590</hi> den 6 octobe heeft den Prince van Parme</l>
+					<l>met gewelt ingenomen de stadt van </l>
+					<l>Corbel in Vrancryck</l>
+					<l><hi rend='underlined:true;'>1590</hi> den 17 ditto hebben de soldaten van Steenwijck</l>
+					<l>die vande geusen belegert waren de stadt</l>
+					<l>overgegeven sonder te verwachten eenich</l>
+					<l>assaut</l>
+					<l><hi rend='underlined:true;'>a</hi><hi rend='underlined:true; superscript:true;'>0</hi><hi rend='underlined:true;'>1591</hi> voor vastelavont begonsten het clooster </l>
+					<l>van pierpots hun kerck te maeken</l>
+					<l><hi rend='underlined:true;'>1591</hi> opden Witten donderdach sterff den Jongh</l>
+					<l>Anthony Swaen inden Hantboge</l>
+					<l><hi rend='underlined:true;'>1591</hi> In Juny op sint Pietes en Pauwels dag</l>
+					<l>dedemen mise inde nieu kercke</l>
+					<l><hi rend='underlined:true;'>1591</hi> Prima July quam Adriaen Swaen werderom ende </l>
+					<l>seyde hij te Geel gewoont hadde</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1591.</hi> Den 12 July wast sulcken grooten t antwerpen</l>
+					<l>van donder ende Blixem dat den duyvel quam</l>
+					<l>aen sinte michiels kercke ende thoren meynende</l>
+					<l>den thoren int brant te steken maecten sulcken</l>
+					<l>getier ende quam inde kercke en stack onse</l>
+					<l>lieve vrauwen Autaer int brant.</l>
+					<l><hi rend='underlined:true;'>1591</hi> Den xj 7tember waren de Geusen aende</l>
+					<l>Roye poort en maecten sulcken Allarm</l>
+					<l>tot Antwerpen inde stadt</l>
+					<l><hi rend='underlined:true;'>1591</hi> Den 17 7tember quam den Jongen Prince</l>
+					<l>binnen t Casteel van Antwerpen</l>
+					<l><hi rend='underlined:true;'>1591</hi> Den 3 mey hebben de steden van Zutphen</l>
+					<l>ende die van Deventer hun overgegeven</l>
+					<l>aende geusen met apoinctement</l>
+					<l><hi rend='underlined:true;'>1591</hi> Is den Grave Octave sone vande Grave</l>
+					<l>van Mansvelt doot geschoten van seven</l>
+					<l>scheut in syn hooft voorde Schanse</l>
+					<l>van Nimmegen</l>
+					<l><hi rend='underlined:true;'>1591</hi> Is den sone vanden seer Catholicquen herto¬</l>
+					<l>ge van Guise wonderbaerlyck door de</l>
+					<l>Almogentheyt Godts verlost uuyt de</l>
+					<l>gevanckenis de welck hadde gevanghen</l>
+					<l>geweest vanden Coninck van Naverre</l>
+					<l>den tyt van twee Jaren op het Casteel</l>
+					<l>van tours In Vrancryck</l>
+					<l><hi rend='underlined:true;'>1591</hi> Den 24 Augustj hebben de soldaten met</l>
+					<l>appoinctement overgegeven de stadt</l>
+					<l>van hulst aende Geusen int land van waes</l>
+					<l><hi rend='underlined:true;'>1591</hi> hebben die van Nimmegen door swaer</l>
+					<l>belech hun met appoinctement over</l>
+					<l>gegheven aende Geusen syde.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>22</l>
+					<l><hi rend='underlined:true;'>anno 1592</hi> Den 17 July hebben die van steenwyck door</l>
+					<l>swaer belegh ende menich assaut verwachtende</l>
+					<l>den vyant dickwils te rugge keerende hebben</l>
+					<l>hun ten lesten met appoinctement overgegeven</l>
+					<l>aende Gheusen syde</l>
+					<l>Int selve jaer in Julius is den vromen</l>
+					<l>colonel mons dragon Gouverneur vant Casteel</l>
+					<l>van Antwerpen getrocken met 21 vendelen</l>
+					<l>spaengnaerts naede kempen Innemende het</l>
+					<l>slot van Wesloo met het slodt van Bercheyck</l>
+					<l>ende opden selven tyt namen sy oock in het</l>
+					<l>slodt van Thurenaudt</l>
+					<l><hi rend='underlined:true;'>1592</hi> In 7tember hebben die van Coevoorden hun</l>
+					<l>met  appoinctement overgegeven aende</l>
+					<l>Geusen syde</l>
+					<l><hi rend='underlined:true;'>anno 1593</hi> Den 8 Januarj Is overleden den vromen ende</l>
+					<l>seer hooch vermaerden Prince van Parma</l>
+					<l>inde stadt van Atrecht in arthois.</l>
+					<l><hi rend='underlined:true;'>1593</hi> Den 24 July hebben die van St Geertruyen¬</l>
+					<l>berch hun met appoinctement moeten overgeven</l>
+					<l>aende Gheusen syde aengesien dat het bystant</l>
+					<l>datter coemen was de stadt niet en cost</l>
+					<l>ontsedten.</l>
+					<l><hi rend='underlined:true;'>anno 1594</hi> Den 30 Januarj Is gearriveert in dese neder</l>
+					<l>landen ernestus ertshertoge van Oostenryck</l>
+					<l>om te ontfangen het Gouvernement vanden</l>
+					<l>lande Die van Brussel hebben hem seer</l>
+					<l>eerlyck ontfangen en Ingehaelt bethoonende</l>
+					<l>groote blysschap van vieren ende andersins</l>
+					<l><hi rend='underlined:true;'>1594</hi> Den 22 Julius hebben hun die van Groenin¬</l>
+					<l>gen moeten overgeven met appoinctement</l>
+					<l>aende Geusen syde.</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1594</hi> Den xiiij<hi rend='superscript:true;'>en</hi>. Junius hebben die heeren ende</l>
+					<l>magistraten metten borgers de stadt van</l>
+					<l>Antwerpen Ernestus Aertshertoge van Oosten¬</l>
+					<l>rijck seer eerlyck Innegehaelt als tot</l>
+					<l>Gouverneur van desen Nederlanden die vande</l>
+					<l>stadt ende de natien hadden veel schoone</l>
+					<l>stellagien gemaeckt tot synde eeren ende</l>
+					<l>hebben oock dry avonden lanck geviert</l>
+					<l><hi rend='underlined:true;'>1594</hi> Int selve Jae soo hebben hun de steden In</l>
+					<l>Vrancryck veraccordeert met den Coninck</l>
+					<l>van Naverre als Parys Rouaen Lions</l>
+					<l>Orlions met noch mee andere steden op</l>
+					<l>conditie dat hy de Catholicque appostolicque</l>
+					<l>Roomsche Kercke sal voorstaen en defenderen</l>
+					<l>tegen alle ketters ende vyanden de Heylige</l>
+					<l>Kercken</l>
+					<l><hi rend='underlined:true;'>1594</hi> Int selve Jae soo hebben die Turcken beleyt</l>
+					<l>de stadt van Romen die Christenen synde</l>
+					<l>gecomen om de selve stadt te ontsetten</l>
+					<l>syn op eenen nacht vande Turcken verrast</l>
+					<l></l>
+					<l>en hebben veel Christenen doot gesmeten</l>
+					<l>ende gevangen genomen</l>
+					<l><hi rend='underlined:true;'>1594 In 7tembre is binnen de stadt van Enghen</hi></l>
+					<l><hi rend='underlined:true;'>in Henegauw verbrant 450</hi> huysen dwelck</l>
+					<l>gecomen Is Deur quay toesicht van vie uuyt</l>
+					<l>sende Brouwerye</l>
+					<l><hi rend='underlined:true;'>1594</hi> In Decembe vroost 9 weken lanck soo</l>
+					<l>datmen tantwerpen ove het schelde heeft</l>
+					<l>gegaen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>23</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. <hi rend='underlined:true;'>1595</hi> Den 20 Februari hebben de Ghentsen met</l>
+					<l>verraderye Innegenomen de stadt en tcasteel</l>
+					<l>van Hoye ende corts daer nae wederom over </l>
+					<l>gegeven In handen van hunnen natuerlycken</l>
+					<l>Prince den Eertsbisschop van Luyck</l>
+					<l><hi rend='underlined:true;'>1595</hi> Den 22 ditto Is overleden binnen Brussel</l>
+					<l>den hooch geboren Hertoch Ernest binnen</l>
+					<l>synen leven Gouverneur van Dese</l>
+					<l>Nederlanden</l>
+					<l><hi rend='underlined:true;'>1595</hi> Den 9 July Is Mons Dragon uuyt antwerpen</l>
+					<l>vertrocken met veel crychvolck nae</l>
+					<l>Vrieslant ende heeft de stadt van</l>
+					<l>Grol ontsedt</l>
+					<l><hi rend='underlined:true;'>1595</hi> Den 24 ditto synde de stadt van Dorleans</l>
+					<l>in Piccardyen van Conincx volck beleger</l>
+					<l>syn de Franchoisen met veel crych volck</l>
+					<l>gecomen meynende de stadt te ontsetten</l>
+					<l>maer syn van ons volck meestal verslagen</l>
+					<l>ende gevangen</l>
+					<l><hi rend='underlined:true;'>1595</hi> Inde maent July Is Mons. de la motte doot</l>
+					<l>geschoten voorde stadt van Dorlans In</l>
+					<l>Piccardyen</l>
+					<l><hi rend='underlined:true;'>1595</hi> Den 31 ditto heeft des Conincx volck</l>
+					<l>met stormende hant de stadt ende tcastee</l>
+					<l>van Dorlans ingenomen in Piccardyen</l>
+					<l><hi rend='underlined:true;'>1595</hi> Den 2 Augusti heeft Graeff Carle van</l>
+					<l>Mansvelt groote victorie gehadt tegen</l>
+					<l>den Turck in??</l>
+					<l><hi rend='underlined:true;'>1595</hi> Den 2 7tembe heeft Mons dragon groote victori</l>
+					<l>gehadt tegen onse vyanden alwae hy verslagen</l>
+					<l>heeft Philips van Nassau den broede van Maurits</l>
+					<l>wert gevangen graef Ernest gequets ende gevangen g<hi rend='superscript:true;'>r</hi></l>
+					<l>Lodewick van Nassau broe van Graf Philps die verdronck </l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1595</hi> Inde maent van 7tember Is Graeff Carel</l>
+					<l>van Mansvelt liggende voor de stadt</l>
+					<l>Scugonia overleden</l>
+					<l><hi rend='underlined:true;'>1595</hi> In deselve maent Is de voorschreven stadt</l>
+					<l>van Scugonia van des keysers volck</l>
+					<l>Ingenomen</l>
+					<l><hi rend='underlined:true;'>1595</hi> den 2 October heeft s Conincx volck</l>
+					<l>ingenomen met appoinctement de stadt</l>
+					<l>van Cameryck ende hebben oyck acht</l>
+					<l>dagen daer nae tselve casteel over¬</l>
+					<l>gegeven met appoinctement</l>
+					<l>anno <hi rend='underlined:true;'>1595</hi> den 19 October voorss hebben de</l>
+					<l>Gheusen smorgens ten vyff uren de stadt</l>
+					<l>van Liere verrast ende ingenomen maer syn</l>
+					<l>des selven daechs doordie almogentheyt</l>
+					<l>Godts wederom te rugge uuytgedreven</l>
+					<l>die spaengnaerden wesende int getal van</l>
+					<l>240 mannen mette borgerye de stadt van</l>
+					<l>Antwerpen ende die van Mechelen hebben</l>
+					<l>hun cloeckelyck getoont int selve ontsedt</l>
+					<l>te doen van Lier daer die almogende heere</l>
+					<l>af moet syn gelooft van nue tot Inde</l>
+					<l>eeuwicheyt</l>
+					<l><hi rend='underlined:true;'>1595</hi> Int selve Jaer den 13 7tember Is In</l>
+					<l>Vranckryck een bestant gemaeckt tussen</l>
+					<l>den Coninck van Navverre en den Hertog</l>
+					<l>van Meyne voorden tyt van 3 maenden.</l>
+					<l><hi rend='underlined:true;'>1595</hi> den 7 November ben Ick Guillem baten gaen</l>
+					<l>woonen tot Liere by M<hi rend='superscript:true;'>r</hi> Anthony Sarrasin</l>
+					<l>Franchois schoelmeester voors 6 pond t sjaers</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>24</l>
+					<l><hi rend='underlined:true;'>1595</hi> den 6 Februarj voor vastenavont Is getraut</l>
+					<l>hans segers mette dochter van M<hi rend='superscript:true;'>r</hi> Joachim</l>
+					<l>tot Liere secretaris</l>
+					<l><hi rend='underlined:true;'>1595</hi> den 3 ditto Is overleden Mayken Sarrasin</l>
+					<l>dochter vande dochter van M<hi rend='superscript:true;'>r</hi> Anthony</l>
+					<l><hi rend='underlined:true;'>anno 1596</hi> den 20 January Is getraut Lynken Leyssens</l>
+					<l>Jonckwyff van M<hi rend='superscript:true;'>r</hi> Jehan vande Bossch ende gesonden</l>
+					<l>op Monfrere Jehan voorde gitte ende woondt</l>
+					<l>by buyten Brussel</l>
+					<l><hi rend='underlined:true;'>1596</hi> den 29 Meert quam Monpere Guillem baten</l>
+					<l>en mamere t Antwerpen ende vertrocken den</l>
+					<l>7 Juny anno voorschreven</l>
+					<l><hi rend='underlined:true;'>1596</hi> den 3 Januarj Is overleden den vromen</l>
+					<l>en valianten Cononel Mons dragon binnen</l>
+					<l>het casteel van Antwerpen</l>
+					<l><hi rend='underlined:true;'>1596</hi> den 18 ditto sterff Ammathes</l>
+					<l>de Turcksche Keyser in wiens plaetse Malmune</l>
+					<l>den autsten sone Keyser gecoren wert een groot</l>
+					<l>tiran die alle 19 syn broeders dede verworgen</l>
+					<l>doende oock thien syns vaders huysvrouwen</l>
+					<l>verdrincken</l>
+					<l><hi rend='underlined:true;'>1596</hi> den XJ Februarj Is gearriveert in dese</l>
+					<l>Nederlanden den doorluchtigen hoochgeboren</l>
+					<l>Cardinale Albertus Aertshertoge van</l>
+					<l>Oostenryck om te aenveerden het Gouver¬</l>
+					<l>nement van dese Nederlanden verselschapt</l>
+					<l>synde met een groote menichte van edeldom</l>
+					<l>onder welcke was den edelen Phillippus</l>
+					<l>Prins van Oraengnien Grave van Bueren ende</l>
+					<l>de heeren van desen lande mette borgerye van</l>
+					<l>Brussel hebben onsen Gouverneur met alle synen</l>
+					<l>edeldom seer magnificq en heerlyck ontfangen.</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l>1<hi rend='underlined:true;'>596</hi> den 29<hi rend='superscript:true;'>en</hi> Appril heeft onsen edelen Gouverneur</l>
+					<l>Cardinal Albertus victorieuselyck met</l>
+					<l>stormender handt Innegenomen de stadt</l>
+					<l>van Calis in Vrancryck</l>
+					<l><hi rend='underlined:true;'>1596</hi> den 20 Augustj heeft onse edelen Gouverneur</l>
+					<l>cardinael Albertus ingenomen by appoinc¬</l>
+					<l>tement de stercke stadt van Hulst met</l>
+					<l>alle de omliggende forten het scheen een</l>
+					<l>plaetse te wesen onwinbaer aengesien de</l>
+					<l>stercke vande wateren die daer rontsom</l>
+					<l>de stadt liepen Godt sy gelooft ende</l>
+					<l>gedanckt vande selve victorie -</l>
+					<l><hi rend='underlined:true;'>1596</hi> den 29 ditto hebben die van Antwerpen</l>
+					<l>onsen edelen Gouverneur Cardinael</l>
+					<l>Albertus met alle synen edeldom seer</l>
+					<l>eerlyck ontfangen de Borgers thoonden</l>
+					<l>groote blytschap synde altsamen Inde</l>
+					<l>wapen ende sy vyerden dry avonden lanck</l>
+					<l>ende het selffde Casteel van Antwerpen</l>
+					<l>heeft oock groote blytschap gethoont</l>
+					<l>met groff geschut te schieten ende</l>
+					<l>andersins</l>
+					<l><hi rend='underlined:true;'>1596</hi> den 24 Mey heeft onsen victorieusten Gouverneur</l>
+					<l>Cardinael Albertus Ingenomen by appoinc¬</l>
+					<l>tement de stercke stadt van Ardres</l>
+					<l>in Vranckryck</l>
+					<l><hi rend='underlined:true;'>1597</hi> den XJ Meert heeft des Coninckx volck</l>
+					<l>met eenen loosen aenslach ende</l>
+					<l>wonderlycke practycke verrast ende</l>
+					<l>Ingenomen de stercke stadt van Amiens</l>
+					<l>in Vrancryck --</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>25</l>
+					<l><hi rend='underlined:true;'>anno 1597</hi> den 21 Augustj hebben de Geusen met appoinc¬</l>
+					<l>tement ingenomen de stadt van Rynsberch</l>
+					<l>gelegen opden Rynstroom</l>
+					<l><hi rend='underlined:true;'>1597</hi> den 23 7tember heeft den Coninck van</l>
+					<l>Naverre genomen met appoinctement</l>
+					<l>de stadt van Amiens in Vrancryck -</l>
+					<l><hi rend='underlined:true;'>1597</hi> Int selve Jaer syn binnen Coelen 42000</l>
+					<l>menschen gestorven vande Peste -</l>
+					<l><hi rend='underlined:true;'>anno 1598</hi> den 5 April heeft den heere van Swartsenborch</l>
+					<l>die stercke stadt Rab Innegenomen</l>
+					<l>vermoorende inden tyt van vier uren vier duisent</l>
+					<l>Turcken behalven den hondert die op eenen</l>
+					<l>Thoren waren gevlucht al waer sy eenen</l>
+					<l>onsprekelycken buet vonden -</l>
+					<l><hi rend='underlined:true;'>1598</hi> den 7 Juny wert binnen Antwerpen met</l>
+					<l>groote vrolyckheyt den Peys gepubliceert</l>
+					<l>tusschen twee machtige Coningen van</l>
+					<l>Spaengnien en van Vrancryck -</l>
+					<l><hi rend='underlined:true;'>1598</hi> den 14 7tember Is Phillippus den Tweeden</l>
+					<l>van dyen naem den Catholycken en machtige</l>
+					<l>Coninck van Spaengnien gestorven binnen</l>
+					<l>de vryheyt van Escuriael inde abdye vande</l>
+					<l>oorden van Sinte Jeronimus gelegen</l>
+					<l>ontrent de seven mylen na by de stadt van</l>
+					<l>Madril niet sonder groote droefheyt van</l>
+					<l>syne ondersaten -</l>
+					<l><hi rend='underlined:true;'>1598</hi> den XIIIJ 7tember Is Albertus die Doorluch¬</l>
+					<l>tige Hertoge van Oostenryck met eenen</l>
+					<l>heerlycken staet uuyt Brussel vertrocken</l>
+					<l>nae Duytslant nemende syn reyse op Spaengnien</l>
+					<l>tot synder bruyt des majesteyts dochtere.</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1598</hi> den 15 October hebben S Conincx volck</l>
+					<l>weder Innegenomen met appoinctement</l>
+					<l>de stadt van Rynsberch gelegen opden</l>
+					<l>Rynstroom</l>
+					<l><hi rend='underlined:true;'>1598</hi> den 23 december Is den Tuber overgevloyt</l>
+					<l>binnen roomen soo datter verdroncken</l>
+					<l>meer dan 1400 menschen</l>
+					<l><hi rend='underlined:true;'>1598</hi> In Junio Is tot Mechelen int Clooster vande</l>
+					<l>sellebroers geproffessit Jan van Eynde</l>
+					<l>sone vande Auden Jan onsen Cosyn alwaer Ick</l>
+					<l>G. baten den tweeden daer te bruyloft quam</l>
+					<l><hi rend='underlined:true;'>1598</hi> den 31 Mey Is mamere Jonffrauwe van</l>
+					<l>@ssche met masoeur Digna uyt Cruyningen</l>
+					<l>alhier gearriveert tot Antwerpen ende</l>
+					<l>syn vertrocken den</l>
+					<l><hi rend='underlined:true;'>1598</hi> den 27 July was de muytenatie tot Liere</l>
+					<l>en daer na tAntwerpen binnen 8 dagen</l>
+					<l>opt Casteel</l>
+					<l><hi rend='underlined:true;'>1598</hi> den 31 augustus heb ick G baten het kint</l>
+					<l>geheven over de vunt van Gommaer vande</l>
+					<l>broeck lyven loeuere en Is genaemt</l>
+					<l>Lucas vande Broeck</l>
+					<l>anno <hi rend='underlined:true;'>1599</hi> den 5 7tember Is gearriveert in dese neder¬</l>
+					<l>landen binnen Brussel onsen genadigen</l>
+					<l>ertsheere Artshertoge Albertus met</l>
+					<l>onsen genadige Hertoginne syne eerweerdige</l>
+					<l>ende hoochgeboren huysvrauwe dochtere van</l>
+					<l>onsen genadigen overleden Coninck van</l>
+					<l>Spaengnien Phillippus den Tweeden van dien</l>
+					<l>naem</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>26</l>
+					<l>1599</l>
+					<l>den 29 October ten</l>
+					<l>Is Jonffrauwe Elisabeth Joris huysvrauwe</l>
+					<l>van onsen natuerlycken vader onse lieve ende</l>
+					<l>weerde moeder gestorven ende overleden in</l>
+					<l>Seelant int lant van der Goes binnen de vryheyt</l>
+					<l>van Cruyningen ontrent dry mylen nae by de</l>
+					<l>stadt vander Goes int huys genaempt Blau Huys</l>
+					<l>toecomende Jonffrauwe van Assche Godt</l>
+					<l>almachtich sy haer siele genadich</l>
+					<l><hi rend='underlined:true;'>1599</hi> den 25 november heeft onsen genadigen erff¬</l>
+					<l>heere Aertshertoge Albertus den behoorlyc¬</l>
+					<l>ken eedt binnen loeven gedaen</l>
+					<l><hi rend='underlined:true;'>1599</hi> den 7 december Is onsen genadigen erfheer</l>
+					<l>Albertus met onse genadige Hertoginne</l>
+					<l>Isabelle Clara eugenia gearriveert in het</l>
+					<l>Casteel van Antwerpen</l>
+					<l><hi rend='underlined:true;'>1599</hi> den X December Is onsen Hertoch met onse</l>
+					<l>Hertochinne vertrocken naer de stadt alwaer</l>
+					<l>de heeren vander stadt sittende alle te peerde</l>
+					<l>syn hem Int gemoet getogen ende syn soo te</l>
+					<l>samen naer Sint Joris Poort gereden alwaer</l>
+					<l>de sesse gulden in slachoorden stonden en de</l>
+					<l>wycken stonden boven opde vesten Lustich Int </l>
+					<l>geweer myn eerweerdige heere den Bisschop</l>
+					<l>met meer andere geestelyckheyt hebben</l>
+					<l>onsen Hertoch ende Hertochinne seer heerlyck</l>
+					<l>ontfangen de stadt ende de natien hadden</l>
+					<l>veel Schoone stellagien gemaeckt tot</l>
+					<l>synder eeren men heeft oock dry avonden</l>
+					<l>lanck geviert</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l>a0 <hi rend='underlined:true;'>1600</hi> Den 8 Januari hebben de Geusen verrast ende</l>
+					<l>ingenomen de stadt van Wachtendonck</l>
+					<l><hi rend='underlined:true;'>1600</hi> Den 30 meert opden Witten Donderdach snachts</l>
+					<l>te halve ure twee is overleden Guille Baten</l>
+					<l>onsen lieven vader inde prochie van Cruyninge</l>
+					<l>dry mylen nae byder stadt vander Goes</l>
+					<l>int lant vander Goes gelegen aldaer syn</l>
+					<l>lichaem Inde kercke voorden hoogen Aultael</l>
+					<l>by synen lieven huysvrouwe Godt de heere</l>
+					<l>wilt haer beyder sielen genadich wesen</l>
+					<l><hi rend='underlined:true;'>1600</hi> Den 3 Juny syn de Geusen met een deel schepen</l>
+					<l>gecomen by Nieupoort In Vlaenderen ende hebben een</l>
+					<l>deel oorlochs volck te lande aengeset van</l>
+					<l>meyninge geheel Vlaenderen onder hun macht te</l>
+					<l>brengen maer Godt de heere heeft hunnen boosen</l>
+					<l>en valschen aenslach beledt</l>
+					<l><hi rend='underlined:true;'>1600</hi> Den 2 July daer naer isser ontrent Brugge eenen</l>
+					<l>bloedigen slach geslagen soo datter van beyden</l>
+					<l>syden veel volcx doot Is gebleven maer den</l>
+					<l>vyant heeft ten leste het lant moeten ruymen</l>
+					<l><hi rend='underlined:true;'>1600</hi> Den 5 September syn gearriveert</l>
+					<l>Johan baten uuyt Zeelant over Cales tot</l>
+					<l><hi rend='underlined:true;'>Antwerpen</hi></l>
+					<l><hi rend='underlined:true;'>1600</hi> Den 24 ditto op eenen sondach smorgens ontrent</l>
+					<l>10 uren voor noen is Geboren Guille Pieters</l>
+					<l>alias van diest Guille sone peters waren</l>
+					<l>M<hi rend='superscript:true;'>r</hi> Adriaen de witte Guille baten meters waren</l>
+					<l>Catlyne Gillis oft Huyge ende Lucresia</l>
+					<l>Meulenaers Inde sterre al tot Liere</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>27</l>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1600</hi> Den xix Augustj Is Dignis Adriaenssen</l>
+					<l>geboren Inde prochie van Cruyningen Int</l>
+					<l>lant vander Goes Ghetraut met Jonffrauwe</l>
+					<l>Anna baten onsen Ouste Godt Geve haer</l>
+					<l>Ruste tot salicheyt der zielen</l>
+					<l>a<hi rend='superscript:true;'>o</hi> <hi rend='underlined:true;'>1601</hi> Den 27 Februarj is Pieter van Male schipper</l>
+					<l>varende opde vlote als oock op andere plaetsen</l>
+					<l>wewenaer wesende met twee sonen Getraut</l>
+					<l>met Anna vande Watere halve suster van</l>
+					<l>Guille Baten wylen onsen vader</l>
+					<l><hi rend='underlined:true;'>1601</hi> Den xj April syn vertrocken Philippe en Johan Baten</l>
+					<l>op Seelant langs Bergen op Soom met eenen</l>
+					<l>trompetter</l>
+					<l><hi rend='underlined:true;'>1601</hi> Den xj Mey tussen xj en 12 uren Is overleden ende</l>
+					<l>vanden werelt gescheyden Guille Pieters</l>
+					<l>de Jonge mynen Peter tot Liere</l>
+					<l><hi rend='underlined:true;'>1601</hi> Den 25 ditto heeft Guille Baten ter Vormen</l>
+					<l>geleyt Pieter Gielis Fs sone en Jan de Rieme</l>
+					<l>Jans sone by den eer. heere den Bisschop van</l>
+					<l>Antwerpen</l>
+					<l><hi rend='underlined:true;'>1601</hi> Den 27 ditto heeft Guille Baten ter Vormen </l>
+					<l>geleyt de huyvrouwe van Gomme vande broeck</l>
+					<l>lynen wever myn gevader tot Liere genaempt</l>
+					<l>Janneken ende hans hoochmis by den eer: heere</l>
+					<l><hi rend='underlined:true;'>1601</hi> Den 5 July Is des Hertochs leger voor</l>
+					<l>Oostende gecomen ende hebben de stadt</l>
+					<l>sterck beleyt</l>
+					<l><hi rend='underlined:true;'>1601</hi> Den 7 ditto Is overleden smorgens seer subyt</l>
+					<l>ten 9 uren Barbara Smetsers die achter Inden</l>
+					<l>hoff plach te woonen by Mayken Ray tot</l>
+					<l>Liere etc</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1601</hi> den 2 Augustj hebben de Geusen Rynsberch</l>
+					<l>ingenomen met appoinctement</l>
+					<l><hi rend='underlined:true;'>1601</hi> den 15 October Is gearriveert binnen Antwerpen</l>
+					<l>wt Seelant lancx de Slyckpoort Hans Baten</l>
+					<l>over Lillo en Nordam</l>
+					<l><hi rend='underlined:true;'>1601</hi> den eersten November hebben de Geusen de</l>
+					<l>stadt van sHertogen bosch belegert ende den</l>
+					<l>27 derselver maent hebben sy de selve stadt</l>
+					<l>met schande moeten verlaten aensiende het</l>
+					<l>ontset datter voorhanden was stekende alle hun</l>
+					<l>hutten In brant</l>
+					<l>anno <hi rend='underlined:true;'>1602</hi> Inde maent van Julius hebben de Turcken</l>
+					<l>ingenomen met stormenderhant schoelwinsen</l>
+					<l>borch In hongeryen vermoordende al datter In</l>
+					<l>was cleyn ende groot</l>
+					<l><hi rend='underlined:true;'>1602</hi> Inde maent Augustj inde weerde van xj</l>
+					<l>weken tyts syn binnen Amsterdam gestorven</l>
+					<l>van de Peste over de dertich dusent menschen</l>
+					<l><hi rend='underlined:true;'>1602</hi> Inde maent Augustj syn de Geusen gecomen met</l>
+					<l>26 dusent mannen int Lant van Luyck</l>
+					<l>ontrent Sint Truyen van meyninge gheheel</l>
+					<l>Henegau en Artois aff te loopen ende soo doort lant</l>
+					<l>te trecken om die van Oostende te ontsetten maer</l>
+					<l>den Hertoch heeft daer In tyts veel Cryschs</l>
+					<l>volck tegen gesonden soo dat hunnen boosen</l>
+					<l>aenslach Is belet geweest</l>
+					<l><hi rend='underlined:true;'>1602</hi> Van daer Is de vyant te rugge gekeert</l>
+					<l>naer de stadt Grave ende dat hert belegert</l>
+					<l>soo dat die van binnen hem hebben moeten op¬</l>
+					<l>geven met appoinctement den 20 7tember</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>28</l>
+					<l>anno <hi rend='underlined:true;'>1603</hi> In maent Februarj Is overleden In Spaengnien</l>
+					<l>de genadige Keyserinne onsen genadigen</l>
+					<l>Hertoch Albertus moedere</l>
+					<l><hi rend='underlined:true;'>1603</hi> den iiij April Is overleden Elizabeth de</l>
+					<l>Coninginne van Engelant</l>
+					<l><hi rend='underlined:true;'>1603</hi> den 25 July hebben die van Enghelant </l>
+					<l>ontfangen voor haren Coninck Jacobus den</l>
+					<l>Eersten van dyen naem Coninck van</l>
+					<l>Schotlandt</l>
+					<l><hi rend='underlined:true;'>1603</hi> den 18 Augustj syn de Geusen gecomen</l>
+					<l>voor sHertogenbosch ende hebbense belegert</l>
+					<l><hi rend='underlined:true;'>1603</hi> den 21 ditto is des Hertogen leger gecomen</l>
+					<l>voor de voorss stadt tot secours ende</l>
+					<l>bevryding vande selve</l>
+					<l><hi rend='underlined:true;'>1603</hi> den 16 7tember Is gearriveert uuyt seelant</l>
+					<l>in Antwerpen Jonffrou Digna Baten onsen</l>
+					<l>suster ende monfrere Johan gecomen</l>
+					<l><hi rend='underlined:true;'>1603</hi> Int selve Jaer tot Liere Is getraut Jan</l>
+					<l>marichal mette dochtere M<hi rend='superscript:true;'>r </hi>Joachim van Poste</l>
+					<l>Secretaris tot Liere daer ick ter feeste was</l>
+					<l><hi rend='underlined:true;'>1603</hi> den iiij November Is des Geusen leger opgebro¬</l>
+					<l>ken gedwongen synde de stadt van sHertogen¬</l>
+					<l>bosch te verlaten</l>
+					<l><hi rend='underlined:true;'>1603</hi> den 17 December Is by callebeke In Vlaendren</l>
+					<l>eenen groote visch gevangen lanck over de</l>
+					<l>42 voeten en hooch naer advenant</l>
+					<l>anno <hi rend='underlined:true;'>1604</hi> den 5 Mey ben ick vertrocken van Liere naer</l>
+					<l>antwerpen ten huyse van Monfrere Johan Baten</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l>anno <hi rend='underlined:true;'>1604</hi> den XIX Augustj hebben de Geusen met</l>
+					<l>appoinctement Ingenomen de stadt van Sluys</l>
+					<l><hi rend='underlined:true;'>1604</hi> den 22 7tember Is de stercke stadt van</l>
+					<l>Oostende met appoinctement aen syn hooch¬</l>
+					<l>heyt albertus Eertshertoge overgegeven</l>
+					<l>hebbende voor Gouverneur generael van</l>
+					<l>synen leger den Marquis Spinola</l>
+					<l><hi rend='underlined:true;'>1604</hi> den 31 october Is tAntwerpen gepubliceert</l>
+					<l>met groote blysschap den generalen Peys</l>
+					<l>tusschen den Coninck van Spaengnien met</l>
+					<l>den Aertshertoge Albertus ende den </l>
+					<l>Coninck van Engelant</l>
+					<l>den xvii April heeft syn Exellentie Marquis</l>
+					<l>Spinola ontfangen het Gulde vlies binnen</l>
+					<l>de stadt van Brussel ende dat van wegen</l>
+					<l>den Coninck van Spaengnien als tot</l>
+					<l>luytenant ende Capiteyn generael vanden</l>
+					<l>leger van onsen Aertshertoge Albertus</l>
+					<l>den xvii Mey syn de Gheusen gecomen met</l>
+					<l>veel oorlochschepen voor Antwerpen van</l>
+					<l>meyninge Blockersdyck ende te Borcht</l>
+					<l>door te steken dwelck hun faelgeerden</l>
+					<l>alwaer sy vier oft vyff hondert mannen</l>
+					<l>lieten soo verdroncken doot geslagen als</l>
+					<l>gevangen</l>
+					<l>den xviii Mey hebben hun die vant Casteel</l>
+					<l>van Wauw overgegeven aende Gheusen syde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>29</l>
+					<l>den 28 Mey heeft syn exellentie marquis</l>
+					<l>spinola voor Antwerpen aende Werff doen</l>
+					<l>een Brugge maecken over tSchelde ende soo</l>
+					<l>daer overgereden met wagenen ende Peerden</l>
+					<l>van Brabant in Vlaenderen</l>
+					<l>den xi Augustj heeft syne voorss Exellentie</l>
+					<l>In Vrieslant ingenomen met appoinctement</l>
+					<l>de stadt van Oldenzeel</l>
+					<l>den 18 ditto heeft syne voorss Exellentie</l>
+					<l>Ingenomen met appoinctement de stadt</l>
+					<l>van Lingen met het Casteel</l>
+					<l><hi rend='underlined:true;'>1605</hi> den 25 7tember Is de Brugge voor Ant¬</l>
+					<l>werpen afgebroken</l>
+					<l><hi rend='underlined:true;'>1605</hi> den 27 October heeft syne Exellentie</l>
+					<l>Marquis Spinola Ingenomen by appoinc¬</l>
+					<l>tement de stadt van Wachtendonck</l>
+					<l><hi rend='underlined:true;'>1605</hi> den vi November heeft syne Exellentie</l>
+					<l>Marquis Spinola Ingenomen by appoinc¬</l>
+					<l>tement het casteel van Crakau</l>
+					<l>anno <hi rend='underlined:true;'>1606</hi> den 27 Mey heefter sulcken onweder van win¬</l>
+					<l>de geweest datter kercken thorens Wint¬</l>
+					<l>meulens huysen ende schueren syn omgewayt</l>
+					<l>soo datter binnen geen mans eenen van</l>
+					<l>alsulcken wint en Is gehoort geweest</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 18 Meert heeft monfrere Jehan te</l>
+					<l>Brussel gecregen dofficie van Ontfan</l>
+					<l>ger vande licenten in plaetsen Jan Pieters</l>
+					<l>saleger memorien</l>
+					<l><hi rend='underlined:true;'>1606</hi> Int beginsel van April heeft monfrere</l>
+					<l>Jan syn Intre gedaen opt Comptoir en soo</l>
+					<l>voorts inde officie Godt willet hem</l>
+					<l>wel laten succederen tsynder salicheyt</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1606</hi> den xvi Juny Is binnen Antwerpen gearriveert</l>
+					<l>over Bergen op Soom onse lieve suster Anna</l>
+					<l>baten de huysvrouwe van Dignus Adriaensz</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 4 July begonst te verhuysen uuyte Venus</l>
+					<l>straet tot Inden Voetboge aende werff opt</l>
+					<l>comptoir en den 8 ditto eersten nacht geslapen </l>
+					<l>Godt willet wel laten succederen tot salich</l>
+					<l>heyt der sielen Amen</l>
+					<l><hi rend='underlined:true;'>1606</hi> des snachts oft savonts tusschen xi en xii</l>
+					<l>uren hebbe ick met andere hulpe onse</l>
+					<l>siecke suster Annelien Baten inden voet</l>
+					<l>boge overbrocht in een groote mande</l>
+					<l>gedragen metten bedde met vi persoonen -</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 9 July des sondaechs ontrent twee uren</l>
+					<l>nae noene Is overleden onse suster Anna</l>
+					<l>Baten wiens siele Godt In genade neme</l>
+					<l>ter presentien vande gebueren Jan vande Wouwe</l>
+					<l>met alle syn famille en wy present</l>
+					<l><hi rend='underlined:true;'>1606</hi> den xii ditto Is onse suster Anna Baten</l>
+					<l>Salige memorien met solemniteyt ter</l>
+					<l>begravenis gedragen tusschen v en xii</l>
+					<l>uren voor noen in Onse Lieve Vrauwekerck</l>
+					<l>t Antwerpen en leyt begraven int graff</l>
+					<l>van Grootmoeder vande Vene voorde pilaer</l>
+					<l>aent Heylich Sacraments Choir</l>
+					<l><hi rend='underlined:true;'>1606</hi> Inde selve maent Is valschelyck en met</l>
+					<l>gewelt gestolen het cofferken metten</l>
+					<l>gelde van onsen broeder Christoffel Baten</l>
+					<l>waerom hy procedeerde wel een Jaer</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 4 Augusti heeft syne exellentie</l>
+					<l>Marquis Spinola ingenomen bij appoincte</l>
+					<l>ment de stercke stadt van Lochum -</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>30</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 14 Augusti heeft syne exellentie</l>
+					<l>Marquis Spinola ingenomen by appoincte¬</l>
+					<l>ment de stadt van Grol -</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 27 ditto gerekent met ppl van onsen</l>
+					<l>gemeynen sterfhuys aengaende</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 29 ditto gecavelt onder malcanderen</l>
+					<l>vande ringen onser sterfhuys aengaende</l>
+					<l><hi rend='underlined:true;'>1606</hi> Prima October heeft syne exellente</l>
+					<l>Marquis Spinola Ingenomen by appoinc¬</l>
+					<l>tement de stercke stadt van Rynsberck</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 2 ditto hebben de Geusen eenen</l>
+					<l>aenslach gehadt opde stadt van Venlo</l>
+					<l>soo datse 2 poorten hadden doen opspringen</l>
+					<l>ende waren met vligende vendels tot opde</l>
+					<l>vesten maer werden van onse ruyterye ende</l>
+					<l>Borgerye soo dapperlyck te Rugge gedreven</l>
+					<l>datser veel dooden lieten, ende ettelycke</l>
+					<l>wagenen met gequetsten -</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 2 7tember Is ondertraut en getraut</l>
+					<l>tsamen Elisabeth Lepipre met Franchois van</l>
+					<l>Boschoven inde Ceesroye naest den lanterne</l>
+					<l>canefassie en Juwelie</l>
+					<l><hi rend='underlined:true;'>1606</hi> den 3 ditto wert haer Bruyloft gehauwen</l>
+					<l>Masoer en Monfrere Jan waer gebeden -</l>
+					<l><hi rend='underlined:true;'>1606</hi> den X ditto Is Monfrere Jan Baten ondertraut</l>
+					<l>door de Pastoir Coesvelt met Marie Parys</l>
+					<l>present Jasper Bacle syne huysvrouw</l>
+					<l>Jeronimus van nyck syne huysvrouw </l>
+					<l>Digna en Guillem Baten Marie le Pipre den</l>
+					<l>sone van Margriet mehte hen heele famille</l>
+					<l>vande myn here Parys met syn assisten -</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1606 </hi>den eersten Octobe heeft syne exellentie</l>
+					<l>Marquis Spinola Inghenomen by appoincte¬</l>
+					<l>ment de stercke stadt van Rynsberck</l>
+					<l><hi rend='underlined:true;'>1606 </hi>den 2 ditto hebben de Gheusen eenen</l>
+					<l>aenslach gehadt opde stadt van venlo</l>
+					<l>anno <hi rend='underlined:true;'>1606 </hi>den 8 ditto Is monsiere Jehan baten getraut</l>
+					<l>mette autste dochter Ghenaempt Marie</l>
+					<l>van parijs, vanden rentmeester urbaen van parijs,</l>
+					<l>aut ontrent 21 jaren Inde cappelle van</l>
+					<l>gratien gestaen by de venus straet ten</l>
+					<l>ses uren smorgens par pastoir hendrick geus</l>
+					<l>van onse lieve vrauwe ter presentien vader en</l>
+					<l>moeder Jasper backe en syn huysvrauwe Jeronimus</l>
+					<l>van nyck en syn huysvrauwe Thomas warri en</l>
+					<l>de suste van parys Op synen nichte van</l>
+					<l>parys de herde en huysvrauwe valckenis ende</l>
+					<l>noch die ick niet en kende en my present</l>
+					<l><hi rend='underlined:true;'>1606 </hi>den 10 octobe was de feeste van monsiere</l>
+					<l>Jan baten en Marie van parys duerende</l>
+					<l>tot donderdaechs dry avonden lanck</l>
+					<l>en wert gehauden inde Ierste collegie byde</l>
+					<l>wage achte myn heer parys</l>
+					<l><hi rend='underlined:true;'>1606 </hi>den 29 ditto Is Monsiere met syn nieuwe</l>
+					<l>vrauwe over thuys comen des achternoens</l>
+					<l>ontrent den avont ter presentien van alle het</l>
+					<l>famille van parys Balcke van nyck</l>
+					<l>moyken camp voort hare dochtere advocat</l>
+					<l>soete pastoir vande borcht en Jan smidt</l>
+					<l>des anderen daechs snoenens sommich</l>
+					<l>vers volck genoot en waren alle wel</l>
+					<l>vrolyck</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>31</l>
+					<l>anno <hi rend='underlined:true;'>1606</hi> Inde maent November heeft syne exellentie</l>
+					<l>Marquis Spinola den Geusen lege voor</l>
+					<l>Grol opgelicht en heeft de selve stadt</l>
+					<l>ontsedt</l>
+					<l><hi rend='underlined:true;'>1606 </hi>30 Decembe Is ondertrau Anthony Sarrasin</l>
+					<l>met Catherina Wauters dochter van Meule¬</l>
+					<l>maecke tot Liere</l>
+					<l><hi rend='underlined:true;'>1607 </hi>den 28 Januarj Is getraut de dochte van</l>
+					<l>Mayken Henissen metten sone van Gillis vande Gaux</l>
+					<l><hi rend='underlined:true;'>1607 </hi>den 2 Februarj Is ondertraut Merten Wincken</l>
+					<l>met Beyken Verbeken Is getraut opden 18</l>
+					<l>vande selve maent en wasse met te feeste</l>
+					<l><hi rend='underlined:true;'>1607 </hi>den 6 ditto Is getraut tot Liere Anthony</l>
+					<l>Sarrasin met Catlyne Voors en wasse oock</l>
+					<l>te feesten met vrolycheyt</l>
+					<l><hi rend='underlined:true;'>1607 </hi>Is Masoeur Marie huysvrauwe van Johan Baten sieck</l>
+					<l>geworden des smorgens ontrent 4 uren vande</l>
+					<l>pyne Inden buyck ende zedert niet vant bedt</l>
+					<l>connen comen ende met vier doctoren alle dage</l>
+					<l>besocht geen bate vindende Is opden 4 meert</l>
+					<l>des sondaechs smorgens tusschen ses en seven</l>
+					<l>uren overleden en Inden heer gestorven</l>
+					<l>Jouffrau Marie van Parys dochtere vanden</l>
+					<l>Rentmeester Urbaen van Parys present vade moede</l>
+					<l>ende broede en andere omstaenderen</l>
+					<l><hi rend='underlined:true;'>1607 </hi>den 6 ditto Is met groote solemniteyt</l>
+					<l>begraven Jouffrauwe Marie van Parys dochte etcetera</l>
+					<l>ende huysvrauwe etcetera van onsen broede etcetera Inde</l>
+					<l>borcht kercke achte Onse Lieve Vrauwen</l>
+					<l>Choir de Bare 6 weken dae staende met fent@@</l>
+					<l>cruys de choire behangen ende sij de siele</l>
+					<l>genadich</l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1606</hi> den 2 Paesdach ontrent den een ure nae</l>
+					<l>noen begonst sulcken wint ende tempeest</l>
+					<l>op te staen die wel vier uren duerden datter</l>
+					<l>boomen huysen ende thorens om wayden met</l>
+					<l>groote menichten ende In Hollant ende Seelant</l>
+					<l>veel menschen verdroncken men heeft by mans</l>
+					<l>gedencken sulcken wint niet gesien</l>
+					<l>Iser bestant gemaeckt voor 20 Jaren tusschen</l>
+					<l>den Keyserlycke Majesteyt en den Turcq</l>
+					<l><hi rend='underlined:true;'>1607</hi> In Februarii Isser een soo grooten overvloet</l>
+					<l>van de zee in Engelant gheweest datter</l>
+					<l>vele eylanden onder liepen ende menich</l>
+					<l>100 menschen verdrocken om dat hun dien</l>
+					<l>vloet soo snel overliep.</l>
+					<l><hi rend='underlined:true;'>1607</hi> den 25 Mey isser bestant oft ophaudinge van</l>
+					<l>wapenen gemaeckt tusschen hare hoocheden</l>
+					<l>den Aertshertoge Albertus ende Isabelle ende</l>
+					<l>hun wederpartye van Hollant ende seelant</l>
+					<l>voor den tyt van 8 maenden om van eenen</l>
+					<l>generael Peys te spreken welck bestant</l>
+					<l>daer naer noch vier maenden verlengt Is</l>
+					<l><hi rend='underlined:true;'>1607</hi> den xij Mey des smorgens gegaen met</l>
+					<l>Monfrere  van Antwerpen door den dam</l>
+					<l>naer Roosendael op Bergen over Indt lant</l>
+					<l>van Goes en wederom gekeert over ditto op 27 dito</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>32</l>
+					<l><hi rend='underlined:true;'>1607</hi> den xviij 7tember Monfrere Jehan </l>
+					<l>Guille ende digna baten gecontrefeyt</l>
+					<l>oft doen schilderen</l>
+					<l><hi rend='underlined:true;'>1607</hi> Int selve Jaer In 7tember ende October</l>
+					<l>isser gesien een comete int suytwesten niet</l>
+					<l>verre van de corona septentrion waer aff den</l>
+					<l>steert vanden noorden opwaerts nae suytoost was</l>
+					<l>schietende als vierighe straelen na andere</l>
+					<l>gewesten beteeckenende oorloghe in andere</l>
+					<l>landen na d opinie van sommige geleerde</l>
+					<l><hi rend='underlined:true;'>1608</hi> den 10 Januarj wasset soo grouwelyck ge¬</l>
+					<l>vrosen ende vorst als by menschen geden¬</l>
+					<l>ken gesien Is de welcke geduert heeft den</l>
+					<l>tyt van ontrent 4 weken, de caude was soo</l>
+					<l>groot dat binnen Antwerpen opt hoochste</l>
+					<l>vande stadt eenige borneputten/ dwelck</l>
+					<l>noyt te voren gesien en Is / toegevrosen</l>
+					<l>syn geweest / Over de Schelde heeft men</l>
+					<l>sien loopen eenige dusent menschen uuyt</l>
+					<l>de voorschreven stadt in Vlaenderen ende</l>
+					<l>van daer wederom inde stadt comende</l>
+					<l>men heefter op gebrocht eenige</l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<p>
+				<lg>
+					<l>tonnen biers wyn ende spyse diemen aldaer</l>
+					<l>uuytgetapt en vercocht heeft</l>
+					<l>ende alsoo den eerbaren raet der voorsz</l>
+					<l>stadt van antwerpen met voorsichticheyt</l>
+					<l>door de gheheele stadt liet met een trom¬</l>
+					<l>mel slaen de burgerye waerschauwende</l>
+					<l>in wat peryckel sy hun stelden die sulcx</l>
+					<l>bestonden / het welcke eenige te veel</l>
+					<l>vermetende / en onachtsame menschen</l>
+					<l>niet achtende syn gecomen In dusent</l>
+					<l>peryckelen van hun leven aldaer te eyn</l>
+					<l>den want corts nadat den voorsz eerbaren</l>
+					<l>Raet Inder voorsz manieren hadde de Bur</l>
+					<l>geren laten waerschauwen</l>
+					<l>soo Is het ys ontrent 2 uren voor den avont</l>
+					<l>worden dryvende met wel ontrent 500</l>
+					<l>menschen soo mans vrauwen als kinderen</l>
+					<l>denckt wat suchten kermen en weenen</l>
+					<l>daer omme ginck / dit geschiede ten</l>
+					<l>aensiene van veel dusent menschen die</l>
+					<l>overal opde kayen lancx de stadt stonden</l>
+					<l>bedroeft synde van alsulcken Jammer</l>
+					<l>lycken spectakel denckende datse alle</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>33</l>
+					<l>verdrincken sauden maer door die bermher</l>
+					<l>ticheyt Godts al waren de voorsz menschen</l>
+					<l>wel den straffe weerdich / syn sy alle van</l>
+					<l>alsulcken grooten peryckel verlost geweest</l>
+					<l>sulcx datter niet een aff verdroncken en Is</l>
+					<l>Jae dat noch meer Is de tonnen metten bier</l>
+					<l>stoelen ende bancken syn door de cloecheyt </l>
+					<l>van eenige schippers onbeschadicht vande</l>
+					<l>dryvende schollen gehaelt Godt al¬</l>
+					<l>machtich diemen voor alle syn weldaden</l>
+					<l>tot alle tyden dancken moet hebben dies</l>
+					<l>prys ende loff</l>
+					<l>Gheduerende den selven vorst synder ontal</l>
+					<l>lycke vogels ende beesten van caude</l>
+					<l>versmoort oock eenige menschen gestorven</l>
+					<l>ende onder andere heeft men in een myte</l>
+					<l>hauts op Ballaer by Antwerpen eenige</l>
+					<l>dusent vogelen versmacht gevonden</l>
+					<l>algeheel nae by ende op malcanderen</l>
+					<l>sittende Oock soo syn die van Rommer</l>
+					<l>swael in zeelant door dese caude ende</l>
+					<l>langhduerenden ysganck / soo benaut</l>
+					<l>geweest dat sy uuytstaecken vierteeckenen</l>
+				</lg>
+			</p>
+			<pb n='38'/>
+			<p>
+				<lg>
+					<l>om hulpe ende bystant die hun niet</l>
+					<l>gebeuren en cost sulcx datter vele men¬</l>
+					<l>schen aldaer van cauwe en honger gestor </l>
+					<l>ven syn</l>
+					<l><hi rend='underlined:true;'>1608</hi> 26 Januarj Is de Marquis Spinola met</l>
+					<l>eenige andere heeren Commissarisen</l>
+					<l>door ordonnantie van hun hoocheden</l>
+					<l>wt Brussel in hollant vertrocken de</l>
+					<l>welcke in alle de steden daer sy passeer¬</l>
+					<l>den met een onuuytsprekelycke blyschap</l>
+					<l>eerbiedinge ende heerlycke onthalinge</l>
+					<l>ontfangen syn geweest ende versel¬</l>
+					<l>schapt met de Gouverneur van breda</l>
+					<l>Bergen op Zoom ende selven compaignien</l>
+					<l>ruyteren ende grate menichte van edeldom</l>
+					<l>dattet scheen eenen yseren Berch te wesen</l>
+					<l>syn sy binnen Breda ghecomen de</l>
+					<l>Borgers die hem mede Inhaelden waren</l>
+					<l>in soo grooten getale datte tot geloove</l>
+					<l>Is datter niet eenen in huys en Is gebleven</l>
+					<l>van daer syn sy alle verselschapt met</l>
+					<l>die voorseyde Gouverneurs ruyteren</l>
+					<l>ende groote menichte van edeldoms</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>34</l>
+					<l>getrocken naer Gheertruyenberch dort</l>
+					<l>Rotterdam delft ende van daer In</l>
+					<l>s Graven haghe de gemeynten in alle de</l>
+					<l>steden hebben sulcken blyschap aenden</l>
+					<l>Marquis bewesen dat het natuurlyck</l>
+					<l>scheen den Prince van den lande Jae hunnen</l>
+					<l>messias te wesen / de Marquis met syn</l>
+					<l>geselschap dede niet min / want hy was</l>
+					<l>altoos met eenen lachenden mont gelyc</l>
+					<l>syn manier Is / soo dat hy vercreech ende</l>
+					<l>wan overalle therte vanden volcke die</l>
+					<l>hem noemde den Peysmaecker oock</l>
+					<l>heeft den marquis met een co@nnerich</l>
+					<l>bly gelaet overal syn liberaelheyt</l>
+					<l>gethoont aen alle die hem volchden</l>
+					<l>die van grooten getale waren tot dat hy</l>
+					<l>gecomen Is Inden haghe</l>
+					<l>alwaer de voorss Grave Mauricius</l>
+					<l>met syn dry gebroeders ende alle den</l>
+					<l>edeldom van synen hove / Ten halven</l>
+					<l>wege van delft en S graven haghe</l>
+					<l>den Marquis te gemoet gecomen Is</l>
+				</lg>
+			</p>
+			<pb n='39'/>
+			<p>
+				<lg>
+					<l>om hem blydelyck te ontfangen ende</l>
+					<l>willecome te heeten dese twee vrome</l>
+					<l>campioenen by een gecomen synde</l>
+					<l>hebben malcanderen wel soo blydelycken</l>
+					<l>omhelst dat men soude geseyt hebben</l>
+					<l>dat sy gebroeders hadden geweest</l>
+					<l>de Grave mauricius ontfincq den</l>
+					<l>marquis in syn Coehts ende heeft</l>
+					<l>hem doen sitten aen syn rechte sye</l>
+					<l>vandaer syn sy Inden hage gecomen den</l>
+					<l>eersten februarj de voorss Marquis met</l>
+					<l>de gedeputeerde hebben aldaer geweest</l>
+					<l>tot in october daer na</l>
+					<l>ende hy Is wederom geconvoyeert wesende</l>
+					<l>met eenige heeren van wegen dander</l>
+					<l>Partye derden der  syn</l>
+					<l>binnen Brussel gecomen</l>
+					<l>Godt almachtich geve dattet tot voor¬</l>
+					<l>deringe vande bedructe nederlanden</l>
+					<l>mach gehandelt wesen tgene datter</l>
+					<l>getracteert Is blyft noch ter tyt</l>
+					<l>voorde gemeynte verborgen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>35</l>
+					<l><hi rend='underlined:true;'>1608</hi> iiij februarj ben ick gegaen langs liere</l>
+					<l>naer mechelen ter feesten van Guille</l>
+					<l>van eynde geschoncken voorgift 10 gulden</l>
+					<l><hi rend='underlined:true;'>1608</hi> 13 februarj des savonts Is overleden ende</l>
+					<l>inden heere gestorven Marten winckens</l>
+					<l>onsen auden knecht in ons auders tydt</l>
+					<l>die tegenwoordich syn vierde vrauwe had</l>
+					<l>de maerte inde witte lelye opt</l>
+					<l>aude coremerct</l>
+					<l><hi rend='underlined:true;'>1608</hi> 26 Mey Is getraut Sara Thomas thenne¬</l>
+					<l>kens dochter met eenen visschere hans</l>
+					<l>Jansens Monfrere Jehan ppl masoeur</l>
+					<l>ende ick des snoenens ter feesten</l>
+					<l>geweest present voor gifte 9gl.</l>
+					<l><hi rend='underlined:true;'>1608</hi> In Julio tusschen dermonde ende Aelst</l>
+					<l>heeft sekeren huysman op syn lant</l>
+					<l>gravende gevonden in een steenen cruy¬</l>
+					<l>ce 1500 stucken gauts oft gaude me¬</l>
+					<l>daillen op het welcke stondt het beelt</l>
+					<l>van Marcus Anthonis verius ende syn</l>
+				</lg>
+			</p>
+			<pb n='40'/>
+			<p>
+				<lg>
+					<l>huysvrauw stuck vande medaillen sauden</l>
+					<l>binnen roomen daerse seer geacht worden</l>
+					<l>wel eenen dobbelen ducaet weert syn</l>
+					<l>geweest maer de voorss huysman diese</l>
+					<l>niet en kenden heeftse hem goeden coop</l>
+					<l>quyt gemaeckt</l>
+					<l><hi rend='underlined:true;'>1608</hi> 4 July ontrent den noen Is gearriveert</l>
+					<l>Jonffrau Marie hugo binnen Antwerpen</l>
+					<l>met het schip van ppl leemans vertroc</l>
+					<l>ken op 17 october over ditto</l>
+					<l><hi rend='underlined:true;'>1608</hi> 8 ditto July Is getraut francis van ga</l>
+					<l>meren met Marie van bastroode ende samen</l>
+					<l>ter feesten geweest</l>
+					<l><hi rend='underlined:true;'>1608</hi> 20 7tember voor domine pastoir inde borcht¬</l>
+					<l>kerck aenveert voor M<hi rend='superscript:true;'>r</hi> van onse lieve</l>
+					<l>vrauwe Cappelle</l>
+					<l><hi rend='underlined:true;'>1608</hi> In meert isser tot helmont ende om</l>
+					<l>liggende dorpen geweest sulcken aert¬</l>
+					<l>bevinge dat de menschen hun huysen heb</l>
+					<l>ben moeten verlaten vreesende voor vallen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>36</l>
+					<l><hi rend='underlined:true;'>1608 </hi>Tusschen Amsterdam ende haerlem</l>
+					<l>woont een vrauwe herberge haudende</l>
+					<l>die 24 getraude Mans gehadt heeft</l>
+					<l>waer van den 24 als nu noch leeft met</l>
+					<l>de selve vrauwe</l>
+					<l><hi rend='underlined:true;'>1609</hi> den xxviij Januarj ontrent lofftyt In presen</l>
+					<l>tie van onse confrers myn heere den pastoir</l>
+					<l>heere francisco hovius den coster en dander</l>
+					<l>wercklien, Is den eersten steen geleydt van</l>
+					<l>onse nieuwe welvinge vande Cappelle van</l>
+					<l>onse Lieve vrauwe Inde borcht prochie</l>
+					<l>elck van ons int besonder deen voor en dander</l>
+					<l>naer den mortel bereyt en tselve alsoo gesteen</l>
+					<l>punt etc Lucas vande broek Guille baten</l>
+					<l>Jan de Nayer en Louwies minbier etc</l>
+					<l>onder ons allen uuyt gemeyn gegeven voor</l>
+					<l>drincgelt etc</l>
+					<l><hi rend='underlined:true;'>1609</hi> den 4 februarj ontrent den avont is gear¬</l>
+					<l>riveert den marquis spinola met syn</l>
+					<l>consorte en met groote triumphe ontfangen</l>
+				</lg>
+			</p>
+			<pb n='41'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1609</hi> 8 februari ontrent 4 uren na noen liepen de</l>
+					<l>borgerye met menichte naer de rooy poort</l>
+					<l>meynende dat de ambassadeurs sauden comen</l>
+					<l><hi rend='underlined:true;'>1609</hi> 9 februari heeft syn exellentie spinola</l>
+					<l>seer eerlycken ontfangen binnen antwerpen</l>
+					<l>beyde de heeren d Ambassadeurs soo van</l>
+					<l>vranckryck als van engelant</l>
+					<l><hi rend='underlined:true;'>1609</hi> 22 ditto Mart ben ick G  baten opgeschreven inde</l>
+					<l>sodalite te Jesuiten als Jonchman</l>
+					<l>1<hi rend='underlined:true;'>609</hi> 25 ditto daer syn de Generaele staten van de Neer</l>
+					<l>syde seer eerlycken van wegen syne ecellentie</l>
+					<l>marquis spinola ende andere ettelycke groote</l>
+					<l>heeren mette Magistraet binnen Antwerpen</l>
+					<l>ontfangen</l>
+					<l><hi rend='underlined:true;'>1609</hi> 14 April is binnen Antwerpen gepubliceert</l>
+					<l>een generael bestant voorden tyt van 12 Jaren</l>
+					<l>tusschen onsen genadigen Coninck van spaen</l>
+					<l>nien en onse doorluchtige hoocheden ter eender</l>
+					<l>syde en de staten staten Generael vande vereenichde</l>
+					<l>nederlanden ter andere syde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>37</l>
+					<l><hi rend='underlined:true;'>1609</hi> In vlaenderen tusschen cortryck ende meenen</l>
+					<l>te wemelgem leyt een Jonchman ten huyse</l>
+					<l>van syn auders die een been heeft Jammerlyck</l>
+					<l>taenschauwen lanck van dan dry ellen ende</l>
+					<l>dick gelyck dry ellen het groyt noch van dag</l>
+					<l>tot dage de heere verleene hem patientie</l>
+					<l>in dit syn lyden</l>
+					<l><hi rend='underlined:true;'>1609</hi> Int beginsel vanden Jare is gestorven hertoch</l>
+					<l>Jan van cleve Gulick ende berch grave vande</l>
+					<l>Merck etc</l>
+					<l><hi rend='underlined:true;'>1609</hi> Int selve Jaer nietegenstaende datter is</l>
+					<l>veraccordeert een bestant van 12 Jaren</l>
+					<l>soo te water als te lande soo synder noch ettelijke</l>
+					<l>roovers in see gebleven en hebben somwylen</l>
+					<l>opde custen van spaenien comen rooven, soo dat</l>
+					<l>den coninck van spaenien is gedwongen geweest</l>
+					<l>een armade opde te rusten ter see <hi rend='strikethrough:true;'>tot</hi> en heeft</l>
+					<l>soo Symon den danser vervolcht ter see tot Inde</l>
+					<l>haven van themus [ Tunis ] daer ons volck 24 schepen</l>
+					<l>vande danser in brant staken</l>
+					<l><hi rend='underlined:true;'>1609</hi> In Juny is binnen Antwerpen om gelt te</l>
+					<l>sien geweest een Jonge dochter audt</l>
+				</lg>
+			</p>
+			<pb n='42'/>
+			<p>
+				<lg>
+					<l>ontrent 13 Jaren sonder armen ende maer een</l>
+					<l>cleyn been hebbende daer sy haer selven mede</l>
+					<l>cost behelpen, sy was schoon van aensicht</l>
+					<l>en gratieus van wesen, en oock wel singen soo</l>
+					<l>wel franchois als duyts een saecke wonder</l>
+					<l>om hooren</l>
+					<l><hi rend='underlined:true;'>1609</hi> 17 July is getraut Jaques de loose met</l>
+					<l>Catlyne thielens ontrent den noen</l>
+					<l>opt Casteel van Antwerpen</l>
+					<l><hi rend='underlined:true;'>1609</hi> 19 Augusti G baten tot Liere gegaen om</l>
+					<l>Anthony Sarrasins kint te heffen.</l>
+					<l><hi rend='underlined:true;'>1609</hi> 5 Augustj syn ter syden bergen in henegauwe</l>
+					<l>byde frontieren van vrancryck verbrant vande</l>
+					<l>donder ende blixem twee dorpen.</l>
+					<l><hi rend='underlined:true;'>1609 </hi>des achternoens a 3 uren Is overleden ende</l>
+					<l>inden heere gestorven Adriaen timmers</l>
+					<l>Silversmidt Godt heb de ziele</l>
+					<l><hi rend='underlined:true;'>1609</hi> xi augustj is t fort vande werff aff</l>
+					<l>gebroken.</l>
+					<l><hi rend='underlined:true;'>1609</hi> 27 december savonts ondertrau onse</l>
+					<l>Masoeur digna baten met Charel van</l>
+					<l>Gameren.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>38</l>
+					<l><hi rend='underlined:true;'>1610</hi> 17 Januarj is getraut digna baten met</l>
+					<l>Charel van gameren door domine pastoor h<hi rend='superscript:true;'>r</hi></l>
+					<l>franciscus hinnis inde borcht kercke.</l>
+					<l><hi rend='underlined:true;'>1610</hi> Prima februarj is getraut Mayken ver</l>
+					<l>stegen met Pieter etc</l>
+					<l><hi rend='underlined:true;'>1610</hi> 9 februarj de dochter van Jan Smit getraut</l>
+					<l>met bormans etc</l>
+					<l><hi rend='underlined:true;'>1610</hi> 27 ditto comen Adieu seggen Jasper schenarts</l>
+					<l>nemende syn reyse op Sicilien</l>
+					<l><hi rend='underlined:true;'>1610</hi> 21 April smorgens overleden Jan Smidt</l>
+					<l>Controlleur van Licenten</l>
+					<l><hi rend='underlined:true;'>1610</hi> xiiij mey is binnen de stadt van parys henry</l>
+					<l>de borbon Coninck van vrancryck den</l>
+					<l>iiij van dien name sittende in synen coets</l>
+					<l>wagen moordadich omgebrocht van eenen</l>
+					<l>genaempt franchois Ravaellart geboren</l>
+					<l>van angulesme</l>
+					<l><hi rend='underlined:true;'>1610</hi> des Anderen daechs wert den sone vande over</l>
+					<l>leden Coninck Louwies den 13 van dien</l>
+				</lg>
+			</p>
+			<pb n='43'/>
+			<p>
+				<lg>
+					<l>name geproclameert ende overlyt geroepen</l>
+					<l>Coninck van vrancryck Inde tegenwoordich.</l>
+					<l>der Coninge ende andere heeren binnen de</l>
+					<l>stadt van Parys</l>
+					<l>1610 Den 17 mey is franchois ravaillart om syn</l>
+					<l>moordadich feyt binnen parys gejusticeert</l>
+					<l>Inden eersten is hy gepynicht om te weten wier</l>
+					<l>hem geraden hadde niet lydende dan dat hyt</l>
+					<l>uuyt syn selven gedaen hadde, Men heeft hem</l>
+					<l>gestelt op een moskoote in syn hant gegeven </l>
+					<l>een brandende tortse, ende alsoo geleyt in ons</l>
+					<l>Lieve vrauwe kercke om te doen een amende</l>
+					<l>honnorable hebben, syn rechte hant verbrant</l>
+					<l>met een brande hache, syn borsten afgenepen</l>
+					<l>met gloyende tangen, syn lichaem vol sneden</l>
+					<l>gegeven en daer Inne gegoten gesmolten loodt</l>
+					<l>sidende olye met solpher en peck daer na met</l>
+					<l>vier peerden van een getrocken ende elck peert</l>
+					<l>een quartier hebbende, soo gesleypt lancx</l>
+					<l>der straten, het volck daer over loopende</l>
+					<l>met voeten, de stucken syn verbrant tot</l>
+					<l>polffe de asschen geworpen Inden wint</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>39</l>
+					<l><hi rend='underlined:true;'>1610</hi> Int selve Jaer het hartoch brandenborch met</l>
+					<l>assistentie van die van hollant en die van</l>
+					<l>vrancryck ingenoem by appoinctement de</l>
+					<l>Stadt van Gulick</l>
+					<l><hi rend='underlined:true;'>1610</hi> 5 Juny Savonts ontrent 11 uren heeft den</l>
+					<l>Procur. gnal, met groot gewelt uuyten huys</l>
+					<l>gehaelt en van syn tafel monsiere Johan</l>
+					<l>baten ontfanger generael van hare hoocheden ende</l>
+					<l>Licenten en gestelt in stricte gevanckenisse</l>
+					<l>op den steen tegen alle recht en redene en tegen</l>
+					<l>prevelegie vant lant, en vande steen opden</l>
+					<l>17 Juny daer na smorgens a 7 uren per eenen</l>
+					<l>wagen naer brussel gevoert Inde gevanck¬</l>
+					<l>kenisse den vrundt, alwaer hy heeft</l>
+					<l>geseten 18 maenden, totten 3 decembe <hi rend='underlined:true;'>1611</hi></l>
+					<l>als wanneer hy onder groote borge per acte</l>
+					<l>van hare hoocheden is gerelacxeert en brusse</l>
+					<l>gegeven voor gevanckenis</l>
+					<l><hi rend='underlined:true;'>1610</hi> 23 Augusti is over leden de huysf. van</l>
+					<l>Jaques de loose dochte van Janneken backer</l>
+					<l>opt Casteel</l>
+				</lg>
+			</p>
+			<pb n='44'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1611</hi> 15 Januari naer noene uuytvaert gehauden</l>
+					<l>van Johannes le mire bisschop van Antwerpen</l>
+					<l><hi rend='underlined:true;'>1612</hi> op Palmsondach 15 april is geboren mynen</l>
+					<l>petere Guille. sone van hans adriaens</l>
+					<l><hi rend='underlined:true;'>1612</hi> 18 april smorgens is overleden tot Liere</l>
+					<l>M<hi rend='superscript:true;'>r</hi>. Anthony sarrasin Schoelm<hi rend='superscript:true;'>r</hi>.</l>
+					<l><hi rend='underlined:true;'>1612</hi> 30 Juny saterdach dede ick G. baten mynen </l>
+					<l>eedt opt stadthuys in handen vande Borgm<hi rend='superscript:true;'>r</hi>.</l>
+					<l>besar als collecteur vant recht en hessen </l>
+					<l>huys deser stadt Antwerpen</l>
+					<l><hi rend='underlined:true;'>1612</hi> 19 july is gedoopt de dochter van Marten</l>
+					<l>verspecken peters Guille baten en Mari</l>
+					<l>verspecken huysf. van Jasper van tournant</l>
+					<l><hi rend='underlined:true;'>1612 </hi> 22 July is getraut Niclais Martens met</l>
+					<l>Catrina van parys</l>
+					<l><hi rend='underlined:true;'>1612</hi> 13 october in overleden In spaenien onse </l>
+					<l>genadige coninginne huysf. van onsen gena</l>
+					<l>digen Coninck van spaenien Philippus 3</l>
+					<l>van dien name</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>40</l>
+					<l><hi rend='underlined:true;'>1612</hi> 8 7tember is getraut Joncfr. Isabeau van</l>
+					<l>parys met tacx Jan wilms sone</l>
+					<l><hi rend='underlined:true;'>1609</hi> In december sach men te mechlle inde locht</l>
+					<l>marceren een groote menichte van Crysvolck</l>
+					<l>te voet ende te peerde met witte velteeckens ende</l>
+					<l>trocken 10 dicke dit duerde 3 uren.</l>
+					<l><hi rend='underlined:true;'>1609</hi> T antwerpen was noch op desen tyt int leven eenen</l>
+					<l>man die eenen baert heeft die een vierendeel langer</l>
+					<l>is als hy selfs van parsoone is</l>
+					<l><hi rend='underlined:true;'>1609</hi> Doen wasse t Antwerpen noch te sien een Jonckman</l>
+					<l>om gelt die negen voeten lanck was, noch</l>
+					<l>Jonck synde, soo dat hy noch wel langer saude</l>
+					<l>connen worden</l>
+					<l><hi rend='underlined:true;'>1610</hi> In Januari wasset sulcken affgryselycken</l>
+					<l>wint dattet water soo hooch vloyde, dat de</l>
+					<l>menschen moesten vluchten op kercken huysen</l>
+					<l>ende boomen, soo datte vele verdroncken men</l>
+					<l>heeft de kinderen inde wiege doot gevonden</l>
+					<l>gevischt, t Amsterdam is twate wel een</l>
+					<l>mans lengde hooch inde stadt geweest</l>
+				</lg>
+			</p>
+			<pb n='45'/>
+			<p>
+				<lg>
+					<l>ende in heel hollant was groot lyden</l>
+					<l><hi rend='underlined:true;'>1610</hi> den Palsgrave heeft doen maecken een wynvadt</l>
+					<l>haudende 729 amen, het yser daer de reepen</l>
+					<l>van gemaect syn wooch 1500 pond den smidt hadde</l>
+					<l>voor synen arbeyt 2380 gulden den Cuyper</l>
+					<l>heeft noch veel meer voor synen loon ontfangen</l>
+					<l><hi rend='underlined:true;'>1610</hi> In west vlaenderen is desen wonderlycken vis</l>
+					<l>aent strange gecomen recht tegen over</l>
+					<l>Maerdycke lanck synde 54 voeten ende</l>
+					<l>hooch 21 voeten syn hooft lanck 13 voeten</l>
+					<l>ende synen steert breet 27 voeten.</l>
+					<l><hi rend='underlined:true;'>1610</hi> In Juny by Calcken in vlaenderen heeft eenen</l>
+					<l>man met syn vrauwe over tvelt gaende</l>
+					<l>met haer eygen mes, haer den hals aff</l>
+					<l>gesneden, hy wert stracx gevangen ende</l>
+					<l>gejusticieert</l>
+					<l><hi rend='underlined:true;'>1610</hi> den 11 July is inde stadt van wilda int</l>
+					<l>Coninckryck van lettouwen eenen brant</l>
+					<l>uuyt een huys gecomen, daer dien dach</l>
+					<l>geen vie off volck in huys en hadde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>41</l>
+					<l>geweest, ende daer stont op eenen grooten wint</l>
+					<l>die het vier dede vliegen boven alle kercken</l>
+					<l>ende torens daer verbrande in 6 uren <hi rend='underlined:true;'>5614</hi> huysen</l>
+					<l>10 prochiekercken ende vele cloosters daer</l>
+					<l>toe het Coninclyck hoff, soo dat den brant</l>
+					<l>niet te blussen en was, de lieden liepen ter</l>
+					<l>stadt uuyt, daer hebben sy Godt aengeroe¬</l>
+					<l>pen, ende Godt sont sulcken regen, dien in</l>
+					<l>4 uren al blusten</l>
+					<l><hi rend='underlined:true;'>1610</hi> In Maye hadden de mooren van valencien ende</l>
+					<l>aragon voorgenoemen allen de spaeniaerden</l>
+					<l>van heel spaenien op eenen sekeren tyt om</l>
+					<l>te brengen ende tlant te leveren den Coninck</l>
+					<l>van argil sy waren sterck 80000 mannen</l>
+					<l>maer haer verraet wert door een touenerts</l>
+					<l>ontdekt hierom syn de mooren uuyt spae¬</l>
+					<l>nien gebannen</l>
+					<l><hi rend='underlined:true;'>1610</hi> den 28 april is Gulick belegert vanden</l>
+					<l>marcgrave van brandenborh ende den</l>
+					<l>Palsgrave</l>
+					<l><hi rend='underlined:true;'>1610</hi> dit Jaer syn by Coelen op eenen halm gewassen</l>
+					<l>een korenayer met 7 andere ayeren</l>
+				</lg>
+			</p>
+			<pb n='46'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1610</hi> den wyn is in duytslant ende vrancryck</l>
+					<l>soo wel geraect geweest dat hy meer dan</l>
+					<l>de helft is afgeslagen, op somige plaetsen</l>
+					<l>hebben wyngaert rancken van onderhalve</l>
+					<l>elle lanck gedragen meer als 95 torssen</l>
+					<l><hi rend='underlined:true;'>1610</hi> T selve Jaer syn inde ysels geheeten de</l>
+					<l>meycamer by eenen borger genaempt Jan</l>
+					<l>hillebrants gewassen twee torssen wyndruy</l>
+					<l>ven, die elck eenen baert van 1½ elle</l>
+					<l>lanck hadden</l>
+					<l><hi rend='underlined:true;'>1610</hi> Int selven Jaer in Augustj wert den musco</l>
+					<l>viter geslagen vande Coninck van polen, soo</l>
+					<l>dat hy er wel 18000 mannen gelaten heeft</l>
+					<l>ende den Coninck van Polen heeft syn victorie</l>
+					<l>vernoecht ende de stadt moscovy belegert</l>
+					<l>ende corts daer nae Ingenomen.</l>
+					<l><hi rend='underlined:true;'>1610</hi> den ii 7tember is de stadt van Gulick in</l>
+					<l>genomen vande Marcgrave van brandenborch</l>
+					<l>ende den palsgrave mette hulpe van Graef</l>
+					<l>maurus ende die van vrancryck</l>
+					<l><hi rend='underlined:true;'>1610</hi> T deser tyt sondt den grooten heere van perssen</l>
+					<l>aenden Paus om in syn lant eenige</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>42</l>
+					<l>Gheestelycke parsoonen te hebben om met </l>
+					<l>hun te spreken van t Catolyck geloove ende</l>
+					<l>tselve aen te nemen</l>
+					<l><hi rend='underlined:true;'>1610</hi> Graeff maurus heeft in hollant doen maecken</l>
+					<l>twee wagens gelyck schepen met seylen</l>
+					<l>men cander mede seylen over lant in 2 uren</l>
+					<l>14 mylen, want sy varen met sulcken rass¬</l>
+					<l>sicheyt dat een mensche sonder pyn int</l>
+					<l>hooft te lyden, daerop niet sitten en can</l>
+					<l>om tgetril</l>
+					<l><hi rend='underlined:true;'>1610</hi> In 7tember viii den twist van d erffenisse</l>
+					<l>vande lande Gulck Cleve, tusschen den keyser</l>
+					<l>ende ernest Marcgrave van brandenborch met</l>
+					<l>wolfgang Palsgrave, soo is te Coelen van wege</l>
+					<l>de vorsten des rycx eenen dach gestelt om</l>
+					<l>partyen te vergelycken, hierom syn daer vele</l>
+					<l>heeren gecomen maer den 5 november synse</l>
+					<l>weder gescheyden</l>
+					<l><hi rend='underlined:true;'>1611</hi> den 26 Januari is binnen Antwerpen een kint</l>
+					<l>off monster geboren sonder armen off beenen</l>
+					<l>onder ront als een pompoen</l>
+				</lg>
+			</p>
+			<pb n='47'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1611</hi> In Januari is noch geboren een monster te</l>
+					<l>wilm stadt dat was als een Crysman het</l>
+					<l>hadde op syn hooft eenen helm met eenen</l>
+					<l>poinguart al van vleesche</l>
+					<l><hi rend='underlined:true;'>1611</hi> Tusschen brussel ende loenen by overberch</l>
+					<l>heeft een vrau haren man in slaep de kele</l>
+					<l>ende heeft hem hert en Ingewant wtten lyven</l>
+					<l>geruckt ende met een byl syn lichaem in stucken</l>
+					<l>gehauwen ende wierpt in eenen diepen put</l>
+					<l>sy is te brussel gejusticieert</l>
+					<l><hi rend='underlined:true;'>1611</hi> In April verbrande de gantsche stadt loon</l>
+					<l>in sticht munster op 7 off 8 huysen nae</l>
+					<l><hi rend='underlined:true;'>1611</hi> In vlaendren t assche heeft eenen man syn vrau</l>
+					<l>vermoort hy is gejusticieert in April</l>
+					<l><hi rend='underlined:true;'>1611</hi> den 15 April is t Amsterdam een kint gebo¬</l>
+					<l>ren met een verckens hooft ende ooren van</l>
+					<l>een vercken, ende een oore van een mensche </l>
+					<l><hi rend='underlined:true;'>1611</hi> Inde selve maendt verbrande te muyden</l>
+					<l>wel 40 muyden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>43</l>
+					<l><hi rend='underlined:true;'>1611</hi> den ix May viel in bruynswyck vier wte</l>
+					<l>locht datter verbrande 130 huysen</l>
+					<l>Te dier tyt is t oorschot sulcken wint ende</l>
+					<l>hagel geweest, ende daer is sulcken droochte</l>
+					<l>naer gevolcht dat alle lantvruchten bedorven</l>
+					<l><hi rend='underlined:true;'>1611</hi> Op sint Japs dach is buyten Antwerpen een</l>
+					<l>vrauwe vande blixem verbrant</l>
+					<l><hi rend='underlined:true;'>1611</hi> te dier tyt was in Arrogan by moorenlant</l>
+					<l>een man Christen synde, dewelcke weduwer</l>
+					<l>was, hy hadde twee dochters dautste hiet</l>
+					<l>Isabelle, de welcke de vader aensprack van te</l>
+					<l>laten hauwen met eenen Jongen moor, de dochter</l>
+					<l>die eenen heymelycken haet opde mooren droech</l>
+					<l>en gaffer geen antwoorde op, maer swoer in</l>
+					<l>haer selven de mooren te crencken waer sy</l>
+					<l>coste, sy schicte haer oppe en ginck noch</l>
+					<l>dyen avont veysende haer gramschap</l>
+					<l>haer bruydegoms vrinden besoecken ende over</l>
+					<l>al heeft sy gesayt een pestelentiale kern</l>
+					<l>ende wierp dat in eenen borneput soodat</l>
+					<l>sy de pest ondert volck bracht, soo datter</l>
+				</lg>
+			</p>
+			<pb n='48'/>
+			<p>
+				<lg>
+					<l>aff stierven over de 110 mooren ende haren bruydegom</l>
+					<l>oyck dit duerde tot dat een medecyn gewaer</l>
+					<l>wert die den borneput dede suyveren, daer men</l>
+					<l>roode wormen in vondt, maer noyt en wistmen</l>
+					<l>wiet gedaen hadde, Isabellens vader wauder</l>
+					<l>haer daer naer met eenen anderen moor laten hauwen</l>
+					<l>Isabelle verstoort synde seyde dat sy geenen moor</l>
+					<l>en begeerden den vader seyde dat hy t hebben</l>
+					<l>wilde, ende scheyde soo van haer, dien nacht</l>
+					<l>vermoorde sy haer vader, ende suster ende dede</l>
+					<l>mans cleeren aen, ende liep noch dien nacht na</l>
+					<l>na t naeste bosch, ende begaff haer onder 16</l>
+					<l>moorders, ende stoocten hen op, datse al die mooren</l>
+					<l>diese vingen sauden ombrengen, dwelck sy</l>
+					<l>deden ende verbrande de mooren al levende</l>
+					<l>dit duerde een heel Jaer tot datse eens van</l>
+					<l>100 mans onringelt werden, dander werden</l>
+					<l>an boomen gehangen, maer Isabelle seyde</l>
+					<l>datmen haer inde naeste stadt brengen</l>
+					<l>saude sy saude wonder seggen, soo wert se</l>
+					<l>te saragosse gebrocht, daer heeft sy t al</l>
+					<l>beleden en datse bevrucht was</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>44</l>
+					<l>Sy baerde een vrucht met een honts aensicht</l>
+					<l>hangende voren anders wast als een ander</l>
+					<l>voorts vande dyyen totte voeten wast als eenen</l>
+					<l>gespickelden hont t en waude geen vrauwen</l>
+					<l>soogen dan een tene, het leefde 6 dagen, de</l>
+					<l>moeder wert daer na levende verbrant</l>
+					<l><hi rend='underlined:true;'>1611</hi> Te dyer tyt heeft Osartus Justinianus</l>
+					<l>grieck gesproten uuyt s keyserlyck geslacht</l>
+					<l>van constantinopelen een Christen heere, bystant</l>
+					<l>versocht vande Coninck van spaenien, die hem</l>
+					<l>versien heeft van schepen wapenen ende ander</l>
+					<l>amonitien ende van somige 100 soldaten, daer</l>
+					<l>mede trock hy na meyna, de manaten grie¬</l>
+					<l>ken albanoysen syn hem vrolyck tegen getrocken</l>
+					<l>ende hem toegevalen, hy is getrocken naer die</l>
+					<l>stadt, toron, die hy belegerde daer vele</l>
+					<l>Christenen in waren, die selver opde Turcken</l>
+					<l>vielen, die van buyten hebben de stadt terstont</l>
+					<l>bestort ende Ingenomen, ende al vermoort turc</l>
+					<l>ken en Joden, plantende de Christenen vanen</l>
+					<l>opde mueren, den 17 Augustj doen is desen</l>
+					<l>osartus vertrocken na mobom ende Nannueren</l>
+					<l>twee vermaerde steden ende heeft de stadt </l>
+				</lg>
+			</p>
+			<pb n='49'/>
+			<p>
+				<lg>
+					<l>mobon beschoten dat die mueren omvielen, waer</l>
+					<l>door de Christenen inde stadt quamen ende</l>
+					<l>doodent al sonder de Christenen</l>
+					<l>daer naer heeft Osartes die steden wel</l>
+					<l>versien van volck ende trock naer Nanarius</l>
+					<l>een stercke stadt, die hy nacht ende dach be</l>
+					<l>schieten liet totten 20 october doen is hem de</l>
+					<l>stadt opgegeven, daer is hope dat desen</l>
+					<l>Osartris noch wel winnen mochte de</l>
+					<l>reste van dese provincie want hem</l>
+					<l>dagelycx veel volcx toevalt</l>
+					<l><hi rend='underlined:true;'>1612</hi> In februari is gestorven Rodolphus keyser</l>
+					<l>van duytslant</l>
+					<l><hi rend='underlined:true;'>1612</hi> den 13 Juny is Matias Coninck van ongeren</l>
+					<l>ende bohemen binnen francfort vande ses keur</l>
+					<l>vorsten tot Rooms Coninck gecoren ende</l>
+					<l>gecroont</l>
+					<l><hi rend='underlined:true;'>1612</hi> In Maerte isser een aliancie gemaect tusschen</l>
+					<l>den Jongen Coninck van vrancryck ende</l>
+					<l>de Infante van spaennien</l>
+					<l><hi rend='underlined:true;'>1612</hi> den 21 februarj den advocaet Muer</l>
+					<l>begraven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>45</l>
+					<l><hi rend='underlined:true;'>1612</hi> den 18 April is overleden M<hi rend='superscript:true;'>r</hi> Anthony sarrasin</l>
+					<l>frans schoelm<hi rend='superscript:true;'>r</hi> woonden tot Liere</l>
+					<l><hi rend='underlined:true;'>1613</hi> den ij Januari ende noch sommige dagen daer</l>
+					<l>naer heeftet sulcken onweder van wint geweest</l>
+					<l>in hollant seelant ende vrieslant, dat veel schip</l>
+					<l>pers opde see synde, gedwongen syn geweest haer</l>
+					<l>tauwen ende masten aff te hauwen, op Godts gena¬</l>
+					<l>de ter see-invarende, soo datter vele schepen ver¬</l>
+					<l>droncken met menschen ende goet, soo datter over</l>
+					<l>al veel doode menschen gevist syn ende in vries¬</l>
+					<l>lant syn oyck veel dycken ende dammen deur</l>
+					<l>gespoelt, ende ontallycke beesten verdroncken</l>
+					<l>1613 is des Conincx van Engelant</l>
+					<l>autsten sone gestorven</l>
+					<l><hi rend='underlined:true;'>1613</hi> daer nae heeft den palsgrave des selven</l>
+					<l>Conincx van Engelants dochter getraut</l>
+					<l>die hy met hem na duytslant gevoerde</l>
+					<l><hi rend='underlined:true;'>1613</hi> In Juny hebben de Galleyen van linotte 2</l>
+					<l>turcxsche schepen met noch wel 350 turcken</l>
+					<l>gevangen ende daer mede wel 300 Christenen</l>
+				</lg>
+			</p>
+			<pb n='50'/>
+			<p>
+				<lg>
+					<l>verlost vande slavernye ende hebben men Ingenoemen</l>
+					<l>een stadt in taramaine gelegen geheeten</l>
+					<l>Diagraman</l>
+					<l><hi rend='underlined:true;'>1613</hi></l>
+					<l>In July syn gevangen inde lande van Dolphine</l>
+					<l>Dwater geheeten Derone, sulcken menichte van</l>
+					<l>cleyne carpers datmen de 25. ponden gecocht</l>
+					<l>heeft voor 1 stuyve, en vele menschen en wau¬</l>
+					<l>dende niet van eten om datse met sulcken me</l>
+					<l>nichte waren</l>
+					<l><hi rend='underlined:true;'>1613</hi> Inde selve maendt syn inde quartieren van</l>
+					<l>Stet in provincien soo grooten menichte van </l>
+					<l>sprinchanen geweest datse heel velden met</l>
+					<l>corens totte wortel toe op aten, ende men heeft</l>
+					<l>se doen geexcommuniceert ende sy syn doen met </l>
+					<l>seer groote menichte vertrocken datmen de</l>
+					<l>wolcken niet en cost kennen want daer</l>
+					<l>wasse soo vele datmen geenen voet en cost</l>
+					<l>versetten sonde daerop te treden</l>
+					<l><hi rend='underlined:true;'>1613</hi> Te dier tyt waren binnen lions de huysen</l>
+					<l>soo becleet met rispen datmen die niet en</l>
+					<l>coste schoon hauden al wast datmense</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>46</l>
+					<l>alle dage met stroy verbrande, waerop volch</l>
+					<l>de een vrempde siecte daerder vele van storven</l>
+					<l><hi rend='underlined:true;'>1613</hi> Den 20 July heeftmen begonst t overwelven </l>
+					<l>Den beuck van ons lieve vrauwe kerck</l>
+					<l>t Antwerpen, ende is daerna uuyten naem der</l>
+					<l>stadt den eersten steen geleyt van M<hi rend='superscript:true;'>r</hi> Jan de</l>
+					<l>gaverelle secretaris der selve stadt</l>
+					<l><hi rend='underlined:true;'>1613</hi> Den februari ben ick G Baten getraut</l>
+					<l>met Jouffr. Christina marichal per domine</l>
+					<l>pastoir breugel van onse Lieve vrauwe</l>
+					<l>kercke int maechden choorken ten 8 uren</l>
+					<l>voor noene present alle de omstaenders </l>
+					<l>en savonts was de feeste etc.</l>
+					<l><hi rend='underlined:true;'>1613</hi> In Augusti is tantwerpen om gelt te sien</l>
+					<l>geweest een beeste als een monster het</l>
+					<l>welck noyt diergelycke en is gesien geweest</l>
+					<l>en wort genoempt een bastart van Eenen</l>
+					<l>olyfant ende buffel off halff buffels ende</l>
+					<l>halff olyfants het hadde hoornen als</l>
+					<l>eenen ram, het haer als eenen wilt vercken</l>
+				</lg>
+			</p>
+			<pb n='51'/>
+			<p>
+				<lg>
+					<l>het halff lyff als een buffel, achter als eenen</l>
+					<l>olifant, voeten ende beenen als eenen os, ende was</l>
+					<l>van hoochde ende lengde als eenen grooten vetten</l>
+					<l>os, ende het cost thien gewapende mans</l>
+					<l>op hem dragen</l>
+					<l><hi rend='underlined:true;'>1613</hi> doen is tAntwerpen oock een kint om gelt te</l>
+					<l>sien geweest seer wonderlyck want het hadde</l>
+					<l>uuyt synen buyck rechts boven den navel</l>
+					<l>hangende een halff kint vande heupen aff tot</l>
+					<l>de voeten toe, ende het was welvarende ende</l>
+					<l>gesont</l>
+					<l><hi rend='underlined:true;'>1614</hi> den 25 Januari op Sinte Pauwels bekeerin</l>
+					<l>ge dach savonts tusschen 5 en 6 uren is</l>
+					<l>geboren onsen sone Guilliam, daer naer</l>
+					<l>den 27 smaendachs naer noene savonts</l>
+					<l>gedoopt inde borcht kercke door hr Franciscus</l>
+					<l>hovius pastoir, Pete was M<hi rend='superscript:true;'>r</hi> Joachim</l>
+					<l>van Postel secretaris van Liere behaude</l>
+					<l>oom van myn huysvrauwe ende gaff een</l>
+					<l>silveren sautvadt wegende</l>
+					<l>Pete de huysvrauwe van Jasper Baten</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>47</l>
+					<l>den 4 Februarj is Graef maurus aengebooden</l>
+					<l>den causebandt als Ridder van Sint Joris</l>
+					<l>In Februarj heeft den Coninck van Denemercken</l>
+					<l>peys gemaeckt met die van Sweeden</l>
+					<l>den xx<hi rend='superscript:true;'>en</hi> July heeft men begonst t overwelven een</l>
+					<l>beuck van onser Liever Vrauwen Kercke tot</l>
+					<l>Antwerpen</l>
+					<l>de Hollanders hadden ix schepen toegerust om naer</l>
+					<l>Indien te varen daer aff sonden syer vyff naer</l>
+					<l>hollant d een is tegen een clippe in stucken ghe¬</l>
+					<l>stooten in stucken int eylant van St. Helena bleeff</l>
+					<l>noch een het derde bleeff int tessel soo dat de</l>
+					<l>Hollanders die reyse wel 60 tonnen tover gants</l>
+					<l>schade hadden</l>
+					<l>den 16 Januari is tAntwerpen gecomen den Ambassadeur</l>
+					<l>vande Turck</l>
+					<l>t Antwerpen was noch op desen tyt int leven eenen man</l>
+					<l>die eenen baert heeft een vierendeel langer</l>
+					<l>dan hy in parsoone is</l>
+					<l>In Westvlaenderen is eenen vis aent strange</l>
+					<l>gecomen recht tegen over mardyck lanck</l>
+					<l>synde 54 voeten</l>
+				</lg>
+			</p>
+			<pb n='52'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1614</hi> Te Wevelgem tussen Cortryck en Meenen leyt</l>
+					<l>een Jongman met een been lanck 3 ellen</l>
+					<l>Buyten Amsterdam te slodderdyck is een</l>
+					<l>weerdinne die achthien getraude mans</l>
+					<l>heeft gehadt die sy al heeft overleeft</l>
+					<l>den 5 Mey smorgens vroech hebben die vande</l>
+					<l>weersyde uuyten naem vande brandenborch</l>
+					<l>Gulik In ghenomen</l>
+					<l>den 2 Mey saterdach savons a x uren is over</l>
+					<l>leden Moyken Marichael ten huyse van domine</l>
+					<l>Francisco Duigens Canonnick Requiescat </l>
+					<l>in pace</l>
+					<l>den xxij Augustj is Marquis Spinola inden</l>
+					<l>naem vande Keyser gecomen voor Aken die van</l>
+					<l>binnen niet willende tegen den Keyser Rebelle¬</l>
+					<l>ren baden om gratie</l>
+					<l>den 27 augustj is Dueren veraccordeert</l>
+					<l>28 aug Berthem Caster Grevenborch</l>
+					<l>osroy dinxlaken ende duysborch</l>
+					<l>den 3 September quam t leger voor Wesel</l>
+					<l>den 5 gaven se die stadt in handen vande</l>
+					<l>Marquis</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>48</l>
+					<l><hi rend='underlined:true;'>1614</hi> den 6 September quam maurus binnen Emmerich</l>
+					<l>Te nyvel in Walsbrabant heeft eenen man</l>
+					<l>syn eygen kint vermoort</l>
+					<l>In meye heeft onse doorluchtige Hertogin</l>
+					<l>den Papegay afgeschoten tot Brussel</l>
+					<l>ter selver tyt heeft eenen vryer buyten</l>
+					<l>vlissingen syn Lief den hals affgesneden</l>
+					<l>den Grooten Turck heeft in Trasisna eenige </l>
+					<l>steden Ingenomen</l>
+					<l>ter selver tyt isser oock een calff te sien</l>
+					<l>geweest dat maer 3 voeten en hadde een</l>
+					<l>Jaer audt synde</l>
+					<l>Alsoo daer twist geweest heeft in Vranckryck</l>
+					<l>tusschen den Coninck de Coninginne ende</l>
+					<l>den Prince van Conde soo dat daerom som¬</l>
+					<l>mige sterckten syn Ingenomen ende soldaten aen</l>
+					<l>gecomen in Vranckryck soo isser in Mey</l>
+					<l>een peys en accort gemaeckt</l>
+					<l>In Mey heeft den Palsgrave de stadt Worms</l>
+					<l>inne genomen.</l>
+				</lg>
+			</p>
+			<pb n='53'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1614</hi> In Julyo isser schorssinge van wapen geaccordert</l>
+					<l>tusschen den Coninck van Spaingnen en een her¬</l>
+					<l>toch van Savoyen soo den leger voorde stadt</l>
+					<l>Aste lach den Leger vande Coninck van Spaingnien</l>
+					<l>is sterck over de 70000 mannen soo te voet</l>
+					<l>als te Peerde</l>
+					<l>In Julio heeft den Coninck van Vranckryck</l>
+					<l>om syn bruyt d infante van Spaingnien In te</l>
+					<l>haelen gereet doen maecken 50 flauweele</l>
+					<l>cleeren geborduert volgants om opde muylen</l>
+					<l>te leggen die de bagagie voeren souden ende de</l>
+					<l>coorden Daer de packen mede gebonden syn is roo¬</l>
+					<l>de syde de stocken om te binden om te binden van</l>
+					<l>fyn silver ende noch over de 200 cleeren van fyn</l>
+					<l>schaerlaecken geborduert om op de gemeyn</l>
+					<l>muylen te leggen soo datter groote trium¬</l>
+					<l>phe was</l>
+					<l>xvij Aug is den Coninck voorts van Paris ghe¬</l>
+					<l>trocken om syn bruyt in te haelen</l>
+					<l>Den 17 July isser tAntwerpen een dochter geweest</l>
+					<l>ontr. 27 Jaren audt gen. Elisabeth woonende tegen</l>
+					<l>over de Borchtkercke ende heeft haer</l>
+					<l>selven met een mes den hals</l>
+					<l>affgesneden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>49</l>
+					<l><hi rend='underlined:true;'>1614</hi> 29 Aug hadde t Antwerpen eenen man aengenomen te dooden</l>
+					<l>myn H<hi rend='superscript:true;'>r</hi> augus Js bap<hi rend='superscript:true;'>te </hi>Spinola maer tis hem</l>
+					<l>gefaulleert ende hy is daer op gevangen ende met</l>
+					<l>syne complice gehangen</l>
+					<l>In September heeft binnen Mechelen Een vree¬</l>
+					<l>selyck tempeest geweest van donder en blixem De</l>
+					<l>poorte vande stadt isser teenemael omgekeert ende</l>
+					<l>velen huysen synder geschent ende noch meer andere</l>
+					<l>schaede isser geschiet</l>
+					<l>In Meert isser te Duwaye Een vercken geweest</l>
+					<l>en hadde 2 lyven 2 kelen 2 sterten 2 voorste</l>
+					<l>pooten en 4 achterste pooten en 2 voeten boven thoof</l>
+					<l>Syne keyserlycke Ma<hi rend='superscript:true;'>t</hi> heeft Een placcaet doen</l>
+					<l>pybliceren tegen die tot Mulhem hebben doen</l>
+					<l>bauwen oft timmeren ende heeft de vesten doen</l>
+					<l>stifften en die daer gebaut hebben moesten alle </l>
+					<l>dehuysen wederom afbreken en noch betaelen</l>
+					<l>100 marcx gaudt</l>
+					<l>Den ix April syn binnen Franckfort gevierendeelt</l>
+					<l>iij borgers die gerebelleert hadden</l>
+					<l>In Mey hebben 2 Edelmans inden Haege ver</l>
+					<l>moort eenen coopman van juweelen Hans van</l>
+					<l>Welen de Edelmans syn gevangen ende levende</l>
+					<l>geraybraeckt</l>
+				</lg>
+			</p>
+			<pb n='54'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1614</hi> den 16en Mej quam den Coninck binen Parijs met</l>
+					<l>sijn vrauwe in costelycke cleeren</l>
+					<l>In Junio vertrocken dEngelse garnisoenen uuyt</l>
+					<l>Vlissingen ter verre den Bril</l>
+					<l><hi rend='underlined:true;'>1615</hi> In September is in Hollant gearriveert</l>
+					<l>tschip genaempt Delft dit schip was gevaren</l>
+					<l>met 4 andere schepen waer aff dandere dry</l>
+					<l>syn te gronde gesoncken door tempeest</l>
+					<l>xvij October syn de hauwelcyken geceleebrert</l>
+					<l>tusschen Spaignen en Vranckryck binen stadt</l>
+					<l>Bordeaux ende in Spaingnen inde stadt van Burgos</l>
+					<l>den 14 november is gearriveert binen Brussel</l>
+					<l>den Eertshertoge Maxmilliaen broeder van</l>
+					<l>onsen Hertoch</l>
+					<l>den xi December savonts tussen 8 en 9 uren soo is</l>
+					<l>een thoren vande collegiale en prochiekercke</l>
+					<l>van Sinte Pieters tot Hilverenbeeck met eenen</l>
+					<l>seltsaemen donder en blicxem ontsteken ende</l>
+					<l>afgebrant van welcke is oock ontsteken een</l>
+					<l>kercke en geheel afgebrant nu eerst inde </l>
+					<l>voorgaende troublen afgebrant</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>50</l>
+					<l><hi rend='underlined:true;'>1615</hi> opden selven avont syn oock ontsteken geweest</l>
+					<l>door den selven blixem den thoren van Oorschot ende</l>
+					<l>Hoochstraten</l>
+					<l>In April hebben sKeysers volck in genomen int @@@</l>
+					<l>falen met appointement de stadt van Ossen Soest</l>
+					<l>ende Lipstadt</l>
+					<l>den 9 April syn binen Francsoit gevierendeelt dry</l>
+					<l>borgers die gerebelleert hadden ende de Joden</l>
+					<l>verjaecht hadden</l>
+					<l>1616 den 1 Augusti hebben de heeren van Delft eenige</l>
+					<l>schattinge opgestelt de borgery heeft haer</l>
+					<l>daer tegens geset principaelyck de vrauwen de</l>
+					<l>welcke haer saemen in slachoorden gestelt, slaende</l>
+					<l>op eenen auden ketel in stede van een trommel de</l>
+					<l>sommige hadden eenen blauwen voorschoot voor een</l>
+					<l>vendel. soo trocken sy naert stadthuys ende wierpen</l>
+					<l>met cassyesteenen ende scheurden de heeren boecken</l>
+					<l>de heeren hebben moeten alle de schattingen afdoen</l>
+					<l>eersten September wert een Prince van Conde geap¬</l>
+					<l>prehendeert binen Parijs ende in bewaernisse gestelt </l>
+					<l>int Palleys de Loeuvre daerwas terstont groot</l>
+					<l>beroerte tvolck heeft tPalleys dancre heel berooft</l>
+					<l>16</l>
+					<l>xvi Januari is monsiere Joannes Baten getraut met margre¬</l>
+					<l>te de weese in prochiekerck Sint Guernicx tot Brussel</l>
+					<l>smorgens om 7 uren Gode geve hem goe</l>
+					<l>geluck</l>
+				</lg>
+			</p>
+			<pb n='55'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1616</hi> Den xx<hi rend='superscript:true;'>en</hi> October savonts ten ses uren geboren</l>
+					<l>onse dochter Janneken en gedoopt 23 ditto</l>
+					<l>daer naer door d. Francise Hovius pastoor</l>
+					<l>inde Borcht prochie alhier peter was M</l>
+					<l>Johannes Baten en meter Jouffr. Johannes. Dingens</l>
+					<l>suster van d Francisco Dingens Canoninck</l>
+					<l>van onser Liever Vrouwen alhier.</l>
+					<l>ontf. vande peter Een schoone schaele en saut¬</l>
+					<l>vat beyde van silver saemen wegende ...</l>
+					<l>vande peter een vergult copken wegende ...</l>
+					<l><hi rend='underlined:true;'>1617</hi> In Jan. syn in Hollant aengecomen dry walvissen</l>
+					<l>eenen tot Schevelingen lanck 52 voeten dander ij </l>
+					<l>syn in Seelant gevangen den eenen by Duyvelant</l>
+					<l>tot goere lanck over de 45 voeten den anderen</l>
+					<l>tot Helle voor sluys lanck 97 voeten</l>
+					<l>Den vj Februarj is noch in Hollant tusschen Noortwyc</l>
+					<l>en Bouchorst een walvis gevangen lanck 54½</l>
+					<l>voeten den steert 15 voeten breet en hadde 22</l>
+					<l>stercke tanden de dicte vant hooft 33 voeten</l>
+					<l>xij Februarj isser noch een seemonster ge¬</l>
+					<l>vangen gelyck een Crocodil</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>51</l>
+					<l><hi rend='underlined:true;'>1617</hi> Den 12<hi rend='superscript:true;'>en</hi> Februarj is tAmsterdam groote beroerte ge@###</l>
+					<l>tusschen d armeniaen en gommarisen d armenianen</l>
+					<l>waeren in een pachuys vergadert om te predi¬</l>
+					<l>ken ende de gommarisen syn gecomen met ghe¬</l>
+					<l>welt ende hebben t pachuys bestormpt ende alle</l>
+					<l>de gelasen en vensters in stucken gesmeten</l>
+					<l>sy hebben den predicant geslaegen ende met slyck</l>
+					<l>geworpen en smeten stoelen en bancken int</l>
+					<l>waeter</l>
+					<l>Den xix<hi rend='superscript:true;'>en</hi> ditto syn d armenianen wederom verga¬</l>
+					<l>dert in een coopmans huys de schauteth is </l>
+					<l>gecomen en heeft verbodt gedaen datmen gheene</l>
+					<l>predicatie doen en saude terstont was daer eenen</l>
+					<l>grooten hoop volcx voor de deure die werpen inde</l>
+					<l>gelasen ende overweldichde de deure met ge¬</l>
+					<l>welt soo datse meester werden vant huys</l>
+					<l>dwelck sy plunderden. en smeten bedden saergien</l>
+					<l>slaeplaeckenen al ter vensteren uuyt Gaudt</l>
+					<l>silver ten en coperwerck droegen sy mede, en</l>
+					<l>al wat sy niet mede draegen en costen smeten </l>
+					<l>sy al in stucken dit plunderen duerde totten</l>
+					<l>noene tot dat de heeren vant Stadt selfs</l>
+					<l>daer quaemen, en hebben den opruer selfs</l>
+				</lg>
+			</p>
+			<pb n='56'/>
+			<p>
+				<lg>
+					<l>geslist ende somige van die geplundert hadden</l>
+					<l>ghevangen genomen</l>
+					<l>1617 In Meert heeft den Coninck van vranckryck</l>
+					<l>dry steden Innegenomen die de princen in</l>
+					<l>hadden die tegen hem Rebelleerden</l>
+					<l>Int selve Jaer syn binnen Luyck twee mannen</l>
+					<l>gecomen die seyden datse van Godt gesonden</l>
+					<l>waeren en wauden prophiteren seggende</l>
+					<l>Dat de weirelt haest vergaen saude En</l>
+					<l>brochten tvolck in vreesen</l>
+					<l>Den 24 april is Marquis d ancre vermoort binnen</l>
+					<l>parys int hoff genaempt logne. van mons </l>
+					<l>de vicq cap<hi rend='superscript:true;'>t</hi>. vande garde des Conincx welc</l>
+					<l>marquis Dancre begraven synde Is weder</l>
+					<l>ontgraven is weder ontgraven vant gemeyn</l>
+					<l>volck, ende naet veel andere schandaelen het lich¬</l>
+					<l>aem tot asschen verbrant ende Dasschen inden</l>
+					<l>wint gestroyt syn huysvrauwe is mede</l>
+					<l>verbrant ende syn huys gespolleert</l>
+					<l>Tselve Jaer is voldaen twelfsel ende de portaelen</l>
+					<l>van onse L vrauwe kercke t ant<hi rend='superscript:true;'>pen</hi>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>52</l>
+					<l><hi rend='underlined:true;'>1617</hi> In mey syn de princen in vranckryck die gemu¬</l>
+					<l>tineert hadden ende vant hoff gesepaereert t@@@</l>
+					<l>weder gerecoinsillieert ende ontfangen inde ge¬</l>
+					<l>nade Des Conincx</l>
+					<l>Den Coninck van spangnen heeft in savoyen in</l>
+					<l>genomen de Stadt van verceesi met appoin.</l>
+					<l>In september is t antwerpen geschoncken aen eenen fac¬</l>
+					<l>teur van Rynschen wyn Een vadts van xxi @@@</l>
+					<l>en halff oft 2150 potten inhaudt ende is ghe</l>
+					<l>maeckt in het bisdom van Mens</l>
+					<l>30 7tember is Graef maurus inden bril gecoemen</l>
+					<l>ende heeft daer 2 compaigne soldaten ingeleyt</l>
+					<l>om hem vande stadt te versekeren ende om oproer</l>
+					<l>te beletten</l>
+					<l>den 3 october is tot Leyden in hollant groote</l>
+					<l>beroerte geweest tusschen de nieuwe aenge¬</l>
+					<l>noemen soldaten ende de borgers. soo dat de borgers de</l>
+					<l>soldaten hebben met steenen geworpen ende de</l>
+					<l>soldaten hebben hun daer tegen inde wapen bege¬</l>
+					<l>ven de poorten werden gesloten de gulden quame</l>
+					<l>oock inde wapen tegen avont ist wat gestilt</l>
+					<l>daer wasser Eenige gequets ende 4 doot</l>
+					<l>gebleven</l>
+					<l>In 7temb. synder 2 galeyen vande venetianen te nap</l>
+					<l>napels ingebroecht seer Ryckelyck geladen</l>
+				</lg>
+			</p>
+			<pb n='57'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1617</hi> In 7tember syn oock tot Lisboenen ingenomen</l>
+					<l>2 schepen uuyt Indien met vele coopmanschap</l>
+					<l>ende gesteente die weerdich waeren meer dan</l>
+					<l>vyff millioenen gaudts</l>
+					<l>ter selver tyt hebben de borgers van leyden voor</l>
+					<l>d arminiaenen 3 vendels nieu soldaten in ge¬</l>
+					<l>noemen om hun tegen dander te versekeren</l>
+					<l>den viij<hi rend='superscript:true;'>en</hi> October heeft myn heer Mathias</l>
+					<l>Vovius [sic!] Artsbischop van Mechelen in het</l>
+					<l>22 Jaer syns arts bisdom naer dat hy 51 Jaren</l>
+					<l>priester geweest hadde syn Jubile tot</l>
+					<l>Mechelen gehauden in de tegenwoordicheit vande eerw.</l>
+					<l>h Artsbischop van Cameryck ende alle de bisschop¬</l>
+					<l>pen vant provincie by Mechelen te weten een</l>
+					<l>Bisschop van Antwerpen van sHertogenbosch van Ruremond</l>
+					<l>van Yperen van Gendt ende van Brugge de</l>
+					<l>welcke al in hun pontificale habyt den Arts¬</l>
+					<l>bisschop naer de kercke geleyt hebben met</l>
+					<l>eenen schoonen staet weert om te sien</l>
+					<l>1617 Int selve Jaer werdt vercellen in Savoyen in</l>
+					<l>genomen vande Spaengnaerden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>53</l>
+					<l><hi rend='underlined:true;'>1617</hi> Int selve Jaer werden alle d Arminianen van</l>
+					<l>hunne staten in Hollant afgesedt</l>
+					<l><hi rend='underlined:true;'>1616</hi> 27 October begravenisse M<hi rend='superscript:true;'>r </hi>Joachim van</l>
+					<l>Postel secretarius van Lier requiescant [sic!]</l>
+					<l>in pace</l>
+					<l>1616 22 November begravenis Thenneken Jans</l>
+					<l>inde borcht kerck Requiescant in pace</l>
+					<l><hi rend='underlined:true;'>1617</hi> x Januarj overleden gestorven Jonffrau</l>
+					<l>Catrina Ritsardt huysvrau Casper Baten</l>
+					<l>1618 xiiii Augustj begravenis priester oom van maer</l>
+					<l>in Borcht kerck</l>
+					<l>1618 werdt het sinode nationel tot Dordrecht</l>
+					<l>gehauden</l>
+					<l>Int selve: werden de Evengelise van Bohemen</l>
+					<l>des Keysers Raetsheeren uuyt de vensters</l>
+					<l>vant Casteel van Prage</l>
+					<l><hi rend='underlined:true;'>1618</hi> Int selve Jaer in beginsel van 7tember quam</l>
+					<l>den Grave van Bocquoy in Bohemen met</l>
+					<l>somige soldaten</l>
+					<l>1618 is tot Brussel gestorven de Prince</l>
+					<l>van Orianien</l>
+				</lg>
+			</p>
+			<pb n='58'/>
+			<p>
+				<lg>
+					<l>In dese Jaren gedueren trewes synder binnen</l>
+					<l>antwerpen vele schoone bautoingen gemaeckt</l>
+					<l>van Kercken ende Cloosters. onser Li. Vr. Kerck</l>
+					<l>die over de 100 Jaren gestaen heeft die is nu</l>
+					<l>gewelft en den een inde twee schoone deur poorten</l>
+					<l>versciert van</l>
+					<l>De capucinen De terresen. De Nonciaten</l>
+					<l>De Augustynen broeders hebben oock elck</l>
+					<l>een schoone kercke en clooster vuyt den gront</l>
+					<l>opgemaeckt met noch andere godtshuysen</l>
+					<l>voorts worden tot Antwerpen noch andere kercken</l>
+					<l>volmaeckt als Sint Jacops Kerck de Borcht</l>
+					<l>kercke de vrauwen broeders kerck de kercke</l>
+					<l>vande preecheeren etc.</l>
+					<l><hi rend='underlined:true;'>1618</hi> Int Leste van 7ber isser indelocht een stere</l>
+					<l>gesien hebbende eenen Langen steert van</l>
+					<l>diversche coleuren wonderlyck om aensien</l>
+					<l>Noch int Leste van November sterfde</l>
+					<l>Keyserinne huysvr. vande Keyser Mathias</l>
+					<l><hi rend='underlined:true;'>1619</hi> Corts daer naer te weten 1619 is oock</l>
+					<l>gestorven den Keyser Mathias</l>
+					<l>xx xber is in Hollant verboden daer de armi¬</l>
+					<l>aenen niet en soude predicken op groot</l>
+					<l>amende.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>54</l>
+					<l>1619 Den 13 Mey is Int Hoff vanden Haege in Hol</l>
+					<l>lant onthalst een auden Bernevelt</l>
+					<l>28 Augusti is binnen Francfort tot Keyser</l>
+					<l>gecosen Ferdinandus Coninck van Hongarien</l>
+					<l>den 9 7teb. binnen Francfort gecroondt</l>
+					<l>Int selve Jaer cosen ende Croonden die van</l>
+					<l>Bohemen den Palsgrave voor haren Coninck</l>
+					<l>1619 Int beginne van 7teb. quam de Grave van</l>
+					<l>Bocquoy binnen Bohemen en nam in Teusborch</l>
+					<l>met andere steden en Leyde daer garesoen</l>
+					<l>In van sKeysers wegen</l>
+					<l>1619 Inde maent September is tot Antwerpen opdemeer</l>
+					<l>eenen os te sien geweest wegende meer als 2400</l>
+					<l>Int selve Jaer werden Prince van Conde</l>
+					<l>vande gevangenis ontslagen</l>
+					<l><hi rend='underlined:true;'>1619</hi> 6 Meert is tot Liere overleden Jouffr. Marce¬</l>
+					<l>weduwe wylen M<hi rend='superscript:true;'>r</hi>. Anthony sarrasin requiescant</l>
+					<l>10 Ditto Meert Jacobus Colyns getraut</l>
+					<l>mette Anna segers dochter Hans Segers</l>
+					<l>Int Jaer 1620 is bestant gemaekt tusschen</l>
+					<l>den Keyser en Bethleem Gabor Duerende tot 29</l>
+					<l>7tember <hi rend='underlined:true;'>1620</hi></l>
+				</lg>
+			</p>
+			<pb n='59'/>
+			<p>
+				<lg>
+					<l>ix Augusti is Marquis Spinola vertr. vuyt Br</l>
+					<l>naer Duytslant met schoonen Leger voet</l>
+					<l>volck en peert volck</l>
+					<l>Int Jaer 1620 is binnen Antwerpen. geopent den</l>
+					<l>Berch mons pietaties</l>
+					<l>Int lant van Gullick tot Hansborch is geweest</l>
+					<l>soo grooten tempeest 14 augusti dat de daken</l>
+					<l>van huysen werden afgeworpen en groot getae¬</l>
+					<l>en gecryt Inde locht en oock gesien werden een</l>
+					<l>bourgoens cruys de boomen werden met</l>
+					<l>menichte vuyter eerden geworpen. een vrau</l>
+					<l>met een kindt staende an een Riviere syn sonder</l>
+					<l>letsel daer over geworpen.</l>
+					<l>den 20 Augusti heeft arquis syn volck doen</l>
+					<l>monsteren by Cobelens</l>
+					<l>Int selve Jaer heeft Marquis in Duytslant</l>
+					<l>inne genoemen Diversche steden int Palslant</l>
+					<l>als Trentenae Aelsen Openheym Bacharas</l>
+					<l>en meer andere</l>
+					<l>Den Grave van Bocquy met Hertoch van Beyer.</l>
+					<l>hebben de stadt Pistken vechtenderhant Inn</l>
+					<l>genomen met andere plaetsen daer ontrent</l>
+					<l>Int selve Jaer was &apos;tAntwerpen een schap te sien met</l>
+					<l>2 hoofden 6 voeten 2 steerten en elck hooft hadde</l>
+					<l>syn eygen herdt en navel.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>55 </l>
+					<l>1620 Int selve Jaer sloegen den Catholicquen van</l>
+					<l>Valtelina de calvenisten door dijand@@</l>
+					<l>hun meester</l>
+					<l>Int selve Jaer werden den Grave van Dampiers </l>
+					<l>voor Presburch in Hongeryen doot geschoten</l>
+					<l>8 Novemb. naer dat den Hertoge van Beyeren en</l>
+					<l>Grave van Bocquoy hadden Innegenomen voorden</l>
+					<l>Keyser vele steden en plaetsen syn soo den x</l>
+					<l>Novemb. gecomen by Prage alwaer eenen grooten</l>
+					<l>slach geschieden tusschen hun ende de Boemhei¬</l>
+					<l>sche, alwaer Keysers volck de victorie hadde</l>
+					<l>en Boemheemsche geheel inde vlucht jaechden</l>
+					<l>achterlaetende vele volckx amonitie</l>
+					<l>waer naer de 3 steden van Prage over gevende</l>
+					<l>doende eent van getrauwicheyt aende Keyser</l>
+					<l>1620 14 Meert voor noene is onsen sone G Baten</l>
+					<l>auderdom van 25 Jan. 1620 ses Jaren gevormt</l>
+					<l>in onser Lie. Vrauwen Kercke in sSnte Ursele</l>
+					<l>cappelle vande herto. heere Johannes Malders</l>
+					<l>Bisschop van Antwerpen. Door en geleyt van</l>
+					<l>Masoeur Dugna. huijsfr. Charle van Gameren</l>
+					<l>Int selve Jaer sterf den Paus Paulus</l>
+					<l>Quintus en in plaetse quam Gregorius</l>
+					<l>den 15<hi rend='superscript:true;'>en</hi>.</l>
+				</lg>
+			</p>
+			<pb n='60'/>
+			<p>
+				<lg>
+					<l>1621. Int Jaer sterff Phillippus Tertius Coninck</l>
+					<l>van Spaengien</l>
+					<l>Insgelycx onsen genadigen Prince Eertsher</l>
+					<l>toge Albertus den 13 July ontrent xij</l>
+					<l>uren te middach</l>
+					<l>In Julio is den Grave van Bocquoy liggende</l>
+					<l>metten Keyserlycken leger voor Hevelst in Hon¬</l>
+					<l>geryen hen in peryckel stellende doot gebleven</l>
+					<l>en syn Lichaem inde kercke tot weenen by de</l>
+					<l>minemen</l>
+					<l>den 14 Augustj vertrok Don Louwies de Velasco</l>
+					<l>uuyt Brussel en den Marquis op 15<hi rend='superscript:true;'>en</hi> naer Namen</l>
+					<l>ten selven tyt hebben de Pollacken verslagen</l>
+					<l>40000 Torcken</l>
+					<l>1621 In 7tember is Graef Heyndrick vande Berge voor de </l>
+					<l>stadt Gullick met 8000 mannen gecomen</l>
+					<l>en daer naer tcasteel rede Ingenomen</l>
+					<l>wiens governeur daer naer om tselve over</l>
+					<l>geven onthooft werdt</l>
+					<l>1621 Ten selven tyt hadden de Hollanders opd zee</l>
+					<l>groote neerlage tegen de Spaeniaerden</l>
+					<l>den Coninck heeft toegelaten tegen de</l>
+					<l>seeroovers te armeeren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>56</l>
+					<l>1621 In 7tember is voor de Stadt Montaban in Vrancryck</l>
+					<l>die d Coninck belegert had, geschoten den Hertoge</l>
+					<l>van Maine, om wiens doot de Hugenoten eenen</l>
+					<l>blyschap is de gemeynte van parys inde wapenen</l>
+					<l>loopende tegen den wille vande Gouverneur</l>
+					<l>gecomen na Charenton. haer volgende toelaten vande</l>
+					<l>Coninck, de Hugenoten hunne predicantien hield</l>
+					<l>hebben omtrent 40 doot geslagen, en hunne kercke</l>
+					<l>geruineert</l>
+					<l>In october hebben de Catholicquen veel steden</l>
+					<l>in Pals Ingenomen en onder ander Keyser s@@</l>
+					<l>daer 80 M metalen met vele amonitie ende</l>
+					<l>wapenen gevonden syn</l>
+					<l>Inde selve maent den Grave van Mansvelt</l>
+					<l>hebbende voor syn soldaten 80000 gulden en overgele¬</l>
+					<l>vert hebbende de steden die hy int Hooch Paltz</l>
+					<l>lant had, heeft als eenen weerhaen synen</l>
+					<l>rock omgekeert</l>
+					<l>1621 de Polacken hebben inden eersten slach wel</l>
+					<l>60000 Turcken dootgeslagen ende daer naer noch</l>
+					<l>eenen slach die wel iij dagen duerde daer</l>
+					<l>den Jongen Prince in parsoone was. en</l>
+					<l>hun cloeckelyck droegen hebben de Turcken</l>
+					<l>afgeslagen wel 80000 met een grooten</l>
+					<l>buet en veel groff geschut</l>
+				</lg>
+			</p>
+			<pb n='61'/>
+			<p>
+				<lg>
+					<l>1621 den 21 october is in spaeingnen gerecht</l>
+					<l>Don Rodrigo Caldron</l>
+					<l>1622 - Int jaer 1622 in february is de stade</l>
+					<l>gullick naer den langh belech overgeven</l>
+					<l>Int selve Jaer isser eenen peys gemaeckt</l>
+					<l>tusschen den keyser en Bethleen gabor</l>
+					<l>Inde maent July synder eenige vande Rebellen</l>
+					<l>van Bohemen te prage gerecht</l>
+					<l>den 12 Meert is gehauden de Costelycke</l>
+					<l>vuytvaert van onsen genadigen prince</l>
+					<l>Albertus den Godtvruchtigen</l>
+					<l>1622 Dit Jaer hebben de hugenoten in langendorp</l>
+					<l>grooten moetwil an kercken en cloosters ged.</l>
+					<l>Inden mey heeft skeysers volck in palslant</l>
+					<l>by wymster eene schoone vertorne tegen de</l>
+					<l>protestanten gehadt Daer syn vande selve doot</l>
+					<l>5000 en 500 verdroncken 1200 gevangenen</l>
+					<l>1622 - Corts daer naer isser noch eene victorie</l>
+					<l>by Darmstadt ende Daldermeeste by hoeft</l>
+					<l>tegen den dollen halberstadt</l>
+					<l>opden ixe en xxx augusti is den slach geslagen</l>
+					<l>by don gonsalo d cordua outh fleuru ende</l>
+					<l>henant tegen den bastaert mansvelt ende</l>
+					<l>Dollen halberstadt die daer synen arm is</l>
+					<l>verloren. meestendeel syn volck alle tgeschut</l>
+					<l>ende bagagie</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>57</l>
+					<l>1622 den 14 octob. snachts heeft marquis den</l>
+					<l>leger gelicht, voor Bergen op Zoom verwitticht</l>
+					<l>synde van verraet die Eenige van syn volck</l>
+					<l>op handen hadden. ten andere occagie</l>
+					<l>1622 Monfrere Charles van gameren overlede,</l>
+					<l>7 october <hi rend='underlined:true;'>1622</hi> maendach voor noemt</l>
+					<l>tussen 10 en xi uren. begraven inde Borcht</l>
+					<l>kercke Requiescant in pace</l>
+					<l>1623 het Comptoir vande zeeuschen thol aende</l>
+					<l>werf geopent Deo gratias</l>
+					<l>1622 - Int eynde van october is voor mompeliers</l>
+					<l>den accort gemaeckt tussen den coninck</l>
+					<l>en Hugenoten</l>
+					<l>hebben skeysers volck ondert beleyt vande he.</l>
+					<l>tilly Ingenoemen De hooft staden van palslant</l>
+					<l>heydelberch is manheyn oock aengetast</l>
+					<l>dwelck oock is overgegeven treckende soldaten</l>
+					<l>daer vuyt met pack en sack</l>
+					<l>1623 Den 2 Jan. 1623 is over gegeven de stercke</l>
+					<l><hi rend='strikethrough:true;'>stade</hi> schans papenits by borne liggende inden ryn</l>
+					<l>treckende de soldaten daer vuyt met hun</l>
+					<l>geweer en bagagie</l>
+				</lg>
+			</p>
+			<pb n='62'/>
+			<p>
+				<lg>
+					<l>In February <hi rend='underlined:true;'>1623</hi> is In Hollant gecoemen Eene</l>
+					<l>conspiratie waertoe en seyt men inet open@##</l>
+					<l>en synder ettelycke te dier oorsaecke gedoot</l>
+					<l>en onder andere is vande sonen Barnevelt</l>
+					<l>1623 In Meert den Prince van Wales sone vande Coninck</l>
+					<l>van Groot Bretanien in Spaenien gecoemen hey w##</l>
+					<l>uuyt Engelant verten door Vrancryck is in</l>
+					<l>Spaingnen met grooter Eeren ende pracht ontvangen</l>
+					<l>1623 Inde Herlycken van Heyst boven her heeft</l>
+					<l>pastoir aldaer getelt van een graenthen</l>
+					<l>corens voortgebracht heeft op eenen struy#</l>
+					<l>53 aderen uuyt de 53 aderen gecoemen</l>
+					<l>2292 coren graenkens die gewassen</l>
+					<l>syn den voorleden oost 1623 op eenen berch</l>
+					<l>neffens pastoirs hoff. Die myn H selve </l>
+					<l>gepluckt en getelt heeft waer van den</l>
+					<l>heere moet geloeft wesen in Eenwich. </l>
+					<l>1623 In Augusti is den slach geslagen tussen den </l>
+					<l>generael Tilly en Dollen Halberstadt</l>
+					<l>daer Halberstadt de nederlage creech</l>
+					<l>laetende Int velt veel Duysende Dooden</l>
+					<l>vele gevangenen met verlies van geschu#</l>
+					<l>gelt ende bagagie</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>58</l>
+					<l>A<hi rend='superscript:true;'>o</hi>. 1641. Den 9<hi rend='superscript:true;'>en</hi>. November tussen 10 en 11</l>
+					<l>uren voor noen is tot Brussel over¬</l>
+					<l>leden den prince Cardinael Ferdi¬</l>
+					<l>nandus broeder vanden Coninck</l>
+					<l>van Spanien Phlippus</l>
+					<l>1642. prima Octobris vesper ad medium</l>
+					<l>10.<hi rend='superscript:true;'>u</hi> obyt D. Canonic @ Hemsens</l>
+					<l>1643. decima nona die January vesperi ad</l>
+					<l>medium 10<hi rend='superscript:true;'>u</hi>. obyt D. Zegerus van Hout</l>
+					<l>zum canonic 9 Antwerpiensis. R. In pace</l>
+					<l>etc<hi rend='superscript:true;'>a</hi>. die man heeft den heere Bis ¬</l>
+					<l>chop van Gendt gewydt de Cappelle tot</l>
+					<l>sombeke In Vlanderen en Ic ben geweest ter</l>
+					<l>feeste aldaer durende dry dagen lanck den</l>
+					<l>4<hi rend='superscript:true;'>en</hi>. dach ben Ic wederom thuys gecomen</l>
+					<l>den heere Bischop van Ant<hi rend='superscript:true;'>pen</hi>. wasser ooc te feeste</l>
+				</lg>
+			</p>
+			<pb n='63'/>
+			<pb n='64'/>
+		</body>
+	</text>
+</TEI>

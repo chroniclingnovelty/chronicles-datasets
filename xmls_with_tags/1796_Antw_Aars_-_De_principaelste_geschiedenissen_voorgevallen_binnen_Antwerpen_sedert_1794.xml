@@ -1,0 +1,1780 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1796_Antw_Aars - De principaelste geschiedenissen voorgevallen binnen Antwerpen sedert 1794</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l><pagenumber>P.K 123</pagenumber></l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l><afbeelding>CollNR</afbeelding></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><afbeelding>N<hi rend='superscript:true;'>o</hi> 2259</afbeelding></l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>ARCHIEF N 21751</l>
+					<l><datum datum='1914-01-24' when='1914-01-24'>24-1-1914</datum></l>
+					<l>De principaelste</l>
+					<l>Geschiedenissen</l>
+					<l>voorgevallen binnen</l>
+					<l><locatie>Antwerpen</locatie></l>
+					<l>sedert</l>
+					<l><datum datum='1794-03-15' when='1794-03-15'>1794 15 Maert</datum> tot <datum datum='1796-03-16' when='1796-03-16'>16 Maert 1796</datum></l>
+					<l>beschreven door</l>
+					<l><persoonsnaam>Jan Van Aarsen</persoonsnaam></l>
+					<l><persoonsnaam>Stoofmaker en Koperslager</persoonsnaam></l>
+					<l>op de <locatie>Steenhoudersvest</locatie></l>
+					<l><locatie>te Antwerpen</locatie>.</l>
+					<l>@@@@achte@</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>H a a l  b o e k &amp; </l>
+					<l>(Dit wild zeggen:</l>
+					<l>Hael-boek-(van stoven.)</l>
+					<l>@ @ @</l>
+					<l>op <datum datum='xxxx-12-24' when='xxxx-12-24'>den 24 desember</datum></l>
+					<l>2 Stooven in het huis</l>
+					<l>van <persoonsnaam>de burgeres Rosen</persoonsnaam></l>
+					<l>in hu@w <locatie>Mers Straat</locatie></l>
+					<l>met 9 2einde buis 2 ellebo</l>
+					<l>5 Lievers Per Stoof</l>
+					<l>op <datum datum='xxxx-12-25' when='xxxx-12-25'>den 25</datum> een Stoof Sond</l>
+					<l>buis en 7 Lievers per</l>
+					<l>maaent in Selfde huis</l>
+					<l>aen een markttenter</l>
+					<l>23 Liever pant</l>
+					<l>op <datum datum='xxxx-12-26' when='xxxx-12-26'>26 desember</datum> een</l>
+					<l>Stoof midt 3 ende buis</l>
+					<l>ende elle boog op meer</l>
+					<l>in huis van burger</l>
+					<l>van geem lan 509 pant</l>
+					<l>5 Lievers</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>op <datum when='1796-01-20'>den 20 January</datum> een</l>
+					<l>Sloof by <persoonsnaam>Loudein</persoonsnaam> op <locatie>den</locatie></l>
+					<l><locatie>bersens Steen Weg </locatie>met</l>
+					<l>een krawer</l>
+					<l><persoonsnaam>Lowys Tys </persoonsnaam>in preken</l>
+					<l>Straet Stoof 4 ende b##</l>
+					<l>en komfoor krawer</l>
+					<l>in nomner 125</l>
+					<l><persoonsnaam>Jan ingelt</persoonsnaam> 37 Stuivers</l>
+					<l>in acsinnaten 36 Stuk</l>
+					<l>kort 6 lievers</l>
+					<l><persoonsnaam>Cofyn</persoonsnaam> een keer gekomen op</l>
+					<l>meij avont III</l>
+					<l>verschot aen kruiien lys#</l>
+					<l>10½ pot balsem 9</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>2</l>
+					<l>LATIJN, NIET TRANSCRIBEREN MAAR TAGGEN ALS KOPIE </l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>@@@@@@@@@@@@@@@</l>
+					<l>Nota.</l>
+					<l>Hier achter begind <persoonsnaam>Jan</persoonsnaam></l>
+					<l><persoonsnaam>van Aarsen</persoonsnaam> zyne geschiedenissen</l>
+					<l>aen te schryven.</l>
+					<l>Hy geeft zig te kennen op </l>
+					<l>b<pagenumber>ldz. 9</pagenumber> verso.</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>van tijt van iaer <datum datum='1794-xx-xx' when='1794-xx-xx'>1794</datum>#</l>
+					<l>wat ter geschiet is</l>
+					<l>de prinsepaelste stukke#</l>
+					<l>van ons lant <datum datum='1794-03-15' when='1794-03-15'>15 maart</datum></l>
+					<l>syn de bruge op kiel voor</l>
+					<l>de hooy Schepen te lossen</l>
+					<l>en op <datum datum='1794-04-20'>20 april</datum> waren</l>
+					<l>105 hooij Schepen en op kiel</l>
+					<l>gelost, op myten op kielvelt</l>
+					<l>gestelt en op alle klooste</l>
+					<l>en burgerhuise gemale</l>
+					<l>meel en haver over 300</l>
+					<l>schepen in de Stadt gelost en</l>
+					<l>op <datum datum='1794-06-09' when='1794-06-09'>9 iunij</datum> is de <persoonsnaam>keijser Ivan</persoonsnaam></l>
+					<l>in <locatie>antwerpe</locatie> geweest en</l>
+					<l>aen bier hooft op een prent</l>
+					<l>over geset op vlaem hooft</l>
+					<l><datum datum='1794-06-28' when='1794-06-28'>28 iuny</datum>, syn 2000 <locatie>engelse</locatie> troep#</l>
+					<l>in <locatie>antwerpe</locatie> gekomen en dat</l>
+					<l>heeft geduert tot <datum datum='1794-07-13' when='1794-07-13'>13 iuli</datum>j toe</l>
+					<l>en op den <datum datum='1794-07-02' when='1794-07-02'>2 iulij</datum> Syn 2 Schip</l>
+					<l>med gelt angeslage en</l>
+					<l>op het kassteel van <locatie>Antw</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>3.</pagenumber></l>
+					<l>gebragt de Som van 42 milioen</l>
+					<l>daer Platen van <locatie>brabant</locatie> mee</l>
+					<l>waren te vlugten en op den</l>
+					<l><datum datum='1794-07-08' when='1794-07-08'>8 iulij</datum> Syn in <locatie>antwerpe</locatie> in <locatie>Schel</locatie>#</l>
+					<l>gekomen 52 <locatie>engelse</locatie> transport</l>
+					<l>schepen 3 en 2 masten 54 int</l>
+					<l>getal en hadde geladen 1000</l>
+					<l>paerde 2000 man en kanon</l>
+					<l>en poeder en alle orlogget#</l>
+					<l>op den <datum datum='1794-06-25' when='1794-06-25'>25 iunij</datum> Syn in <locatie>karolus</locatie></l>
+					<l><locatie>kerk</locatie> voor een hospetael van</l>
+					<l>Sieken en Soldaten gelegt en</l>
+					<l>nog 8 capelle vol en op den</l>
+					<l><datum datum='1794-07-06' when='1794-07-06'>6 iuly</datum> op Sondag ten 10 ueren</l>
+					<l>heeft een luiterse domine</l>
+					<l>in Syn gewaet gepreekt op</l>
+					<l>de preekstoel van <locatie>karolis kerk</locatie></l>
+					<l>voor de Sieken en daer leide</l>
+					<l>over de 3 duisent man en</l>
+					<l>in 5 dagen Syn in <locatie>antwerpe</locatie></l>
+					<l>geweest over 6 duesent wagen</l>
+					<l>mid volk en bagasi en kanon</l>
+					<l>uit en in gereden en <persoonsnaam>de</persoonsnaam></l>
+					<l><persoonsnaam>hertog iork</persoonsnaam> met syn ruitery</l>
+					<l>en paardevolk uit Stat gaen</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>op <datum datum='1794-07-13' when='1794-07-13'>Sondag 13 iuly</datum> Syn der van</l>
+					<l>Slot 51 Schepen van vloot</l>
+					<l>van de engelse 3 en 2 mast</l>
+					<l>Schepen 12 is Savons te</l>
+					<l><locatie>mechelen</locatie> een Sterk gesch#</l>
+					<l>gehoort en <datum datum='1794-07-15' when='1794-07-15'>15 iuly</datum> is <locatie>mechg#</locatie></l>
+					<l>aen <locatie>fransen</locatie> over gegaen</l>
+					<l>met <persoonsnaam>Cappila</persoonsnaam> en de<locatie> fransen</locatie></l>
+					<l>syn trokke tot voor de</l>
+					<l><locatie>walem brug</locatie> <datum datum='1794-07-16' when='1794-07-16'>16 iuly</datum> hebbe</l>
+					<l>de <locatie>franse</locatie> en <locatie>engelse</locatie> ge</l>
+					<l>vogten ont trent <locatie>walen</locatie></l>
+					<l>en <locatie>dussel </locatie>en mid verli#</l>
+					<l>van weer kante van vi#</l>
+					<l>doode en gekweste op den</l>
+					<l>selven tyt is de <locatie>walem</locatie></l>
+					<l><locatie>brug</locatie> van <locatie>franse </locatie>in bran#</l>
+					<l>geschoten <datum datum='1794-07-15' when='1794-07-15'>15 iuly</datum> Synder </l>
+					<l>8 <locatie>engels</locatie> transport Schepe#</l>
+					<l>op <locatie>Schelde</locatie> gekomen mid</l>
+					<l>volk en weer geladen mid</l>
+					<l>meel en volk gekweste</l>
+					<l>en haver en weer vertrok</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>4</l>
+					<l>op <datum datum='1794-07-16' when='1794-07-16'>16 iuly</datum> is <locatie>Carolus kerk</locatie> en</l>
+					<l>5 Capelle ontruimt van de </l>
+					<l>siekenen en gekweste en</l>
+					<l>op 15 Snag hebben de <locatie>engel#</locatie></l>
+					<l>op werf en 3 huisen alles</l>
+					<l>geplundert en an Stukke</l>
+					<l>geslaagt en bier laten loope</l>
+					<l>en daar Sijn 6 vast gepakt</l>
+					<l>en in deus amigo weer</l>
+					<l><locatie>het Stathuis</locatie> gebragt en</l>
+					<l>den aan de nagt hebben</l>
+					<l>an de <locatie>eengelse</locatie> die wille losse</l>
+					<l>en de Emigrante hadde de  </l>
+					<l>wagt en <locatie>Stathuis </locatie>en heb</l>
+					<l>op malkander geschote</l>
+					<l>en getrapt dats doode en</l>
+					<l>weet gekweste en op <datum datum='1794-07-19' when='1794-07-19'>19 iuly</datum></l>
+					<l>hebbe <locatie>de hollanders</locatie> het</l>
+					<l>casteel verlaten ende</l>
+					<l>commande aen de <locatie>engelse</locatie></l>
+					<l>weer geven en het casteel</l>
+					<l>weer @@@ seg Stukken</l>
+					<l>@@@ beset en al @@@</l>
+					<l>cannonn@ @@@ @@@</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-07-20' when='1794-07-20'>Sondag 20 iuly </datum>S nag om 12 uur</l>
+					<l>is <persoonsnaam>hertog iork</persoonsnaam> in <locatie>antwerp</locatie> en</l>
+					<l>is geloseert in den <locatie>hotel van</locatie></l>
+					<l><locatie>Salm</locatie> en mede 21 heeft hem#</l>
+					<l>iork sijn kamp tot Burgem#</l>
+					<l>op hof van <persoonsnaam>iuffrou van der</persoonsnaam></l>
+					<l><persoonsnaam>Steen</persoonsnaam> en den Selve dag Syn</l>
+					<l>emagrante van<locatie> burhout en</locatie></l>
+					<l><locatie>bergem</locatie> vertrokken na hol##</l>
+					<l>en Syn nog 6 Schepen medt</l>
+					<l>engelse manne en vrouwe#</l>
+					<l>in <locatie>Schelde </locatie>gekomen den 12</l>
+					<l>S morgens 12 minuten na de</l>
+					<l>7 ueren is het klein poeder</l>
+					<l>magesijn gesprongen en daer</l>
+					<l>sijn 12 werklie kanoniers en</l>
+					<l>3 engelse Soldaten gedoot en</l>
+					<l>vele gekwesten en in Stat vele</l>
+					<l>glasen kapot geslagen op die</l>
+					<l>dag Syn nog 5 engelse Schepen</l>
+					<l>midt volk angekomen 1 dr ##</l>
+					<l>mast Schip midt engels  1</l>
+					<l>vrou volk digt by 680 Sonder</l>
+					<l>haren mans niet, als matroos</l>
+					<l>op den Selve dato syn so Schepe</l>
+					<l>engelse 2 en 3 masten geladen#</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>midt meel en haver Snag uit  5</l>
+					<l>gevaren en die nagt tussen 22 </l>
+					<l>en 23 S avons ofte S nag meende</l>
+					<l>de engelse <locatie>antwerpe</locatie> te plunde</l>
+					<l>maer burgemeester ordineer</l>
+					<l>13 wijken burgers van Stat</l>
+					<l>en 120 hesse dragonder om die</l>
+					<l>nagt te pattroilere en alle</l>
+					<l>burgers waren versogt mid</l>
+					<l>plakaet om malkander te helpe</l>
+					<l>soo dat niet hebben derve</l>
+					<l>doen maer op 23 dag S morgen</l>
+					<l>om 7 ueren hebben de engelse</l>
+					<l>al de burgers en soldaten van</l>
+					<l>het kasteel doen gaen en</l>
+					<l>alles vast toe gesloten en</l>
+					<l>al de hooij en strooij midt en</l>
+					<l>in volle brant gestoken</l>
+					<l>en de Stat is te water en te</l>
+					<l>lant gesloten poorte en</l>
+					<l>boome en de franse Syn</l>
+					<l>tot voor de poorte gekomen</l>
+					<l>en dan hebbe nog engelman</l>
+					<l>doot geslagen en Syn kleede</l>
+					<l>op Syn geweer in Stat gebragt</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>den <datum datum='1794-07-24' when='1794-07-24'>24 july</datum> S morgens ontrent</l>
+					<l>7 uren Syn de <locatie>fransen</locatie></l>
+					<l><locatie>Antwerp </locatie>getrokken en in </l>
+					<l><locatie>St ioris kloost</locatie> in getrokken</l>
+					<l>men vliegen vendel en</l>
+					<l>Slaende trommel en het</l>
+					<l>Canon en medt eene der</l>
+					<l>poorte gesloten en de</l>
+					<l><locatie>Schelde </locatie>en op alle poste</l>
+					<l>beset en een Sterke</l>
+					<l>ordinansy ofte wet uit</l>
+					<l>gekondigt op Straf van de</l>
+					<l>doot dat niemant een</l>
+					<l>quaert fier uers van Stat</l>
+					<l>mogt gaen Sonder passe</l>
+					<l>dat niemant mogt viande</l>
+					<l>lyk geweer of wapinge</l>
+					<l>in Syn huise mog hebbe</l>
+					<l>dat niemant geen franse</l>
+					<l>priesters ofte viandelyke</l>
+					<l>mensen mogt op houde</l>
+					<l>in verberge maer op</l>
+					<l>24 ueren het lant uit</l>
+					<l>op Straf van de doot als</l>
+					<l>Sy Se vonden en dat</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>6</pagenumber></l>
+					<l>op Sware Straf en een orden</l>
+					<l>van op Straf ag sinna Sy ofte</l>
+					<l>papiere gelt te ontfan in </l>
+					<l>alle komen schap ofte in</l>
+					<l>als hoegenaemde Same</l>
+					<l>handelinge tot in herberge</l>
+					<l>toe het minste papier is </l>
+					<l>van 5 Stuivers frans gelt</l>
+					<l>tot papier van 300 tot 3000</l>
+					<l>toe en de grooste waren de</l>
+					<l>besten want gij gaef het</l>
+					<l>kleinste op groote weer</l>
+					<l>om maer geen gelt en</l>
+					<l>gij gong mee na<locatie> de vis</locatie></l>
+					<l><locatie>mart </locatie>en na <locatie>het vleeshuis</locatie></l>
+					<l><datum datum='1794-07-25' when='1794-07-25'>25 iulij</datum> is <locatie>het poskantoor</locatie></l>
+					<l>gesloten en de <locatie>Schelde</locatie> en</l>
+					<l>op die dag 30 iminagrante</l>
+					<l>en 6 <locatie>engelse </locatie>en een <locatie>franse</locatie></l>
+					<l>priester in wagt gebrogt</l>
+					<l>als krigsgevange op mart</l>
+					<l>gebragt een ordenans geen</l>
+					<l>militare van <locatie>franse</locatie> lesen</l>
+					<l>sonder biliet van <persoonsnaam>generael</persoonsnaam></l>
+					<l><persoonsnaam>Richart</persoonsnaam> ofte niemant loser</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-07-26' when='1794-07-26'>26 iuly</datum> een ordinanse dat ni#</l>
+					<l>mant mogt een quartiere</l>
+					<l>van Stat gaen Sonder</l>
+					<l>biliet van generael ende#</l>
+					<l>lei een Leger buiten de </l>
+					<l>Stat van 2500 man ge</l>
+					<l>kampeert an de <locatie>Sleenebrug</locatie></l>
+					<l>tot de <locatie>Luit hage</locatie> en de poorte#</l>
+					<l>gesloten  <datum datum='1794-07-28' when='1794-07-28'>28 iuly</datum> is een bu##</l>
+					<l>in <locatie>hoog Straet</locatie> gestelt om de </l>
+					<l>valse Aarsinnaten en een</l>
+					<l>order die 2 meide hiel aen</l>
+					<l>stathuijs te brenge 1 matras#</l>
+					<l>en Strooisak 2 lakens en</l>
+					<l>een Sersij de <datum datum='1794-07-28' when='1794-07-28'>selven dato</datum> is</l>
+					<l>gevraegt voor de Stat van</l>
+					<l><locatie>Antwerpen</locatie>, 10 milioen livre#</l>
+					<l>frans guldens op 5 dagen te</l>
+					<l>besorgen en dan hebben</l>
+					<l>alde prochij kerken en</l>
+					<l>alle kerke en broederschap</l>
+					<l>al haer silver en gout ge</l>
+					<l>geven op 5 persent gelt, van</l>
+					<l>gelt en op den selven dag</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>7</pagenumber></l>
+					<l>hebben de beste Schilders en</l>
+					<l>uit alle kerken gedaen de</l>
+					<l>alder schoonte Stukken,</l>
+					<l>op den <datum datum='1794-07-02' when='1794-07-02'>2 iuliy</datum> is een order uit</l>
+					<l>gekomen van alle gewere</l>
+					<l>en wapinge tot het minste</l>
+					<l>toe over te brenge in het</l>
+					<l><locatie>Simmenarij</locatie> op Straf van</l>
+					<l>de doot <datum datum='1794-07-30' when='1794-07-30'>30 dieto</datum> een order</l>
+					<l>van niemant van <locatie>franse</locatie></l>
+					<l>militeere te loseeren Son</l>
+					<l>der een biliet ook isser order</l>
+					<l>uit gekomen om de laeguit</l>
+					<l>ende non Siaten leeg te</l>
+					<l>maken, en daer bakoven</l>
+					<l>te maken en daer aen</l>
+					<l>werken dagh en nagt en</l>
+					<l>die S nagh niet werke wou</l>
+					<l>die wier voor 3 dagen op</l>
+					<l><locatie>het Steen</locatie> ofte gevange ge</l>
+					<l>set op <datum datum='1794-08-01' when='1794-08-01'>1</datum> en <datum datum='1794-08-02' when='1794-08-02'>2 augustus</datum> Syn</l>
+					<l>geordineert 4 koperen forne</l>
+					<l>voor de bakovens te versien</l>
+					<l>van 4 tonne nat waervan</l>
+					<l>ik een van heb gemaekt</l>
+					<l><persoonsnaam>ian van aarsen</persoonsnaam> en op den</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>den tijt van 22 ueren dag</l>
+					<l>en nagt op sondagh weegh</l>
+					<l>130 pont op die dag isser een</l>
+					<l>groot verraet ontdeckt en</l>
+					<l>syn 2 generaels by de kop</l>
+					<l>gepakt en gevange geset</l>
+					<l>en na eenige uren na</l>
+					<l><locatie>parijs</locatie> gebrogt midt een</l>
+					<l>koes en daer in geboeidt</l>
+					<l>en midt 300 man op vrid##</l>
+					<l><datum datum='1794-08-06' when='1794-08-01'>1 augustus</datum> wasser geen pott#</l>
+					<l>ofte boter te krygen en</l>
+					<l>geen broot een broot van</l>
+					<l>3 stuivers weegt 2¼ pont</l>
+					<l>en de boter 10 Stuivers</l>
+					<l>alle de levensmiddeleins</l>
+					<l>Soo dier de Seep 10 Stv vleez</l>
+					<l>10 Stuiv den ryst 7 St de</l>
+					<l>mossele 8 guld de ton den</l>
+					<l>8 Hebben daen van de gemeine</l>
+					<l>7 St het pont het kopen  het</l>
+					<l>pont 28 het geel en het root</l>
+					<l>32 de plate 35 de bekkens</l>
+					<l>alle metriale over de helft</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>8</pagenumber></l>
+					<l><datum datum='1794-08-06' when='1794-08-06'>6 augustus</datum></l>
+					<l>dierder want de Stat en lant</l>
+					<l>is Soo vast gesloten dat gy</l>
+					<l>ofte niemant Sonder biliet</l>
+					<l>van generael buiten eene</l>
+					<l>Stadtpoort magh gaan op</l>
+					<l>den <datum datum='1794-08-07' when='1794-08-07'>7</datum> isser een Schip ange</l>
+					<l>slagen dat by de nagt lade</l>
+					<l>om de levensmiddele uit lant</l>
+					<l>te brengen geladen met rijst</l>
+					<l>Suiker koffy tee en tobak</l>
+					<l>en de Schipper is op gevang</l>
+					<l>huis gebragt en moet Segge</l>
+					<l>van wie het goet komt</l>
+					<l>en op den <datum datum='1794-08-07' when='1794-08-07'>7</datum> om 3 ueren is<persoonsnaam> een</persoonsnaam></l>
+					<l><persoonsnaam>priester Sijn naem is van eupe</persoonsnaam></l>
+					<l><persoonsnaam>een aerspriester en groot</persoonsnaam></l>
+					<l><persoonsnaam>kanonnik </persoonsnaam>van Syn huis gehaelt</l>
+					<l>en na <locatie>het Steen</locatie> gebragt den</l>
+					<l><datum datum='1794-08-07' when='1794-08-07'>Selven dag</datum> Syn der 9 Stukke</l>
+					<l>Schildery uit <locatie>onse lieve vrou</locatie></l>
+					<l><locatie>kerk</locatie> gedaen en de kerk is</l>
+					<l>1½ dag gesloten de Stukken</l>
+					<l>Syn het autaer in de koor 2 van</l>
+					<l><persoonsnaam>barbara van Colveniers</persoonsnaam> den</l>
+					<l>noot godts 1 in <persoonsnaam>maria</persoonsnaam> Capel</l>
+					<l>1 <persoonsnaam>St niecolaes</persoonsnaam> 1 uit hand boog autaer</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-08-10' when='1794-08-10'>10 augustus</datum></l>
+					<l>en a</l>
+					<l>en alde kerken en kloosters</l>
+					<l>en Capelle Syn van de alder</l>
+					<l>beste Schildery ofte Stukken</l>
+					<l>in den eene veel en in andere</l>
+					<l>minder op <datum datum='1794-09-07' when='1794-09-07'>7</datum> dato 18 de ge</l>
+					<l>heele wet afgestelt en op</l>
+					<l>den <datum datum='1794-08-07' when='1794-08-07'>9</datum> een nieuwe wet van</l>
+					<l>de Reperentanten alle van</l>
+					<l><locatie>antwerpen</locatie> 41 in het getal</l>
+					<l>daervan is president gestelt</l>
+					<l>den <persoonsnaam>Avokaet de visser</persoonsnaam></l>
+					<l>als hooft van alle en v##</l>
+					<l>de Stald en volgens de</l>
+					<l>wet van de <locatie>franse</locatie> voorge</l>
+					<l>stelt en alles is van de</l>
+					<l><locatie>franse</locatie> in Requisisij ge</l>
+					<l>stelt midt een plakaet</l>
+					<l>woert den tytel van orlog</l>
+					<l>oorlog met kasteelen en peis</l>
+					<l>met de hutten en 10 deser</l>
+					<l>3 van men wet op <locatie>Steen</locatie> geset</l>
+					<l>en daar is een order gekomen</l>
+					<l>om geen twinsten te betalen en</l>
+					<l>daer is onder gekomen om geen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>91</pagenumber></l>
+					<l><datum datum='1794-08-15' when='1794-08-15'>15 Augustus</datum></l>
+					<l>om geen eetwaren ofte brant</l>
+					<l>hout buiten de poort te halen</l>
+					<l>en de boeren ofte den hoveniers</l>
+					<l>en komt niet binne om reden</l>
+					<l>van het papier gelt want</l>
+					<l>elk huis moet Sien dat hy </l>
+					<l>eten krygt en brant en</l>
+					<l>naeu noot bier en qualik</l>
+					<l>dubbelde ienever het Slegt</l>
+					<l>fuer bier een plaket en</l>
+					<l>de jan van 26 de pot de orde</l>
+					<l>8 gulden de Sak 10 mosselen om</l>
+					<l>den ½ Stuiver met voort alles</l>
+					<l>is ins soo dier op den <datum datum='1794-08-13' when='1794-08-13'>13 augus</datum></l>
+					<l>na middag om ½ drie is an het</l>
+					<l><locatie>tugh huis</locatie> een poedermakery</l>
+					<l>gesprongen en 3 a 4 mensen</l>
+					<l>doot en verscheide gekwest</l>
+					<l>en 3 a 4 huisen beschadigt</l>
+					<l>op de <datum datum='1794-08-14' when='1794-08-14'>14 deser</datum> Synder 100 wagens</l>
+					<l>midt proviant voor het leger </l>
+					<l>in gekomen maer nog geen</l>
+					<l>vlees verkocht dat ik groot ge</l>
+					<l>brek daer ik Qualik ######</l>
+					<l>boter  voor gelt te krijgen</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-08-16' when='1794-08-16'>16 augustus</datum></l>
+					<l>daer Sijn in gekomen 6 van de</l>
+					<l>groste Canons en na <locatie>holland</locatie></l>
+					<l>op gekrokken op <datum datum='1794-08-17' when='1794-08-17'>17 dato</datum> heb</l>
+					<l>wy het vlees betaelt 6 Stver</l>
+					<l>en veel mensen koste broot</l>
+					<l>ofte branthout krygen voorge###</l>
+					<l>op <datum datum='1794-08-18' when='1794-08-18'>18 dato</datum> Syn 36 heere pri##</l>
+					<l>koopman en edelmanne</l>
+					<l>als gyselaers midt<hi rend='strikethrough:true;'> abc</hi> Schip</l>
+					<l>uit <locatie>Antwerpe</locatie> gebragt na</l>
+					<l><locatie>gent</locatie> en Syn <datum datum='1794-08-23' when='1794-08-23'>den 23</datum> op 5 na</l>
+					<l>weer tuis gekomen en Soo gaen</l>
+					<l>de Ligting van 10 millionen</l>
+					<l>het part voor den koopman</l>
+					<l>voltrokken was op 20 Syn</l>
+					<l>der voor <locatie>franse</locatie> 10 fornuise</l>
+					<l>gemaekt waervan ik,<persoonsnaam> Jan</persoonsnaam></l>
+					<l><persoonsnaam>van Aarsen</persoonsnaam>, het grooste he##</l>
+					<l>en Swaerste heb gemaekt</l>
+					<l>en allen vertint op den <datum datum='1794-08-22' when='1794-08-22'>22</datum></l>
+					<l><datum datum='1794-08-22' when='1794-08-22'>dato</datum> gelevert wegen 116 pont</l>
+					<l>het pont koper kosten 28 Stuiv</l>
+					<l>geel en root koper 35 Stuiv</l>
+					<l>de boras 6 gulden en Salmoniak</l>
+					<l>16 Schellinge de buskolen 5 gulde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>10</pagenumber></l>
+					<l><datum datum='1794-08-25' when='1794-08-25'>25 Augustus</datum></l>
+					<l>de Steenkolen 3 gulde de emerdeel</l>
+					<l>op den<datum datum='1794-08-22' when='1794-08-22'> 22 dito</datum> is van de <locatie>franse</locatie></l>
+					<l>een wet gestelt ofte ordinansie</l>
+					<l>het goet bier 5 Stuiv de pot en </l>
+					<l>de Boter 10 St het Vlees 6 St.</l>
+					<l>Spek 8 Stuiv en de dag huer</l>
+					<l>is van de <locatie>fransen</locatie> gestelt op</l>
+					<l>5 oorden de Stuiver maer alles</l>
+					<l>is qualik te krijgen en veele</l>
+					<l>armen mensen hebben ge</l>
+					<l>brek gehadt en na buiten</l>
+					<l>gegaen met een pas wel 2</l>
+					<l>a 3 ueren wyt midt gelt want</l>
+					<l>buiten en binne waren wel</l>
+					<l>300 derde die geen papier ont</l>
+					<l>fangen en wouden en de</l>
+					<l>brouweryen wiert het bier</l>
+					<l>warm wegh gehaelt van</l>
+					<l>markitentsers dat in Stat</l>
+					<l>bier gebrek was ik selver</l>
+					<l>hep op <datum datum='1794-08-22' when='1794-08-22'>22 dato</datum> S avons in de</l>
+					<l>8 herberg bier gekregen</l>
+					<l>en dat was nogh Suer</l>
+					<l>en daer Syn veel herberge ge</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-08-30' when='1794-08-30'>30 Augustus</datum></l>
+					<l>wel 20 Tegen een daer bier</l>
+					<l>off ianever 18 maar alle</l>
+					<l>huisen gesloten op <datum datum='1794-08-25' when='1794-08-25'>25 dieto</datum></l>
+					<l>hebbe wy in <locatie>antwerpen</locatie></l>
+					<l>geviert van valensyn</l>
+					<l>herwonne en Conde en</l>
+					<l><locatie>Sluis in vlaandere</locatie> met</l>
+					<l>kip@iilasi aen <locatie>fransen</locatie></l>
+					<l>overgegaen en 100 Stuk</l>
+					<l>Canon honderduisent pont</l>
+					<l>poeder en op<datum datum='1794-08-28' when='1794-08-28'> 28 augustus</datum></l>
+					<l>heb ik <persoonsnaam>ian van aarsen</persoonsnaam> ge</l>
+					<l>kocht by den ouden</l>
+					<l>kannaert op <locatie>klein mart</locatie></l>
+					<l>7 pont geel koper tegen</l>
+					<l>60 Stuivers het pont en</l>
+					<l>vraegde myn voor root</l>
+					<l>koper 80 Stuivers het </l>
+					<l>pont en dat om de rede</l>
+					<l>van papiergelt van agsin##</l>
+					<l>maar het is een bloet af</l>
+					<l>perser en een dwinlander</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-08-30' when='1794-08-30'>30 augustus</datum></l>
+					<l>ik heb gesien 5 peeren om 2 gul</l>
+					<l><locatie>frans</locatie> gelt en 2 kroppe Selat</l>
+					<l>voor 5 Stuiv op <datum datum='1794-08-31' when='1794-08-31'>31 dieto</datum> Sondag</l>
+					<l>isser victory gebrant over</l>
+					<l>het over gaan van Conde</l>
+					<l>en is de vaert op<locatie> brussel</locatie></l>
+					<l>open gegaen die 5 weken</l>
+					<l>gesloten was en op <locatie>gent</locatie></l>
+					<l>en al de molens Syn in</l>
+					<l>igwisisij genomen en hebbe</l>
+					<l>3 dagen voor <locatie>franse</locatie> militare</l>
+					<l>moeten malen en daer Syn</l>
+					<l>20 wint molens en 4 water</l>
+					<l>molens en toen is het gestel</l>
+					<l>op 8 wintmolens en 4 water</l>
+					<l>molens voor de Stadt en godt</l>
+					<l>komt onse Stadt op desen tyt</l>
+					<l>te besoeken met 3 plagen voor</l>
+					<l>onsen Sonden met groote Siekte</l>
+					<l>van roode loop en met een</l>
+					<l>dieren tyt en een langduere</l>
+					<l>oorlog en Stadt onder Sware </l>
+					<l>konter buesi Self treffilike</l>
+					<l>borgers werden getakseert</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-09-06' when='1794-09-06'>6 September</datum></l>
+					<l>Self de grooten ambagt</l>
+					<l>lieden op 100 oft 200 ofte</l>
+					<l>30 hondert en guldens daer</l>
+					<l>is ordenansy die 2 of ofte3  meidt</l>
+					<l>hout op een dagh 3 pont out</l>
+					<l>lywaet ofte 2 pont pluk voor</l>
+					<l>de gekwesten soldaten op den</l>
+					<l><datum datum='1794-09-07' when='1794-09-07'>7 dieto </datum>Syn wel in 20 heeren</l>
+					<l>huisen van grooste Soldaten</l>
+					<l>in gelegt voor brakke in</l>
+					<l>de huisen die gevlugt Syn</l>
+					<l>tot in het bisdom toe daer</l>
+					<l>hangt een 3 koleurig vendel</l>
+					<l>en den bisschop is vlugtig</l>
+					<l>en is getakseert op Conterbus</l>
+					<l>250 dusent Livers en <datum datum='1794-09-05' when='1794-09-05'>5 dieto</datum></l>
+					<l>syn alle die gevlugt Syn in</l>
+					<l>geroepen op 35 dagen tyt naer</l>
+					<l>tuis te komen ofte niet</l>
+					<l>komende alles is gekonfisker</l>
+					<l>en huis goederen lant en</l>
+					<l>aldat Sy hebben gelaten</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-09-08' when='1794-09-08'>8 September</datum></l>
+					<l>isser een ordenansy naer midda</l>
+					<l>om 2 uerer op de <locatie>paerdemart</locatie></l>
+					<l>al die paarde die in<locatie> antwerpe</locatie></l>
+					<l>Syn op de <locatie>paarmart</locatie> te komen</l>
+					<l>om daer het 20 paert uit</l>
+					<l>te halen volgens het getaxsee</l>
+					<l>wort wort ik heb <datum datum='1794-09-08' when='1794-09-08'>8 dieto</datum> een</l>
+					<l>Stoof verkogt voor 85 <locatie>franse</locatie></l>
+					<l>guldens en op <datum datum='1794-09-12' when='1794-09-12'>12</datum> een ordinanse</l>
+					<l>dat alle bakkers 4 keere op</l>
+					<l>een dagh moesten bakken het</l>
+					<l>broot voor burger en Soldaate</l>
+					<l>en elke bakker een Schilwagt</l>
+					<l>in Syn huis op den<datum datum='1794-09-13' when='1794-09-13'> 13 dieto</datum></l>
+					<l>isser brant int <locatie>huis van</locatie></l>
+					<l><locatie>poortegael int kiedorp</locatie> brant</l>
+					<l>ontstaen deur de<locatie> fransen</locatie></l>
+					<l>Soldaten die 400 honderten</l>
+					<l>lag en maer is wel geblust</l>
+					<l><datum datum='1794-09-16' when='1794-09-16'>16 dieto</datum> Synder wel 600 kryg</l>
+					<l>gevangen in de Stat gebragt</l>
+					<l><datum datum='1794-08-17' when='1794-08-17'>17 dieto</datum> over 900 weer, en op het</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-09-20' when='1794-09-20'>20 September</datum> <datum datum='1795-01-01'>nieu iaerdag</datum></l>
+					<l><datum datum='1795-01-01'>van <locatie>fransen</locatie> van iaer 1795</datum></l>
+					<l>isser een nieu wet gemaekt</l>
+					<l>alle van burgers en kleine</l>
+					<l>kooplieden en winkeliers</l>
+					<l>opper Schout van hospitale</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><persoonsnaam>wouters sch</persoonsnaam></l>
+					<l><persoonsnaam>onder Schout</persoonsnaam></l>
+					<l><persoonsnaam>dargon</persoonsnaam></l>
+					<l><persoonsnaam>Burgemeester</persoonsnaam></l>
+					<l><persoonsnaam>de haenkst</persoonsnaam></l>
+					<l>Schepenen</l>
+					<l><persoonsnaam>bomberge</persoonsnaam></l>
+					<l><persoonsnaam>Rein wit</persoonsnaam></l>
+					<l><persoonsnaam>Silvestere</persoonsnaam></l>
+					<l><persoonsnaam>Solvens</persoonsnaam></l>
+					<l><persoonsnaam>bartole</persoonsnaam></l>
+					<l><persoonsnaam>de moor</persoonsnaam></l>
+					<l><persoonsnaam>van Losim</persoonsnaam> en te</l>
+					<l>dat bit Son</l>
+					<l><persoonsnaam>van daale</persoonsnaam></l>
+					<l><persoonsnaam>baltens</persoonsnaam></l>
+					<l><persoonsnaam>Rein wit</persoonsnaam></l>
+					<l>eikens </l>
+					<l>verrouens</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>van buers</l>
+					<l><persoonsnaam>matteeu</persoonsnaam></l>
+					<l><persoonsnaam>pendere</persoonsnaam></l>
+					<l><persoonsnaam>de Smet</persoonsnaam></l>
+					<l><persoonsnaam>Schnerlings</persoonsnaam></l>
+					<l><persoonsnaam>van Parijs</persoonsnaam></l>
+					<l><persoonsnaam>van Sin@nsy</persoonsnaam></l>
+					<l><persoonsnaam>gerardij</persoonsnaam></l>
+					<l><persoonsnaam>hargoude</persoonsnaam></l>
+					<l>blomberges trosilie</l>
+					<l>Libens 2 tri Sorg</l>
+					<l>van Requesisy</l>
+					<l>met penningen</l>
+					<l><persoonsnaam>michielsens</persoonsnaam></l>
+					<l><locatie>bultens</locatie></l>
+					<l><persoonsnaam>middegart</persoonsnaam></l>
+					<l><persoonsnaam>kosterum</persoonsnaam></l>
+					<l><persoonsnaam>bastens en Soon</persoonsnaam></l>
+					<l>van Levens midde@</l>
+					<l>Solvens</l>
+					<l>minderbeken</l>
+					<l>de wet in gehe##</l>
+					<l>33 persone</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>Op den <datum datum='1795-09-25'>25September <locatie>franse</locatie>   1795</datum></l>
+					<l>op Casteel gebracht meesten deel</l>
+					<l><locatie>hollander</locatie> en <locatie>engelse</locatie> en <locatie>hesse</locatie></l>
+					<l>op <datum datum='1795-09-25'>25</datum> Syn 10 koperen pontons</l>
+					<l>op wagen met Syn balken en</l>
+					<l>toebehooren na <locatie>Sas van gent</locatie></l>
+					<l>en na <locatie>hulst</locatie> vertrokken het</l>
+					<l>model van ponte en de maet</l>
+					<l>van bove 16 voet</l>
+					<l>hoog 5 voet</l>
+					<l>van onder 12 voet</l>
+					<l>en op <datum datum='1795-09-26'>26 dato</datum> Syn tus 8 a 9 dusen</l>
+					<l>man na <locatie>Sas van gent</locatie> en</l>
+					<l><locatie>hulst</locatie> getrokken en op den</l>
+					<l><datum datum='1795-09-26'>Selven dato</datum> isser in <locatie>antwerp</locatie></l>
+					<l>in <locatie>huis van edegem in</locatie></l>
+					<l><locatie>aguste Straet</locatie> de regtbank</l>
+					<l>van <locatie>vrankeryk</locatie> gekomen</l>
+					<l>en in 3 dagen een Saek van</l>
+					<l>krimineel oft Siviel gevon</l>
+					<l>nes te worden te niet ofte</l>
+					<l>doot en op die tyt wort alles</l>
+					<l>gevonnes wat Saek het is</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l>op den <datum datum='1794-10-10' when='1794-10-10'>10 october</datum></l>
+					<l>is den ront gast van pues</l>
+					<l>S avons om 6 ueren op de plein</l>
+					<l>van het kasteel voor de kop</l>
+					<l>doot geschoten om reden van</l>
+					<l>de <locatie>franse</locatie> republieck te laste</l>
+					<l>en ver vloeken op den <datum datum='1794-10-11' when='1794-10-11'>11 dieto</datum></l>
+					<l>is hier de tyding gekomen</l>
+					<l>om 1 ueren op noen dat</l>
+					<l>de <locatie>Stadt van S ertogen bos</locatie></l>
+					<l>is aen de <locatie>fransen</locatie> overgegaan</l>
+					<l>en ten 2 ueren hebben alle </l>
+					<l>de klokken van de Statd een</l>
+					<l>uer geluidt en op <datum datum='1794-10-02' when='1794-10-02'>2 dieto</datum></l>
+					<l>sijn in de <locatie>kloster van victori</locatie></l>
+					<l><locatie>in korte nieu Strat</locatie> antwerk</l>
+					<l>gegaen om een nieu hospitael</l>
+					<l>te maken voor de Sieken en</l>
+					<l>gekwesten in <locatie>klooster van</locatie></l>
+					<l><locatie>nonsiaten</locatie> is een bakkerij</l>
+					<l>van kerk gemaakt daer Syn</l>
+					<l>12 ovens gemaekt om broot te</l>
+					<l>bakken en tussen dag en nagt</l>
+					<l>bakken Sy 72 dusent brooden</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-10-12' when='1794-10-12'>12 october</datum></l>
+					<l>en dat gaet dagh en nagt sonde</l>
+					<l>op houden en de laeguit is</l>
+					<l>ook een bakkeri van 4 ovens</l>
+					<l>en op kasteel ook een van</l>
+					<l>4 ovens die 2 bakken nog ins</l>
+					<l>te Samen 36 duisent broode</l>
+					<l>soo dat te Samen de 3 plase</l>
+					<l>over de hondert duisent</l>
+					<l>brooden van 3 pont 2 Sakke</l>
+					<l>terf 1 Sak rogge meel en</l>
+					<l>het is goet broot want ik</l>
+					<l>heb Self veel van gegeten</l>
+					<l>met myn huishouding en</l>
+					<l>dat broot is niet anders</l>
+					<l>als voor de <locatie>fransen</locatie> militare</l>
+					<l>en dat wort dag en nagt</l>
+					<l>af gehaelt midt wagens maer</l>
+					<l>daer is in de Stadt voor een</l>
+					<l>burger qualik broot te kryge</l>
+					<l>by de bakkers gaet by 10 dan</l>
+					<l>heb nog geen broot dat moet</l>
+					<l>versloken worde voor klanten</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>op den <datum datum='1794-10-16' when='1794-10-16'>16 october</datum></l>
+					<l>isser een ordinansy ge</l>
+					<l>komen dat de bakker 2 </l>
+					<l>mael broot moete bakke</l>
+					<l>moeten en uit deilen</l>
+					<l>Smorgens om 8 ueren en</l>
+					<l>na middag om 4 ueren</l>
+					<l>op den <datum datum='1794-10-28' when='1794-10-28'>28 october</datum> Smorgens</l>
+					<l>om 11 ueren, is het ven</l>
+					<l>vendel midt de roode</l>
+					<l>mus boven op en nog een</l>
+					<l>van del op ons <locatie>Lievrouen</locatie></l>
+					<l><locatie>tooren</locatie> op de 2 galderij</l>
+					<l>uit gespanne en 3 koleur#</l>
+					<l>van root wit en blaeu</l>
+					<l>22 is een gebot van Stadt</l>
+					<l>gekomen dat alleman</l>
+					<l>tot de kleine kinde toe</l>
+					<l>moeten Cokarden dragen</l>
+					<l>van 3 koleuren op 6 guld</l>
+					<l>boet 23 is een bagijn mid</l>
+					<l>de meidt gevangen geset</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op den<datum datum='1794-10-25' when='1794-10-25'> 25 october</datum></l>
+					<l>en hooft te geven 29 gulden</l>
+					<l><locatie>franse</locatie> gelt ook veel andere</l>
+					<l>soo mans als vrouwe en</l>
+					<l>op <datum datum='1794-10-23' when='1794-10-23'>den 23</datum> isser op <locatie>kasteel</locatie></l>
+					<l><locatie>plein</locatie> S avonds om 5 ueren een</l>
+					<l>priester van <locatie>frankeryk</locatie> ge</l>
+					<l>vlugt, maer hier in <locatie>antw</locatie></l>
+					<l>gewyt in Syn priesterlyke</l>
+					<l>Swarte toog en mantel</l>
+					<l>voor de kop geschoten en</l>
+					<l>op de Selven plaes begrave</l>
+					<l>op den Selven tyt bekent</l>
+					<l>heeeft dat hy over en weer</l>
+					<l>brieven heeft geschreven</l>
+					<l>na de viant ge na de overste</l>
+					<l>van <locatie>franse</locatie> vlugtelinge en</l>
+					<l>op 3 dagen gevangen en doot</l>
+					<l><datum datum='1794-10-26' when='1794-10-26'>26</datum> een gebot dat alle huise</l>
+					<l>haer kakhuisen Soo veel</l>
+					<l>als ider huis heeft op een</l>
+					<l>boet van 500 guldens van</l>
+					<l>elk kakhuis en tusse</l>
+					<l>21 ueren te betalen of vast</l>
+					<l>geset</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l>den <datum datum='1794-10-25' when='1794-10-25'>25 october</datum> int <locatie>frans</locatie></l>
+					<l><datum datum='1794-10-24'>Sondag 24</datum> om 11½ eren hebbe</l>
+					<l>alde klokken van Stadt geluit</l>
+					<l>over het overgaen van 4 Stede</l>
+					<l>van plipinen <locatie>Sas van gent</locatie></l>
+					<l><locatie>Axsel</locatie> en de <locatie>Stat van hulst</locatie></l>
+					<l>en daer over geviert op den</l>
+					<l><datum datum='1794-10-29' when='1794-10-29'>29 dieto</datum> hebben wij boter</l>
+					<l>en broot in <locatie>Capel van de</locatie></l>
+					<l><locatie>huivetters</locatie> voor papier gelt</l>
+					<l>rijk en arm niemant over</l>
+					<l>geslagen nog niemant mogt</l>
+					<l>weigeren want Sy brogte</l>
+					<l>een gedrukt kartie tuis</l>
+					<l>op <datum datum='1794-10-29' when='1794-10-29'>29 dieto</datum> is de <locatie>abdij van</locatie></l>
+					<l><locatie>St michiels</locatie> gesloten en</l>
+					<l>mandag <datum datum='1794-11-03' when='1794-11-03'>3 november</datum> hebben</l>
+					<l>all 11 koopen van haer goedere</l>
+					<l>van lant huisen. en bosse</l>
+					<l>en hoven en weiden ver</l>
+					<l>kogt en kloosten en kerk</l>
+					<l>is gesloten op<datum datum='1794-10-31' when='1794-10-31'> 31</datum> is de tiding</l>
+					<l>gekomen dat de Stadt</l>
+					<l><locatie>Cobelens</locatie> is aen de <locatie>franse</locatie></l>
+					<l>en de Stadt <locatie>vendelo</locatie> is</l>
+					<l>over gegaen mid Captilasi</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1794-11-25'>Brumare 25 van weymaent</datum></l>
+					<l>Op den<datum datum='1794-10-31' when='1794-10-31'> 31 october</datum> op mid</l>
+					<l>dag om 12 ueren onder</l>
+					<l>Het gelüy van alle klokk</l>
+					<l>van de Stadt en alde Statd</l>
+					<l>Musikanten en van de</l>
+					<l><locatie>fransen</locatie> Speelders onder</l>
+					<l>het geley van 60 ionge</l>
+					<l>dogters geleidt door 66 manne</l>
+					<l>van</l>
+					<l>int wit gekleet</l>
+					<l>de plaes de meer geleidt</l>
+					<l>tot op de <locatie>groote mart tot</locatie></l>
+					<l><locatie>voor het Stadt huis</locatie> en is</l>
+					<l>in gront geset om 12 ueren</l>
+					<l>Syn een levende groeiende</l>
+					<l>Eiken boom midt houten</l>
+					<l>kast vol van 3 koleur de linte</l>
+					<l>elk dogter een lint voor haer</l>
+					<l>hart en op de mart daer af</l>
+					<l>gedaen en an den boom ge</l>
+					<l>bonden leggende en doe 5</l>
+					<l>levend duive laet opvliegen</l>
+					<l>toe boom was geregt onder</l>
+					<l>3 <locatie>franse</locatie> liedekens midt</l>
+					<l>alle instrimente klokspel</l>
+					<l>en draien van hoeden</l>
+					<l>AFBEELDING</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l>op <datum datum='1794-10-31' when='1794-10-31'>31 october</datum></l>
+					<l>is na de middag om 3 ueren</l>
+					<l>op het <locatie>Casteel van antwerp</locatie></l>
+					<l>den boom van vryheidt</l>
+					<l>geplant op den Selve dag</l>
+					<l>Syn de wapens voor <locatie>het</locatie></l>
+					<l><locatie>Stadt huis</locatie> uitgekapt</l>
+					<l>en toe den boom is gepl##</l>
+					<l>op de mart isser en vrinde</l>
+					<l>lyk Aenspraak voor den</l>
+					<l>boom gedaen deur den</l>
+					<l>opper Generael in <locatie>frans</locatie></l>
+					<l>hart op gesproken en doen</l>
+					<l>heeft hy een gift gegeven</l>
+					<l>aen de armen en burgers</l>
+					<l>van 6 duisent 8 hondert</l>
+					<l>en 80 brooden van 5  pont</l>
+					<l>en briefken van 5 Stuivers</l>
+					<l>bij elk broot is naer de</l>
+					<l>middag uit gedeilt en 3</l>
+					<l>dagen de klokken van Stat</l>
+					<l>geluidt en alde toorens een</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>den <datum datum='1794-11-02' when='1794-11-02'>2 november </datum>aeditor <locatie>frans</locatie></l>
+					<l>3 gekoleurt vaendel en an</l>
+					<l>boofsten van tooren en uit </l>
+					<l>gespanne dat altyt open is</l>
+					<l><datum datum='1794-11-02' when='1794-11-02'>2 november</datum> syn alle remonstra</l>
+					<l>uit de kerken en kapelle en</l>
+					<l>al het gout en silver gewerk </l>
+					<l>en ongewerkt na de Cas Van </l>
+					<l>Conterbusy gegaen en nog </l>
+					<l>den<datum datum='1794-11-06' when='1794-11-06'> 6 dieto</datum> is eerplacaet van </l>
+					<l>Stadt wegen uit getrompet </l>
+					<l>van aen burgery haer </l>
+					<l>gout en silver over te brenge </l>
+					<l>om de Conterbusy voltemak</l>
+					<l>den <datum datum='1794-11-06' when='1794-11-06'>6 dieto</datum> saevons om 7 ueren </l>
+					<l>heeft de groote klock geluit </l>
+					<l>is tyding gekomen van het </l>
+					<l>over gaen van <locatie>Mastright </locatie></l>
+					<l>en <locatie>dusseldorp</locatie> aen den rijn </l>
+					<l>op den <datum datum='1794-11-08' when='1794-11-08'>8 november</datum> is <locatie>nimwegen</locatie> </l>
+					<l>aende <locatie>fransen</locatie> over gegaen en </l>
+					<l>op den <datum datum='1794-11-12' when='1794-11-12'>12 dieto</datum> is <locatie>mastrigt</locatie> aen</l>
+					<l>de <locatie>fransen</locatie> overgegaen en </l>
+					<l>hebben daer gevonden 365 </l>
+					<l>Canons en veel buspoeder</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l>den <datum datum='1794-11-18' when='1794-11-18'>18 november</datum></l>
+					<l>isser een plakaet van al het</l>
+					<l>Silver en gout van alle man</l>
+					<l>heeft moeten overgebrogt worde</l>
+					<l>tot vol maken van Conterbusy</l>
+					<l>Soo dat niemant van gout ofte</l>
+					<l>Silver kost verkoopen voor</l>
+					<l>gelt maer wel voor papier</l>
+					<l>ofte acsennaten op den <datum datum='1794-11-25' when='1794-11-25'>25 novemb#</datum></l>
+					<l>Syn vridag om 4½ ueren Syn</l>
+					<l>de paters Lievrou broeders</l>
+					<l>paaer en paer uit het</l>
+					<l>Clooster gegaen en ver</l>
+					<l>huist by de Paters Carme</l>
+					<l>lieten Liskalsters en</l>
+					<l>hebben alles wat op haer</l>
+					<l>Cel ofte kamers mede</l>
+					<l>genomen en al hun kerk</l>
+					<l>gewaet wat Sy noodig</l>
+					<l>hadden mede genomen</l>
+					<l>en het Clooster en kerk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op den <datum datum='1794-11-30' when='1794-11-30'>30 november</datum> Liermare</l>
+					<l>en in kerk is op beste tombe</l>
+					<l>opgeregt een Schoon beelt</l>
+					<l>Syn een iong vroupersoon</l>
+					<l>de naem de godt van reden</l>
+					<l><datum datum='1794-11-30' when='1794-11-30'>op den 30 </datum>Synde Sondag op St andri</l>
+					<l>Syn S morgens om 9 ueren</l>
+					<l>3 wagens en 1 Canon deur</l>
+					<l>de Stadt triumfwagens</l>
+					<l>op plaesde meers een 6 pond</l>
+					<l>Canon van man getrokken</l>
+					<l>2 een wagen met 6 paerde</l>
+					<l>getrokken met hooge Setel</l>
+					<l>van 5 trappen verbelde</l>
+					<l>een Suiveren maegt met</l>
+					<l>een kint of 2 op de trappe</l>
+					<l>van Liefde 2 wagen met</l>
+					<l>6 paerde en 3 koleuriggede#</l>
+					<l>met musikanten en al</l>
+					<l>gespel en in midden van</l>
+					<l>wagen was een tombe</l>
+					<l>mid een roode tripe tapeit</l>
+					<l>daer een belt ofte borst</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-11-30' when='1794-11-30'>30 november</datum></l>
+					<l>belt verbeelden een gewaend</l>
+					<l>afgodt half gekleet maer</l>
+					<l>borten open en levensgroot</l>
+					<l>gemaekt van aarden het</l>
+					<l>hooft versiert met 3 koleur#</l>
+					<l>linten maer reden agt##</l>
+					<l>waers en nam het op</l>
+					<l>Sigt op de 3 wagen was</l>
+					<l>het Schvot en de galg en</l>
+					<l>de leer en an de galg</l>
+					<l>hong een Schilderij leven</l>
+					<l>groote verbeelde de keiser</l>
+					<l>wees met de hant op de</l>
+					<l>Scheepvaert maer tusse</l>
+					<l>Syn kant en Schip was</l>
+					<l>een Spleet open gelaten</l>
+					<l>de wagen of Schvot was</l>
+					<l>versiert met 10 wapens</l>
+					<l>vermelden 10 provensijen</l>
+					<l>en agter de galg was de</l>
+					<l>pynbank geessel pael</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1794-11-30' when='1794-11-30'>30 november</datum></l>
+					<l>wergpael radt en alle</l>
+					<l>pynnende instrumenten</l>
+					<l>daer de mensen meden ge</l>
+					<l>pynnig hebben op radt lei</l>
+					<l>de keisers kroon midt den</l>
+					<l>weerels bol, en voor het rat</l>
+					<l>lei den Staf van bischop</l>
+					<l>en om ½ twalif voor de</l>
+					<l>middagh is daer den</l>
+					<l>brant in gestoken en</l>
+					<l>alles is tot assen toe ver</l>
+					<l>brant midt vol gespel#</l>
+					<l>en honder van mensen</l>
+					<l>om aen te Sien op 30 dieto</l>
+					<l>is romtom <locatie>Casteelplein</locatie></l>
+					<l>paardestallen gemaekt</l>
+					<l>op <datum datum='1794-12-06' when='1794-12-06'>6 desember</datum> hebbe alde</l>
+					<l>burgers moeten verhuis</l>
+					<l>en de plein is afgeslote</l>
+					<l>te <locatie>enthoven</locatie> is de kerk de</l>
+					<l>solder invalle en 5 mense </l>
+					<l>doot valle</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-12-15' when='1794-12-15'>15 desember</datum></l>
+					<l>Synder de geheelen Stadt</l>
+					<l>tegen de blinde mueren</l>
+					<l>paardestalle gemaekt</l>
+					<l>voor 15 duesen paarden</l>
+					<l>en de geheele plein van</l>
+					<l><locatie>Casteel </locatie>op dien tyt is de</l>
+					<l><locatie>Luisen poort plein</locatie> geleit</l>
+					<l>op den <datum datum='1794-12-22' when='1794-12-22'>22 dieto</datum> is de beurs</l>
+					<l>aen 4 kanten toe gemak</l>
+					<l>voor een magesyn van</l>
+					<l>Canon en op dien tyt</l>
+					<l>waren meestendeel de</l>
+					<l>herbergen uitgescheide</l>
+					<l>van bier te tappen ik</l>
+					<l>Selver mid myn vrou</l>
+					<l>en 10 andere vrouwe</l>
+					<l>en mans in een vrykame#</l>
+					<l>en het noenmael gegeten</l>
+					<l>en tot in voor avent</l>
+					<l>moesten weggaen en ons</l>
+					<l>gelt dat wy te goet hadde</l>
+					<l>op een ande tyt verteere</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1794-12-26' when='1794-12-26'>26 desember</datum></l>
+					<l>S morgens om 11 ueren is de</l>
+					<l>Tyding gekomen en de klok</l>
+					<l>geluidt alsdat de <locatie>franse</locatie></l>
+					<l>Sig meester gemaekt</l>
+					<l>hebben van de Linij buite</l>
+					<l><locatie>breda </locatie>en heel en gans ver</l>
+					<l>slagen en 800 man kryg </l>
+					<l>gevangen en 100 Stuk Canon</l>
+					<l>en veelen paarde en</l>
+					<l>wagens en levensmiddelen</l>
+					<l>op<datum datum='1794-12-23' when='1794-12-23'> den 23</datum> is de tyding gekom</l>
+					<l>naer middag om 1 ueren</l>
+					<l>midt luiden van de klokke</l>
+					<l>van het Sterkte het<locatie> vort</locatie></l>
+					<l><locatie>St Andries op het bommel</locatie></l>
+					<l><locatie>eilant</locatie> met groote buit</l>
+					<l>en van de Sluisen van</l>
+					<l>de <locatie>graef </locatie>van Cant van </l>
+					<l><locatie>Ravestein</locatie> en van Cant</l>
+					<l>van <locatie>boxmeer </locatie>daer Syn </l>
+					<l>de <locatie>fransen </locatie>in geloope</l>
+					<l>overt ijs en het lant</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l><datum datum='1794-12-30' when='1794-12-30'>30 desember</datum></l>
+					<l>is om 12 ueren de tyding ge</l>
+					<l>komen mid de klokken en</l>
+					<l>het blasen van de trompet</l>
+					<l>de overgang van de Stadt</l>
+					<l>de graaf midt een Sterk </l>
+					<l>Canonnering midt</l>
+					<l>peder wagens en paerde</l>
+					<l>maer geen levens middele</l>
+					<l>maaer groot gebrek voor</l>
+					<l>de burgers en alles kryg</l>
+					<l>gevangen en de er ware</l>
+					<l>de meeste van volk was</l>
+					<l><locatie>franse</locatie> en andere emarie</l>
+					<l><datum datum='1794-12-31' when='1794-12-31'>31 desember</datum> is het fegat</l>
+					<l>dat voor bats lag midt</l>
+					<l>30 Stuk Canon Syn kabels</l>
+					<l>deur ijs afgesnede en</l>
+					<l>S nags gedreven voor den</l>
+					<l>doel op een droogten</l>
+					<l>maer was buiten de</l>
+					<l>Canon Scheute van <locatie>lillo</locatie></l>
+					<l>en daer meden ist iaer einde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op den <datum datum='1795-01-08' when='1795-01-08'>8 dagh van Jaer 1795</datum></l>
+					<l>ik Sal U Leser midt nieu</l>
+					<l>iaer ins laten weten, daer</l>
+					<l>ofte omtrent van kerken en</l>
+					<l>kloosters en heerenhuisen,</l>
+					<l>dat de <locatie>fransen</locatie> in gebruik</l>
+					<l>hebben genomen van die</l>
+					<l>gevlugt Syn in <locatie>antwerpen</locatie></l>
+					<l>de <locatie>kerk van Carolus</locatie> ofte de</l>
+					<l><locatie>iusewieten Lievrou broers</locatie></l>
+					<l><locatie>kerk</locatie> en klooster geheel en</l>
+					<l>gans de kerk van huwet</l>
+					<l>ters dat Syn 3 kerken en</l>
+					<l>alde mans kloosters leid</l>
+					<l>meel, rogge en Terf hooy</l>
+					<l>en Strooi daer worden</l>
+					<l>van heerenhuisen bewoont</l>
+					<l>van <locatie>fransen </locatie>136 en op alle</l>
+					<l>kamers hoegenaent tot</l>
+					<l>in de kelders en op de</l>
+					<l>Solders te <locatie>brussel </locatie>190</l>
+					<l>huisen te <locatie>meggelen</locatie> 98</l>
+					<l>te <locatie>Lier</locatie> 65 <locatie>Leuven</locatie> 105</l>
+					<l>in de Steeden binnepoort</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l><datum datum='1795-01-07' when='1795-01-07'>7 Hanuary 1795</datum></l>
+					<l>op den <datum datum='1794-12-18' when='1794-12-18'>18 desember</datum> is het gaen</l>
+					<l>vriesen tot op <datum datum='1795-01-06' when='1795-01-06'>6 syn koning</datum></l>
+					<l><datum datum='1795-01-06' when='1795-01-06'>dag</datum>, is gaen ontlaten maar</l>
+					<l>op <datum datum='1794-12-24' when='1794-12-24'>kers avont</datum> en <datum datum='1794-12-25' when='1794-12-25'>kersdag</datum></l>
+					<l>is het op syn kousten ge</l>
+					<l>weest want barometer</l>
+					<l>van <locatie>Leuven</locatie> heeft Soo</l>
+					<l>laag als <datum datum='1740-xx-xx' when='1740-xx-xx'>iaer 40</datum> en</l>
+					<l>5 grader minder als</l>
+					<l><datum datum='1709-xx-xx' when='1709-xx-xx'>het jaer 1709</datum> en op den</l>
+					<l><datum datum='1795-01-05' when='1795-01-05'>5 dieto</datum> des nag hebben quaet</l>
+					<l>willig mensen de 2 belden</l>
+					<l>van <persoonsnaam>ioannes</persoonsnaam> en <persoonsnaam>maria</persoonsnaam></l>
+					<l>deerelyk mishandelt</l>
+					<l>midt kop en hande afte</l>
+					<l>kappen en op Selfde nagt</l>
+					<l><locatie>de Lievrou aen de 5 hoe##</locatie></l>
+					<l>ook mishandelt op vide</l>
+					<l>Seerbaer op <datum datum='1795-01-02' when='1795-01-02'>den 2 dieto</datum></l>
+					<l>is de tijding gekomen</l>
+					<l>van over gaen van den</l>
+					<l><locatie>oudenbos</locatie> en <locatie>Sevenberge</locatie></l>
+					<l>midt veroveren van la##</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op <datum datum='1795-01-10' when='1795-01-10'>den 10 ianuary</datum></l>
+					<l>op verloren maendag Syn ik</l>
+					<l>na <locatie>bergom</locatie> gegaen om 3 ueren</l>
+					<l>na middag en heb nieuwers</l>
+					<l>geen bier kunne krygen en</l>
+					<l>Syn tuis gekomen, Sonder</l>
+					<l>bier te drinken en op den</l>
+					<l>Selven dato kost geen bier</l>
+					<l>in Stadt kinnen krygen en</l>
+					<l>op <datum datum='1795-01-23' when='1795-01-23'>23 ianuary</datum> is de tyding midt</l>
+					<l>klok luiding gekomen van over</l>
+					<l>gaen van <locatie>Arem</locatie> in <locatie>gelder</locatie></l>
+					<l><locatie>lant</locatie> op <datum datum='1795-01-24' when='1795-01-24'>24 </datum>is het iaer gety</l>
+					<l>gehouden van doot van</l>
+					<l><persoonsnaam>koning Lodewyk 16</persoonsnaam> van</l>
+					<l><locatie>vrankryk</locatie> op mert en daer </l>
+					<l>is een tiater geset van nieu</l>
+					<l>planken en van binne een</l>
+					<l>preekstoel en daer is een an</l>
+					<l>spraek gedaen in form van</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l><datum datum='1795-01-26' when='1795-01-26'>26 ianuary 1795</datum></l>
+					<l>den tempel van Reden en</l>
+					<l>van ionge dogter van 8 of</l>
+					<l>9 iaer maer treffelyk ge</l>
+					<l>kleet en het water was</l>
+					<l>in vierkant met 7 trappe</l>
+					<l>en onder trap was 30 voet</l>
+					<l>lang en boven 9 voet en op</l>
+					<l>dien Selver tyt heeft het</l>
+					<l>Canon 3 Sersy geschoten en</l>
+					<l>van 600 man 3 Sersi uit de</l>
+					<l>Snaphanen midt luiden van</l>
+					<l>grooten klok en Spel en van</l>
+					<l>den beyaert, en op <datum datum='1795-01-26' when='1795-01-26'>dien Selve</datum></l>
+					<l><datum datum='1795-01-26' when='1795-01-26'>dag</datum> is het kousten dag ge</l>
+					<l>weest van den winter</l>
+					<l>dat het gevrosen heeft en</l>
+					<l>lijden van 36 dagen en hier</l>
+					<l>kouder geweest als het iaer</l>
+					<l><datum datum='1740-xx-xx' when='1740-xx-xx'>1740</datum> 5 minder graden als het</l>
+					<l>iaer <datum datum='1709-xx-xx' when='1709-xx-xx'>1709</datum> en op den Selven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1795-01-27' when='1795-01-27'>den 27 ianuary</datum> in <locatie>franse</locatie> pluviosen</l>
+					<l>op S morgens om 7 ueren met luide</l>
+					<l>van groote klok en alle de klok</l>
+					<l>van de Stadt en dat 3 keere</l>
+					<l>op dagh Smorgens en op middag</l>
+					<l>en S avons een ½ uer lang</l>
+					<l>midt Spelen van beyaert</l>
+					<l>den <datum datum='1795-01-21' when='1795-01-21'>21 ianuary</datum></l>
+					<l>de overga en van <locatie>Rotterdam</locatie></l>
+					<l><locatie>den Schrave hagen</locatie> en de</l>
+					<l>Stat van <locatie>Amsterdam</locatie> met</l>
+					<l>drie exsetera opdien Selve</l>
+					<l>tyt was qualik broot ofte</l>
+					<l>pottas te vinden voor gelt</l>
+					<l>ofte voor papier daer was</l>
+					<l>geen winkel daer iet kost</l>
+					<l>krygen ofte gy moest wel be</l>
+					<l>kent syn en geen bier voor </l>
+					<l>gelt, ofte papier en het ioner</l>
+					<l>stoken was verboden en</l>
+					<l>maken van Syssel en het</l>
+					<l>maken van haer poeder.</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l>den <datum datum='1795-01-30' when='1795-01-30'>30 ianuary 1795</datum></l>
+					<l>op den <datum datum='1795-01-30' when='1795-01-30'>30 dieto</datum> is na middag</l>
+					<l>om 5 ueren is <persoonsnaam>elias</persoonsnaam></l>
+					<l>van <locatie>lievrou broers kerk</locatie></l>
+					<l>van boven neer geworpe</l>
+					<l>op de grond en de kop</l>
+					<l>is afgebroken en den</l>
+					<l><datum datum='1795-02-06' when='1795-02-06'>6 february </datum>is de tyding gekomen</l>
+					<l>van de intrek van <locatie>fransen</locatie></l>
+					<l>in <locatie>gorkom</locatie> in <locatie>den briel</locatie> en in</l>
+					<l><locatie>hellevoetsluis</locatie> daer de 2 prin#</l>
+					<l><persoonsnaam>den prins van Salm Salm</persoonsnaam> en</l>
+					<l><persoonsnaam>den prins prins van hodenhole</persoonsnaam></l>
+					<l>en Syn den <datum datum='1795-02-06' when='1795-02-06'>6 dieto</datum> deur</l>
+					<l><locatie>antwerpen</locatie> gebragt om na</l>
+					<l><locatie>parys</locatie> te Senden en krygsgevange</l>
+					<l><datum datum='1795-02-06' when='1795-02-06'>den 6</datum> is de tyding gekomen</l>
+					<l>van <locatie>Willemstadt</locatie> <locatie>bergen</locatie></l>
+					<l><locatie>op Soom </locatie>en <locatie>breda</locatie> en op den</l>
+					<l><datum datum='1795-01-29' when='1795-01-29'>29 dieto</datum> is de tyding gekom</l>
+					<l>en dat <locatie>Seelant</locatie> <locatie>Schekses</locatie></l>
+					<l><locatie>Vlissinge </locatie>en <locatie>middelbrug</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1795-02-16' when='1795-02-16'>den 16 February</datum></l>
+					<l>is de tyding gekomen met 3 keere</l>
+					<l>luiden van klokken dat al </l>
+					<l>de geestelyken, en gyselaers</l>
+					<l>moeten tuis koomen en</l>
+					<l>dat daer een vergeluk is ge</l>
+					<l>sloten met de convensy</l>
+					<l>op <datum datum='1795-02-15' when='1795-02-15'>den 15 dieto</datum> Syn Steen</l>
+					<l>kolen op meer verkogt</l>
+					<l>de vierdeel voor 25 gulden</l>
+					<l><locatie>brabans</locatie> gelt want daer ware</l>
+					<l>geen koolen te krygen deur</l>
+					<l>de lang dueren winter tot</l>
+					<l>den smaert toe op den</l>
+					<l>ik heb gesien op <datum datum='1795-02-25' when='1795-02-25'>25</datum> en <datum datum='1795-02-26' when='1795-02-26'>26</datum></l>
+					<l><datum datum='1795-02-27' when='1795-02-27'>27</datum> en <datum datum='1795-02-28' when='1795-02-28'>28 Febraary</datum>, dat mid</l>
+					<l>broot van alle soort lang</l>
+					<l>de Stadt leurden met een </l>
+					<l>kruiwagen en roepen</l>
+					<l>wie koopt er broot tot sortien</l>
+					<l>broot en al die wil verkoop</l>
+					<l>broot op den <datum datum='1795-02-22' when='1795-02-22'>22 dieto</datum> heb</l>
+					<l>ik op werf in <locatie>Franse School</locatie></l>
+					<l>by de dogter van <persoonsnaam>Schipper engels</persoonsnaam></l>
+					<l>5 oorden voor half ianever</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l>op <datum datum='1795-03-01' when='1795-03-01'>den 1 maert</datum> in <locatie>frans</locatie> vertosen</l>
+					<l><datum datum='1795-02-28' when='1795-02-28'>28 Februarij</datum> S morgen vroeg</l>
+					<l>is in <locatie>Schelden</locatie> voor kraen een</l>
+					<l>3 mast hoeker Schip met al</l>
+					<l>der handen levens middele</l>
+					<l>goederen van oostenden</l>
+					<l><datum datum='1795-04-07' when='1795-04-07'>den 7 april</datum> is de vreede geteekend</l>
+					<l>tussen de <locatie>Fransen</locatie> ende</l>
+					<l><persoonsnaam>koning van <locatie>pruisen</locatie></persoonsnaam>, midt </l>
+					<l>luiden van alle de klokken</l>
+					<l>op den vrijdagh den</l>
+					<l><datum datum='1795-04-10' when='1795-04-10'>10 Aprill 1795</datum> is de proef</l>
+					<l>geweesen van <persoonsnaam>Jan batist</persoonsnaam></l>
+					<l><persoonsnaam>van Aarsen</persoonsnaam> als koperslager</l>
+					<l>meester, en de groote</l>
+					<l>maeltyt met papier betaelt</l>
+					<l>en de kleine midt gelt</l>
+					<l>op <datum datum='1795-04-19' when='1795-04-19'>Sondagh 19 dieto</datum> Sijnder</l>
+					<l>2 Schepen mdit nonne van</l>
+					<l><locatie>hollant</locatie> gekomen en hebbe</l>
+					<l>2 dage op de <locatie>Schelde</locatie> gelege</l>
+					<l>en si moesten na <locatie>dermon#</locatie></l>
+					<l><locatie>den</locatie> daer Sy over 11 maend</l>
+					<l>uit haer klooster gevlugt</l>
+					<l>waren en syn</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op den <datum datum='1795-04-25' when='1795-04-25'>25 April</datum></l>
+					<l>wederom in haer klooster ver</l>
+					<l>trokken op den 20 dieto op</l>
+					<l>maendagh <datum datum='1795-04-20' when='1795-04-20'>den 20 april d</datum>es</l>
+					<l>S morgens vroeg om 4 ueren</l>
+					<l>isser een wagt van 200 </l>
+					<l>man na het klooster van</l>
+					<l>Diskalsters daer paters</l>
+					<l>Lieve vrou broeders woonde</l>
+					<l>nadat Sy haer klooster hebbe</l>
+					<l>moeten verlaten ingevlugt</l>
+					<l>ten 4 ueren S morg allegaer tot</l>
+					<l>broers toe out en iong</l>
+					<l>moeten opstaen en Syn de</l>
+					<l>Stadt midt waag, uit geleid</l>
+					<l>tot buiten de Stadt werken</l>
+					<l>en Syn allegaer de Stadt</l>
+					<l>verboden om weer in te </l>
+					<l>komen op Straf op den 22 </l>
+					<l>april Syn alle de Schepe</l>
+					<l>geprest om voor de franse</l>
+					<l>te varen midt militare</l>
+					<l>goederen en Canon affuiten</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l>op <datum datum='1795-04-26' when='1795-04-26'>den 26 april</datum> Floreal</l>
+					<l><datum datum='1795-04-22' when='1795-04-22'>den 22 dieto</datum> is op de <locatie>Schelde</locatie></l>
+					<l>gelegen midt 5 Schepen het</l>
+					<l>Cabinet van den <persoonsnaam>prins van</persoonsnaam></l>
+					<l><persoonsnaam>oranie</persoonsnaam> om te voeren na</l>
+					<l><locatie>Rijsel</locatie> en vorders na <locatie>vrank</locatie></l>
+					<l><datum datum='1795-04-23' when='1795-04-23'>den 23 april</datum> heeft den <persoonsnaam>koning</persoonsnaam></l>
+					<l><persoonsnaam>van pruisen</persoonsnaam> de vreden ge</l>
+					<l>rativeseert midt de volgende</l>
+					<l>5 Artikele</l>
+					<l>1 <locatie>hannover</locatie> en <locatie>osnabrug</locatie></l>
+					<l>Sulle <locatie>pruisen</locatie> ten deele</l>
+					<l>vervallen</l>
+					<l>2 <locatie>opper Slesien</locatie> wort aen</l>
+					<l><locatie>pruisen</locatie> gerandeert</l>
+					<l>3 <locatie>pruisen</locatie> versekert aen</l>
+					<l><locatie>vrankerijk</locatie> het rust besit</l>
+					<l>der <locatie>nederlanden</locatie></l>
+					<l>4 het publikaens bewin der</l>
+					<l><locatie>7 provensien</locatie> Sal Sonder</l>
+					<l>Stadt houder weesen</l>
+					<l>5 <locatie>pruisense</locatie> Sullen het</l>
+					<l>geheel lant aen linker</l>
+					<l>geteekent te<locatie> basel</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op<datum datum='1795-04-29' when='1795-04-29'> 29 april</datum></l>
+					<l>oever van <locatie>Rynstroom</locatie> verlate</l>
+					<l>en het Selve aen <locatie>franse</locatie> in</l>
+					<l>te ruimen de brieve Syn </l>
+					<l>hier gekomen geteeker</l>
+					<l>van de Staten van <locatie>het repu</locatie></l>
+					<l><locatie>bliek van hollant</locatie> in <locatie>der haeg</locatie></l>
+					<l>11 Artikelen als volgt</l>
+					<l>1 het <locatie>Battavise</locatie> volk wort</l>
+					<l>voor een vrye en onafhanke</l>
+					<l>Republiek erkent</l>
+					<l>2 er Sal eene offensive en</l>
+					<l>een devensieve aliansy tussen</l>
+					<l>de beide volkeren plaes hebbe</l>
+					<l>3 er Sal geen afsonderlyke</l>
+					<l>vreede door een der Contra</l>
+					<l>kteerde partyen worden</l>
+					<l>gemaekt</l>
+					<l>4 <locatie>de Bataavise republiek</locatie></l>
+					<l>Sal 12 Scheepen van linij</l>
+					<l>en 18 Fegatten leeveren</l>
+					<l>Sy Sulle eensgelyk haren</l>
+					<l>lant magt versterken</l>
+					<l>5 De lant en See magt Sal door</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l>den <datum datum='1795-04-30' when='1795-04-30'>30 April</datum></l>
+					<l><locatie>Fransen</locatie> Cryghoverste</l>
+					<l>gekommandeert worden</l>
+					<l>6  alle de verwonne lande over</l>
+					<l>den <locatie>Rijn</locatie> en de <locatie>wae</locatie>l gelegen</l>
+					<l>Sullen de <locatie>Fransen</locatie> tot den</l>
+					<l>vrede in besidt houden,</l>
+					<l>en Sullen <locatie>hollanders</locatie> terug</l>
+					<l>gegeven worden</l>
+					<l>7 de landen tussen den <locatie>rijn</locatie></l>
+					<l>en de <locatie>wael</locatie> gelegen Sulle</l>
+					<l>tot den algemeine vrede</l>
+					<l>de <locatie>fransen</locatie> in besit houden</l>
+					<l>8 <locatie>Mastrigt</locatie> <locatie>venlo</locatie> en <locatie>breda</locatie></l>
+					<l><locatie>bergen op Zoom</locatie> eilant van </l>
+					<l><locatie>walgeren</locatie>, <locatie>Suit bevelant</locatie></l>
+					<l>Sulle door de <locatie>Fransen</locatie> gehou</l>
+					<l>den worden om het lot van</l>
+					<l><locatie>Brabant</locatie> te volgen</l>
+					<l>9 desgelijk alde versterken</l>
+					<l>de plaesen</l>
+					<l>10 De vrijen vaert op de <locatie>maas</locatie></l>
+					<l><locatie>wael</locatie> <locatie>Rijn</locatie> en <locatie>Schelde</locatie> Sal</l>
+					<l>nimmer meer worden ver</l>
+					<l>hindert of belet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>den <datum datum='1795-04-30'>30 aprl</datum></l>
+					<l>11 het <locatie>batavis Republiek</locatie> Sal</l>
+					<l>wegens de koste van orlogh</l>
+					<l>een aenbot doen de Sommen</l>
+					<l>kan in ter mijne verdeilt</l>
+					<l>worden verdeelt waer de eerste</l>
+					<l>deel Sal moeten ten eerste voldoe#</l>
+					<l>en niet minder sal mogen </l>
+					<l>zijn als van 20 Milioenen</l>
+					<l>Daer heeft in <locatie>antwerpen</locatie> gaset</l>
+					<l>van N 39 op dynsdag <datum datum='1795-04-28' when='1795-04-28'>28 april</datum></l>
+					<l>een brief uit <locatie>Londen</locatie> van een</l>
+					<l>berugten waersegger brotiers</l>
+					<l>hij voorsegt binne het verloop</l>
+					<l>van iaer de doot van den</l>
+					<l>keiser den inval der <locatie>franse</locatie></l>
+					<l>in <locatie>engelant</locatie> de verwoestin</l>
+					<l>der <locatie>engelse</locatie> Seemaght en </l>
+					<l>den val van Ryk van</l>
+					<l><persoonsnaam>Catarina keiserin van</persoonsnaam></l>
+					<l><persoonsnaam>Ruslant</persoonsnaam> den tyt sal alles leere</l>
+					<l>op den <datum datum='1795-05-20' when='1795-05-20'>20 mey</datum> is kamer</l>
+					<l>verbrant in in wat tuisers</l>
+					<l>op mey avont heb ik <persoonsnaam>ian</persoonsnaam></l>
+					<l><persoonsnaam>van aarsen</persoonsnaam> myn been deur</l>
+					<l>gestoote de groote van</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l>op den <datum datum='1795-05-23' when='1795-05-23'>23 van mey</datum></l>
+					<l>van nagel en is gaen Swere</l>
+					<l>en ik heb den barbier</l>
+					<l>heeft het 5 keer gesnede</l>
+					<l>en heb plat by gesete</l>
+					<l>van <datum datum='1795-05-01' when='1795-05-01'>1 mey </datum>tot <datum datum='1795-07-22' when='1795-07-22'>22 iulij</datum></l>
+					<l>in 4 a 5 weken is broot</l>
+					<l>Soo dier geweest dat</l>
+					<l>een broot van 3 stuivers</l>
+					<l>woog niet swaerder als 1 pont</l>
+					<l>en 2½ ons roggebroot</l>
+					<l>en terwen broot 4 stuivers</l>
+					<l>het pont en heeft geduert</l>
+					<l>tot <datum datum='1795-06-16' when='1795-06-16'>16 iuny </datum>dat het wat</l>
+					<l>begonst te veranderen</l>
+					<l>op den is Roggen op vierde</l>
+					<l>afgeslagen 24 gulden</l>
+					<l>en de terf ook maer het</l>
+					<l>boekweit meel kost pont</l>
+					<l>tien oorden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>op den 25 van <locatie>floridal</locatie></l>
+					<l>op <datum datum='1795-06-14' when='1795-06-14'>14 iunij, </datum>is de tyding gekomen</l>
+					<l>van de kaptulasy van de</l>
+					<l>Stadt van <locatie>Luxsemburg </locatie>leste</l>
+					<l>Stadt van 10 provensien</l>
+					<l>met het 3 keere luyen van</l>
+					<l>alle de klokken van Stadt</l>
+					<l>ende Captulasy hebben ge</l>
+					<l>vonden in Stadt 12 duisent</l>
+					<l>man alle kryg vangen en</l>
+					<l>7 a 800 stukken Canon en</l>
+					<l>een onsaggely magesyn van</l>
+					<l>buspoeder en het prinse</l>
+					<l>paelste een omnoemme</l>
+					<l>lijken schadt van gout</l>
+					<l>silver en Juweelen die</l>
+					<l>daer gevlugt waren en</l>
+					<l>alle buit gemaekt</l>
+					<l>op den <datum datum='1795-07-10' when='1795-07-10'>10 iuli</datum> is broot</l>
+					<l>opgeslagen soo merkely</l>
+					<l>en heeft gestaen tot</l>
+					<l>in<datum datum='1795-08-xx' when='1795-08-xx'> lest van augustus</datum></l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l>Den <datum datum='1795-08-10' when='1795-08-10'>10 augustus</datum></l>
+					<l>het broot van 6 Stuiver heeft</l>
+					<l>gewogen 2 3/4 pont de ryst</l>
+					<l>11 Stuiv pont vlees 6 Stuiv</l>
+					<l>pont en de pottasy alles</l>
+					<l>ins soo dier en nog meer</l>
+					<l>op den <datum datum='1795-08-16' when='1795-08-16'>16</datum> en<datum datum='1795-08-17' when='1795-08-17'> 17 augustus </datum>is</l>
+					<l>2 dagen geviert midt luide</l>
+					<l>van alle de klokke en het</l>
+					<l>Schieten van Canon en</l>
+					<l>op beurs heeft 6 tonne levese</l>
+					<l>bier 2 vate wyn en 2 vaten</l>
+					<l>ianever gegeven aen het</l>
+					<l>volk en de melitare en</l>
+					<l><datum datum='1795-08-17' when='1795-08-17'>den 17 dieto</datum> is savens op</l>
+					<l>meer en vierwerk afgestoke</l>
+					<l><datum datum='1795-08-17' when='1795-08-17'>op 17 dieto</datum> is S morgens op</l>
+					<l>de <locatie>Schelt </locatie>een 2 mast</l>
+					<l>koopvaerdy Schip an gekome</l>
+					<l>en om 11 ueren vol vlagge</l>
+					<l>van alle mogentheden</l>
+					<l>op gestaen om de reden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>den<datum datum='1795-08-20' when='1795-08-20'> 20 augustus 1795.</datum></l>
+					<l>ist een plakaet afgelesen</l>
+					<l>en in Statd an geplakt van</l>
+					<l>open vaert van de <locatie>maas</locatie></l>
+					<l><locatie>Schelde </locatie>en <locatie>Samber </locatie>en <locatie>rijn</locatie></l>
+					<l>op den <datum datum='1795-09-15' when='1795-09-15'>15</datum> en <datum datum='1795-09-16' when='1795-09-16'>16</datum> en <datum datum='1795-09-17' when='1795-09-17'>17  </datum></l>
+					<l><datum datum='1795-09-17' when='1795-09-17'>September</datum></l>
+					<l>he@ben</l>
+					<l>6 ueren daegs de klokke</l>
+					<l>geluidt alle die in Stadt</l>
+					<l>waren en op mert S avons een</l>
+					<l>vierwerk en 18 pektonne</l>
+					<l>en om 5 weken 3 dagen</l>
+					<l>hebben de <locatie>franse </locatie>op binne</l>
+					<l>walle buite kupper poort</l>
+					<l>met over 100 tenten gekam</l>
+					<l>peer gelegen tot<datum datum='1795-11-12' when='1795-11-12'> 12 november</datum></l>
+					<l>op <datum datum='1795-11-11'>vridag 11</datum> Syn 2 orkane</l>
+					<l>geweest en sterk gewoeidt</l>
+					<l>dat meer als 100 huisen</l>
+					<l>de panne en Schouwe en</l>
+					<l>Schepen uit anker gewoeid</l>
+					<l>op den <datum datum='1795-02-12' when='1795-02-12'>12 february 1795</datum> op </l>
+					<l>Sondag na middag om half</l>
+					<l>3 ueren is de het</l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<p>
+				<lg>
+					<l>pleidt in <locatie>Schelden </locatie>om</l>
+					<l>geslagen midt 15 mense#</l>
+					<l>en 4 paerden en daer</l>
+					<l>Syn 9 mensen en 2 paerde#</l>
+					<l>verdronken ende pleit</l>
+					<l>is den 9 dagh weer tereg</l>
+					<l>gekomen en 2 mensen die</l>
+					<l>ook Syn gevist en op den</l>
+					<l><datum datum='1796-02-29' when='1796-02-29'>29 februarij 1796</datum> om 1 uere</l>
+					<l>is den boom van vrijheit</l>
+					<l>voor 2 Mael gezet een</l>
+					<l>levenden mis den ander</l>
+					<l>doot was midt triomp van</l>
+					<l>6 ueren het luiden van</l>
+					<l>alle de klokken 50 meide</l>
+					<l>kens in wit alle de</l>
+					<l>Schoole van iongens en</l>
+					<l>12 standaer van weten</l>
+					<l>het anstelle van tribuna</l>
+					<l>van iustisy en Sivielregt</l>
+					<l>en Stadt regten en de</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>om <datum datum='1796-03-16' when='1796-03-16'>16 maert 1796</datum> is  hier</l>
+					<l>een iongmans heeft geho#</l>
+					<l>op grote mart een altaer</l>
+					<l>met wierook so iongen</l>
+					<l>met lauwerkranse op</l>
+					<l>hooft die haer meeste</l>
+					<l>best gedaen hebbe in oorlog</l>
+					<l>en een belooning</l>
+					<l>op <datum datum='1796-04-16' when='1796-04-16'>16 april </datum>Syn hier</l>
+					<l>4 Schepen met 3 en 2 maste</l>
+					<l>binne gekomen op <locatie>Schelde</locatie></l>
+					<l>en met Canon geschote</l>
+					<l>en 2 dage gevlagt midt</l>
+					<l>alle vlagge<datum datum='1796-04-28' when='1796-04-28'> 28 april </datum>is</l>
+					<l>de feest van de getrou</l>
+					<l>de geviert op den Selve</l>
+					<l>nagt om ½ twaelf isser</l>
+					<l>brant op plein Syn parde</l>
+					<l>stal verbrant en</l>
+					<l>28 paarden verbrant</l>
+				</lg>
+			</p>
+			<pb n='38'/>
+			<p>
+				<lg>
+					<l><datum datum='1795-11-09' when='1795-11-09'>9 november 1795</datum> <persoonsnaam>J Brukman</persoonsnaam></l>
+					<l>en <persoonsnaam>Schuller</persoonsnaam> <locatie>hofstraet</locatie></l>
+					<l>een <locatie>Stoof </locatie>verhuert lot in</l>
+					<l>goede week de huer </l>
+					<l>betaelt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Sit elf nomis minus 92</l>
+					<l>manebit Inetermus</l>
+					<l><persoonsnaam>Caermans van</persoonsnaam></l>
+					<l><persoonsnaam>Suusselle</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='39'/>
+			<pb n='40'/>
+			<p>
+				<lg>
+					<l>2259</l>
+				</lg>
+			</p>
+			<pb n='41'/>
+		</body>
+	</text>
+</TEI>

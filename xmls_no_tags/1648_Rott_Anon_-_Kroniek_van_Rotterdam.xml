@@ -1,0 +1,2759 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1648_Rott_Anon - Kroniek van Rotterdam</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: erika.kuijpers@vu.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>Handschriften </l>
+					<l>Verzameling</l>
+					<l>Rotterdam</l>
+					<l>1552</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>1</l>
+					<l>Int Jaer 1426 wordt verwoest dat huijs tot Hillegers</l>
+					<l>Berch Cralinge ende Het huijs te Spangien in Schielant</l>
+					<l>en dit dede die van Alckmaer diemen Cermers noemt</l>
+					<l>Korn. Hollant: f. 303: Cap 37 dedelftse f<hi rend='superscript:true;'>o</hi> 162: Cap 37:</l>
+					<l>Int Jaer 1437: sijn vergaert geweest een deel Backers</l>
+					<l>binnen destede Rotterdam ende hebbe daer doen maecken</l>
+					<l>Een outaer int S<hi rend='superscript:true;'>t</hi>. Louweris Kerck ter Eere onse Lieve Vrouw</l>
+					<l>soo sij meende alhoe wel dat dese voorschreve Kerck op die</l>
+					<l>tydt geen Toorn noch coren en hadde als naer Bewesen sal worden</l>
+					<l>dit Voorschreve outaer wordt gewijdt van Roeloff</l>
+					<l>van Diephout de drijen vyftichste Bisschop van Wtrecht</l>
+					<l>ende geschiede saterdaechs voor delfse kermis datum</l>
+					<l>als boven</l>
+					<l>Van desen tijdt aen hebben de Backers van Rotter</l>
+					<l>dam haer gilde gehouwe met man en Vrouwe maer</l>
+					<l>deur de onredelyckheijts van Eenige gilde Broers sijn</l>
+					<l>de Suster absent gebleve</l>
+					<l>Int Jaer 1438 wordt Tot Rotterdam oorloch schepen</l>
+					<l>toe gemaeckt doen de hollanders en de seelanders</l>
+					<l>oorloch hadde tegen die oostersche steden, Cronick</l>
+					<l>van Hollant f 321: Capit 8 delffsche f. 171</l>
+					<l>Capit 8</l>
+					<l>Int Jaer 1440 worde die Edele Const van Tbouck</l>
+					<l>drucke Eerst gevonden en op gebracht in tjaer des</l>
+					<l>Keysers fredrick de derde Cronick van Hollant</l>
+					<l>f 166</l>
+					<l>Int Jaer 1448 Gaff Philipus van Bourgongien</l>
+					<l>sijnen soon Graeff Carel van Carloijs die Heerlickhe</l>
+					<l>van Strijen ende Putten daer hij in deede dijcke. Een</l>
+					<l>stuck lants over die stede Rotterdam en maeckt</l>
+					<l>daer Een dorp van dat dede hij noeme naer sijnen</l>
+					<l>naem Chaerloijs ende liet noch op dese tijdt soo</l>
+					<l>Cronick van Hollant f 325: Capit 17: Delffse</l>
+					<l>f 174: Capit 17: Int jaer 1460:</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l> Int jaer 1449 den Eersten dijnsdach naer Alderheijlige</l>
+					<l>worde den Eersten steen geleijt van s<hi rend='superscript:true;'>t</hi>. Louweris kerck </l>
+					<l>Int jaer 1467 den 28 octob wort gebooren Erasmus</l>
+					<l>van Rotterdam in de Nieuwe Kerck straet aende </l>
+					<l>westsijde van Rotterdam</l>
+					<l>Int Jaer 1479 is den heer van der Veere stadt houder</l>
+					<l>van Hollant gecomen wtt den haech binnen de steden</l>
+					<l>van Rotterdam, en heeft aldaer geordonneert sijn</l>
+					<l>hoff van Rechten om dat hij aldaer te vrijer en</l>
+					<l>te geruster soude mogen wesen, maer sijn Heeren</l>
+					<l>van de Raeden en quamen bij hem niet, om dat sij </l>
+					<l>van der Cabeljauws Partijen waeren, ende als sij</l>
+					<l>aldus een week tijdts binnen Rotterdam gelegen </l>
+					<l>hadde siende dat sij die twee Partijen niet ver Eenige</l>
+					<l>en conden, heeft hij de steden van Rotterdam </l>
+					<l>Bevolen te Bewaeren, Joris de Bastart van Breede-</l>
+					<l>Roode, oock die steden van dordrecht en der Gouwde </l>
+					<l>en is gevaere met al sijn huijsgesin naer der Veere</l>
+					<l>want hij was En Goedertieren en sachtmoedich man </l>
+					<l>van herten, die geen ongenoucht verdraegen en mocht </l>
+					<l>Kronic van Hollant f<hi rend='superscript:true;'>o</hi> 418 Capit 23 Delffsche </l>
+					<l>f<hi rend='superscript:true;'>o</hi> 227: Capt 23</l>
+					<l>Int Jaer 1480 was Hertoch Maxmiliaen binnen die </l>
+					<l>stede van dordrecht ende Reijsde nae Rotterdam ende daer</l>
+					<l>wesende quam Joris de Bastaert van Brederode capiteijn </l>
+					<l>van Rotterdam ende Presenteerde de Prins Maximiljaen</l>
+					<l>de sleutelen vande stede maer de Prins bevalse hem</l>
+					<l>weder ende Liet hem tot Rotterdam overste Capiteijn</l>
+					<l>blijve maer corts hier naer wier hem die sleutelen weder</l>
+					<l>aff genomen door valsche accusatije ende worden gegeven</l>
+					<l>heer Philips de Bastaert van hertoch Philips van </l>
+					<l>Brabant, ende die worde overste Capiteijn van </l>
+					<l>Rotterdam tegen dordrecht en der Goude. Cronic Delft </l>
+					<l>f 228 Cap 25</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>2</l>
+					<l>Int Jaer 1481 de 6 dach in April quam heer Jan van Egmont</l>
+					<l>met weijnich volck met over deckte schepen binnen </l>
+					<l>dordrecht ende sloech sommige doot vande overste van den</l>
+					<l>stadt ende verdreeffer veele wtter stede ende ontboden</l>
+					<l>vier hondert soldaeten van Rotterdam die hem die </l>
+					<l>stadt helpen Bewaeren</l>
+					<l>Cron. van Hollant f<hi rend='superscript:true;'>o</hi> 423 Cap 30 Delft f<hi rend='superscript:true;'>o</hi> 230 Cap 30:</l>
+					<l>Int selvige Jaer den 8 April compt d&apos;h Prince. Cronic </l>
+					<l>van Delft f 230 Cap 31</l>
+					<l>Int selvige Jaer 1488 worden geheijt den Trans van </l>
+					<l>het Coor Aen St. Louweris kerck Tot Rotterdam </l>
+					<l>Int Jaer 1488 den 18 dach in novemb op st. Lijsbet avont </l>
+					<l>is gecomen jonckheer frans van Brederoode voor delffs </l>
+					<l>have met Een deel scheepen gelaeden met soldaeten </l>
+					<l>van Sluijs in Vlaendren, ende deden Eenen Lant gang</l>
+					<l>door delffs haven en quam voor de steden van Rotterdam </l>
+					<l>ende heeft die ingenoomen sonder slach ofte stoot ofte</l>
+					<l>sonder Eenich weer te Bieden daer op dien tijdt Een groot</l>
+					<l>goet van aller Leij Coopmanschap Bevrosen Lach ende </l>
+					<l>sijn in dese manier de stadt machtich geworden, en </l>
+					<l>hebbense Lange tijdt tegen dat geheele Lant gehouden</l>
+					<l>ende veel quaets op de Platte Lande gedaen</l>
+					<l>Cronick van Hollant 241: Cap 62 Tot 68 Toe</l>
+					<l>Int begin van decemb sijn die van Rotterdam te scheepe</l>
+					<l>gegaen met Een meenichte van volck ende quaeme </l>
+					<l>voor de steden van schoon hove, ende meijnde die in </l>
+					<l>te neme maer de Poorters weerden hen vroomels ende</l>
+					<l>sloegens van de meuten ende Toorens datse daer veel</l>
+					<l>dooden lieten en veel worden der gequest ende sijn ten</l>
+					<l>lesten met schande weder gekeert, achterlaetende</l>
+					<l>veele schepen overmits dat het getij quaet was</l>
+					<l>ende quame weder binnen Rotterdam</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>Den 9 decemb. gingen Een deel van de knechten</l>
+					<l>wt Rotterdam ende verbrande delfshaven met sommige</l>
+					<l>schepen die voor Inde haven laegen</l>
+					<l>In den Eersten van februarij quam oock binnen Rotterdam</l>
+					<l>Joris de Bastard van Brederoode des domprosten soon van</l>
+					<l>wtrecht daer wij voor aff geschreven hebben, dese Joris</l>
+					<l>als Een van de overste Cappijtaine van Rotterdam met Een</l>
+					<l>Ander Cappitain genaemt Lepel Tack met Een deel vande</l>
+					<l>knechten sijn over de maese getogen daer sy Rooff en</l>
+					<l>Brantschatten en Brant stichten Plunderden en berooffde</l>
+					<l>die lant lieden</l>
+					<l>Een op desen tydt lach binnen de stadt van schiedam</l>
+					<l>Eenen Cappiteijn genaemt witte horst met Een deel</l>
+					<l>knechte van slants wegen van hollant dese knechten</l>
+					<l>die vernemende ende merckende deur de Brant die sy saegen</l>
+					<l>togen hem naer en quaeme aen malcandren ende sloegen</l>
+					<l>deen den Ander veel volck aff ende die van schiedam</l>
+					<l>Behielden de victorie ende naemen dander gevangen</l>
+					<l>ende Brochtense Tot schiedam</l>
+					<l>Ende Corts nae desen quamen de Porteren vande steden</l>
+					<l>van hollant als Leijden haerlem Amsterdam en delft met</l>
+					<l>haere Banieren in schiedam ende die van dordrecht ende</l>
+					<l>Gouda laegen opt Twaeter om die stroomen te Bewaeren</l>
+					<l>desen Banieren aldus binnen schiedam leggende elck op</l>
+					<l>syn logijs soo laegen oock op die selffde tijdt veel knechte</l>
+					<l>ende Ruijters binnen der stede die wtt Togen en hadde</l>
+					<l>veel schermutselen tegen die van Rotterdam ende sloegen</l>
+					<l>malcandren veel volcx aff soo d&apos;een soo dander te boven</l>
+					<l>te Boven gaende dese Ruijters haetende seer de</l>
+					<l>hollanders ende spraeckense qualick toe, ende hietense</l>
+					<l>Bangen honden ende Lang wamboijsen ende sloegens ende</l>
+					<l>questense ter doot toe soo datter de hollanders Een mishaegen</l>
+					<l>in kregen alhoewel dat ten sij saemen dienen mosten ende</l>
+					<l>hadden gaeren gesien dat men wat Anders geordonneert hadde</l>
+					<l>maer die het Bevolen was te doen, sloegent voor de Ruijters</l>
+					<l>voor ende laetent daer mede keren gaen anders en quamter</l>
+					<l>niet aff</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>3</l>
+					<l>Soo ist gebeurt dat op den 14 feb. Int Jaer 1489: dat die</l>
+					<l>selffde knechten ende Ruijters een wonderlycken aenslaech</l>
+					<l>en verraet binnen schiedam op gestelt en op geheven hadde</l>
+					<l>want sij heijmelijcken spraecken met die van Rotterdam</l>
+					<l>gehoude hadde om hen luijden die selffde steden te levren</l>
+					<l>met alle de hollanders die daer in waeren ende sijn gecomen</l>
+					<l>ontrent acht uijren in de Avont ten huijse daer die van</l>
+					<l>haerlem gelogeert waren die sy Eerst Broochten ende</l>
+					<l>maeckten wonderlijck gevaer van Roepen ende krijten</l>
+					<l>ende schooten met Roers Inde huijsen soo datter veel gequest</l>
+					<l>worden binne In de huijsen Eer sy ter weer conde comen</l>
+					<l>want sy Boven op de Cameren ende solderen waeren, ende</l>
+					<l>schooten soo van ondren op, soo dat hen niemant Porren en</l>
+					<l>dorst om aff te comen want die huijsen beneden al vol</l>
+					<l>Ruyteren waeren die niet aff en lieten van schieten</l>
+					<l>en Riepen al gewonnen al gewonnen dese schermutsing</l>
+					<l>aldus geduijrende ende dandere Porters van haerlem die</l>
+					<l>by de banieren van haerlem niet gelogeert en waeren</l>
+					<l>maer daer omtrent hebben hen altemet versaemt</l>
+					<l>comende by Een om dese knechten te weder staen ende</l>
+					<l>haere mede Poorteren te ontsetten ende maeckten Een</l>
+					<l>gecrijt Roepende hollant hollant also datten sy Een</l>
+					<l>moet grepen en schooten met Roers soo vreeselijck op</l>
+					<l>de Ruijter knechten dat sij worden wyckende ende</l>
+					<l>drevense wt de huijse soo dat dander Boven aff</l>
+					<l>quaemen ende stonden malcandren Bij ende die</l>
+					<l>knechten weerden hen oock vroomelijck aen dander</l>
+					<l>syde ende drevense drije mael over Rug ten lesten</l>
+					<l>quam hem wilhem van Borst huijsen Ridder ende</l>
+					<l>Baljouw van Rynlandt met die van Leijden ende</l>
+					<l>de Rijnlanders ontsetten die van haerlem soo dat</l>
+					<l>de Ruijters de vlucht naemen, ende staecken Boskruijt</l>
+					<l>Inde slooten van de stadts Poorten, die van Last op Borsten</l>
+					<l>ende liepen ter Port uijt naer Rotterdam, maer daer</l>
+					<l>werden der veel Inder stadt gequest ende doot geschooten</l>
+					<l>ende met alle veel gevangen maer de steden hadden luttel</l>
+					<l>dooden ende veel gequesten ende aldus hadden sy de fictorije</l>
+					<l>op die knechten twelck Een vreeselyck ^ waere geweest</l>
+					<l>hadde die knechten te boven gegaen daer godt wel</l>
+					<l>Hoochgelyck aff te dancken was ende die twee</l>
+					<l>cappiteijnen als Joris de Bastaert ende lepel Tack</l>
+					<l>die Binnen schiedam gevangen Laegen quaemen met</l>
+					<l>dit Rumoer wtter stadt ende liepen in Een</l>
+					<l>schip daer sij wtt gehaelt waeren worden Ende ver</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>worden Andermael binnen Schiedam gevangen</l>
+					<l>gebracht ende veel van de Ruijters knechten die</l>
+					<l>sy gevangen hadden wierden metten sweerden gedoot die</l>
+					<l>van dit verraet en op het geweten hadde ende veele</l>
+					<l>van de Ruijters die gequest waeren sturven inde</l>
+					<l>gasthuijsen ende die van haerlem hadden seeven dooden</l>
+					<l>daer de Banier draegen Een van was ende storven</l>
+					<l>alle met haer vol sacrament ende dander steden</l>
+					<l>hadden in alles ses dooden</l>
+					<l>ende op dees Tijdt was den Capeteijn Wattenhorst</l>
+					<l>binnen doordrecht bij den Roomse Cooninckx dese</l>
+					<l>nieuwe maere hoorende maeckte wech, maer wort</l>
+					<l>Achter Volcht en de gevangen ende wort met Jooris</l>
+					<l>de Bastardt ende lepeltack binnen delft gebracht</l>
+					<l>ende sonder Tijffel was dit Een groote victorije want</l>
+					<l>de Ruijters naer dat sy dat opset gemaeckt hadden begonnen</l>
+					<l>Een uijr te vroech, want die van Rotterdam op wech</l>
+					<l>waeren om naer schiedam te gaen meijnde als</l>
+					<l>voorschreven is daer binnen te Coomen</l>
+					<l>Op de 6 dach in maert 1489 hebben die knechten van</l>
+					<l>Rotterdam dat dorp van ouwerschie in genoomen want</l>
+					<l>daer lach vant selfs de geselschap, die te schiedam gelegen</l>
+					<l>hadde als geldersche Kleeffsche ende andre die hun met</l>
+					<l>wille op gaven ende die selffde Ruijters liepen terstond</l>
+					<l>in dat dorp van de ketel ende verbrande dat dorp daer</l>
+					<l>veel schoone huijsinge en wooninge stonden daer die</l>
+					<l>van delft groote schaeden hadde</l>
+					<l>Die van delft vernemen dat ouderschie in genoomen</l>
+					<l>was, meer quaets Beduchtende om dat sy hun soo</l>
+					<l>nae by quamen ende oock siende den Brant en het</l>
+					<l>verlies van dien, soo is de schout van delft ter</l>
+					<l>Poorten uitgegaen met veel van de Poortren sonders</l>
+					<l>Eenige ordonnantijen te houde want sy meende die</l>
+					<l>van schiedam te ontsetten en te hulpe te koomen</l>
+					<l>tot ouderschie, maer sy quamen te laet, die</l>
+					<l>knechten dit siende hebben se heel by laeten</l>
+					<l>komen ende syn hun tegens gegaen soo dat dandre</l>
+					<l>wyckende worden</l>
+					<l></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>4</l>
+					<l>soo datter wel vijfftich verdroncke ende geslaegen worden</l>
+					<l>en dit geschiede inde Poldervaert ende kregen wel hondert</l>
+					<l>en vijfftich goede Porteren gevangen, ende de schout quam</l>
+					<l>in Een schip van Een Lantman wech, maer van sijn soonen</l>
+					<l>worden Een verslaegen die knechten dese victorije hebben en</l>
+					<l>quamen terstont voor die Poorten van delft ende</l>
+					<l>Branden aen die sijde alle de huijsen te Poort toe aff</l>
+					<l>ende syn wederom ongeschent naer Rotterdam gekeert</l>
+					<l>ende dede voorts meer veel quaets in delfflant ende</l>
+					<l>maeslant van Plonderen en Rooven ende namen groote</l>
+					<l>Brantschattinge van de doorpen daer ontrent ende</l>
+					<l>die schravenhage met haege Ambacht moeste oock</l>
+					<l>ten Lesten Brantschattinge geven ende saeten</l>
+					<l>lange tijdt in verdinge, ende die gevangenen</l>
+					<l>van delft hebben hen ten lesten moeten koopen</l>
+					<l>en lossen by groote Rantsoenen ende de somme van</l>
+					<l>Penninge op die tijdt wiert sterck getracteert</l>
+					<l>tusschen die steden van hollant en Rotterdam maer</l>
+					<l>daer En quam niet aff</l>
+					<l>Int Jaer 1489 int Lesten van Maert is heer Jan</l>
+					<l>van Naeltwijck Ridder met Een deel knechten</l>
+					<l>van Rotterdam gevaeren uijt Rotterdam en quam</l>
+					<l>voor de stede geertruijten Berch en de naemen se in</l>
+					<l>want sij de Portere niet seer aff en keerden en</l>
+					<l>hebben hen sterck gemaeckt in meeninge hen daer</l>
+					<l>te onthouden die van doordrecht en schiedam dit</l>
+					<l>vernemende maeckten hun sterckt om dese knechten</l>
+					<l>daer uyt te slaen maer sy en Bedreven niet ende</l>
+					<l>keerden weder sonder yet uijt te Rechten</l>
+					<l>Op den 4 dach van meij 1489 hadden die knechten van</l>
+					<l>Rotterdam Een schermutsinge voor die steden van</l>
+					<l>Schiedam tegen die knechten die daer binnen laegen</l>
+					<l>en sloegen deen dander veel volcks aff, ende vorts daer</l>
+					<l>nae togen die van Rotterdam binnen den dorpen</l>
+					<l>van assen broeck ende Plundertden het ende dede</l>
+					<l>veel schade daer ontrent met Rooven ende</l>
+					<l>Brande</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>Op de vierde dach van Junij 1489 Togen die van</l>
+					<l>Rotterdam uijt met macht te scheep de leck op mede</l>
+					<l>nemende veel Poorters desommige meende dat sij om</l>
+					<l>vijctalij trecken soude dander seijde dat sij Een Block</l>
+					<l>huijs op slaen soude op de Leck</l>
+					<l>Die van dordrecht Gouda en schoonhoven en schiedan</l>
+					<l>dit vernemende sijn hen snellijck nae gevolcht met</l>
+					<l>veel schepen en quaemen aen malcandren ende daer</l>
+					<l>worden seer gevochten maer ter lesten behielde de</l>
+					<l>vier steden doverhant, daer worden ontrent vier</l>
+					<l>dalff hondert gevangen ende veel geslaegen en noch</l>
+					<l>meer verdroncken ende veel die op lant conde comen</l>
+					<l>liepen wech ende die gevangen wierden binnen dordrecht</l>
+					<l>gebracht ende die van Rotterdam verlooren op die</l>
+					<l>tijdt veerthien Barcken ofte schepen drije Kruijsen</l>
+					<l>twee kerveelen ende Een Roybaers veel volckx</l>
+					<l>wertter In de Gront geseijlt</l>
+					<l>Ende op derselffder tijdt was de stadt houder met veel</l>
+					<l>schepen wt getoogen voor dat Blockhuijs dat die</l>
+					<l>van Rotterdam op geslaegen hadden op de hooffden</l>
+					<l>voor de stadt maer het topset en verginck niet</l>
+					<l>wel want sy verlooren Een kerreveel vol volckx</l>
+					<l>sonder ijets anders uijt te Rechten dat oorloge van</l>
+					<l>van Rotterdam dus hangende is heijr Reijer van</l>
+					<l>Brouckhuijsen Ridder mede binnen Rotterdam</l>
+					<l>gecomen ende wort oock gemaeckt Een vande overste</l>
+					<l>capiteijnen dese heer Reijer is op die tijt uijt getogen</l>
+					<l>met Een deel knechten ende quamen voor die steden</l>
+					<l>van de Gouda ende Brande daer veel huijse aff die</l>
+					<l>Buijten die Poort stonden en keerden weder naer</l>
+					<l>Rotterdam sonder ijet meer uijt te Rechten</l>
+					<l>Den 17 dach junij 1489 is heer Ian Naeltwijck Heijnd.</l>
+					<l>wits en meer Andre Capijteijnen met alle de</l>
+					<l>knechten die te saemen konden gebracht werden uijt</l>
+					<l>Rotterdam getogen om victalij te haelen want die</l>
+					<l>victalij Begonden te mindren In die stadt ende</l>
+					<l>hadde wel over de Tachtich schuijten met kooren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>5</l>
+					<l>wijn ende Andre dingen gelaeden d&apos;welcke sy van</l>
+					<l>meeninge waeren door de veenen en heijmelijckste wegen</l>
+					<l>binnen Rotterdam te Brengen over mits datter</l>
+					<l>veel schepen voor Rotterdam laegen dat sij te waater</l>
+					<l>niet Avonturen dorsten de stal meester des</l>
+					<l>als capijteijn</l>
+					<l>Roomschen Coninck van des lants wegen van hollant</l>
+					<l>dit hoorenden ende op dees tijt met veel volckx Int</l>
+					<l>velt lag ende wel vier ofte vijff daegen daer op</l>
+					<l>gewacht hadden want het hem te kennen gegeven</l>
+					<l>words soo heeft hij sijn volck In ordonnantij geset</l>
+					<l>ende is hen te gemoet gegaen ontrent het dorp van</l>
+					<l>moort ende heeftse scherpelijck aen gevochten ende</l>
+					<l>dander stelden hen vromelijck te weer maer Int</l>
+					<l>Eijnde weeken die van Rotterdam ende daer sijn</l>
+					<l>Boven drije hondert geslaegen Behalven die Inde</l>
+					<l>veenen verdroncken ende daer worden met allen</l>
+					<l>veel gevangen onder de gevangenen was oo<hi rend='strikethrough:true;'>c</hi>k</l>
+					<l>dheer johan van naeltwijck Ridder en heijndrick</l>
+					<l>van wits ende naemen hen alle de schuijten</l>
+					<l>met victalij ende daer Bleeff Een vande Cappijteijne</l>
+					<l>verslaegen genaemt Cornelis van Troslonge</l>
+					<l>Op dese selve Tijt Inde nacht hebben de Ruijters</l>
+					<l>leggende Inde kerck van ouderschie die sij seer sterck</l>
+					<l>gebolwerckt hadde het selfde In Brant gesteecke</l>
+					<l>ende Ruijmde ouderschie ende quaeme binnnen</l>
+					<l>Rotterdam</l>
+					<l>Den viden dach In Junij 1489 Begostmen sterck te</l>
+					<l>tracteeren tusschen den stalmeester <hi rend='strikethrough:true;'>B</hi> jonckheer frans</l>
+					<l>van Brederoode ende daer wort Een Tractaet gemaeckt</l>
+					<l>ende wort openbaerlijck aff gepubliceert van het</l>
+					<l>stadt huijs wie met jonckheer frans uijtter stadt</l>
+					<l>woude trecke die mocht dat vrij doen ende die</l>
+					<l>Blijven woude mocht vrij Blijven, aldus Is</l>
+					<l>joncheer frans met sijn Cappiteijnen ende knechten</l>
+					<l>naer sluijs in vlaendren getrocken</l>
+					<l>Ende die stal meester quam daer binnen met Een deel knechts</l>
+					<l>vande sijne ende bleeff daer <hi rend='strikethrough:true;'>binnen</hi> </l>
+					<l>Een wijl tijdts In</l>
+					<l>leggen tot Bewaring vande stadt die op die tijdt cleijnder</l>
+					<l>gemaeckt worden aende noort sijde ontrent drije hondert</l>
+					<l>treden aen de wijte en aen de lengte ontrent duijsent en</l>
+					<l>vijftich treden ende dit worde gedaen om dat de</l>
+					<l>stadt wijt in Begrip was</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>Ende Weynich Betimmert ende Bewoont soo dat</l>
+					<l>de Burgers de stadt noch Besetten noch Bewaren</l>
+					<l>konden want daer moesten altyts knechten binnen</l>
+					<l>Rotterdam Leggen van des lants wegen om die stadt</l>
+					<l>Bewaeren</l>
+					<l>Korts hier naer worden twee kapyteynen van Jonck</l>
+					<l>Heer frans Binnen delft met de swaerden gerecht</l>
+					<l>de Eenen genaemt lepeltack en dander Rooff Asch</l>
+					<l>ende acht daegen daer naer wort Joris den Basterdt</l>
+					<l>van Brederoode oock aldaer gerecht met meer Andren</l>
+					<l>Cron. hollant f. 243 Cap. 67</l>
+					<l>Ende Een wijl tijts hier naer Compt Jonckheer</l>
+					<l>frans van Brederoode weder In hollant met Een deel</l>
+					<l>scheepen Roovende ende Brandende water hij best</l>
+					<l>en meest by conde comen, dit vernemende de stadt houder</l>
+					<l>van hollant vervolchde hem met Een deel knechten</l>
+					<l>In wapenen en quaemen aen malkanderen ende daer</l>
+					<l>wort seer gevochten ende daer Bleven veel dooden</l>
+					<l>ten Wedersyden maer Int Eynde wiert Jonckheer</l>
+					<l>frans seer gequest ende gevangen binnen dordrecht</l>
+					<l>gebracht ende daer sterff hij van de quetsinge ende</l>
+					<l>worden In Augustynen kerk Begraeven tot</l>
+					<l>dordrecht</l>
+					<l>Int Jaer 1490 worden geheijt het hooch koer van</l>
+					<l>St. Laurens kerck tot Rotterdam ende dit dede de Burgers</l>
+					<l>uijt lieffde ende ginck om met Beurten ende worden</l>
+					<l>N/5</l>
+					<l>op het werck ende daer van gebrocht met den Trommel</l>
+					<l>ende de Plaets daer dit hooch koer op getimmert is heeft</l>
+					<l>voor dees tijt geweest Een Tuijn van de huijsinge van de</l>
+					<l>spiegel op aen de hoochstraet</l>
+					<l>Int Jaer 1497 Inde maent van Junij worde flips de</l>
+					<l>Tweede van Borgongien binnen Rotterdam heerlyck</l>
+					<l>In gehaelt ende ontfangen ende gehult voor haeren</l>
+					<l>graeff ende Rechte lants heer Cron. hollant</l>
+					<l>f 253: Cap. 11</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>6</l>
+					<l>Copije van Een Brieff gesonden uijt</l>
+					<l>de hoven van hollant aende steden van</l>
+					<l>Rotterdam gedateert den 11en decemb.</l>
+					<l>Anno 1506 <hi rend='strikethrough:true;'>den</hi> ende luijt als volcht</l>
+					<l>Op den dach van huijden soo was by de hoven van hollant</l>
+					<l>geordonneert alsoo seeckre nieuwe maeren ende Brieven</l>
+					<l>gecomen syn uijt de grooten hoop van Eenige Edelen</l>
+					<l>ende groot Personagien dat de selvige waerachtich geadverteert</l>
+					<l>synde dat het op het gemaeckt is Int lant van Geldre om</l>
+					<l>Eenige steden binnen desen landen in te nemen van hollant</l>
+					<l>te water ende Bij sonder op dordrecht en Rotterdam</l>
+					<l>dat deselve van de steden binnen desen landen van</l>
+					<l>Rotterdam tot costen van de gemeene landen van hollant</l>
+					<l>en vrieslant terstont sullen mogen aen nemen ende</l>
+					<l>onderhouden vijff en twintich knechten boven die</l>
+					<l>geenen die sij selven onderhouden men sal hen die selven</l>
+					<l>Doen Betaelen, ander kapijteijnen ende knechten tot costen</l>
+					<l>van de landen liggende betaelt worden by den Rentem<hi rend='superscript:true;'>r</hi>.</l>
+					<l>generael van noort hollant jacob goverse als ontfanck</l>
+					<l>hebbende van de Penninge van de lande ter cause van de</l>
+					<l>onder houdenisse van dese hondert knechten omme geslaegen</l>
+					<l>welcke Penninge hen gepasseert sullen worden in</l>
+					<l>wtgeven van syn Reeckeninge mits over Brenge</l>
+					<l>dese ordonnantij ende quytantij ende dat geduijrende</l>
+					<l>tot kennelijcke wedersegginge van den hoven Aldus</l>
+					<l>gedaen in den haegen op den Eersten dach van In decemb.</l>
+					<l>duysent vyffhondert en ses Bij mij heer stadt houder</l>
+					<l>generael Philps van spangien Ridder meester Jacob</l>
+					<l>van wyngerde</l>
+					<l>Ruijsch, floris Een van wyngerden, Jan florr. van Wijngerden Evert de</l>
+					<l>veer jan van duijnenden Reijnier d Jonge ende Jacob</l>
+					<l>Bouwerse Raetsluijden van hoven mij Tegenwoordich</l>
+					<l>ende was onderteyckent</l>
+					<l>Druijnsen</l>
+					<l>Int Jaer 1510 Elff Twaleff ende derthienden worden</l>
+					<l>N/6</l>
+					<l>den Glaesen gemaeckt ende Ingeset aen het hooch koor</l>
+					<l>van St. Louwens kerck tot Rotterdam</l>
+					<l>Int Jaer 1536 den derden dach In Julius sterff den</l>
+					<l>geleerden en wyt vermaerde Erasmus van Rotterdam</l>
+					<l>Inde stadt Basel in switserlant ende worde daer</l>
+					<l>Begraven syn ouderdom was 68 Jaren 8 maenden</l>
+					<l>5 daegen</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>Int Jaer 1547 den 11 dach in Maert wort den Eersten</l>
+					<l>steen geleijt van het verhoogen van S<hi rend='superscript:true;'>t</hi>. Lourens kerck</l>
+					<l>tooren tot Rotterdam tot onderste hadde gestaen</l>
+					<l>acht en Negentich Jaeren Eer de verhooging daer</l>
+					<l>N/7</l>
+					<l>op geset worden</l>
+					<l>Voorts nae desen tijdt worde gemaeckt de</l>
+					<l>N/8</l>
+					<l>Huijbregge van steen werck voor die tijdt</l>
+					<l>houte breggentge</l>
+					<l>haddet geweest Een <hi rend='strikethrough:true;'>st</hi></l>
+					<l></l>
+					<l>Ende ontrent die tijdt worde oock gemaeckt het hooft</l>
+					<l>aen de oost sijde vande oude haven van steen Werck</l>
+					<l>voor die tijt geweest hebbende een Kyffhooft</l>
+					<l>Int jaer 1554 Costmen Een duijsent metselsteen binnen</l>
+					<l>Rotterdam om Elff stuijvers en oock om Een hoet kalck</l>
+					<l>om gelijcke Elff stuijvers</l>
+					<l>Int jaer 1555 ses En de seven ende vijfftich worden</l>
+					<l>geheijt ende gefondeert ende gemaeckt de schoone</l>
+					<l>steene ende heerlijcke Brugge daer mart op gehouden</l>
+					<l>worden tot Rotterdam op welcke Brugge het beelt</l>
+					<l>van Erasmus is staende tot Bueysinge dat hij daer</l>
+					<l>gebooren ende op gevoet is bij S<hi rend='superscript:true;'>t</hi>. Lourens Kerck tot</l>
+					<l>Rotterdam</l>
+					<l>Int Jaer 1561: condemen binnen Rotterdam aende</l>
+					<l>Middeldam dat op die tijdt het Beste van Rotterdam</l>
+					<l>was Een Redelijck huijs huijren Een geheele Jaer om</l>
+					<l>ontrent vier Ponden Vlaems maer naer wordent dierder</l>
+					<l>Int Jaer 1563 den derthiende dach van July wesende</l>
+					<l>saterdach ontrent vuijven nae den middach begon</l>
+					<l>Een groote Brant binnen Rotterdam in de West</l>
+					<l>meule straet ende het wayde Eenen stercken droogen</l>
+					<l>N/10</l>
+					<l>suijt westen wint soo dat den Brant niet te stutten</l>
+					<l>noch te houden en was over mits dat het veel</l>
+					<l>Riet dack was dat inde stadt was en de daers</l>
+					<l>verbrande dat West nieuwe lant ende Rijstuijnen</l>
+					<l>den hooftsteech den houtuijn ende het oost Eynde vande</l>
+					<l>Hoochstraet soo dat daer meer verbrande dan</l>
+					<l>250 huijsen ende dat <hi rend='strikethrough:true;'>het</hi> Predicker monicken Clooster</l>
+					<l>met dat manhuijs de hooft Port ende de draij Bregge</l>
+					<l>ende wel 60 schepen soo groot als kleijnen daer</l>
+					<l>sommige van met goet gelaeden waeren soo datter</l>
+					<l>Een groot goet van alder ley soorten verbranden daer</l>
+					<l>groote onverwinnelycke schaede deur geleden werde by</l>
+					<l>inwoonders</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>7</l>
+					<l>De Heeren en Regeerders van Rotterdam siende ende</l>
+					<l>Merckende dat d&apos; hooftsteech veel te nauw was soo</l>
+					<l>hebben sy aff gekeurt alle de voor huijsen aende oost</l>
+					<l>N/11</l>
+					<l>sijde vande straet want d huijsen laegen ter neder</l>
+					<l>vanden Brant soo dat de straet soo veel wijder</l>
+					<l>gemaeckt worden</l>
+					<l>Int Jaer 1561 worden de dray Breggen weder gemaeckt</l>
+					<l>N/12</l>
+					<l>ende geleijt binnen de twee Toorens daer des Boom</l>
+					<l>vande haven op die tijt aen sloot want de dray Bregge</l>
+					<l>hadde voortijts gelegen het Een Eynde int west nieuwe</l>
+					<l>lant ende het Ander Eynde inde Rijstuijn</l>
+					<l>Int Jaer 1571: worden gemaeckt dat Blauwsteen werckt</l>
+					<l>daer de mande maeckers Bregge staet het hadde voor dies tijdt</l>
+					<l>geweest Een onbequaem en ongemackelijcke met vallen onder</l>
+					<l>Int Jaer 1572 den 12 April wesende dijnsdach nam de</l>
+					<l>graeve van Lunne met weijnich volck den Briel</l>
+					<l>in de Spanjaerden vreesende en de ducht ende meer</l>
+					<l>steden te verliesen soo compt de graeff van Bossu met</l>
+					<l>veel Spanjaerden voor de steden van Rotterdam begeerende</l>
+					<l>daer in gelaeten te wesen de Burgers hebben hun aldus</l>
+					<l>met den Eersten aff geslaegen en geweijgert maer deur</l>
+					<l>veel aen houwens om daer door te mogen breeken soo ist</l>
+					<l>hen ten lesten geconsenteert dat sy soude passeeren met</l>
+					<l>Een Rot Teffens maer hebben onder decksel van dien</l>
+					<l>de Burgers die Poorten over Weldicht ende veel der</l>
+					<l>selvens omgebracht ende vermoort op den negensten</l>
+					<l>April wesende woonsdach ende was den Vierden</l>
+					<l>Passdach int jaer 1572 welcke naemen van de dooden</l>
+					<l>wij schrijven sullen</l>
+					<l>Jan Jacobs de Roos Burgem<hi rend='superscript:true;'>e</hi>. van Rotterdam</l>
+					<l>Joris Baltense Brouwer</l>
+					<l>Hobben Jans Brouwer</l>
+					<l>Heijndrick Claessen</l>
+					<l>Pieter Jorissen</l>
+					<l>Cornelis Jacobsen</l>
+					<l>Heijndrick Sweerden</l>
+					<l>Claess Schouten</l>
+					<l>Jop Franse Timmerman</l>
+					<l>Cornelis Aerse Kievit</l>
+					<l>Willem Arijaense van Groenhout</l>
+					<l>Pieter Slampamp</l>
+					<l>d Vos Trommelslaeger</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>Int Jaer 1547 den 11 dach in maert wort den Eersten</l>
+					<l>steen geleijt van het verhoogen van s<hi rend='superscript:true;'>t</hi>. Lourens kerck</l>
+					<l>tooren tot Rotterdam het onderste hadde gestaen</l>
+					<l>acht en Negentich Jaeren Eer de verhooginge daer</l>
+					<l>N/7</l>
+					<l>op geset worden</l>
+					<l>Voorts nae desen tijdt worde gemaeckt de</l>
+					<l></l>
+					<l>N/8</l>
+					<l>Huijbregge van steen werck voor dier tijdt</l>
+					<l>haddet geweest Een houte Breggentge</l>
+					<l>N/9</l>
+					<l>Ende ontrent die tijdt worde oock gemaeckt het hooft</l>
+					<l>aen de oost sijde van de oude haven van steen Werck</l>
+					<l>voor die tijt geweest hebbende een Rysshooft</l>
+					<l>Int jaer 1554 Cost men Een duijsent met selft een binnen</l>
+					<l>Rotterdam om Elff stuijvers en oock om Een hoet kalck</l>
+					<l>om gelijcke Elff stuijvers</l>
+					<l>Int jaer 1555 ses En de seven ende vijfftich worden</l>
+					<l>geheijt ende gefondeert ende gemaeckt de schoone</l>
+					<l>steene ende heerlycke Brugge daer mart op gehouden</l>
+					<l>worden tot Rotterdam op welcke Brugge het beelt</l>
+					<l>van Erasmus is staende tot Bewysinge dat hij daer</l>
+					<l>gebooren ende op gevoet is bij s<hi rend='superscript:true;'>t</hi>. Lourens kerck tot</l>
+					<l>Rotterdam</l>
+					<l>Int Jaer 1561: conde men binnen Rotterdam aende</l>
+					<l>middeldam dat op die tijdt het Beste van Rotterdam</l>
+					<l>was Een Redelijck huijs huijren Een geheel Jaer om</l>
+					<l>ontrent vier Ponden Vlaems maer naer wordent dierder</l>
+					<l>Int Jaer 1563 den derthiende dach van julij wesende</l>
+					<l>saterdach ontrent  2 uijren nae den middach begon</l>
+					<l>Een groote Brant binnen Rotterdam inde west</l>
+					<l>meule straet ende het wayde Eenen stercken droogen</l>
+					<l>N/10</l>
+					<l>suijt westen wint soo dat den Brant niet te stutten</l>
+					<l>noch te houden en was over mits dat het veel</l>
+					<l>Riet dack was dat inde stadt was en de daer</l>
+					<l>verbrande dat west nieuwe lant ende Rijstuijnen</l>
+					<l>den hooft steech den houtuijn ende het oost Eynde van de</l>
+					<l>Hoochstraet soo dat deser meer verbrande dan</l>
+					<l>250 huijsen ende dat <hi rend='strikethrough:true;'>Mr.</hi> Predicker monicken Clooster</l>
+					<l>met dat manhuijs de hooft Port ende de draij Bregge</l>
+					<l>ende wel 60 schepen soo groot als kleijnen daer</l>
+					<l>sommige van met goet gelaeden waeren soo datter</l>
+					<l>Een groot goet van alderleij soorten verbranden daer</l>
+					<l>groote onverwinnelycke schaede deur geleden werde bij</l>
+					<l>inwoonders</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>7</l>
+					<l>De Heeren, en Regeerders van Rotterdam seinde ende</l>
+					<l>merckende dat d&apos; hooft steech veel te nauw was soo</l>
+					<l>hebben sij aff gekeurt alle de voorhuijsen aende oost</l>
+					<l>N/11</l>
+					<l>syde van de straet want dhuijsen laegen ter neder</l>
+					<l>van den Brant soo dat de straet soo veel wijder</l>
+					<l>gemaeckt worden</l>
+					<l>Int Jaer 1561 worden de draij Breggen weder gemaeckt</l>
+					<l>N/12</l>
+					<l>ende geleyt binnen de twee Toorens daer de Boom</l>
+					<l>van de haven op die tijt aen sloot want de draij Bregge</l>
+					<l>hadde voortijts gelegen het Een Eynde int west nieuwe</l>
+					<l>lant ende het Ander Eynde inde Rijstuijn</l>
+					<l>Int Jaer 1531: worden gemaeckt dat Blauwsteen werckt</l>
+					<l>daer de mande maeckers Bregge staet het hadde voor dees tijdt</l>
+					<l>geweest Een onbequaem en ongemackelijcke met vallen onder</l>
+					<l>Int Jaer 1572 den 12 April wesende dijnsdach nam de</l>
+					<l>graeve van Lunne met weijnich volck den Briel</l>
+					<l>in de Spanjaerden vreesende in de duchtende meer</l>
+					<l>steden te verliesen soo compt de graeff van Bossu met</l>
+					<l>veel Spanjaerden voor de steden van Rotterdam Begeerende</l>
+					<l>daer in gelaeten te wesen de Burgers hebben hun aldus</l>
+					<l>met den Eersten aff geslaegen en geweijgert maer deur</l>
+					<l>veel aen houwens om daer door te mogen breecken soo ist</l>
+					<l>hen ten lesten geconsenteert dat sij soude Passeeren met</l>
+					<l>Een Rot Teffens maer hebben onder decksel van dien</l>
+					<l>de Burgers die Poorten over Weldicht ende veel der</l>
+					<l>selven omgebracht ende vermoort op den negensten</l>
+					<l>April wesende woonsdach ende was den vierden</l>
+					<l>Passdach int jaer 1572 welcke naemen van de dooden</l>
+					<l>wij schrijven sullen</l>
+					<l>Jan Jacobs de Roos Burgem<hi rend='superscript:true;'>e</hi>. van Rotterdam</l>
+					<l>Joris Baltense Brouwer</l>
+					<l>Hobben Jans Brouwer</l>
+					<l>Heijndrick Claessen</l>
+					<l>Pieter Jorissen</l>
+					<l>Cornelis Jacobsen</l>
+					<l>Heijndrick Sweerden</l>
+					<l>Claess Schouten</l>
+					<l>Jop franse Timmerman</l>
+					<l>Kornelis Aerse Kievit</l>
+					<l>Willem Arijaense van Groenhout</l>
+					<l>Pieter Slampamp</l>
+					<l>d Vos Trommelslaeger</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>Cornelis Aryaense minnes</l>
+					<l>Joris Roelanse van sevenhuijse</l>
+					<l>de witten heyndrick</l>
+					<l>Rijck de smit</l>
+					<l>dirck Gijssen meulenaer</l>
+					<l>jacob de smit</l>
+					<l>jacob Acht de schoenmaecker</l>
+					<l>frans Janse de smidt</l>
+					<l>Mercelis Claesse</l>
+					<l>Pieter de lapper</l>
+					<l>Teunis Rockhals</l>
+					<l>den Broeder</l>
+					<l>de soon van Janne de vrouw</l>
+					<l>huybrecht de Portier van de schiedamse Port met syn son</l>
+					<l>Dooff Jan</l>
+					<l>Jan Barense</l>
+					<l>Claes Wouterse op de meent</l>
+					<l>de soon van maertgen Huijgen</l>
+					<l>Heijndrick Allersen</l>
+					<l>Govert de Smit</l>
+					<l>Cuyper Tys</l>
+					<l>meyter Cornelis door</l>
+					<l>Willem Corneliss friesman</l>
+					<l>Aryaen Corssen</l>
+					<l>Pieter Claessen Cuijper</l>
+					<l>Arijaen Willemse Goutsblom verdronck</l>
+					<l>noch Een op het kerckhoff gebleven</l>
+					<l>Dese voorschreve Burgers hebben de spangjaerden</l>
+					<l>om gebrocht Binnen Rotterdam den 9 Appril 1572</l>
+					<l>als voorschreven is, ende hielden de stadt In ende</l>
+					<l>trocken naer delffs haeven ende sloegen daer veel</l>
+					<l>volckx doot en Roofden delffs haven, ende dede voorts</l>
+					<l>veel quaets inder stadt ende op de dorpen, ende naer dat</l>
+					<l>sy ontrent vyffthien weecken binnen de stadt</l>
+					<l>gelegen hadden sijnse uijt Rotterdam getoogen op den</l>
+					<l>22 dach In Jullij wesende dijnsdaechs int voorschreve jaer</l>
+					<l>1572</l>
+					<l>Ende als nu de spangjaerden tot Rotterdam waeren getrock</l>
+					<l>soo sijn veel vroome Burgers die tot de stadt geweecken</l>
+					<l>waeren weder om Binnen gecomen ende men heeft</l>
+					<l>van die aen de stadt die seer swack en vervallen van</l>
+					<l>vesten was Beginnen sterck te maecken ende te</l>
+					<l>Bolwercken ende dit mosten de Burgers uyt</l>
+					<l>lieffde doen ende daer toe om de derde marckt weecke</l>
+					<l>verte</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>8</l>
+					<l>Ende dit duijrde. ontrent vijff Jaer lang want</l>
+					<l>de stadt worde op die tijdt aen de water syde</l>
+					<l>vergroot aende wyte ontrent 125 Trede ende aen de</l>
+					<l>lengte van bij de oost Port aff tot doude schiedamse</l>
+					<l>Port toe, ende dese vergrootinge en wiert niet</l>
+					<l>gedaen om datter geen Plaets en was</l>
+					<l>om te timmeren, want daer waeren op die tijt</l>
+					<l>veel onbetimmerde Erven Thuijnen inde stadt</l>
+					<l>maer het worde gedaen om de sterckte van de stadt</l>
+					<l>ende om de schepen binnen de stadt te Brengen</l>
+					<l>want de nieuwe haven ende de Blaeck tot</l>
+					<l>Beijde stadt vesten geweest hadden worden </l>
+					<l>binnen havens van gemaekt Want op die tijdt</l>
+					<l>bereidt den meesten coophandel vant gehele</l>
+					<l>lant binnen Rotterdam gedreven van de oost</l>
+					<l>en westersche vaert want Amsterdam was</l>
+					<l>op die tijd catholycke</l>
+					<l>Int jaer 1576 worden geordonneert het gasthuijs op</l>
+					<l>het oost Ende van de Hoochstraat aende noort sijde</l>
+					<l>voor die tijdt geweest hebbende aen de Huijbrugge </l>
+					<l>Int jaer 1577 worden aff gebroocken de vest muijren</l>
+					<l>aen de binnensijde van de nieuwe haven</l>
+					<l>Int 1578 worden aff gebroocken de Hooft</l>
+					<l>port genaemt st. Laurens Port ende Plachte</l>
+					<l>staen op het suijt Eynde van de hooftsteech bij</l>
+					<l>den draij Bregge</l>
+					<l>Int jaer 1579: worden gemaeckt ende geheyt d Eerste</l>
+					<l>gapers Bregge</l>
+					<l>van het jaer 1579 tot het jaer 1583 toe heeft de </l>
+					<l>stadt van Rotterdam groote oncosten gedaan aende</l>
+					<l>stadts walle ende bolwercke aende waeter sijde </l>
+					<l>ende int het 1584 was de stede van Rotterdam fraij</l>
+					<l>van aerde wallen en Aerde bolwercken aende</l>
+					<l>waeter kant als nu beschreven sal worden</l>
+					<l>Het Eerste Bolwerck lagh voor de oost port</l>
+					<l>daer de Runnne moole op getimmert worden </l>
+					<l>int jaer 1584 die in corten tydt wel 24 roevoeten</l>
+					<l>sackte</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>Het Tweede lach voor de oost port daer de</l>
+					<l>oude port in gedampt was ende hadde. voor </l>
+					<l>tijdts geweest Een port gelijck de Delftse port</l>
+					<l>Het 3 block werck lag aen de binne sijde </l>
+					<l>van het haring vliet voor broer Pieter</l>
+					<l>Sieren steech</l>
+					<l>het 4 Bolwerck lach aen de binnen sijde van</l>
+					<l>het Haring vliet voor de Boogerstraet</l>
+					<l>het 5 Bolwerck lach bij de Hooft Port daer</l>
+					<l>de beurs op getimmert wierdt</l>
+					<l>Het 6 Bolwerck lach bij het westerse hooft</l>
+					<l>en was genaemt den houten man</l>
+					<l>Het 7 Bolwerck lach lach Een weijnich beoosten</l>
+					<l>Engelboon en steech en was genaemt Rolwaegen</l>
+					<l>Het 8 Bolwerck lach schuijns over de oude</l>
+					<l>Schiedamse Port ende was genaemt luchtenburch</l>
+					<l>Daer int begin des Jaers 1584 Een wije moolen op</l>
+					<l>getimmert wiert die daer omtrent 26 jaer op stondt</l>
+					<l>en de doen worden se aff gebroocke om dat de straet</l>
+					<l>van de Eunger Bregge dear recht op roijde ende </l>
+					<l>tusschen alle dese voorschreve Bolwercke lach Een </l>
+					<l>andere wal ende daer En was geen Poort aen de</l>
+					<l>watersijde van de oost Port oft tot de oude schiedamse</l>
+					<l>Port toe. dan op het oude hooft was Een gadt </l>
+					<l>in de aerde walle dat aen beijde sijde met bakken</l>
+					<l>beset was en plancken daer op geleijt en daer Aerden</l>
+					<l>op soo dat in en onder en boven daerden gingen die </l>
+					<l>op het hooft wesen wilde ende aldus was de</l>
+					<l>stadt van Rotterdam aen de waeter sijde als</l>
+					<l>voorschreven is maer aen de lant sijde was de</l>
+					<l>stadt met steene mueren ende toorens die seer</l>
+					<l>vervallen waeren ende op sommige plaetsen</l>
+					<l>met Aerde weder toegestop soo dat de stadt</l>
+					<l>aen de lantsijden heel open lach int jaer 1584</l>
+					<l>Int jaer 1584 wort gemaekt van steen werck</l>
+					<l>het oude westerse hooft voor die tijdt geweest</l>
+					<l>Hebbende Een houten hooft dat seer vervallen</l>
+					<l>was</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>9</l>
+					<l>Int jaer 1584 En was buijten de Goutschen Port</l>
+					<l>niet Een thuijn noch niet Een bleijck velt</l>
+					<l>van de oost Port tot de Rotten toe. Buijten om</l>
+					<l>om de stadt maer t was alle gaer weijlant en</l>
+					<l>hoijlant van de stadts vesten tot Crooswijck</l>
+					<l>toe  maer doude stadts vesten sach met noch</l>
+					<l>Hoe datse gelegen hadden van Pompen burch</l>
+					<l>oft tot bij, d&apos;oost Port toe, alhoewel dat het</l>
+					<l>ontrent 95 Jaer geleden was dat de stadt cleijnder</l>
+					<l>gemaeckt worden</l>
+					<l>Int jaer 1584: En stont buijten het hooft Portgen</l>
+					<l>niet Een huijs thuijn noch bleijckvelt maer -</l>
+					<l>het was weijlant van de stadt oft tot de blommer.</l>
+					<l>dijckse watermoolen toe en de daer En stondt aen de</l>
+					<l>Rotte van de stadt oft tot het duijff huijs toe maer</l>
+					<l>Een huijs daer Een lantman in woonde genaemt</l>
+					<l>Jacob Leeuwen</l>
+					<l>Int jaer 1584 En stondt buijten de delftse Poort</l>
+					<l>niet Een huijs noch meulen thuijn noch</l>
+					<l>Bleijck velt van de stadt oft tot de keulsche</l>
+					<l>waeter moolen toe ende alsoo was het oock</l>
+					<l>buijten de Schiedamse Port</l>
+					<l>Int jaer 1584 int begin van meert stont binnen</l>
+					<l>Rotterdam met meer als 6 cooren wint moolens</l>
+					<l>4 bij de oost Port 2 op het noort Eijnde van de</l>
+					<l>lommerstraet en Een bij de oude Schiedamse Port</l>
+					<l>en Een bij de delfse Port dit waeren de ses cooren</l>
+					<l>meulens en maelde voor de steden van Rotterdam</l>
+					<l>maer int jaer 1612 maelde voor de stadt Rotterdam</l>
+					<l>13  cooren wint moolens en 10 Rotsmoolen</l>
+					<l>Beminde leser hier sullen wij U L schrijven</l>
+					<l>hoe dat de stadt Rotterdam was van straten</l>
+					<l>huijsen stegen huijsen en gebouw int jaer 1584</l>
+					<l>ende sullende dit schrijven aen deelen om dat</l>
+					<l>te beter verstaen ende onder scheijden soude</l>
+					<l>Eerst het oost Nieuwlant is Een Eijlant en hadde</l>
+					<l>int jaer 1584 Elft straeten ofte stegen maer int </l>
+					<l>jaer 1607 begrip dit voorschreven Eijlant in hem</l>
+					<l>selffs sesthien straeten ofte stegen die wij</l>
+					<l>schrijven sullen</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>Int jaer 1584 stont aen de voortsijde van de nieuwe</l>
+					<l>Have biet Een woonhuijs anders niet dan Een</l>
+					<l>Packhuijs toe behoorende Eenen Coopman genaemt</l>
+					<l>cornelis Pieting maer het waeren onbetimmerde Erve</l>
+					<l>ende tuijnen die op die tijdt waren Bevrijdt met</l>
+					<l>Een sloot vande meule stroef aff tot het oost eijnde</l>
+					<l>van nieuwe Haven ende dit hadde Eertijts geweest</l>
+					<l>de binnen vest sloot die deurgaens gedampt</l>
+					<l>werdt ende daer staen alle de gevels op van de</l>
+					<l>huijse die aen de noortsijde van de nieuwe haven staen</l>
+					<l>Int Jaer 1584 stondt inde groenendael niet dan</l>
+					<l>6 ofte 7 huijsen voort warent thuijnen daer nae</l>
+					<l>de voorschreve tijdt twee stegen deur gemaeck</l>
+					<l>wierden d Eene ontrent het Jaer 1590 ende worden</l>
+					<l>genaemt hijemans steech om dat die man die het</l>
+					<l>Eerste huijs aen dese steech timmerde genaemt was</l>
+					<l>hieman symonse en was capeteijn van sLants wegen</l>
+					<l>Dander ontrent het Jaer 1593 ende worden genaemt</l>
+					<l>jaep quaeckensteech om dat die man genaemt was</l>
+					<l>jacob janse quaeck die het Eerste huijs aen die straet</l>
+					<l>ofte steech timmerden hij was Een schipper over</l>
+					<l>zee.</l>
+					<l>Int Jaer 1584 was doost meule straet weijnich</l>
+					<l>Betimmert ende int selde jaer 1584 worden gemaack</l>
+					<l>ende gemaeckt d Eerste Breggen over de nieuwe have</l>
+					<l>die op de meulestraet Legt</l>
+					<l>Int jaer 1584 was de suijt sijde van de houtuijn straet</l>
+					<l>Betimmert met weijnich huijsen ende scheep</l>
+					<l>maeckers lootsen voort warent onbetimmerde Erven</l>
+					<l>aende noort sijde van de houtuijn straet warent</l>
+					<l>Timmer werven ende daer om stont niet Een huijs</l>
+					<l>van de mande maeckers Bregge aff tot de Valcken</l>
+					<l>Brugge toe</l>
+					<l>Int jaer 1584 was de seven huyse steech qualijck halff</l>
+					<l>Betimmert voorts warent ledige Erven</l>
+					<l>Int jaer 1584 was de hooft steech vol timmert maer</l>
+					<l>sijn der sommige huijssen oude aff gebroocke en groote</l>
+					<l>huijse weder getimmert</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>10</l>
+					<l>Int jaer 1584 was de Rijstuijn Betimmert met</l>
+					<l>sommige huijsen ende voort warent Rijswerven</l>
+					<l>en om Betimmerde Erven daer nae veel schoone</l>
+					<l>huijse Pakhuijse op getimmert sijn om aldaer alderleij </l>
+					<l>Coopmans goet te mogen Bergen</l>
+					<l>Tusschen den draij Bregge ende de Roobregge sijn</l>
+					<l>sedert het jaer 1584 sijn sommige nieuwe huysen</l>
+					<l>Betimmert daer voor die tydt geen gestaen en hadde</l>
+					<l>Int jaer 1584 en stondt niet aen de suyt syde van de</l>
+					<l>nieuwe haven dan 3 ofte 4 huijsen voort warent</l>
+					<l>Thuijnen en onbetimmerde Erven ende vande</l>
+					<l>Roobregge tot het haring vliet<hi rend='strikethrough:true;'>en toe</hi> Bregge stont</l>
+					<l>maer 7 ofte 8 huijse ende Int jaer 1595 worden Een Erff</l>
+					<l>deur gegraven tusschen het harinck vliet ende de</l>
+					<l>nieuwe haven soo dat Beyde de havens tot</l>
+					<l>malcandren lopen ende doen wast Een Eijlant tusschen</l>
+					<l>de nieuwe haven en het haring vliet daer Int jaer</l>
+					<l>1605 wel 8 Betimmerde straten ofte stegen in laegen</l>
+					<l>Beminde leser nu sullen wij u.l. schrijven van</l>
+					<l>het west nieuwe lant dat aen de westsyde leijt</l>
+					<l>van de oude haven ende is Een Eijlant daer Int jaer</l>
+					<l>1584 vyffthien straten ofte stegen in laegen</l>
+					<l>maer Int Jaer 1605 laegen in dit voorschreven</l>
+					<l>Eijlant Eenen twintich straeten ofte stegen</l>
+					<l>Int jaer 1584 was de cay van de Blaeck niet gecaijt</l>
+					<l>aen Beijde de sijde want van de Gapers Bregge tot</l>
+					<l>Den Eunger Bregge toe stont op die tijdt niet Anders</l>
+					<l>dan Een scheepmaeckers huijs dat op Een Timmer</l>
+					<l>werff stondt voors wast Rietvelt tusschen</l>
+					<l>Beyde de voorschreve Bregge daer de haring</l>
+					<l>schepen voort laegen swinters aen Paelen die voor</l>
+					<l>het Riet geleyt waren ende aen de oost sijde van de</l>
+					<l>gapers Brugge waren vijff ofte ses timmerwerven</l>
+					<l>daer op yder werff Een scheepmaeckers huijs op stont</l>
+					<l>niet op Reij maer gelijck de lantlieden Timmerde</l>
+					<l>Een yder nae syn gelegentheyt ende aen de noort sijde</l>
+					<l>van de Blaeck stont niet Een huijs want de straet</l>
+					<l>wiert op die tijdt buijten de vest muijr uijt het</l>
+					<l>waeter op gehoocht, want alle die huijsen die</l>
+					<l>voorsz</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>vande Blaek getimmert sijn staen met dies</l>
+					<l>voorgevel op de oude vest muijren ende de</l>
+					<l>Eersten 2 huijsen aen dese straet werden getimmert</l>
+					<l>int Jaer 1583 op den west hoeck van de korte schrijn</l>
+					<l>werkers steech</l>
+					<l>Int Jaer 1584: Was het vissersdijck Betimmert</l>
+					<l>met Een deel slechte vissers huijsen die meest al</l>
+					<l>met Riet gedeckt waren ende warent veel</l>
+					<l>onbetimmerde Erven aen beijde sijde vant vissersdyck</l>
+					<l>Int Jaer 1584 was de suijt sijde van het hang qualijck</l>
+					<l>half Betimmert voors warent onbetimmerde</l>
+					<l>Erven ende aen de noort sijde warent kleijne vissers</l>
+					<l>huijskens die met Riet gedeckt waren ende die</l>
+					<l>twee stegen int hang bij de weese Bregge sijn</l>
+					<l>Begonnen ontrent het jaer 1591 ende de stinck steech</l>
+					<l>was int jaer 1584 niet half Betimmert voort</l>
+					<l>warent Ledige Erven</l>
+					<l>Int Jaer 1584 was de schrijn werkers steech Betimmert</l>
+					<l>met slechte huijskens met Riet gedeckt endes alsoo</l>
+					<l>was ook de meule steech maer dese voorschreve</l>
+					<l>stegen sijn seer verbetert en met schoone huijses</l>
+					<l>Betimmert</l>
+					<l>Int jaer 1584 laegen aende west sijde vande delftse</l>
+					<l>vaert tot den Vest toe ende vande delftsche Poort</l>
+					<l>tot het twater daer de steene Bregge over leijt inder</l>
+					<l>west wagestraet thien straeten ofte stegen daer</l>
+					<l>der west wagenstraet de Principaeltsen van was</l>
+					<l>ender int jaer 1613 26 straeten ofte stegen</l>
+					<l>Int jaer 1584 was de west wagestraet Betimmert </l>
+					<l>met slechte huijse die meestal met Riet gedeckt </l>
+					<l>waren ende veel paerden stallen hoij scheuren </l>
+					<l>en hoij Bargen ende veel onbetimmerde Erven</l>
+					<l>die seer woest leagen ende aen de west sijde van</l>
+					<l>die straet was het weeshuijs daer naer af sal</l>
+					<l>geschreven worden</l>
+					<l>Int jaer 1584 was het Roosant Betimmert met</l>
+					<l>slechte schamele Burgers huijskens met Riet</l>
+					<l>gedeckt ende alsoo was oock de Korte Vaert</l>
+					<l>ende de krattesteech de leewestraat voor Aen</l>
+					<l>Betimmert met een deel huijsen daer de</l>
+					<l>Leeuwe op de gevels stonde daer de straet de naem van heeft</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>11</l>
+					<l>Int jaer 1584 stont van de Raem brugge tot bij s<hi rend='superscript:true;'>t</hi></l>
+					<l>joris doelestraet een huijs maer bij de delftsche Port</l>
+					<l>stonden een deel huijsen met Paerdestallen</l>
+					<l>Int jaer 1584 stont de Port van de Raem<hi rend='strikethrough:true;'>brugge</hi></l>
+					<l>recht over de Raembregge daer de Raem straet</l>
+					<l>nue is ende. daer den Raeme op die tijdt stonden wast</l>
+					<l>half water en half lant, want de aerde die uijt</l>
+					<l>des sloot op geschooten was daer stonden de Raemen</l>
+					<l>op ende de sloot die buijten om de Raemen lach</l>
+					<l>tot Een Beschuttinge en Beerderijdinge van de</l>
+					<l>Raemen worden int jaer 1585: schoonen vis gevange</l>
+					<l>dat is nu de Raemsloot straet ende dien dese</l>
+					<l>sloot gedampt worden wasse. Wel 16 Roe voeten</l>
+					<l>diep ende daer nu de santstraet is was op dier tijdt</l>
+					<l>leech moras ende sommige slooten daer naer van </l>
+					<l>geschreven sal worden ende oock van de Raemen</l>
+					<l>Int jaer 1584 laegen Tussche de delftse vaert ende de</l>
+					<l>Rotten van 1 hoff Porte tot suijt kerkehoff toe</l>
+					<l>17 straet ofte stegen daer den oppert de Beste straet</l>
+					<l>Toen is int jaer van 1600 waren der wel 20 straeten ofte</l>
+					<l>stegen</l>
+					<l>Int jaer 1584 Was den oppert op het suijt Eijnde van de </l>
+					<l>straet Betimmert met groote oude huijsen ende</l>
+					<l>op het Noort Eijnde vande straet Was den oppert</l>
+					<l>Betimmert met Veel slechte huijsen <hi rend='strikethrough:true;'>Betimmert</hi></l>
+					<l>met Riet gedect die nae aff gebrooken sijn ende </l>
+					<l>andre groote @ooge huijsen weder getimmert</l>
+					<l>Int jaer 1584 was de delftsche vaert Vol Timmert</l>
+					<l>maer naer sijnder veel oude huijsen aff gebroken</l>
+					<l>ende weder getimmert maer op het noort Ende</l>
+					<l>Van de Vaert over s<hi rend='superscript:true;'>t</hi> joris doel Wast Inde Voorsch veer</l>
+					<l>tijdt seer slecht Betimmert Voors Warent</l>
+					<l>onbetimmerde Erven en scheepmaeckers Werve</l>
+					<l>Int jaer 1584 was de st jacobstraet met veel slechte</l>
+					<l><hi rend='strikethrough:true;'>@@@@</hi>e huijse Betimmert dies met Riet gedeckt</l>
+					<l>waeren dies naer aff gebroocken wierde en groote</l>
+					<l>huijse weder getimmert ende alsoo oock de</l>
+					<l>Begijne straet maer de selvige Broerersteech en</l>
+					<l>Kockesteech waren Betimmert met schamele</l>
+					<l>Burgers huijskens</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>Int Jaer 1584 was een sloot vant suijt kerck hoff</l>
+					<l>tot de delftsche vaert maer aen de noort sijde van</l>
+					<l>dese sloot stonden huijsen en daer was een straet </l>
+					<l>tusschen de sloot en de huijse n<hi rend='strikethrough:true;'>a</hi>aer naer noorde</l>
+					<l>dese voorschreve sloot gedampt ende dat is</l>
+					<l>nu de tooren straet</l>
+					<l>Int jaer ront 1584 lach tusschen de Rotte ende </l>
+					<l>de Buttersloot van de korte kip straet tot aen de </l>
+					<l>nort west 14 straeten ofte stegen maer int jaer</l>
+					<l>1604 waren der 17 straeten ofte stegen, daer de</l>
+					<l>Lomberstraet de vermaerste van is</l>
+					<l>Int jaer 1584 was de corte rijsstraet vol timmert</l>
+					<l>maer naer verbetert met sommige nieuwe huijsen</l>
+					<l>Int jaer 1584 was de Lommerstraet tot de </l>
+					<l>Lommerse brigge toe vol timmert maer van de</l>
+					<l>west tot de brigge toe laegen veel onbetimmerde</l>
+					<l>Erven aen beijde sijden van de lommerstraet ende</l>
+					<l>oock sommige hoij bergen aen de west sijde</l>
+					<l>Int jaer 1584 was de doele straet noch de halven</l>
+					<l>straet niet bestraet met eenen straetsteen</l>
+					<l>maer de straeten waren beijde op gehoocht ende </l>
+					<l>waren betimmert met een slechte weijnige</l>
+					<l>nieuwe huijsen want daer dese - straete sijn</l>
+					<l>hadde voortijts geweest s<hi rend='superscript:true;'>t</hi>. Bastiaens doel ende</l>
+					<l>daer sommige slooten ingeweest waren die</l>
+					<l>gedampt wierden ende de erven verkocht worde</l>
+					<l>ontvent het jaer 1580</l>
+					<l>Int jaer 1584 stont aen de west sijde van de butter</l>
+					<l>sloot van de brugge aen de vercken marct aft tot de </l>
+					<l>west toe met een huijs dan een turft scheur voort</l>
+					<l>warent onbetimmerde Erven</l>
+					<l>Int jaer 1584 was de verckemart ofte de meent</l>
+					<l>betimmert met veel slechte huijskens met</l>
+					<l>riet gedeckt ende nae aft gebroocken sijnde en nieuwe</l>
+					<l>groote huijse weder getimmert</l>
+					<l>Int jaer 1584 was de Buttersloot betimmert aen de </l>
+					<l>west sijde met leege wijde slechte huijse meest al</l>
+					<l>met riet gedeckt voort warent on betimmerde</l>
+					<l>erven op sommige plaetse tot de brugge toe</l>
+					<l>aen de vercken mart</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>12</l>
+					<l>Int jaer 1584 lach aen de oost sijde vande Buttersloot</l>
+					<l>tot de steene bregge die men uijt vaert naer kralinge</l>
+					<l>toe ende van der lijs straet tot de noort west toe</l>
+					<l>1hien straten ofte stegen ende int jaer 1608 33 straeten</l>
+					<l><hi rend='strikethrough:true;'>ofte</hi> steegen daer de Kipstraet op dien tijdt de </l>
+					<l>beste van is</l>
+					<l>Int jaer 1584 was de kip straet betimmert met</l>
+					<l>redelijke <hi rend='strikethrough:true;'>abc</hi> burgers huijskens maer op</l>
+					<l>sommige plaetse laegen noch onbetimmerde</l>
+					<l>erven</l>
+					<l>Int jaer 1584 was de Buttersloot aen de oost sijde</l>
+					<l>vant oude gasthuijs aen de huijbregge ofte aen t Prince</l>
+					<l>hoff toe onbetimmerde erven ende het hadde</l>
+					<l>geweest het kerck hoft want voorschreve gasthuijs</l>
+					<l>ende vant Princen hoff tot aen de heerestraet stonden</l>
+					<l>Een deel oude huijsen ende stallen</l>
+					<l>Int jaer 1584 was de Pannekoeck straet betimmert</l>
+					<l>met veel slechten burgers huijssen veel met riet</l>
+					<l>gedect ende alsoo was oock de voogele sang</l>
+					<l>Int jaer 1584 was doost Waegestraet aende oost sijde</l>
+					<l>betimmert met een deel kleijne laegen huijsen</l>
+					<l>maer aen de west sijde stont niet een woon huijst</l>
+					<l>dan dicht bij de goutse poort stont een ros moolen</l>
+					<l>ende het pest huijs voors wast onbetimmert</l>
+					<l>moras ende achter het verbrande Clooster wast</l>
+					<l>oock slecht betimmert ende vant gasthuijs oft </l>
+					<l>tot aen de brugge daer men vettwaer naer kralinge</l>
+					<l>toe En wast niet gestraet</l>
+					<l>Beminde leser nu sullen wij af schrijven van de</l>
+					<l>hoochstraet met de straeten ende stegen daer aen</l>
+					<l>aen restpondeerende en de leggende van de oude</l>
+					<l>schiedamse port tot de oost port toe en tot aen</l>
+					<l>t water binnen ende buijten dijckx want de</l>
+					<l>Hoochstraat is den dijck ende beste straet van de</l>
+					<l>stadt daer laegen int jaer 1584 vijff en dertich straten</l>
+					<l>ofte stegen maer tusschen beijde wateren buijten</l>
+					<l>ende binnen den dijck laegen int jaer 1613 russtich</l>
+					<l>straten ofte stegen die volbetimmert waren</l>
+					<l>maer op het oost eijnde van de hoochstraet lagen</l>
+					<l>int jaer 1584 noch veel onbetimmerde erven ende op</l>
+					<l>het west eijnde aen de west sijde van de straat stonde</l>
+					<l>de huijsen beneden den dijck van de oude schiedamse</l>
+					<l>Port tot de krompte van de dijck tot int jaer 1584</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>Int jaer 1584 stonden in Jan Jorissens steech niet</l>
+					<l>Een huijs maar d Eerste huijsen worden in desen voor</l>
+					<l>schreeven steech getimmert int jaer 1587</l>
+					<l>Int jaer 1585 werden Begonnen d&apos; lang lijnstraet</l>
+					<l>dat op die tijdt was aen de west sijde van de straet</l>
+					<l>Een over deckte lijnbaen lang sijnde van de Vest tot</l>
+					<l>bij nae aen de huijsen die aen den kipstraet staen dese</l>
+					<l>voorschreve Baen worden aen deelkens verkocht</l>
+					<l>ende kleijne huijskens van gemaeckt maer de oost sijde</l>
+					<l>van de straet wast Een tuijn van de Vest sloot tot</l>
+					<l>aen den huijsen die aen de kipstraet staen die aen Erven</l>
+					<l>vercocht worden</l>
+					<l>Int jaer 1584 stondt over de waech aende oost sijde van</l>
+					<l>het stadt huijs aen de straet niet Een huijs maer de</l>
+					<l>Eerste huijsen worden in dese voorschreve straet getimmert</l>
+					<l>in jaer 1589</l>
+					<l>Int jaer 1586 worden Begonnen de nieuwe straet</l>
+					<l>tusschen de Vissersdijck ende het martvelt want</l>
+					<l>van het Vissersdijck tot aen de huijsen die aen de</l>
+					<l>suijtsijde van de mart stonden waren onbetimmerde</l>
+					<l>Plaetsen ende aen de mart worden Een huijs aff ge</l>
+					<l>broocke daer uijt hangende was de starre ende dat</l>
+					<l>Erff is het noort van de Nieuwestraet maer aen de</l>
+					<l>suijt sijde van de Vissersdijck worden Een steenhouwers</l>
+					<l>werckhuijs aff gebroocken dat is het suijt Ende van de</l>
+					<l>Nieuwstraet comende op de Blaeck</l>
+					<l>In jaer 1586 den 2 januarij de Grave van Lijssester binnen</l>
+					<l>Rotterdam seer heerlijck trijonfhantelijck in gehaelt</l>
+					<l>van de schutters die op die tijdt drij vaendelen sterck</l>
+					<l>waren</l>
+					<l>Int jaer 1586 worden aff gekeurt alle Riet dacken</l>
+					<l>binnen Rotterdam dit dede veel Burgers haer</l>
+					<l>huijsen vertimmeren want daer waeren op die</l>
+					<l>tijdt veel slechte laege huijsen Binnen Rotterdam</l>
+					<l>met Riet gedeckt, die veel vertimmert</l>
+					<l>worden ende van dees tijdt aen heeft de stadt</l>
+					<l>Rotterdam seer toe genomen int verbetren als</l>
+					<l>noch te sien is</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>13</l>
+					<l>Int jaer 1587 worde gemaeckt ende geleijt d Eersten</l>
+					<l>Bregge achter het stadthuijs over dese sloot want op</l>
+					<l>die tijdt lach Een houte Bregge op het noort</l>
+					<l>Ende van het Gasthuijs steech daer men qualijck met</l>
+					<l>Een geladen waegen durffde over Ryden dit Bregge</l>
+					<l>tge wort aff gebroocke ende Breet gemaeckt als</l>
+					<l>te sijn is ende nie sijn leggende</l>
+					<l>In jaer 1587 worden Begonnen Rombouten steech die</l>
+					<l>men de wilde see steech noemt tusschen de</l>
+					<l>lommerstaet ende de Buttersloot het hadde</l>
+					<l>geweest Thuijne ende lege Plaetse daer dese voor</l>
+					<l>Schreve steech Begonnen wort</l>
+					<l>Int jaer 1587 worden Begonne d&apos; heeren straet</l>
+					<l>het hadden geweest Een sloot die inde Buttersloot</l>
+					<l>quam worde gedampt ende daer worde de voor</l>
+					<l>gevels van de huijsen aende noort sijde van de</l>
+					<l>Heerestraet op gesett</l>
+					<l>Int jaer 1588 en de 89 worden Binnen Rotterdam</l>
+					<l>over al veel getimmert maer meest al cleijne</l>
+					<l>huijse die doen seer gesocht voorden want op die</l>
+					<l>tydt was veel uijt geweecken Volck Binnen</l>
+					<l>Rotterdam die Cleijne huijse huijrden</l>
+					<l>Int Jaer 1591 worden gefondeert ende gemaeck Een muer</l>
+					<l>daer Willem van Muijlwijck den Eersten steen van</l>
+					<l>leijde van het oude hooft naer de Cralingse dijck toe</l>
+					<l>dese voorschreve meuyr worde gemaeck tot Beschutting</l>
+					<l>van de Aerde Caij ofte Singel die op die tijdt lach</l>
+					<l>van het oude hooft tot aen den honing dijck toe daer</l>
+					<l>alle jaers groote Costen aen gedaen wierdt om te onder</l>
+					<l>houden waht het was water datter tegen aensloech</l>
+					<l>de Regierders van de stadt Rotterdam siende ende merckende</l>
+					<l>dat dese voorschreve stadts muijr niet genoech uit</l>
+					<l>t water geleijt was, soo hebben sij de vest doen drooch</l>
+					<l>maecken ende diepen ende daerde die uit dese</l>
+					<l>vest quam, worde gebrocht over dese muijr in de</l>
+					<l>maes, ende dat worde aen Erven vercocht, ende off</l>
+					<l>gemaeckt ontrent ses en twintich duijsent gulde</l>
+					<l>mits dien dat Coopers van de voorschreve. Erve</l>
+					<l>tot haven lasten moesten nemen te maecken</l>
+					<l>Beijde de kaijen voor En achter van steen</l>
+					<l>werck soo se Heeren daer toe gecommitteert</l>
+					<l>Vts</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>Ordijneren soude dachter bij staan alle de huijse haer</l>
+					<l><hi rend='strikethrough:true;'>d</hi> achter gevels op van de huijse van het harinckvliet</l>
+					<l>daer T maes water tegens Aen slaet de voor gevels</l>
+					<l>staen op de muije daer wij voor van geschreven hebbe.</l>
+					<l>d&apos; voor saijen staen aen de Buijten sijde van haven</l>
+					<l>harinck vliet dit voor schreve werck deurde</l>
+					<l>ontrent ses Jaeren van stadts wegen maer het</l>
+					<l>Burgers werck deurt noch over mits de Bolle</l>
+					<l>grondt</l>
+					<l>Int jaer 1591 worden gemaeckt gegraeven gediept de</l>
+					<l>Roos ofte docker achter de Brunne molen daer men</l>
+					<l>de harinck schepen swinters in leijt d&apos;aerde hier</l>
+					<l>uijt worden gebrocht binnen de stadt aan de walle</l>
+					<l>ten weder sijde van doost Port want de haring</l>
+					<l>schepen Plegen voor die tijdt swinters te legge</l>
+					<l>in de Blaeck</l>
+					<l> Item int jaer 1592 worden geraven ende op geschoote</l>
+					<l>de sloot die <hi rend='strikethrough:true;'>abc </hi>wesen soude tot</l>
+					<l>Een Bevrijdinge van de Ramen Buijten het hoff</l>
+					<l>Portgen welcke Ramen gemaect ende Bevrijdt</l>
+					<l>wierden int jaer 1593</l>
+					<l>Int Jaer 1595 worden gemaeckt het steen werckt</l>
+					<l>daer de harink vlietse Breggen op leijt</l>
+					<l>Int Jaer 1595 worde getrocken de looterije voort</l>
+					<l>weeshuijs van Rotterdam ende int selftde Jaer</l>
+					<l>worde geset het Eerste huijs in de Prince straet</l>
+					<l>Int Jaer 1596 &amp; 97 worde gemaeckt de steene caij</l>
+					<l>aen Beijde sijde van het harinckvliet ende noch</l>
+					<l>meer andren meer steen werke daer ontrent int</l>
+					<l>selftde Jaer worden gemaeckt aan de nieuwe haven</l>
+					<l>het waren voor die tijt geweest houte kaijen die</l>
+					<l>seer vervallen waren int selftde Jaer worden</l>
+					<l>geheijt ende begonnen de hooft Port aen de west sijde</l>
+					<l>van de haven</l>
+					<l>In t Jaer 1597 worde geleijt d Eerste harinckvlietse</l>
+					<l>Breggen</l>
+					<l>Int jaer 1597 worden d&apos;Eerste steen geleijt aen de </l>
+					<l>Beurs het was voor die tijt Een Aerde Bol </l>
+					<l>werk daer nu de Beurs op getimmert staet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>14</l>
+					<l>Int jaer 1597 worde gemaeckt het latijnsche school</l>
+					<l>in de cellebroersstraet tot Rotterdam</l>
+					<l>Int jaer 1597 worden gedampt Een sloot tot quakernaet</l>
+					<l>ende ten weder sijde van dese sloot was Een lijnbaen ende</l>
+					<l>d Eene lijnbaen met de gedamde sloot worde aen Erve</l>
+					<l><hi rend='strikethrough:true;'>vercocht</hi> ijder Erft om ontrent hondert gulde ende</l>
+					<l>daer staen de huijse op aen de west sijde van de baen</l>
+					<l>straet ende sommige luijden die daer bij geerst waren</l>
+					<l>moijelijck wesende seijde de verkooper van de Erven</l>
+					<l>Behoort mijn Heeren Een Bancket te laeten</l>
+					<l>gereet maecken om dat sij dit voorschreve werck</l>
+					<l>toe gelaten hebbe ende dese straet worden</l>
+					<l>genaemt de Banket straet en om dese schempige</l>
+					<l>reden heeft dese straet alsoo de naem gecregen ende</l>
+					<l>ontrent die tijdt worden deur geroeijt de Baen</l>
+					<l>straat van de west sloot tot in de kipstraet</l>
+					<l>maer de kipstraet worden Een huijs aft gebroocken</l>
+					<l>&amp; oock worden worden deur geroeijt d&apos; oost Prince straet</l>
+					<l>van de baenstraet tot de goudse wagestraet ende</l>
+					<l>dat waren Tuijnen ende lijnbanen</l>
+					<l>Int jaer 1598 worden verkocht d&apos; Erven Buijten de ouden</l>
+					<l>schiedamse Port ten weder sijde van den Hoogendijck</l>
+					<l>tot aen de croomte toe en dese Erven aen de binnen sijde</l>
+					<l>van den dijck waren breet 22 Roe . voeten ende lang</l>
+					<l>gelijcke 150 voeten ende woorden vercocht voor ontrent</l>
+					<l>260 gulde d&apos;een wat meerder en dander wat minder</l>
+					<l>nae sijne waerde ende aen de Buijten sijde van den dijck</l>
+					<l>waeren oock d&apos;Erve op deselfdde breete maer waren</l>
+					<l>120 gelijcke voeten lang ende waren dubbelde Erven</l>
+					<l>die komen soude aen de leuven have en aen de voort<hi rend='superscript:true;'>se</hi></l>
+					<l>dijck sij golden ontrent 100 f deene wat meerder en</l>
+					<l>dander wat minder nae sij hooch waren, soo dat van</l>
+					<l>al dese voorschreve Erve gemaeckt worde ontrent</l>
+					<l>vijfftich duijsent gulden wesende alle losrente tegens</l>
+					<l>den Penninck sesthien ende noch op dese navolgende </l>
+					<l>conditij dat de coopers van de voorschreve Erven niet </l>
+					<l>En sullen mogen timmeren haer dorpels dan op Een</l>
+					<l>Parijge hoochten 2 voet boven den dijck ende sullen de </l>
+					<l>muijren van de huijse moeten setten int scheijt ende </l>
+					<l>maecke rijsselsche steene dick &amp; en sullen de voorschreve </l>
+					<l>Erven niet moeten versmallen noch vercleijnen</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>naer timmeren, op den breeten van 22 voeten ende</l>
+					<l>doen dese voorschreven Erven verkocht worden wast</l>
+					<l>aen beijde sijde van den dijck weijlant bevrijdt met</l>
+					<l>Een dijck sloot tot bij de oude Schiedamse Port toe</l>
+					<l>Aan de buijten sijde was Een kreeck die men noemde</l>
+					<l>de leeuwen maer was ondiep ende crom aen de beijde</l>
+					<l>sijde met liesen ende riet tot sommige plaetse maer</l>
+					<l>wat waters daer voor tijt: Een steen plaats geweest</l>
+					<l>hadde wast hooch tusschen desen dijck en dese de</l>
+					<l>leeuwen maer aen doost sijde van dese leuwe waren</l>
+					<l>4 bleijckerijen en Een deel lant dat bevrijdt was</l>
+					<l>met Een soomer nae daer men sommige beeste op </l>
+					<l>weijde ende aen dese somer kae stonden veel boome</l>
+					<l>die nae aft gehoude worden</l>
+					<l>Int jaer 1598 worden gegraven d&apos;vest buijten doude</l>
+					<l>schiedamse Poort aende west sijde van den dijck</l>
+					<l>ende den leuvehaven worden oock begonnen maer </l>
+					<l>het werck bleeft 6 jaeren onderhanden ofte stil</l>
+					<l>staen tot het jaer 1604.  </l>
+					<l>Ontrent dees tijdt worden deur geroijt de straet aende</l>
+					<l>west sijde van het slickvart van St Jacobs Bregge</l>
+					<l>aft tot aen het groote kerckhoft toe want de Erve aende</l>
+					<l>oost sijde van de delftse vaert plegen voortijts te comen</l>
+					<l>aen het slickvaert daer dese voorschreve straet aft gecomen</l>
+					<l>is.</l>
+					<l>Int jaer 1598 worden gemaeckt het Amonnijtij huijs</l>
+					<l>van d admijralijteijt ende dit voorschreve huijs worde</l>
+					<l>gefondeert daer men wijnich tijts te vooren gevist</l>
+					<l>en vis gevangen hadde</l>
+					<l>Int jaer 1598 worde verkocht het weeshuijs aen de west</l>
+					<l>sijde van de west wage straet ende daer worde Een</l>
+					<l>straet deur geroeijt dien en noemt de weese straet</l>
+					<l>ende aende suijt sijde van dese stonden de huijsinge vant</l>
+					<l>voorschreve weeshuijs dat worde aen deele verkocht</l>
+					<l>om woon huijse van te maecken ende aen de noort</l>
+					<l>sijde worde Een deel Erve verkocht ende aen de sant</l>
+					<l>straet aende wijngert straet en de aende wage straat</l>
+					<l>dat op die tijdt meest al onbetimmert was</l>
+					<l>Ende het weeshuijs worde gemaekt in de oost wage </l>
+					<l>straet bij de goutse Poort dat voortijts het </l>
+					<l>Pesthuijs geweest hadde daer Een groot deel aen </l>
+					<l>getimmert wierdt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>15</l>
+					<l>Int jaer 1599 worde het Pest huijs gemaeckt aende</l>
+					<l>noort sijde van de wage straet op het oost Ende</l>
+					<l>ende daer dit Pest huijs gefondeert wiert hadde geweest</l>
+					<l>Een Potter backers tuijn</l>
+					<l>Int jaer 1599 worde affgebroocke doude Lomberses</l>
+					<l>brugge ende lach seer laech ende int selftde jaer</l>
+					<l>worde geleijt de nieuwe Lomberse bregge ende daer</l>
+					<l>worde ijsere leene aen gemaeckt ende worde over</l>
+					<l>straet</l>
+					<l>Int jaer 1599: woorde gemaekt de Roo Schiedamse </l>
+					<l>Poort ende was van hout voor de loose om dat de</l>
+					<l>Eerste Poort was die daer geset wierde.</l>
+					<l>Int jaer 1599: worde het stads timmerhuijs gemaeckt</l>
+					<l>op het noort oost Eijnde van het haring vliet op</l>
+					<l>het Bolwerck het hadde gestaen voor tijts aende</l>
+					<l>west sijde van der wagestraet bij nae Aende </l>
+					<l>Raem brugge daer  toe de peper straet aft gemaeckt</l>
+					<l>is</l>
+					<l>Int jaer 1600 den 16 junij worde geheijt beijde de </l>
+					<l>Hooffde aende leuve haven ende gemetselt daer</l>
+					<l>Eewit Eewitse den Eersten steen aen leijde ende </l>
+					<l>dese voorschreve hooffden worden gemaeckt van de</l>
+					<l>somer kae oft door des liesen en biesen omtrent 280 treden</l>
+					<l>Inde maes</l>
+					<l>Int jaer 1601 worde getimmert het Eerster huijs</l>
+					<l>aen de west sijde van de leuvenhave aende noorthoeck</l>
+					<l>van de scoenste straet van de oude stadt oft buijten</l>
+					<l>den dijck ende was het Eerste huijs dat buijten</l>
+					<l>de Schiedamse Poort getimmert wierdt voor nicolaes </l>
+					<l>Antonisse</l>
+					<l>Int jaer 1601 worden het Bolwerck beneven der oost</l>
+					<l>Poort gemaeckt met steenen muijren ende worden</l>
+					<l>gemaeckt dat men besijde dit Bolwerck uijt en </l>
+					<l>in de stadt passeeren conde want daer den inganck  </l>
+					<l>en uijt ganck nu is hadde voor tijt waeter gewast</l>
+					<l>tot aen het voorschreve Bolwerck toe daer Een lange</l>
+					<l>houte bregge <hi rend='strikethrough:true;'>in</hi> over lach daer 2 val breggen aen waere </l>
+					<l>dese voorschreve bregge was gemaeckt int jaer</l>
+					<l>1578 ende worden aft gebroocken int jaer 1601</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>In jaer 1601 worde de Rotte aen Beijde de syde met</l>
+					<l>steene kayen gemaeckt voor die tijdt geweest hebben</l>
+					<l>houte Caeyen</l>
+					<l>Int jaer 1601 worde Een huijs vercocht aen de noort</l>
+					<l>syde van de Hoochstraet aen de middeldam daer ut</l>
+					<l>hangende de was de Croon streckende van den hooch</l>
+					<l>straet aft tot aen de oude turff mart om Een somme</l>
+					<l>van 3600 gulden dit voorschreve huijs hadde mogen</l>
+					<l>gelden van verscheijde luijde int jaer 1598 seeven</l>
+					<l>duijsent gulde alsoo waeren de huijsen binnen</l>
+					<l>Rotterdam aff geslaegen in drije jaren tijdts om dat</l>
+					<l>de Wester vaert te niet was</l>
+					<l>Int jaer 1602 worde gemaeckt d Eerste Baen</l>
+					<l>straet van steen voor die tydt geweest hebbende</l>
+					<l>Een Lijnbaen aen beijde sijde slooten daer willigen</l>
+					<l>aen de kant stonden</l>
+					<l>Int jaer 1602 worde geleijt d Eerste Bregge op</l>
+					<l>Het noort oost Eijnde van Het Harinck vliet</l>
+					<l>by de Runne meule</l>
+					<l>Int jaer 1602 worde geleijt d Eerste Brugge</l>
+					<l>tusschen het harinckvliet ende nieuwe have</l>
+					<l>ende het water daer dese Bregge overleijt</l>
+					<l>wierde hadde voor tijts geweest Een Tuijn</l>
+					<l>toe Behoorende Eeuwout de Bout</l>
+					<l>Int jaer 1602 worde gemaeckt de steene Brugge aen</l>
+					<l>de noortsyde van Rotterdam by de oost Port daer men</l>
+					<l>wt vaert nae kralinge voor dier tijdt geweest een</l>
+					<l>houte vervallen Bregge.</l>
+					<l>Int jaer 1603 worde gediept ende met steene Caijen</l>
+					<l>gemaeckt de Buttersloot aen Beyde sijde van den huijbreg</l>
+					<l>oft tot aen de vest toe voor dien tijt geweest hebbende houte</l>
+					<l>kaijen, oock worde gemaeckt de steene Brugge aen de</l>
+					<l>vercken mart, voor die tijdt geweest hebbende Een</l>
+					<l>houte Brugge met Trappen op te gaen oock worde</l>
+					<l>ontrent dees tijdt de kip sloot gediept en met steene caijen</l>
+					<l>gemaeckt van stadt huijs aff tot de steene Bregge</l>
+					<l>toe in de oost Wagestraet voor die tijdt geweest hebbende</l>
+					<l>houte Cajen</l>
+					<l>Int jaer 1603 worden van het stadt huijs aff gepubliceert</l>
+					<l>binnen Rotterdam dat geen vrouwen te begraffeniss gaen</l>
+					<l>mosten want in dit selve jaer storven veel menschen</l>
+					<l>van de Pest ende vrouwe tot die tijdt toe te Begraefenis</l>
+					<l>gegaen maer worden aff geschaft om de stilheijts Wil</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>16</l>
+					<l>Ende als het mart dach is moet men naermiddachs</l>
+					<l>Begraeven</l>
+					<l>Int jaer 1604 worden drooch gemaect de leuven haven</l>
+					<l>ende gediept in ten wedersyde met steene Kaijen</l>
+					<l>gemaeckt het fondament onder de Caijen aen de</l>
+					<l>West syde waere Bocke Plancken ende het fondament</l>
+					<l>onder de kaijen aende oost sijde waeren Elsen Palen neffens</l>
+					<l>den andren geleijt dwars en daer ses greijne Balcken</l>
+					<l>langh neffens malcandren op geleijt daer worden</l>
+					<l>opgemetselt d&apos; Caijen aen de oost syde ontrent vier</l>
+					<l>voeten hooch ende int jaer 1609 worden de voorschreven</l>
+					<l>kaijen op gemaeckt</l>
+					<l>Int Jaer 1604 worden oock gemaeckt ende Bemetselt</l>
+					<l>Beijde de gaeten van de 2 havens die gemaeckt</l>
+					<l>soude worden aen de oost syde van de leuvenhaven het</l>
+					<l>fondament waere sware Bocke sommers dwars over</l>
+					<l>dese gaten geleijt daer staet het muijr werck op de</l>
+					<l>Eynde</l>
+					<l>Int jaer 1604 worde geheijt gefondeert ende gemaeckt</l>
+					<l>Een schoone huijs int oft aent het weeshuijs inde oost</l>
+					<l>Wagestraet en dat om oorsaeck dat de huijsinge te</l>
+					<l>cleijn was</l>
+					<l>Int jaer 1605 worde geheijt d&apos; Eerste Palen daer d&apos; Eerste</l>
+					<l>Boomen aen sluijten soude inde leuven haven Tot</l>
+					<l>Rotterdam</l>
+					<l>Int jaer 1605 worde gemaeckt de steene Brugge</l>
+					<l>over de schie tusschen Beuckels en Blommersdijck</l>
+					<l>die genaemt soude worde de hooge heul het was</l>
+					<l>voor die tijdt geweest Een houte Bregge daer geen</l>
+					<l>steen werck aen hadde geweest maer dese voor</l>
+					<l>schreve Bregge gemaeckt synde soo heeft het werck</l>
+					<l>geen Plaets gehoude al hoe wel dat het geheijt</l>
+					<l>was maerde steene cruijn worde aff gebroocke</l>
+					<l>en de worden met hout gemaeckt ende over straet</l>
+					<l>ende ijsere leenen op gesett int jaer 1611</l>
+					<l>Int jaer 1606 int Begin van maert worden aff</l>
+					<l>gebroocke het achsterste van het stadt huijs binnen</l>
+					<l>Rotterdam ende worde achter geheijt ende wederom</l>
+					<l>opgetimmert int selffde jaer ende in het jaer</l>
+					<l>1607 worde het voorste van het stadt huijs aff</l>
+					<l>gebroocken aen de hoochstraet ende wederom op</l>
+					<l>getimmert Beter dan het geweest was want</l>
+					<l>het voor die tijdt geweest hadde het gasthuijs</l>
+					<l>van Rotterdam</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>Int jaer 1606 worde gemaeckt d Eerste steene</l>
+					<l>Caij aen de noortsijde van de Blaeck van de vis</l>
+					<l>mart aff tot de dunger Bregge toe</l>
+					<l>Int jaer 1607 wort gemaeckt d Eerste leuvestraet aen de</l>
+					<l>west syde van de leuve <hi rend='strikethrough:true;'>straet</hi> Haven van klinkert</l>
+					<l>maer Int jaer 1611 voor dese voor schreve straet weder</l>
+					<l>op gebroocken ende wel drije voeten verhoocht en</l>
+					<l>met straet steenen gemaeckt</l>
+					<l>Int jaer 1607 worde gemaeckt d Eerste steene kaij ten</l>
+					<l>weder syde van de slickvaert van t verlaet aff tot</l>
+					<l>het groote kerck toe voor die tijdt geweest hebbende</l>
+					<l>houte kaijen</l>
+					<l>Int jaer 1607 worde gemaeckt d weese Bregge met</l>
+					<l>Leune ende oock verstraet</l>
+					<l>Int jaer 1607 worde gemaeckt de steene Bregge op het</l>
+					<l>noort Eijnde van de Buttersloot aen de vest voor die</l>
+					<l>tijdt geweest hebbende Een houte Bregge die out</l>
+					<l>was</l>
+					<l>Int jaer 1607 den 10 dach in Novemb. heeft men Begonnen</l>
+					<l>te wercken aen het muijr werck dat op St. Lauwerens</l>
+					<l>kerck torn staet soude tot Rotterdam ende Int jaer</l>
+					<l>1613 In Begin van maert worde dat voorschreve</l>
+					<l>werck op genomen ende volmaeckt</l>
+					<l>Int jaer 1608 de 31 Jannuarij wesende donderdach nae</l>
+					<l>de middach wort den marckijs spijnjola met meer</l>
+					<l>Andre heeren seer heerlijck ontfangen ende In gehaelt</l>
+					<l>vande heeren tot Rotterdam comende van dordrecht</l>
+					<l>over het ijs langs de maes met haaer gerijt ontrent 40</l>
+					<l>Paerden 9 muijlen ende vier koets wagens ende</l>
+					<l>ontrent 150 sleden met Bagagije dese heere vernachte</l>
+					<l>Binnen Rotterdam ende den 1 feb. wesende de vrijdach</l>
+					<l>trocken dese voorschreve heeren nae den haech met</l>
+					<l>slede over het ijs om van vrede te spreecke</l>
+					<l>Int voorschreve jaer stonden voor Rotterdam op de</l>
+					<l>maese over de 40 Tente daer men wijn Bier en </l>
+					<l>ondergoet vercocht want ten hadden voor die tijdt</l>
+					<l>In veertich jaeren soo hardt niet gevroren want</l>
+					<l>men mocht van delfts have tot dordrecht toe</l>
+					<l>met wagens en Paerden Rijden op de maes</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>17</l>
+					<l>Int jaer 1608 worde aff gebroocke doude leuve Bregge</l>
+					<l>bij de schiedamse Port ende daer worde weder Een</l>
+					<l>dubbelde valbrugge in Plaats geleijt want het hadde</l>
+					<l>Een slechte Bregge van hout geweest</l>
+					<l>Int jaer 1608 den 2 Junij worde Besteedt op het stadt</l>
+					<l>huijs tot Rotterdam de lange leuve Bregge lang</l>
+					<l>wesende 228 Roeden ende daer aen te levren al</l>
+					<l>het hout werck en Arbeijts loon, tontfangen</l>
+					<l>de helft gereet ende dander helft als werck volmaeck</l>
+					<l>was, dese voorschreve Bregge worden aen genoomen</l>
+					<l>ende gemaeckt van Timmerluijden van uijtrecht</l>
+					<l>voor de somme ontrent thien duijsent gulden des</l>
+					<l>Jaers daer aen 1609 den 20en dach In meij worden het</l>
+					<l>werck op genomen gemaeckt synde</l>
+					<l>ende den 25 Junij des selven jaers daer aen 1609 heeft</l>
+					<l>dese Brugge den naem gekregen de lange leuve</l>
+					<l>Bregge ende was d Erste Brugge die over dese haven</l>
+					<l>geleyt wiert</l>
+					<l>Int jaer 1608 worde gediept des selven Jaers de</l>
+					<l>delffse vaert ende met steene kaijen gemaect</l>
+					<l>den Beyde sijde van het speuij aff tot de Raem </l>
+					<l>Brugge toe want voor die tyt warent houte</l>
+					<l>kaijen</l>
+					<l>Int jaer 1608 worde gemaeckt d wech om te gaen</l>
+					<l>ende Rijden met wagens van de Coolse ofte binnen</l>
+					<l>wech na delfts have tot den hoogen dijck Buijten</l>
+					<l>om de nieuwe vest</l>
+					<l>Int jaer 1608 worden 2 huijsen aff gebroocken Een</l>
+					<l>aen steijger en aen de hoochstraet daer Een klein</l>
+					<l>steechge Besijden was daer worde Een straet van</l>
+					<l>gemaeckt tusschen de korten hooft steech ende</l>
+					<l>de kooren mart</l>
+					<l>Int selffde jaer worde de Caij hooger gemaeckt</l>
+					<l>twee voeten van Blauw steen werck van de</l>
+					<l>Beurs aft tot de Roo bregge toe ende de straet oock</l>
+					<l>soo veel gehoocht</l>
+					<l>De Eerste ende 2 octob. 1608 hebbe d&apos;heere van de</l>
+					<l>gerechte der stadt Rotterdam vercocht de Erve</l>
+					<l>aen de oost sijde van de leuve haven tusschen de</l>
+					<l>scheep maeckers Bregge en de wijn Bregge</l>
+					<l>yder Erff Breet wesende 22 Roe voeten ende</l>
+					<l>verte</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l>Lang 200 gelijcke voeten maar syn dubbelde. Erven</l>
+					<l>ontrent 40 Int getal ijder Erff geldende ontrent</l>
+					<l>500 gl. de coopers mochten dan op slach hoogen ende</l>
+					<l>de Caijen maecken die ontrent 4 voet op gemaeckt </l>
+					<l>was ende mosten d Erven niet versmallen en op Een </l>
+					<l>muijr Timmeren van 2 steenen dijck als d Eene</l>
+					<l>timmert mosten dander muijr halff becostigen</l>
+					<l>ende alle dese voorschreven Erven mochten betimmer</l>
+					<l>werden In ses Erst comende Jaren op Peijne van</l>
+					<l>600 gl.</l>
+					<l>den 4den dach In novemb. 1608 Begonnen te</l>
+					<l>maecken de vlas marct voor die tijdt daer gestaen</l>
+					<l>Hebbende Een speuij huijs</l>
+					<l>Int jaer 1608 heeft de stadt Rotterdam moeten</l>
+					<l>onderhouden 78 Breggen soo Cleijn als groot</l>
+					<l>Int jaer 1608 worde gemaeckt Een Predick huijs voor</l>
+					<l>martijnus Luijterus binnen Rotterdam aen de oost</l>
+					<l>sijde van de Butter sloot in Quackernaet breet</l>
+					<l>synde 28 Roe voeten ende lanck ontrent 60 gelijcke</l>
+					<l>voeten ende hooch ontrent 12 voeten doen worde</l>
+					<l>dat werck verboode vande gerechte der voor</l>
+					<l>schreve stede ende het mochten aff gebroocken wese</l>
+					<l>ende de fondamanten uijt geroijt om dat het</l>
+					<l>sonder Consent Begonnen was</l>
+					<l>Int jaer 1608 den 7 dach In novemb. is geslooten ende</l>
+					<l>goet gevonden vande gerechten der stadt Rotterdam</l>
+					<l>dat sij souden doen maecken Een kerck om in te </l>
+					<l>Predycken van de kerck van T Prince Hoff dat</l>
+					<l>voor Tijdt hadde geweest van Een kerck van Een</l>
+					<l>susters huijs dese kerck worde gemaeckt Ende</l>
+					<l>genaemt de Prince kerck ende 25 decemb. des</l>
+					<l>selffde Jaers wesende kers dach worde in dese</l>
+					<l>kerck d Eerste Predicatij gedaen</l>
+					<l>Int jaer 1612 worde dese voorschreve kerck</l>
+					<l>wat grooter gemaeckt ende verbetert</l>
+					<l>Den 1 januarij 1609 worde vercocht den oude draij</l>
+					<l>Bregge ende was Een Bregge niet over straet</l>
+					<l>daer midde Een Back op stont die om drayde als</l>
+					<l>de matten van de schepen daer aen Raeckten die door</l>
+					<l>voerde, daer van was de naem de draij Bregge</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>18</l>
+					<l>Dese draij Bregge hadde gelegen sedert den Jare</l>
+					<l>1564 den 13 Januarij datum als Boven ende den 14 den</l>
+					<l>Appril is den draij Bregge gemaeckt geweest ende</l>
+					<l>over straet met Een leun aen Beijde de sijde van</l>
+					<l>ijser daerop staende</l>
+					<l>Den 16 Januwarij 1609 Heeft men Begonnen te</l>
+					<l>fonderen het Eerste huijs aen de oost sijde van de leuven</l>
+					<l>haven den 15 appril des selffden jaers is dit voor</l>
+					<l>schreve huijs gemaeckt geweest toe Behoorende</l>
+					<l>Cornelis Leendertse scheepmaecker</l>
+					<l>Den 3 feb. 1609 worde vercocht doude Gapers Brugge</l>
+					<l>voor de somme van 235 gul. gelegen hebbende </l>
+					<l>sedert het jaer 1579</l>
+					<l>den 7 feb. heeft men de 2 gapers Brugge beginnen</l>
+					<l>te heijen enden den 15 Junij is dese voorschreve</l>
+					<l>Bregge gemaect geweest ende over straet datum</l>
+					<l>als Boven</l>
+					<l>Den 24 en 25 Appril 1609 hebben de Heeren van de</l>
+					<l>Gerechten der stadt Rotterdam vercocht ontrent</l>
+					<l>64 dubbelde Erven aen de suijt sijde van de wije</l>
+					<l>straet daer van gemaeckt hebbende ontrent 11500 gl.</l>
+					<l>mits dien dat de Coopers de voorschreve Erven</l>
+					<l>moeten maecken de Caij van steen aen de noort</l>
+					<l>sijde van de wijnhave ende oock de halven haven</l>
+					<l>diepen enden den op slach hoogen soo Them van de ver¬</l>
+					<l>Coopers soude worden geordonneert dese dubbelde</l>
+					<l>Erven waren Breet 200 Roe voeten ende de langste</l>
+					<l>waren lang wat meer dan gelycke 120 voeten</l>
+					<l>ende de korste wat meerder dan 70 voeten de voor</l>
+					<l>schreven Erven en moeten niet versmalt wesen</l>
+					<l>2</l>
+					<l>ende moeten op Eenen muijr Timmeren van</l>
+					<l>steen dick als de Eene Timmert moet dander</l>
+					<l>de muijr halff Bekostigen ende moeten al Betim¬</l>
+					<l>mert wesen binnen 9 Eerst comende Jaeren op de </l>
+					<l>verbeurte van 100 lb. vlaems</l>
+					<l>Den 27 maert 1609 wesende dijnsdaechs na</l>
+					<l>middach ontrent 2 uijren worden geheijt den Eersten</l>
+					<l>steen aen de muijr die gemaeckt soude werden</l>
+					<l>tussche d&apos;oude haven ende de leuven haven aen de</l>
+					<l>suijt syde van Rotterdam</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l>Den 24 Augustus wesende saturdach datum</l>
+					<l>als Boven heeft men aff gelaten van dese muijr</l>
+					<l>te maecken gemaeckt hebbende ontrent negen¬</l>
+					<l>tich Roeden muijrs het fondament van dese</l>
+					<l>voorschreve muijr was aldus Eerst Elsen boomen</l>
+					<l>geleyt beneven dandre dwors en daer op gelijt langx</l>
+					<l>vijff ofte ses Beneven malcanderen Bocken</l>
+					<l>schaelen drij van Een sommer gesaecht daer worde</l>
+					<l>het steen werck op geleijt</l>
+					<l>Den 16 April 1610 wesende vrydach ontrent</l>
+					<l>2 uijren nae de middach heeft men weder beginne</l>
+					<l>te maecke aen dese voorschreve muijr ende</l>
+					<l>den 16 Junij selve Jaer t leste van het fondament</l>
+					<l>geleijt van dese voorschreve muijr ende was</l>
+					<l>aldus Eerst Else ende ander Boomen dwors geleijt</l>
+					<l>dicht aen den Andre ende daer greijne Balcke</l>
+					<l>langs op geleijt ontrent 13 Beneven den Andre</l>
+					<l>Int verbant der worde de muijr op gemaeckt</l>
+					<l>den 13 octob. wesende woensdach heeft men aff</l>
+					<l>gelaeten van de muijr te maecken door gaens</l>
+					<l>synde Een voet hooger dan het oude westerse</l>
+					<l>Hooft</l>
+					<l>Den 5 Meij heeft men wederom aen dese voorschreve muijr</l>
+					<l>Beginnen te Bouwen ende den lesten Augustij aff</l>
+					<l>gelaten in het jaer 1611 deur gaens sijnde vier hooger</l>
+					<l>als het westerse  hooft dese voorschreve muijr is</l>
+					<l>lang ontrent 1300 treden ende worden gemaeckt ofte</l>
+					<l>geleijt deur de Bilsen heenen sonder dammen maer worde</l>
+					<l>met laech waeter gemaeckt wat als het hooch water</l>
+					<l>was vloeijde de Plaets daer de muijr op stont ofte</l>
+					<l>gemaeckt wierdt wel vijff voeten onder met gemeene</l>
+					<l>vloet</l>
+					<l>Den 26 Junij 1609 heeft men Beginnen te heijen het</l>
+					<l>staecketsel in de Maese van het oude hooft aff achter</l>
+					<l>den huijsen heenen die op het harinck vliet staen ende den</l>
+					<l>15 Augustus 1609: is dit voorschreven werck gedaen</l>
+					<l>geweest costen Elff duijsent gl.</l>
+					<l>Den 25 Augustus 1609 heeft men beginnen te legge</l>
+					<l>de Breggen over de schie Buijten de delffsche Poort</l>
+					<l>ende de 25 septemb. gemaeckt geweest Beter hooger</l>
+					<l>en Breeder dan de oude Bregge geweest hadde voor die</l>
+					<l>tijdt.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>19</l>
+					<l>Den Eersten Septb. 1609 heeft men Beginnen te maecken</l>
+					<l>aen de noorsijde vant Pest huijs tot Rotterdam Een</l>
+					<l>Huijs om de ootsinnige in te legge</l>
+					<l>Den 25 Septb. 1609 heeft men Begonnen te maecken</l>
+					<l>aen St. lauwerens kerkhoff aen de Rotte syde. Een</l>
+					<l>Planckier ende daer Een wip Bij daer de mart schuijten</l>
+					<l>die op Haerlem varen Bequaem soude mogen lossen ende</l>
+					<l>laden voor die tijdt gelegen hebbende op de delffse</l>
+					<l>vaert</l>
+					<l>In dit selffde Jaer is gemaeckt d&apos;Eerste straet Inde</l>
+					<l>mostersteech Inde west wagestraet aen de Westsyde</l>
+					<l>Int jaer 1609 seyde Een Burgem<hi rend='superscript:true;'>r</hi>. van Rotterdam genaemt</l>
+					<l>Cornelis Claesse van driel tegen syn buijrman</l>
+					<l>davidt verdonck dat binnen de steden van Rotterdam</l>
+					<l>1800 huijsen meer stonden dan binnen de stede van</l>
+					<l>delft</l>
+					<l>Int jaer 1609 worde gemaeckt d Eerste straet tusschen</l>
+					<l>den dijck ende de leuve <hi rend='strikethrough:true;'>Brugge</hi> Haven ende is de derde</l>
+					<l>straet van de oude stadt wt waer aen ende oock de</l>
+					<l>achste straet voor die tijdt niet gestraet geweest</l>
+					<l>hebbende</l>
+					<l>In dit selffde jaer worden op gebroocken de straet Inde</l>
+					<l>oppert ende weder om nieuw gemaeckt van het Een</l>
+					<l>Eynde tot Ander ende in dese voorschreve straet</l>
+					<l>Pleech men voor dees tijdt de Beeste marct te houde</l>
+					<l>die nae in de Princestraet gehouden ende geordonneert</l>
+					<l>worde</l>
+					<l>Int jaer 1610 hebben de Heeren Burgem<hi rend='superscript:true;'>r</hi>. van Rotterdam</l>
+					<l>geconsenteert dat de wijc meulen die op lucht en</l>
+					<l>Borch stont geset soude worde Bij de Roo Poort</l>
+					<l>aen de suijt sijde ende int Begin van Junij 1610:</l>
+					<l>hebben de mulders met haer versette meule beginne</l>
+					<l>te maele</l>
+					<l>Den 5 Januarij 1610 hebben de Heeren van de Gerechten</l>
+					<l>der stadt Rotterdam vercocht de Brugge leggende over</l>
+					<l>de nieuwe Haven om aff gebroocke te werde voor</l>
+					<l>de somme van 80 guld. gelegen Hebbende sedert het</l>
+					<l>jaer 1584 den 1 feb. heeft men Beginnen te leggen</l>
+					<l>de 2de Bregge en den 8 Appril 1610 was dese voor</l>
+					<l>schreve Bregge gemaect ende over straet geweest ende de</l>
+					<l>naem gelocx Bregge voor die tijdt genaemt</l>
+					<l>Packen Brugge</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>Den 13 Augustij 1610 hebben de Heeren van Rotterdam</l>
+					<l>geordonneert ende goet gevonden dat de Boven kant vande</l>
+					<l>dorpels van alle de Huijsen die getimmert soude worden</l>
+					<l>aen de suijt sijde van de Roy straet sullen worden</l>
+					<l>geset 2 voet hooger dan de vloet die den 22 Januarij</l>
+					<l>was int selffde jaer ende het huijs worde alsoo gesett</l>
+					<l>den 4 Augustij 1610 aende suijt syden van den Wijnstraet</l>
+					<l>maer dese keur en worde niet lang onderhoude want</l>
+					<l>dit voorschreeve huijs sonck wel 2 staende voeten</l>
+					<l>Eer daer Een jaer gestaen hadde</l>
+					<l>den 14 Augustus 1610 heeft men beginne te maecke</l>
+					<l>Een houte Port op het oude Westerse hooft die genoemt</l>
+					<l>worde de Grauwe hooft Port</l>
+					<l>Int jaer 1610 hebben de Heeren van de Gerechten der</l>
+					<l>stadt Rotterdam gecasseert haer 12 vaendels Burgers</l>
+					<l>die met malkander gewaeckt hebben sedert het jaer</l>
+					<l>1595 ende hebben weder om aengenomen ses vaendels</l>
+					<l>schutters uijt deselffde Burgers naer oude gewoonte</l>
+					<l>den 24 Januarij 1611 heeft men Beginnen aff te</l>
+					<l>Breecke de steene Begijnen Bregge om datse on</l>
+					<l>bequaem was om deur te varen ende om over te gaen</l>
+					<l>ende worden naer met Balcken overleijt ende daer</l>
+					<l>Plancken op ende worden overstraet ende leenen van</l>
+					<l>ijser aen gemaeckt</l>
+					<l>Den 25 maert 1611 heeft men beginnen te leggen de 2</l>
+					<l>dammen aentent op tsuynt Ende vande Buttersloot</l>
+					<l>en Een voor de Calverstraet ende worden drooch gemaect</l>
+					<l>tusschen beijde de voorschreve dammen ende gediept</l>
+					<l>ende de fondamenten worden tusschen beijde steene kaijen</l>
+					<l>in geleijt van greijne Balcken dwars Besijden den Andre</l>
+					<l>ontrent 62 en daerlansche Balcken op drije Breet</l>
+					<l>voor de kaijen leenen ende daer worde dat muijr werck</l>
+					<l>van de steene Brugge opgeleijt d Eerste steen van dit</l>
+					<l>voorschreve werck worden geleijt den 13 April</l>
+					<l>1611 wesende woonsdaechs voor de middach ende den</l>
+					<l>lesten meij nae den middach 1611</l>
+					<l>Den 12 feb 1611 is gevallen Een stuck muijr Werckx.</l>
+					<l>uijt het Bolwerck aende oost Poort aende noortsijde</l>
+					<l>het welck weder gemaeckt worde op Een Ander besteck</l>
+					<l>met Een deel Anckers daer in leggende die aen den toorn</l>
+					<l>van de oude Poort vast gemaeckt vaten die int</l>
+					<l>Bolwerck gedampt was</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>20</l>
+					<l>Den 13 Meij 1611 wesende vrijdach worde geleijt</l>
+					<l>den Eersten steen aende oost Poort maer den Eersten Julius</l>
+					<l>int selffde Jaer ist werck stil blijven staen sonder</l>
+					<l>aen te wercken tot den 9 April 1612 doen heeft men</l>
+					<l>weder aende nieuwe oost Poort beginnen te Wercken</l>
+					<l>ende int jaer 1613 worde de voorschreven oost Poort</l>
+					<l>volmaeckt</l>
+					<l>Int jaer 1611 den 1 Junij wesende saturdach worde</l>
+					<l>bij de gerechte der stadt Rotterdam aff gepubliceert</l>
+					<l>dat alle de Caesvercoopers sullen staen met haer</l>
+					<l>goet dijnsdaechs vande korte hooft steech aff oost</l>
+					<l>waers aen aende hoochstraet, ende alle de geene die</l>
+					<l>hoendren duijven gansen en sulcke goedren te koop</l>
+					<l>hebben sullen staen dijnsdaechs over de mande maeckers</l>
+					<l>Bregge inde houtuijn oock alle die geenen die met</l>
+					<l>veel der ley goet plegen voor te staen op de middel</l>
+					<l>dam saturdaechs ende sondaechs sullen moeten staen</l>
+					<l>om haer goet te vercoopen achter het stadt huijs</l>
+					<l>Int jaer 1611 den 8 Junij heeft men Beginnen te</l>
+					<l>maecken Een water Poort inde west muijr op het</l>
+					<l>noort Eijnde van de lange lijnstraet om de gebuijren</l>
+					<l>van de voorschreve straet schoon water te haelen</l>
+					<l>uit de vest dat seer Bequaem voor haer was</l>
+					<l>Int jaer 1611 den 8 Jullij worden binnen Rotterdam</l>
+					<l>Een schip gebracht dat voor swarte wael inde</l>
+					<l>gront gelegen hadde ontrent vijff maende gelaeden</l>
+					<l>synde met garst ende ander goet ende ontrent 2800</l>
+					<l>guldens aen gelt die men seijde den schipper daer uijt</l>
+					<l>gelicht te hebben den schipper dit vernemende dat</l>
+					<l>hun sulce nae geseijt worden tot sijn onschult</l>
+					<l>heeft Belooft de helft van t schip en goet soo daer</l>
+					<l>ijemant waren die t schip daer het woude winden</l>
+					<l>het welcke scheepmaecker van doordrecht dede</l>
+					<l>ende het voorschreve goet en gelt worden samen</l>
+					<l>in het schip gevonden ende de garst die seer stincken</l>
+					<l>was voorde vercocht om ontrent 400 guldens aen</l>
+					<l>gelt</l>
+					<l>Int jaer 1611 den Eersten September heeft men beginnen te</l>
+					<l>maecke d Eerste wacht huijse inde nieuwe stadt</l>
+					<l>aen de Westsyde van de leuve haven Een bij de leuve</l>
+					<l>Poort en Een bij de Roo schiedamse Poort en Een</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l>Bij de delftshavense Poort ende den 4 Januarij</l>
+					<l>1612 heeft men indese voorschreve Wachthuijse</l>
+					<l>Gerst Beginnen te waecken dach ende nacht</l>
+					<l>Int jaer 1611 den 28 septb heeft men beginnen</l>
+					<l>te maecken Een Paerdestal voor de sleepers op den</l>
+					<l>hoeck van de tooren straet aen S<hi rend='superscript:true;'>t</hi>. lauwerens kerck</l>
+					<l>hooft ende den 10 december int selftde jaer hebben de</l>
+					<l>voorschreve slepers haer Paerden moeten brengen</l>
+					<l>Int voorgeschreve stal ende betaelt voor ijeder</l>
+					<l>Paert alle weeck 2 stuijvers van stal gelt stal</l>
+					<l>hadde voor deestijdt geweest achter het stadt huijs</l>
+					<l>aende huijbreggen in S<hi rend='superscript:true;'>t</hi>. Lysbet Gasthuijs</l>
+					<l>Int jaer 1611 de Eersten october worden vercocht de 2</l>
+					<l>sout keeten om aft gebroocken te worden d Eene voor</l>
+					<l>de somme van 170 gt en dander voor 90 g<hi rend='superscript:true;'>l</hi> ende stonden</l>
+					<l>buyten den dijck bij de Roo schiedamse Poort</l>
+					<l>Int jaer 1611 den 28 en 29en novemb hebben de Heeren</l>
+					<l>van de gerechten der stadt Rotterdam vercocht Een</l>
+					<l>deel Erven aen de West sijde van de Eunger Bregge</l>
+					<l></l>
+					<l>ende op het West Eynde van de Wijn straet</l>
+					<l>ten wedersijde ende aen de oost sijde van de leuve</l>
+					<l>haven <hi rend='strikethrough:true;'>abc</hi> ende aende noort</l>
+					<l>syde van de wijn haven wesende ontrent 40 Erven</l>
+					<l>daer van gemaeckt hebbende ontrent achttien duijsent</l>
+					<l>gulde tegens den Penninck sesthien te lossen op</l>
+					<l>dese nae volgende Condijtij dat de koopers vande</l>
+					<l>Erven sullen moeten maecken de kaijen ende den</l>
+					<l>op slach met de straet te hoogen dese Erven</l>
+					<l>vooren Breet achthien Roe voeten maer van</l>
+					<l>geen Eene lengte ende mosten niet versmalt</l>
+					<l>wesen ende de muijren ander halff steen dick</l>
+					<l>niet minder ende als deen Timmert moet dander</l>
+					<l>de Besijde muijren halff becostigen ende moet</l>
+					<l>al betimmert wesen binnen ses Eerst comende</l>
+					<l>jaren op de verbeurte van 600 gulden</l>
+					<l>Int Jaer 1612 den 19 en 20 April hebbende heeren vande</l>
+					<l>gerechten der steden Rotterdam vercocht Een deel Groen</l>
+					<l>aen de West sijde van de leuven haven bij de leuve Poort</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>21</l>
+					<l>Ende noch Een deel tusschen den Hoogen dijck ende</l>
+					<l>de leuve haven aen Een besijde straet ende noch Een deel</l>
+					<l>aen de suijt sijde van de Hoogendyck aen de krompte</l>
+					<l>daer de soutkeeten Plegen te staen, ende noch Een</l>
+					<l>deel Erven tusschen de sout keeten die daer heeft</l>
+					<l>gestaen ende de Maes <hi rend='strikethrough:true;'>abc</hi> aen</l>
+					<l>verscheijde haventges die gemaeckt soude worde</l>
+					<l>door de liesen ende Biesen heen ende soude uijt wesen</l>
+					<l>derthien Roe voeten maer de koopers moesten de</l>
+					<l>voorschreve havens diepen ende met steene kaijen</l>
+					<l>ende den opslach hoogen ende Bestraeten binnen</l>
+					<l>2 Eerst comende Jaeren dese Erven syn Breet achtien</l>
+					<l>voeten lanck 90 gelijcken voeten meest al ende</l>
+					<l>moesten al Betimmert wesen binnen 6 Jaren</l>
+					<l>Eerst comende op Peijne van ses hondert gulde gelijck</l>
+					<l>aende voorschreve sijde van de Andre Erven</l>
+					<l>verhaelt staet</l>
+					<l>In den Jaren 1612 den 11 Augustus worden den Eersten steen</l>
+					<l>geleijt van de keijsers Brugge maer Een wijl tijts</l>
+					<l>naer desen is het werck stille blijven staen</l>
+					<l>van dese voorschreve Bregge tot den 21 Meij 1613</l>
+					<l>doen heeft men weder de Breggen Beginnen te</l>
+					<l>leggen daer aen geschreven was de Keijsers Brugge</l>
+					<l>maer men sal weten dat op de selffde plaets voor</l>
+					<l>tyts Een Bregge gelegen heeft voor de loos die</l>
+					<l>geleijt wiert int jaer van 1591 ende worden genaemt</l>
+					<l>d Eunger Bregge om dese oorsaecke datter op S<hi rend='superscript:true;'>t</hi>.</l>
+					<l>Jans nacht in selffde jaer vrouw volck quamen</l>
+					<l>dan se hant aen hant over dese Bregge die men</l>
+					<l>seyde d Eunger te wesen dese Eungere Bregge worden</l>
+					<l>aff gebroocke int jaer 1605 om Een groot schip deur</l>
+					<l>te vaeren ende dese Plaets is alsoo blijven Leggen</l>
+					<l>sonder Brugge over geleijt te worden ontrent</l>
+					<l>acht jaren</l>
+					<l>Int jaer 1612 worden gecocht van stadts wegen</l>
+					<l>acht hondert duijsent franse straet steenen ijeder</l>
+					<l>duijsent cost ontrent 9 gulde oock is int selftde</l>
+					<l>jaer voorschreve Een groot meenichte van klinckert</l>
+					<l>gecocht om nieuwe straete mede te maecken</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l>Int jaer 1613 den 11 Januarij wesende vrydach worden</l>
+					<l>binnen Rotterdam aen de Vismart Een vierendeel</l>
+					<l>Cabbeljauw vercocht om dertich stuijvers aen gelt</l>
+					<l>het hadde lange gestormt ende geonweert datter</l>
+					<l>niet veel vis te marct En quam</l>
+					<l>Int jaer 1613 den 12 Januarij wesende saturdach wast</l>
+					<l>Een Groote Storm wint ende het hadde gevloeijt soo</l>
+					<l>hooch dat de straten die Buijten den dijck leggen</l>
+					<l>binnen Rotterdam meest al onder waren, van</l>
+					<l>water daer groote schaede van quam</l>
+					<l>Int jaer 1613 den 16 feb heeft men Beginnen te</l>
+					<l>leggen de drije dammen om de scheepmaeckers</l>
+					<l>haven ende de Wijn haven te maecken welcke</l>
+					<l>dammen volmaeckt waren ontrent halff</l>
+					<l>April int selffde Jaer</l>
+					<l>Int jaer 1613 den 11 Maert hebben de heeren van de</l>
+					<l>Gerechte der stadt Rotterdam vercocht d Erven</l>
+					<l>tusschen de oude schiedamse Poort ende de straet</l>
+					<l>aen de noort sijde van de Brouwerij van de Witte</l>
+					<l>Leeuw buijten den dijck die met Een laech Water</l>
+					<l>Qualijck boven quam de Coopers moeten de Caij</l>
+					<l>maecken van steen voor de selffde Erven ende</l>
+					<l>oock den opslach hoogen binne 2 Eerst comende</l>
+					<l>Jaren ende als d Een timmert moet den Ander daer</l>
+					<l>naest gelegen de Besijde muijr halff Becostigen</l>
+					<l>ten Eersten ende dese voorschreve Erven moeten</l>
+					<l>betimmert wesen binnen ses Eerst comende Jaren</l>
+					<l>op de verbeurte van 600 gl ende dan noch Even</l>
+					<l>wel te moeten Timmeren ende op den selffden</l>
+					<l>dach voorschreve worde vercocht d oude schiedam</l>
+					<l>se Poort om aff gebroocken te worden voor de somma</l>
+					<l>van 320 gl gereet gelt dese voorschreven Poort stont</l>
+					<l>boven op den dyck ende was vier @@@@ op gemetselt</l>
+					<l>met dicke muijren ende daer boven met Een verwulft</l>
+					<l>ende boven op met Een steene Borst sweering sonder</l>
+					<l>dack soo datter boven op Een groote Ruijmte op was</l>
+					<l>ende den 18 maert 1613 heeft men dese voorschreve</l>
+					<l>Poort beginnen aff te Breecke</l>
+					<l>Int jaer 1613 den 10 April heeft men Eerst de Wijn</l>
+					<l>straet beginnen te maecke met straet steene</l>
+					<l>ende worde seer hooch geleijt ende Ront</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>22</l>
+					<l>Int jaer 1613 den 22 ende 23den dach van April hebben de</l>
+					<l>heeren van de gerechten der stadt Rotterdam vercocht</l>
+					<l>d Erve aen de suijt syde van de scheepmaeckers haven</l>
+					<l>wesende moras ende Biesen dat wel 12 Roe voeten</l>
+					<l>opgehoocht moet Weesen Eer men daer op Timmeren</l>
+					<l>mach dese voorschreve Erven waren Breet Elck</l>
+					<l>20 Roe voeten ende lanck ontrent 180 gelycke</l>
+					<l>voeten ende waren int getal 140 Erven die al ten</l>
+					<l>samen gebruijckt moesten worden tot scheeptimmer</l>
+					<l>werven maer die Een Erff kocht die mocht drije</l>
+					<l>Erven inde selffde Coop aen neemen maer niet</l>
+					<l>meer soo dat de koopers meest al vier Erven</l>
+					<l>aen malcander koochte ijeder Erff voor ontrent 400</l>
+					<l>gl op dese navolgende Condijtij dat de Coopers</l>
+					<l>van dese voorschreve Erven sullen Betaelen van</l>
+					<l>haer Belooft de Penningen van ijder gulde Een blanc</l>
+					<l>tot Rantsoen ende oock den tachtichsten Penning</l>
+					<l>ende noch sullen moeten diepen Een ijder voor syn</l>
+					<l>Erff de helft van de scheepmaeckers haven mits</l>
+					<l>dien dat de aerden daer uijt comende Een ijder sal</l>
+					<l>mogen Brengen op sijn Erff noch sullen dese</l>
+					<l>Coopers van dese Erven moeten maecken Een muijr</l>
+					<l>van 2 steenen dick soo hooch als de vercoopers</l>
+					<l>ordonneren sullen op het suijt Eijnde van ijder</l>
+					<l>Erff sonder dat ijemant sal mogen hebben Buijten</l>
+					<l>dese voorschreve muijr Eenich Podthuijs oft uijt</l>
+					<l>steck maer sullen wel mogen hebben Een uytganc</l>
+					<l>ende lichten ende niemant en sal mogen schip</l>
+					<l>ofte schepen op stapel te setten nae drij Eerst</l>
+					<l>comende jaren dan alleen aende suijtsijde van de</l>
+					<l>scheepmaeckershaven op de verbeurte van 300</l>
+					<l>guldens maer men sal weten dat de heeren van de</l>
+					<l>gerechte der stede Rotterdam aen haer gehouden</l>
+					<l>hebben ses ofte 7 Erven ontrent ten halven van dese</l>
+					<l>voorschreeve Timmerwerve daer sij van meeninge</l>
+					<l>sijn Een Brug te leggen over de scheep maeckers</l>
+					<l>haven daer den Eersten steen aen geleijt wiert den 19</l>
+					<l>october 1613 ende worde soo hooch gemetselt dat daer</l>
+					<l>met Een laech waeter bij mocht noch worden</l>
+					<l>vercocht op de voorschreve daegen Een deel Erven</l>
+					<l>aen de suijt syde van de scheepmaeckershaven</l>
+					<l>Etc.</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l>Aen de west sijde van het oude westerse hooft</l>
+					<l>ende aende oost sijde van de leuven haven bij de</l>
+					<l>scheepmaeckers Poort die al Betimmert</l>
+					<l>moesten wesen met huijsen binnen ses Eerst</l>
+					<l>comende jaeren op de verbeurte van ses hondert</l>
+					<l>gulde maer de Coopers moesten oock Betaelen</l>
+					<l>van haer Belooft de Penninck van ijder gulde</l>
+					<l>Een Blanck ende oock den 80 penninck en oock</l>
+					<l>noch den opslach ofte straeten hoogen Een yder voor</l>
+					<l>sijn Erff ende als d Een timmerden moet dander daer</l>
+					<l>naest gelegen de besijde muijr halff Becostigen</l>
+					<l>ten Eersten</l>
+					<l>Den 27 April 1613 hebben d Heeren van de Gerechten</l>
+					<l>der stadt Rotterdam vercocht d&apos; Erven tusschen</l>
+					<l>de wyn haven ende de scheep maeckers haven ijder</l>
+					<l>Erff van 18 Roe voeten Breet maer geen Eene</l>
+					<l>lengte d Coopers van dese Erven moeten de Condijtij</l>
+					<l>voldoen gelyck Boven verhaelt is</l>
+					<l>Int jaer 1612 en 1613 worden gestraet den hoogen</l>
+					<l>dijck vande oude stadt aff tot aen de Roo Poort</l>
+					<l>toe ende is aen de lengte ontrent 1050 treden ende</l>
+					<l>inde voorschreve Jaren worden oock gestraet sommig</l>
+					<l>Besijde straeten ten weder syden vande hoogen</l>
+					<l>dijck ende oock de straet aen d oost sijde vande</l>
+					<l>leuven haven.</l>
+					<l>Den 11 Meij 1613 is frederick <hi rend='strikethrough:true;'>Pl</hi> Pals Graeff van</l>
+					<l>Rijn door Rotterdam gepasseert nae den haege</l>
+					<l>laetende syn huysvrouw in Seelant ende den 15</l>
+					<l>der selver maent compt hij uijt den haech</l>
+					<l>weder binnen Rotterdam om aldaer sijn huijsvrouw</l>
+					<l>Elisabet te ontfangen dewelcke op den selffden</l>
+					<l>dach met noch veel Andre Heeren binnen</l>
+					<l>Rotterdam seer cierlijck ingehaelt wierdt van</l>
+					<l>d: E: heeren der selver stadt met 6 vaendels Uut</l>
+					<l>gelesen Burgers yder vaendel boven drije</l>
+					<l>hondert man sterck sijnde. Een vaendel vrije</l>
+					<l>soldaten ende alle desen voorgemelden heeren</l>
+					<l>trecken den selffden dach binnen den haech</l>
+					<l>sonder tot Rotterdam te vernachte</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l>Int jaer 1613 worden aff gebroocke de hooge ofte</l>
+					<l>kleijne huyskens die tegen de vest muijt aen ge</l>
+					<l>timmert stonden ende oock de vest muijr tusschen</l>
+					<l>de oude leuven <hi rend='strikethrough:true;'>haven</hi> Breggen ende de keijsers</l>
+					<l>Bregge aent Kleyn marct velt</l>
+					<l>Int jaer 1613 den meij worden d Eerste steen geleijt</l>
+					<l>aen de Kaijen van de Wijn haven ende inde selffde</l>
+					<l>somer waren <hi rend='strikethrough:true;'>alle</hi> de kaijen gemaeckt aen de wyn</l>
+					<l>haven soo hooch dat men daer met Een laech water</l>
+					<l>Bij mocht ende noch seven Breggen van de</l>
+					<l>stadts Wegen die al boven de 6 Roe voeten op</l>
+					<l>gemetselt worde ende oock beijde de voorschreve</l>
+					<l>haven gediept al int selffde jaer ofte somer de</l>
+					<l>Brugge op ijeder Eynde vande dwars haven</l>
+					<l>worden Begonnen inde maert van Augustij</l>
+					<l>Den 26 september 1613 worde d Eerste steen geleijt</l>
+					<l>vande gemeene Brugge</l>
+					<l>Copije gepupliceert binnen Rotterdam den 1 october</l>
+					<l>1613</l>
+					<l>Alsoo nae de natuijrlijcke Rechten geconfirmeert</l>
+					<l>met verscheijde sententije alle ingesetenen van suijt</l>
+					<l>hollant vrijstaet haer gewas ende telinge te brenge</l>
+					<l>in de steden Rotterdam gornichem ende schoonhove</l>
+					<l>sonder dat sij gehouden sijn deselve Ergens Anders ter</l>
+					<l>marct te Brengen ende Evenwel schijnt dat bij</l>
+					<l>de Regeerders van dordrecht getracht wert om met</l>
+					<l>Eenige verboden de voorschreve dorpen in haer</l>
+					<l>vrijheijt ende de voorschreve steden vercorten in</l>
+					<l>haer toevoer vercort en soo ist dat Burgemeestren</l>
+					<l>ende Regeerders der voorschreve steden Rotterdam</l>
+					<l>Gornichem en schoonhoven alle in gesetenen van suijt</l>
+					<l>hollant niemant wttgesondert met dese Klocke</l>
+					<l>geslach laeten weten ende incinveren dat sij met</l>
+					<l>haer gewas vruchten ende telingen vrij vranck en</l>
+					<l>onverhindert morgen Komen in dese voor seijde drije</l>
+					<l>steden ende deselvige goedren aldaer ter marct Brengen</l>
+					<l>ende te vercoopen sonder te obidijeren aen Eenich gebodt</l>
+					<l>ofte verboden dese contrarijerende ofte de selve goedren</l>
+					<l>Eerst tot Andre Plaetsen gehouden sijn ter marct te</l>
+					<l>Brengen beloovende de voorschreve steden de voorschreeve</l>
+					<l>ingesetenen van zuijt hollant te indemneren ende</l>
+					<l>dagelijckx te Bevrijden van alle schaden hindringe</l>
+					<l>die hun lieden int geent voorschreven is Eenig sints soude</l>
+					<l>mogen werden aengedaen gepubliceert den 1 october 1613</l>
+					<l>binnen Rotterdam, onder stont deen segget dander voort</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l>Int jaer 1613 den 19 octob. wesende saterdach worden den</l>
+					<l>Eersten steen gelegt aende Brugge over de scheepmaeckers</l>
+					<l>Haven die nae genoemt worde de groote scheepmaeckers</l>
+					<l>Brugge ende het fondament van dese was aldus</l>
+					<l>Eerst waren masten besijden malcanderen geleyt die</l>
+					<l>de voorschreve Haven over Reijckte vande Eenen Caij</l>
+					<l>tot dander ende daer greijne Balcken op geleijt dwars</l>
+					<l>ende Lanckx die met ijssers vast aen malcanderen geslooten</l>
+					<l>worden ende was Een vlot leggende op T water daer</l>
+					<l>worde het steen werck van desen Bregge op geleijt ende</l>
+					<l>soo is het werck op de gront gesoncke op de diepten</l>
+					<l>van ontrent vijff Roe voeten waters ende dit</l>
+					<l>muijr werck worde soo hooch gemaeckt dat men</l>
+					<l>daer met Leck waeter Rijckelijck By mocht</l>
+					<l>Int jaer 1613 den 7 november worden den Eersten steen</l>
+					<l>geleijt aen de Brugge over de wijn haven die nae</l>
+					<l>genoemt worde de groote wijn Brugge ende het</l>
+					<l>fondament van dese Brugge was gelijck de groote</l>
+					<l>scheep maeckers Brugge ende het werck van Beijde</l>
+					<l>dese Breggens is soo de winter over Blijven staen</l>
+					<l>tot den 23 Appril 1614 doen heeft men weder aen</l>
+					<l>dese Bruggens Beginnen te wercken ende worden</l>
+					<l>van Blauwsteen werck boven de vloet gemaeckt</l>
+					<l>ende de groote wijn Bregge worden van de selven</l>
+					<l>soomer Hooger gemaeckt van witte steen werck</l>
+					<l>ende daer worde Een Brugge voor de loof over</l>
+					<l>geleijt inde maent van septemb. 1614</l>
+					<l>Beminde Leser</l>
+					<l>Hier aen sal geseijt worden vande verbetringe vande</l>
+					<l>straten ofte stegen binnen Rotterdam inden tijdt</l>
+					<l>van derthien Jaeren Int selve Begrijp soo de stadt</l>
+					<l>was Int jaer 1584 Int leste van t jaer 1613 binnen</l>
+					<l>den dijck verbetert 48 straeten ofte stegen ende buijten</l>
+					<l>den dijck 25 straeten ofte stegen sonder over de blaeck</l>
+					<l>ende Buijten over de schiedamse Poort oft haring</l>
+					<l>vliet te moijen</l>
+					<l>Int jaer 1614 den 8 maert worden den Eersten steen</l>
+					<l>geleijt aen het Eerste huijs aen de noortsijde van de wijn</l>
+					<l>Haven aen de west hoeck van den groote wijn bregge</l>
+					<l>daer stichter van was Pouwels Boutaen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>24</l>
+					<l>Inst selfde Jaer worde Begonne het Glashuijs</l>
+					<l>tusschen de wijnhaven ende scheepmaeckers Haven</l>
+					<l>daer de principalste stichter van was Lambrech</l>
+					<l>Hooch</l>
+					<l>Int jaer 1614 den 14 Appril hebben d:E: Heeren van de</l>
+					<l>gerechten der stadt Rotterdam vercocht Een deel</l>
+					<l>Erven leggende tusschen de scheepmaeckers Haven</l>
+					<l>en de wijn haven ten weder syde van de 2 dwars</l>
+					<l>havens op dese naer volgede Condijtij dat de Coopers</l>
+					<l>vande Erven sullen Betaelen van haer Belooffde</l>
+					<l>Pennin<hi rend='strikethrough:true;'>n</hi>gen van ijder gulde Een Blanck tot Rantsoen</l>
+					<l>ende oock den tachtichsten Penning ende sullen</l>
+					<l>de straeten ende opslach moeten hoogen ende deselve</l>
+					<l>Erven binnen drij Eerst comende Jaeren Betimmert</l>
+					<l>syn Ende als d Ene timmert moet dander daer naest</l>
+					<l>aen gelegen de Besijde muijren halff Becostigen ten</l>
+					<l>Eersten die geset sullen worden op scheijt ten minsten</l>
+					<l>van Ander halve steen dick dese voorseijde Erven</l>
+					<l>sijn Breet achtien Roe voeten ende lanck ontrent</l>
+					<l>70 voeten de korste, ende de Langste ontrent 100</l>
+					<l>gelijcke voeten ijder Erft cost ontrent 200 gulde</l>
+					<l>de vercoopers sullen de Caijen maecken aende 2</l>
+					<l>dwars haven Een ijder sal timmeren als hij wil</l>
+					<l>Int jaer 1614 den 15 Appril hebben d Heeren vande</l>
+					<l>Gerechten der stadt Rotterdam vercocht 20 Erven</l>
+					<l>leggende aen de suijt sijde van de scheep maeckers</l>
+					<l>Haven ten weder syde van de straet aende groote</l>
+					<l>scheepmaeckers Brugge ijder Erff breet synde</l>
+					<l>vyffthien Roevoeten ende lanck 44 gelijcke</l>
+					<l>voeten ijder Erff Cost ontrent 170 gulde op de</l>
+					<l>voorschreve Condijty</l>
+					<l>Int jaer 1614 worden gemaeckt de steene Caijen</l>
+					<l>aen de West sijde van de delffse vaert van de Raem</l>
+					<l>Brugge aff tot de delffse Port toe voor die tijdt</l>
+					<l>deselffde Caijen geweest hebbende van hout die</l>
+					<l>seer vervallen waren ende Int selffde Jaer worden</l>
+					<l>Een deel steene Caijen gemaeckt aende sloot</l>
+					<l>leggende van St. Jooris doel binnen Rotterdam</l>
+					<l>Int jaer 1614 den 21 Junij hebben d heeren van de</l>
+					<l>Gerechten der stadt Rotterdam vercocht de</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l>Brugge leggende over de Rotte bij het hoff </l>
+					<l>poortje voor de somme van 80 gulde om aff gebrooke</l>
+					<l>te worden tot de gront toe want het was een brugge</l>
+					<l>die heel van hout gemaeckt was ende op die selve</l>
+					<l>plaets worden een steene brugge geleijt den eerste</l>
+					<l>steen worden daer aengeleijt den 8 Augustij 1614</l>
+					<l>ende den lesten steen den 3 octo 1615</l>
+					<l>Int jaer 1614 den 11 Jullij worden den Eersten stenen</l>
+					<l>gerecht aent Eerste schip dat op stapel gesett wierdt</l>
+					<l>aender suijdt sijde van de scheep maeckershaven op </l>
+					<l>den nieuwe timmerwerven  den 21en Jullij int selffde</l>
+					<l>jaer worden den Eersten steen geleijt aen t Eerste scheep</l>
+					<l>maeckershuijs dat getimmert worde aen den suijt</l>
+					<l>sijde van de scheepmaeckers haven daer stichter van </l>
+					<l>was warnaer Jansen gouenaer</l>
+					<l>Int jaer 1614 den 8 septb heeft men beginnen te</l>
+					<l>leggen d Eerste cleijne wijnbregge daer den Eersten</l>
+					<l>steen aen gelegt worden int jaer 1614 en deden lesten</l>
+					<l>int jaer 1615</l>
+					<l>den kleijne scheepsmaeckers brugge worden begonne</l>
+					<l>den 1 decemb 1614</l>
+					<l>int jaer 1614 worden binnen Rotterdam vijff</l>
+					<l>Brouwerije getimmert Een aen doost sijde van</l>
+					<l>Delftse waert daer stichter van was Jan Cornelisse</l>
+					<l>sijn teijcken was d Een hoorn der 2 Brouwerij</l>
+					<l>worden getimmert aen de suijt sijde van d hoochstraet</l>
+					<l>op t oost ende van de selffde straet daer stichter</l>
+					<l>van was Pieter van Wagensvelt sijn teijcken</l>
+					<l>was de sterre de 3 Brouwerij worde getimmert</l>
+					<l>aen de suijt sijde van de  Blaeck tusschen de Gapers</l>
+					<l>bregge dende de Keijffers bregge daer stichter van</l>
+					<l>was Willem Willemse nobel sijn teecken was</l>
+					<l>d haring met de kroon de 4 Brouwerij worden</l>
+					<l>getimmert met aen doost sijde van de leuven haven</l>
+					<l>bij de lange leuve bregge daer stichter van was</l>
+					<l>Willem Eeuwoutse Prins het teecken was de</l>
+					<l>R jnde werelt de 5 Brouwerij worde getimmert</l>
+					<l>aende noort sijde vander hoochstraet op t oost Ende </l>
+					<l>vande selffde straet daer stichter van was dimme </l>
+					<l>Cornelisse sijn teecken was de drij haringe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>25</l>
+					<l>Int jaer 1615 den 1 feb wesende sondach begost seer</l>
+					<l>scherp ofte strengelijk te vriese en het sneeuwde</l>
+					<l>soo veel van de selvige maent dat het voor die</l>
+					<l>tijdt in geen vijftich jaer soo veel niet gesneut</l>
+					<l>en hadt in dit selfde jaer de 18 maert wesen de woens</l>
+					<l>dach begon men weder van Rotterdam op Dordrecht</l>
+					<l>te varen den 19 maert wesende donderdach heeft men </l>
+					<l>weder van Delft op Rotterdam beginnen te</l>
+					<l>varen</l>
+					<l>Int jaer 1615 in begin van April heeft men de linde</l>
+					<l>boomen beginnen te planten ende oock de </l>
+					<l>boillige pooten beginnen te steecke tusschen</l>
+					<l>doude haven ende de Leuve haven aen de Maes</l>
+					<l>Int jaer 1615 worde de straet aen de west sijde</l>
+					<l>van de Delftse vaert op gebroocken ende gehoocht</l>
+					<l>ontrent 2 Roe voet van Delfse poort aff tot de</l>
+					<l>Raem bregge toe</l>
+					<l>Int jaer 1618 den 1e Jullij hebben den Heeren van de </l>
+					<l>gerechten der stadt Rotterdam sommige steene</l>
+					<l>kaijen beginnen te maecken van de gapers</l>
+					<l>bregge aft ooft waert aen tot aen toost eijnde van de  </l>
+					<l>Boijnstraet toe</l>
+					<l>Den 17 Augustus 1618 hebben de Heeren van de Gerechten</l>
+					<l>van der steden Rotterdam aff gepubliceert dat alle</l>
+					<l>de vreemde kramers comende in de kermis niet</l>
+					<l>langer en sullen mogen voorstaen om haer goet te</l>
+					<l>verkoopen dan van vrijdaechs voor de kermis aff tot</l>
+					<l>saturdaechs naer de kermis toe</l>
+					<l>Oock van t begraven der dooden te weten dat Een</l>
+					<l>oude dooden die met 4 ofte meer Persoonen gedraegen</l>
+					<l>wordt sal moeten voor halff twaleff in de kerck</l>
+					<l>wesen op peene van ses gulde ende naer middach</l>
+					<l>voor drijen als waert op marct daegen van gelijcke</l>
+					<l>boeten. Een kint met 2 gedraegen oock voor</l>
+					<l>drijen op Peene van 3 gulde boete: Een kint</l>
+					<l>onder den narm gedraegen 30 stuijvers</l>
+					<l>int selftde jaer wierdt de val brugge buijten</l>
+					<l>voor het hoff poortgen gemaeckt ende het hoff</l>
+					<l>poortgen wiert wijder gemaekt ande de vloer</l>
+					<l>gehoocht</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l>Int selffde Jaer worde gemaeckt het muijr werckt</l>
+					<l>tusschen het steenen Bolwerck ende het hooft</l>
+					<l>aen de west sijde Buijten de leuve Poort</l>
+					<l>Int jaer 1618 den 29 dach in octob. comt den Prince</l>
+					<l>van orangjen Mauritius binnen Rotterdam</l>
+					<l>en sdaechs hier aen veranderde de Prins de Wet en</l>
+					<l>vroetschap binnen Rotterdam die doen ter tijdt</l>
+					<l>24 int getal waren maer daer wasser 2 van doot</l>
+					<l>soo dat sij maer 22 waeren daer van datter aff gesett</l>
+					<l>worden vijffthien te weten</l>
+					<l>1 Pieter Aryaense Waelenburch out Burgem<hi rend='superscript:true;'>r</hi>. die</l>
+					<l>ontrent dertich jaeren vroetschap geweest hadde</l>
+					<l>2 Cornelis Pietersen Vroesen die ontrent veerthien</l>
+					<l>jaeren vroetschap geweest hadde</l>
+					<l>3 Jan Phillipse van Hal</l>
+					<l>4 Jan dirckse versijden</l>
+					<l>5 Adrijaen Crynen</l>
+					<l>6 Eeuwit van Bijlwerff</l>
+					<l>7 Symon janse verhaven</l>
+					<l>8 Adryaen keijser</l>
+					<l>9 Heijndrick jeroense</l>
+					<l>10 Gerrit Janse Blanckert</l>
+					<l>11 Pieter Heijndrickse de karre</l>
+					<l>12 Govert Dirckse thoen</l>
+					<l>13 Jonge Jan Janse snaets</l>
+					<l>14 Gillis marijnisse Groenincx</l>
+					<l>Coornelis Aertse kievit</l>
+					<l>Daer Bleven In de vroetschap</l>
+					<l>1 Cornelis Cornelisse Jongeneel</l>
+					<l>2 Heijndrick Willemse nobel</l>
+					<l>3 Boudewijn van Muijlwijck bleef Baljouw</l>
+					<l>4 doctor Bonte</l>
+					<l>5 Adriaen Reijn brantse</l>
+					<l>6 Cornelis Janse van Hertichvelts</l>
+					<l>Cornelis Claessen van driel</l>
+					<l>Int jaer 1618 in de maent van decemb. vworde 12</l>
+					<l>vaendels op gerecht uijt de Burgerij binnen</l>
+					<l>die steden Rotterdam van d Eet der schutteren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>26</l>
+					<l>Int jaer 1619 worden Een Padt gestraet van</l>
+					<l>klinckert voor de scheepmaecker huijsen heen</l>
+					<l>aen de suijt sijde van Rotterdam van de oude haven</l>
+					<l>aff tot aen de leuve haven toe ende was het Eerste</l>
+					<l>Padt</l>
+					<l>Int selffde Jaer worden het verlaet bij den doel</l>
+					<l>gemaeckt</l>
+					<l>Int jaer 1620 worden de houte <hi rend='strikethrough:true;'>kaijen</hi> <hi rend='superscript:true;'>kays</hi> gemaeckt ten</l>
+					<l>wedersijde van de vest sloot aende de west sijde van</l>
+					<l>Rotterdam ende den doel vol maeckt</l>
+					<l>van smergens aff tot den middach toe. het Avont</l>
+					<l>mael wert wtt gedeelt</l>
+					<l>Int selffde jaer worden de steene Caijen volmaect</l>
+					<l>tusschen de gapers Bruggen ende de Brugge</l>
+					<l>Int jaer 1619 den 20 dach in Jullij worden het Placcaet</l>
+					<l>tot Rotterdam aff gepubliceert dat de Armenijaene</l>
+					<l>niet meer Predyken en soude het welcke daechx</l>
+					<l>daer aen Begonnen werdt maer niet volbracht</l>
+					<l>daechs daer aen sijnde maendaechx wert daer sommige</l>
+					<l>gevangen</l>
+					<l>Int selffde Jaer worden de steene Caijen gemaeckt</l>
+					<l>ten weder sijde achter het verbrande Clooster van de</l>
+					<l>steene Brugge aff tot de vest toe</l>
+					<l>Int jaer 1619 heeft de stadt van Rotterdam moeten</l>
+					<l>onderhouden 84 Breggen te weten 32 buijten den</l>
+					<l>dijck ende binnen den dijck 52 bregge</l>
+					<l>Int jaer 1619 Int Eerste van de maent Augustij</l>
+					<l>heeft beginnen aent het spits van St. Lourens kerck</l>
+					<l>toorn tot Rotterdam</l>
+					<l>Int jaer 1619 waeren de Pruijmen soo wel geslaecht</l>
+					<l>bij sonder de witte dat de Beste die aen de mart</l>
+					<l>quaemen coste het hondert Een stuijver Int suijt</l>
+					<l>lant setten de luijde haer Boogaerden open dat daer</l>
+					<l>Een ijder in mocht gaen om Witte Pruymen te </l>
+					<l>Eeten voor niet maer daer Bedorven Een Groot deel </l>
+					<l>die onder de boomen Bleven leggen die niemant </l>
+					<l>Rapen En wilde</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l>Int selffden jaer worden de walle gehoocht vande</l>
+					<l>delffs haven Poort off tot den hoogen dyck ontrent</l>
+					<l>4 voet hooch ende het wacht huijs ende het</l>
+					<l>Poortiers huijs worden 8½ voet op gevijselt de</l>
+					<l>binnen vest sloot worde op de voorschreve</l>
+					<l>tijdt deurgaende over de 18 Roe voeten wijt</l>
+					<l>gemaeckt</l>
+					<l>Int jaer 1619 den 20 octob. Predickten de Armijnijaenen</l>
+					<l>aende cae achter out Crooswyck daer den</l>
+					<l>dijckgraeff Jacob duijn nae toe toch met Een</l>
+					<l>deel soldaeten daer Een man geschooten wierdt</l>
+					<l>den 23en der selver maent begraeven in St. Louwrens</l>
+					<l>kerck tot Rotterdam daer mede te begraeffenis</l>
+					<l>gingen 572 <hi rend='strikethrough:true;'>mannen</hi> mannen</l>
+					<l>Int jaer 1619 den 22 novemb. worden den Eersten steen</l>
+					<l>geleijt van het Butter huijs ofte vleijs halle</l>
+					<l>Int jaer 1619 den 22 decemb. worden Een Jonckman</l>
+					<l>doot geschooten om dat hij Buijten Inde Predicatije</l>
+					<l>wilde gaen genaemt Jan Adrijaense die Begraven</l>
+					<l>worden den 27 der selver maent daer ontrent 1300</l>
+					<l>mans Persoonen mede ter Begraeffenis Ginge</l>
+					<l>Int jaer 1620 den 6 Appril begonnen den kerck</l>
+					<l>toorn te ondecken ende vant selffde Jaer worde</l>
+					<l>40 voeten hoochten gerecht acht kant men</l>
+					<l>timmerde voort</l>
+					<l>Int jaer 1620 den 27 Appril heeft men beginnen</l>
+					<l>te delven aen den dijck aen de Schiedamse Poort</l>
+					<l>om Een sluijsken te maecken aen de vest deur</l>
+					<l>den dijck te leggen daer den Eersten steen aen</l>
+					<l>geleijt worden op den lesten Appril ende den lesten</l>
+					<l>steen op den 20 meij ende daer worden aen ver</l>
+					<l>vrocht 2000 steen</l>
+					<l>Int jaer 1620 den Eerste meij hebben de Heeren</l>
+					<l>van de gerechten der stadt Rotterdam tot last</l>
+					<l>van de selvige stadt genoomen het hoff van</l>
+					<l>Bulgersteijn voorde somme sjaers 330 gulde gecocht</l>
+					<l>hebbende van sasbouten van delft</l>
+					<l>Int Jaer 1620 den 13 meij hebben de Heeren vande</l>
+					<l>Gerechte der stadt Rotterdam gecasseert de 12</l>
+					<l>vaendels schutters ende weder 6 gemaeckt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>27</l>
+					<l>Den 20 Meij Heeft men vercocht de huijsen</l>
+					<l>Bovens de vleijs Hal om aff gebroocken te werden</l>
+					<l>voor de somme van 220 gl. te weten aen de</l>
+					<l>oost sijde van de lomberstraet ende aen de west sijde</l>
+					<l>van de Huijbregge binnen 6 daegen aff te Breecken</l>
+					<l>Int selffde jaer worden gecaeyt de groenendael</l>
+					<l>ten wedersyde met steenwerck ende gediept</l>
+					<l>Int selffde jaer worde gehoocht de singel vande</l>
+					<l>Delffse Poort aff tot den hoogen dijck toe aen de Buyten</l>
+					<l>cant van de vest</l>
+					<l>Int jaer 1620 wierdt geordonnert vande vroetschap</l>
+					<l>binnen Rotterdam dat Een ijder burger sal moeten</l>
+					<l>onderhouden sijn Eijgen straet van steen sant en Arbeijts </l>
+					<l>loon voor desen noijt geweest</l>
+					<l>Int jaer 1620 wort gemackte de oost indische Lijnbaen </l>
+					<l>met het Lijnhuijs ende al dat daer toe Behoort</l>
+					<l>Int selffde jaer worden het sluijsken bij doost poort</l>
+					<l>verleijt ende vermaeckt</l>
+					<l>Ins selffde jaer worden gemaeckt Een Paerde stal voor</l>
+					<l>de karre Paerden bij de delffshavense Poort</l>
+					<l>Int selffde jaer worde gemaeckt Een wip moolen</l>
+					<l></l>
+					<l>west syde van de Leuve Poort</l>
+					<l>den 15 Maert 1620 heeft men aen de toorn van S<hi rend='superscript:true;'>t</hi>.</l>
+					<l>Lauwrens ^ werderom Beginnen te steijgeren</l>
+					<l>den 13 Appril de 3 Pasdach compt fredrick Coninck</l>
+					<l>van Bohemen Binnen Rotterdam met sijn huijsvrouw</l>
+					<l>Int jaer 1620 den 10 Jullij worde de muj op st. Lauwrens</l>
+					<l>kercktoorn geset sijnde het hoochste van hout</l>
+					<l>werck gerecht</l>
+					<l>Int jaer 1621 den 19 Augusti worde het kruijs met</l>
+					<l>den weerhaen op st. Laurens kercktoorn geset</l>
+					<l>den 7 dach van sept. heeft men beginnen te Leggen</l>
+					<l>d Eerste Brugge aen touwde westerse hooft die</l>
+					<l>genaemt wert de kleynde scheepmaeckers Brugge</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l>Den 24 Augustij kermis diensdach was Een</l>
+					<l>Rumoer binnen Rotterdam, doort vangen van</l>
+					<l>Een Predicant van de Armijnijaenen daer Bleven</l>
+					<l>4 Burgers doot Int Rumoer die bij nacht</l>
+					<l>begraeven worden daer naer worden der veel gevangen</l>
+					<l>van de Armenijanen en oock gebannen</l>
+					<l>Int jaer 1621 den 24 dach in octob. waijtent Eenen</l>
+					<l>snellen wint suijt oost ende het water liep soo</l>
+					<l>seer aff dat de sant Plaet leggende voor toude hooft</l>
+					<l>tot Rotterdam met het hoochste water niet</l>
+					<l>Bedeckt En worden ende de sluijsen binnen</l>
+					<l>Rotterdam en gingen In 2 tijden niet toe. daer naer</l>
+					<l>volgenden Een groot onweder soo dat het Lant</l>
+					<l>In 2 daegen en 2 nachten onder Regenden</l>
+					<l>Int jaer 1621 den 20 novemb. worde de slach klock</l>
+					<l>wt het giet huijs gebracht onder St. Lauwrens</l>
+					<l>kerck toorn gebracht d&apos;jongens trockens wegende</l>
+					<l>9417 lb.</l>
+					<l>Int jaer 1621 Int lest van januarij begon het</l>
+					<l>te vriesen ende vroor soo fel dat het in veel jaeren</l>
+					<l>voor die tijdt niet gevrooschen hadde het winter</l>
+					<l>kooren vroor meest al rot op veel Plaetse daer</l>
+					<l>aen volgde. Een natte kouwen somer, soo dat de</l>
+					<l>turff meest al Int velt Bleven quartel treij</l>
+					<l>van de turff costen 10 11 a 12 stver. Puijck 14 a 15 16 a</l>
+					<l>17 stuijvers der tonne de schotse koolen wierden</l>
+					<l>vercocht de oandert waech voor 96 gl. binnen</l>
+					<l>Rotterdam</l>
+					<l>Int jaer 1621 den 10 dach decemb. hebben de heeren</l>
+					<l>van de gerechten der stadt Rotterdam aff gepubliceert</l>
+					<l>dat niemant sal vervordren Eenige winckels op</l>
+					<l>te doen ofte Eenich hant werck te doen op jaers</l>
+					<l>dach ende die te vieren dat noijt voor desen Inde</l>
+					<l>selffde stadt Rotterdam bij de gereformeerde geweest </l>
+					<l>En was</l>
+					<l>Int jaer voorschreve vroos het soo fel dat het</l>
+					<l>ijs seer dick was</l>
+					<l>den 4 geb. ^ quam Een voerman genaemt dr Acceter</l>
+					<l>van dort met syn slede met volck geladen ende</l>
+					<l>Reet in een wrack ontrent d&apos;noort savonts ontrent</l>
+					<l>seven uijren heel doncker sijnde ende de</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l>voorschreve voerman met sijn Paerdt en al het</l>
+					<l>volck verdroncken soo datter niemant levent</l>
+					<l>aff En quam de voorschreve voerman worden</l>
+					<l>gevonden ende Begraven den 19 mey 1622</l>
+					<l>Int jaer 1622 worden Besteedt het vrouwenhuijs</l>
+					<l>op het stadthuijs om <hi rend='strikethrough:true;'>tH</hi> het hout werck ende</l>
+					<l>al het steen werck glaesen ende ijser werck te</l>
+					<l>maecken ende te levren voor de somme van</l>
+					<l>thien duijsent gulde</l>
+					<l>Den lesten Appril 1622 worde het metaele</l>
+					<l>Beelt van Erasmus gestelt tot Rotterdam op de </l>
+					<l>marct</l>
+					<l>Int jaer 1622 den Eersten Junij worden den Eersten</l>
+					<l>steen geleijt aen den nieuwen doel tot Rotterdam</l>
+					<l>Int jaer 1623 Inde maent van feb. waijden</l>
+					<l>buijten Rotterdam een Cooren wint moolen</l>
+					<l>om daer de mulder op was dwelcke doot Bleeff</l>
+					<l>Int jaer 1623 op de 20 junij Laegen binnen Rotterdam</l>
+					<l>In St. Lauwerens kerck ontrent 900 harcken</l>
+					<l>Int jaer 1623 Inde maent van Appril hebben</l>
+					<l>de Heeren van de gerechte der stadt Rotterdam</l>
+					<l>doen leggen Een Breggen over de schie dewelcken</l>
+					<l>die van Rotterdam onderhouden moeten d Heeren van de</l>
+					<l>stadt van delft dat verstaende dat de Bregge van</l>
+					<l>greijne hout gemaeckt was daer sij niet veel</l>
+					<l>sins in En hadde soo hebben sij Een Eijcken Bruggen</l>
+					<l>laeten maecken ende syn Inder nacht gecomen tot</l>
+					<l>ouder Schie ende hebben de Rotterdamse Breggen</l>
+					<l>aen stucken geslaegen ende stucken aent twater</l>
+					<l>op de Rotterdamse sijde gelijte ende de Bruggen die</l>
+					<l>sij met haer van Delft met haer Brachten op de</l>
+					<l>selffde plaets geleijt die van Rotterdam hebben</l>
+					<l>haer hout van de gebroocken Breggen <hi rend='strikethrough:true;'>geleijt</hi> gehaelt</l>
+					<l>ende hebben het laeten Rusten</l>
+					<l>Anno 1623 den 30 octob. is desen</l>
+					<l>Autheur Jan Gerritse deser werelt</l>
+					<l>overleden</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l>Beminde Leser alsoo van dese Copie daer dit</l>
+					<l>wt is getrocke voor wel 17 Blaeden waren wt</l>
+					<l>gescheurt ende Eenige in de midden vant</l>
+					<l>Principaelste maer hebben niet connen naer</l>
+					<l>laeten / dit Even wel te Copijeren</l>
+					<l>1629</l>
+					<l>Int jaer</l>
+					<l>worden besteedt Een frans schol</l>
+					<l>van de heeren van Rotterdam ende op gemaeckt</l>
+					<l>Int selffden jaer staende op de hoochstraet aent</l>
+					<l>Roosant daer voor die tydt gewoont heeft d&apos; heer</l>
+					<l>van Kralingen ende stonden voorts laege Huijskens</l>
+					<l>diemen met Een trap beneden den dyck naer</l>
+					<l>het Roosant toegingen</l>
+					<l>Int jaer 1609 in junij heeft men tot Rotterdam</l>
+					<l>vercocht Een hoedt Winter gerst voor tachtich</l>
+					<l>gulde Een hoet somer gerst voor 72 gulde Een hoet</l>
+					<l>haver voor 54 gulde Een last Boekweijt voor</l>
+					<l>37 pondt a 38 Pont</l>
+					<l>Een last franse gerst 36 a 38 Pont</l>
+					<l>Een seeuse sack Rogge 24 schellinge 8 groot</l>
+					<l>Een seeuse sack taruw 31 schellinge 8 groot</l>
+					<l>Een last franse taruw 216 gout gulde dit alles</l>
+					<l>in contant vercocht</l>
+					<l>In jaer 1630 den 13 Augustij werde vercocht Een</l>
+					<l>last Brabantse Rogge 216 gout gulde Een seeuse</l>
+					<l>sack Rogge voor <hi rend='strikethrough:true;'>26</hi> 26 schellinge 6 groot</l>
+					<l>de franse Rogge tot 206 a 208 g gulde</l>
+					<l>Int selffde jaer den 2 september den Brabantse Rogge</l>
+					<l>vercocht tot 255 gout gulde maeckelaer</l>
+					<l>genaemt Abraham adr ende de seeuse Rogge a</l>
+					<l>28 1/2 schelling der seeuse sack</l>
+					<l>den 9 ditto cocht men de Brabantse Rogge</l>
+					<l>tlast tot 200 ggl</l>
+					<l>den 10 ditto tot 166 gout gulde goede Brabantse</l>
+					<l>Rogge door Pieter van der Knap maeckelaer</l>
+					<l>vercocht aen Jan Janse Snaets</l>
+					<l>den 13 ditto werden het Broot van 4 Pont 14 Penningen</l>
+					<l>aff gesett</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>29</l>
+					<l>Int selffde Jaer 1630 hier voor verhaelt den</l>
+					<l>17 november vercocht Een last Brabantse Rogge</l>
+					<l>door Robbrecht Heijmense aen Jan Claessen Croosewijck</l>
+					<l>voor 331 gout gulde</l>
+					<l>Ende de seeuse sack Taruw 50 schellinge Engelse</l>
+					<l>gerst tot 99 gulde</l>
+					<l>Int &apos;t selffde Jaer is het Kerckhoff geplaveyt en de</l>
+					<l>Groenmarckt aldaer geordonneert</l>
+					<l>MC @Zellick @Leyd</l>
+					<l>Groote Dierte en schierlycke</l>
+					<l>verandringe in de greijne int Jaer</l>
+					<l>1630</l>
+					<l>den 3 september vercocht Abraham Mot Brabantse</l>
+					<l>Rogge voor 235 gulde</l>
+					<l>den selffden Coft ick van Jacob Heijndrickse</l>
+					<l>t verren deel seeuse trauw voor 33 sch en 4 d</l>
+					<l>den 13 september vercocht Pieter van der Rap Puijck</l>
+					<l>van Brabantse Rogge voor 166 ggulde</l>
+					<l>den 23 september vercocht Bouwe Crijne de Brabant</l>
+					<l>se weder voor t last 180 ggulde</l>
+					<l>den 24 der selft der voor 190 ggulde</l>
+					<l>Ende naer de middach En wasse niet te koop v<hi rend='superscript:true;'>e</hi>.</l>
+					<l>geen 200 ggl</l>
+					<l>den 1 october kocht men de Brabantse Rogge</l>
+					<l>voor 224 ggl</l>
+					<l>den 21 ditto Q<hi rend='superscript:true;'>r</hi> 230 ggulde</l>
+					<l>den selffde kost men de seeuse taruw voor 361@</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l>Den 22 koft men de Rogge voor 240 ggl.</l>
+					<l>Ende Een seeuse sack tarew voor 40 st.</l>
+					<l>den 28 Coft men een seeuse sack taruw voor 45 st.</l>
+					<l>de selfden kooft men de Brabantse Rogge v. 260 ggl.</l>
+					<l>den 29 octob. voor de middach koft men de seeuse</l>
+					<l>sack taruw v. 46 st.</l>
+					<l>tegen de middach die niet Beter en was voor</l>
+					<l>48 a 50 st. deselffde Coft michiel fransen kauw</l>
+					<l>van jan franse van soomerdyck de taruw voor 52 st.</l>
+					<l>te weten de seeuse sack</l>
+					<l>naer de middach quam Een Roep dat tot Amsterdam</l>
+					<l>Eenige schepen met greijne waren aen gecomen</l>
+					<l>dae koft men der taruw weder vr. 42 st.</l>
+					<l>den selffde koft men den Brabantsche Rogge v. 270 ggl.</l>
+					<l>de sack taruw gecocht v. 42½ st.</l>
+					<l>den 2 novemb. koft men de moscovische Rogge</l>
+					<l>voor 280 ggulde</l>
+					<l>den 4 novemb. koft men de moscovische Rogge</l>
+					<l>voor 290 ggl.</l>
+					<l>den 9 ditto vercocht Robbert Heymanse brabantse</l>
+					<l>Rogge v. 300 gout gulde</l>
+					<l>den 11 ditto deselffde voor 312 ggl.</l>
+					<l>den 14 ditto heb ick selffs van Robbert heijmanse</l>
+					<l>brabantse Rogge gecocht t last v. 326 ggl.</l>
+					<l>den 18 ditto hebb ick van Robbert heijmanse</l>
+					<l>brabantse Rogge gecoch daer ick mijn gerieff noch</l>
+					<l>van nemen en mocht v. 228 ggl.</l>
+					<l>den selffden vercocht Robbert heymanse branbantse</l>
+					<l>Rogge v. 331 ggl.</l>
+					<l>den 26 ditto vercocht men de Rogge v. 315 ggl.</l>
+					<l>ende het Begon van dien tydt te slappen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>30</l>
+					<l>T welck men naest godt de voorsorge der</l>
+					<l>magistraten te dancken heeft die Een gebodt</l>
+					<l>liet wt gaen dat niemant Eenige greijne. onder</l>
+					<l>de handt off buijten de marten mochten koopen</l>
+					<l>maer moest aen de mart met haer schepen coomen</l>
+					<l>ende de magistraet het voor bodt Presenteren</l>
+					<l>oock soo ontslooten In alle steden d Heeren haere</l>
+					<l>solders ende stelden het Broot naer dat sij haer</l>
+					<l>goet vercoht en waer bij dat de Backers groote</l>
+					<l>schaeden Leden aen haer grajne die sij op solder</l>
+					<l>ende duijr hadden ingecocht</l>
+					<l>den 7 novemb. vercocht de stadt haer Rogge v.</l>
+					<l>300 ggl.</l>
+					<l>ende verboden <hi rend='strikethrough:true;'>Aen</hi> de Pachters geen Brieffkens Aen</l>
+					<l>de Backers te geven als van stadts greijne</l>
+					<l>den 8 decemb. vercocht de stadt haer Rogge voor</l>
+					<l>286 ggl.</l>
+					<l>den 8 Januarij koft men de bovenlantse Rogge</l>
+					<l>voor 285 ggl.</l>
+					<l>ende den 10 ditto die soo goet was v. 260 ggl.</l>
+					<l>Op den 8 Meij 1648 woonden tot Rotterdam Een</l>
+					<l>man die kors Aryaensen hiete het was een voerman</l>
+					<l>op het goutse veer die wel 16 mael tot Rotterd.</l>
+					<l>over de kerck met Eene handt geslaegen hadde</l>
+					<l>van de hooch straet aff Recht voor de nieuwe</l>
+					<l>kerck straet En Eens over de toorn met</l>
+					<l>Beijde syn hande Eer den toorn met het nieuwe</l>
+					<l>werck verhoocht was</l>
+					<l>Int jaer 1648 Inde meij maent sijn de Wijser</l>
+					<l>Boorden vernieut aen de stadts huijs toorn ende</l>
+					<l>oock hooger geste wandt doude hadde toe</l>
+					<l>wel 50 Jaeren gestaen volgens den datum die</l>
+					<l>daer op stont</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<pb n='34'/>
+		</body>
+	</text>
+</TEI>

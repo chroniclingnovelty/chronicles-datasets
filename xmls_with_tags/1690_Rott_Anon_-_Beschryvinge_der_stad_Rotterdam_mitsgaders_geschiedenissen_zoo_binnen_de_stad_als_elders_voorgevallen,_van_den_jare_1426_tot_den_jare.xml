@@ -1,0 +1,1787 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1690_Rott_Anon - Beschryvinge der stad Rotterdam mitsgaders geschiedenissen zoo binnen de stad als elders voorgevallen, van den jare 1426 tot den jare 1690</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: didaa98@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>HANDSCHRIFTEN</l>
+					<l>VERZAMELING </l>
+					<l><locatie>ROTTERDAM</locatie></l>
+					<l>33 / 1577</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>Beschrijvinge</l>
+					<l>der stad</l>
+					<l><locatie>Rotterdam</locatie>.</l>
+					<l>mit<hi rend='superscript:true;'>s</hi> gaders</l>
+					<l>Geschiedenissen</l>
+					<l>Zoo</l>
+					<l>Binnen de stad</l>
+					<l>als</l>
+					<l>Elders</l>
+					<l>Voorgevallen</l>
+					<l>van den Jare</l>
+					<l><datum datum='1426-xx-xx'>1426</datum></l>
+					<l>tot den Jare </l>
+					<l><datum datum='1690-xx-xx'>1690</datum></l>
+					<l>In &apos;t Jaar <datum datum='1426-xx-xx'>1426 </datum>worden verwoest</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>pag. 1.</pagenumber></l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><pagenumber>2</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>dat huis tot <locatie>Hilligers-berg</locatie>, <locatie>Cralingen</locatie>, en</l>
+					<l>het huis te <locatie>Spangen </locatie>in <locatie>Schieland</locatie>, en dit</l>
+					<l>deden die van <locatie>Alkmaar </locatie>die men Kermirs</l>
+					<l>noemt.</l>
+					<l>In &apos;t Jaar <datum datum='1437-xx-xx'>1437 </datum>zijn vergaart geweest</l>
+					<l>een deel Backers binnen de stadt <locatie>Rotterdam</locatie>,</l>
+					<l>ende hebben daar doen maken een Outaar</l>
+					<l>in <locatie>S<hi rend='superscript:true;'>t</hi> Laurents-kerk</locatie> ter eere van onze</l>
+					<l>lieve Vrouw, zoo zij meenden, alhoewel dat</l>
+					<l>deze voorsz. kerk op die tijd geen toorn, nog</l>
+					<l>Choor en hadde, als na bewezen zal zijn, dit</l>
+					<l>voorsz: outaar worde gewijt van<persoonsnaam> Roeloff</persoonsnaam></l>
+					<l><persoonsnaam>van Diephout de 53<hi rend='underlined:true; superscript:true;'>e</hi> Bisschop van <locatie>Utrigt</locatie></persoonsnaam>,</l>
+					<l>ende geschiede &apos;t <datum datum='1437-xx-xx'>Saturdaags voor Delfse</datum></l>
+					<l><datum datum='1437-xx-xx'>Kermis datum als boven</datum>. van dezen tijd</l>
+					<l>aan hebben de Backers van <locatie>Rotterdam</locatie> haar</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>3.</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>gilde gehouden met mans en vrouwen,</l>
+					<l>maar door de onredelijkheid van eenige</l>
+					<l>gildebroeders zijn de susters absent gebleven.</l>
+					<l>In &apos;t Jaar <datum datum='1438-xx-xx'>1438 </datum>worden tot <locatie>Rotter</locatie></l>
+					<l><locatie>dam</locatie> oorlogschepen toegemaakt doen de </l>
+					<l>Hollanders en Zeelanders oorlog hadden tegen</l>
+					<l>de <locatie>Oostersche steden</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1448-xx-xx'>1448 </datum>gaf <persoonsnaam>Philips</persoonsnaam></l>
+					<l><persoonsnaam>van Bourgondien zijnen zone graaff</persoonsnaam></l>
+					<l><persoonsnaam>Carel van Charlois </persoonsnaam><locatie>de heerlijkheid van</locatie></l>
+					<l><locatie>Strijen ende Putten</locatie>, daar hij in dede dijken</l>
+					<l>een stuk lands over de stadt <locatie>Rotterdam</locatie>, in</l>
+					<l>maakte daar een dorp van, dat dede hij</l>
+					<l>noemen na zijne naam <locatie>Charlois</locatie>, ende heet</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l><pagenumber>4</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Beschrijving der</l>
+					<l>nog op dezen tijd zoo.</l>
+					<l>In &apos;t Jaar <datum datum='1449-11-06'>1449 den eersten Dingsdag</datum></l>
+					<l><datum datum='1449-11-06'>na Allerheiligen</datum> worde den eerste steen</l>
+					<l>geleit van <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Laurens kerk toorn</locatie> tot </l>
+					<l><locatie>Rotterdam</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1467-10-20'>1467, den 20<hi rend='underlined:true; superscript:true;'>en</hi> October</datum> werd</l>
+					<l>geboren <persoonsnaam>Erasmus van Rotterdam </persoonsnaam>in de<locatie> nieuwe</locatie></l>
+					<l><locatie>kerkstraat aan de Westzijde</locatie> tot <locatie>Rotterdam</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1479-xx-xx'>1479</datum>, is den <persoonsnaam>heer van der</persoonsnaam></l>
+					<l><persoonsnaam>Voore stadhouder van Holland</persoonsnaam>, gekomen </l>
+					<l>uit <locatie>den Hage</locatie> binnen de stade van <locatie>Rotterdam</locatie>,</l>
+					<l>en heeft aldaar geordonneert zijn hof van </l>
+					<l>Regten omdat hij aldaar te vrijer en geruster</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>5</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>zoude mogen wezen, maar zijn heeren </l>
+					<l>van den Rade en quamen bij hem niet, omdat</l>
+					<l>zij vander Cabeljaus partijen waren, ende</l>
+					<l>als zij altdus een wijle tijds binnen <locatie>Rotterdam</locatie></l>
+					<l>gelegen hadde, ziende dat hij die twee partijen</l>
+					<l>niet verenigen en houde, heeft hij die stede</l>
+					<l>van <locatie>Rotterdam </locatie>bevolen te bewaren <persoonsnaam>Joris de</persoonsnaam></l>
+					<l><persoonsnaam>Bastert van Brederode</persoonsnaam>, ook die steden van</l>
+					<l><locatie>Dordregt </locatie>en den <locatie>Goude</locatie>, en is gevaren met al</l>
+					<l>zijn huisgezin na den Voore, want hij was</l>
+					<l>een goedertieren, en zagtmoedig man van</l>
+					<l>harte, die geen ongemak verdragen en mogte.</l>
+					<l>In &apos;t Jaar <datum datum='1480-xx-xx'>1480</datum>, was <persoonsnaam>hertog Ma¬</persoonsnaam></l>
+					<l><persoonsnaam>ximiliaan</persoonsnaam> binnen de stede van <locatie>Dordregt</locatie>,</l>
+					<l>en reisde na <locatie>Rotterdam </locatie>ende daar wezende</l>
+					<l>quam <persoonsnaam>Joris de bastert van Brederode</persoonsnaam>, Capitein</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l><pagenumber>6</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>van <locatie>Rotterdam</locatie> en presenteerde den <persoonsnaam>Prins</persoonsnaam></l>
+					<l><persoonsnaam>Maximiliaan</persoonsnaam> de sleutelen van de stad, maar</l>
+					<l>de prince bevalse  hem weder, en liet hem tot</l>
+					<l><locatie>Rotterdam </locatie>overste capitein blijven, maar korts</l>
+					<l>hier na worden hem de sleutelen weder af¬</l>
+					<l>genomen door valsche accusatie, ende wor¬</l>
+					<l>den gegeven heer <persoonsnaam>Philips de Bastaart van</persoonsnaam></l>
+					<l><persoonsnaam>hertog Philips van Braband</persoonsnaam>, ende die worde</l>
+					<l>overste Capitein van <locatie>Rotterdam tegen Dor¬</locatie></l>
+					<l><locatie>dregt, onder Gouda</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1482-04-06'>1482, den 6<hi rend='underlined:true; superscript:true;'>en</hi> April</datum> quam</l>
+					<l>heer <persoonsnaam>Jan van Egmond</persoonsnaam> met weinig volk</l>
+					<l>met overdekte schepen binnen <locatie>Dordregt</locatie>, en</l>
+					<l>sloog zommigen dood van de oversten van dien</l>
+					<l>stad, en verdreef er veel uit der stede, ende ont¬</l>
+					<l>bode vier hondert soldaten van <locatie>Rotterdam</locatie>,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>die hem de stad hielpen bewaren.</l>
+					<l>Den <datum datum='1482-04-08'>8<hi rend='underlined:true; superscript:true;'>en</hi> d</datum>: komt de Prince</l>
+					<l>In &apos;t Jaar <datum datum='1488-xx-xx'>1488</datum>, worden gebeit</l>
+					<l>de Frencheen, die aan het hoog Choor ge¬</l>
+					<l>maakt zouden worden aan <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Laurents-</locatie></l>
+					<l><locatie>kerk tot Rotterdam.</locatie></l>
+					<l>Den <datum datum='1488-11-10'>10<hi rend='underlined:true; superscript:true;'>en</hi> November</datum> op S<hi rend='underlined:true; superscript:true;'>t</hi> Lijsbeths Avond</l>
+					<l>is gekomen <persoonsnaam>Jonkheer Frans van Bredero</persoonsnaam>,</l>
+					<l>de voor <locatie>Delfs-haven</locatie> met schepen, geladen</l>
+					<l>met soldaten van <locatie>Sluis in Vlaanderen</locatie></l>
+					<l>en dede den land-gang door <locatie>Delfshaven,</locatie></l>
+					<l>ende quam voor de stede van <locatie>Rotterdam</locatie>,</l>
+					<l>en heeft die ingenomen zonder slag of</l>
+					<l>stoot ofte zonder eenige weer te bieden,</l>
+					<l>daar op dien tijd een groot goed van aller¬</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l><pagenumber>8</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>leij Coopmanschap lag bevrosen, die stad mag¬</l>
+					<l>tig geworden, en hebben ze langen tijd tegen dat</l>
+					<l>geheele land gehouden, ende veel quaads op de</l>
+					<l>platte landen gedaan.</l>
+					<l>In <datum datum='1488-12-xx'>December</datum> zijn die van <locatie>Rotterdam</locatie> te scheep </l>
+					<l>gegaan met een menigte van volk, en quamen</l>
+					<l>voor de stede van <locatie>Schoonhoven</locatie> , ende meenden</l>
+					<l>die in te  nemen, maar de Poorters weerden </l>
+					<l>hen vromelijk, en sloegenze van de muren en </l>
+					<l>toorn, dat ze daar veel dooden lieten, ende vele</l>
+					<l>worden ek gequetst, en zijn ten laatsten met</l>
+					<l>schanden wedergekeert, agterlatende veel sche¬</l>
+					<l>pen, overmits dat het getijd quaad was, onde</l>
+					<l>quamen weder binnen <locatie>Rotterdam</locatie>.</l>
+					<l>Den <datum datum='1488-12-09'>9 <hi rend='underlined:true; superscript:true;'>de</hi></datum> gingen een deel van de knegten uit</l>
+					<l><locatie>Rotterdam</locatie> en verbrandden <locatie>Delfshaven</locatie> met</l>
+					<l>zommige schepen, die voor in de haven lagen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>9</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1489-02-01'>1489, in &apos;t eerst van Febru¬</datum></l>
+					<l><datum datum='1489-02-01'>arij</datum> quam ook binnen <locatie>Rotterdam</locatie> <persoonsnaam>Joris</persoonsnaam></l>
+					<l><persoonsnaam>de Bastert van Brederode, des Domprosten</persoonsnaam></l>
+					<l><persoonsnaam>zone  van Utrigt</persoonsnaam>, daar wij voor af geschre¬</l>
+					<l>ven hebben, deze <persoonsnaam>Joris</persoonsnaam> al een van de over¬</l>
+					<l>ste Capiteinen van Rotterdam, met een </l>
+					<l>ander <persoonsnaam>Capitein genaamt Lepeltak</persoonsnaam></l>
+					<l>met een deel van de knegten zijn over de</l>
+					<l><locatie>Mase</locatie> getogen, daar zij roof ende brand¬</l>
+					<l>schatten, en brandstigten pleegden, en</l>
+					<l>beroofden die landlieden.</l>
+					<l>Ende op dezen tijd lag binnen de stad van</l>
+					<l><locatie>Schiedam</locatie> een <persoonsnaam>capitein genaamt Witten¬</persoonsnaam></l>
+					<l><persoonsnaam>horst</persoonsnaam>, met een deel knegten van &apos;s lands</l>
+					<l>wegen van <locatie>Holland</locatie>, deze knegten dit ver¬</l>
+					<l>nemende, ende merkende door den band</l>
+					<l>die zij zagen, togen hem na, ende quamen</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l><pagenumber>10</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>aan malkanderen ende sloegen d&apos; een d&apos; an¬</l>
+					<l>der veel volk af, en die van <locatie>Schiedam</locatie></l>
+					<l>behielden de victorie, ende namen d&apos; ander</l>
+					<l>gevangen, en brogten ze binnen <locatie>Schiedam</locatie>.</l>
+					<l>Ende korts na dezen quamen de Poorteren</l>
+					<l>van de <locatie>steden van Holland</locatie>, als <locatie>Leijden</locatie>,</l>
+					<l><locatie>Haarlem</locatie>, <locatie>Amsterdam</locatie>, en <locatie>Delft</locatie> met ha¬</l>
+					<l>re banieren in <locatie>Schiedam</locatie>, ende die van</l>
+					<l><locatie>Dordregt</locatie> met die van den <locatie>Goude</locatie>, lagen</l>
+					<l>op &apos;t water om de stroomen te bewaren,</l>
+					<l>deze banieren aldus binnen <locatie>Schiedam</locatie> </l>
+					<l>liggende, elk op zijn logijs, zoo lagen op die</l>
+					<l>zelfde tijd veel knegten en ruiters binnen</l>
+					<l>den stad, die uit togen, ende hadden veel</l>
+					<l>schermutsingen tegen die van <locatie>Rotterdam</locatie>,</l>
+					<l>en sloegen malkander veel volk af, zoo</l>
+					<l>d&apos; een zoo d&apos; ander te boven gaande, deze</l>
+					<l>ruiters hateden zeer de Hollanders, ende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>11</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>lietenze Rangen houden en lange wam¬</l>
+					<l>baijzen, en slogen zommigen, ende slogen</l>
+					<l>ze totter dood toe, zoo dat er die Hol¬</l>
+					<l>laders een mishagen in kregen, alhoewel</l>
+					<l>dat zij &apos;t zamen dienen moesten, en had¬</l>
+					<l>den gaarne gezien, dat men wat anders ge¬</l>
+					<l>ordonneert hadden, maar die het bevo¬</l>
+					<l>len was te doen, slogen &apos;t de Ruiters voor</l>
+					<l>ende lieten &apos;t daar mede henen gaan,</l>
+					<l>anders quam er niet af.</l>
+					<l>Den <datum datum='1489-02-14'>14<hi rend='underlined:true; superscript:true;'>de</hi>  d<hi rend='underlined:true; superscript:true;'>o</hi>:</datum> is &apos;t gebeurt, dat die zelfde</l>
+					<l>knegten en Ruiters een wonderlijken</l>
+					<l>aanslag ende verraat binnen <locatie>Schiedam</locatie></l>
+					<l>opgestelt ende opgegeven hebben, want</l>
+					<l>zij heimelijk met die van <locatie>Rotterdam</locatie></l>
+					<l>kondschap gehouden hadden, om heul</l>
+					<l>dezelve stede te leveren met alle die</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l><pagenumber>12</pagenumber>.</l>
+					<l>Beschrijving van</l>
+					<l>Hollanders, die daar in waren, ende</l>
+					<l>zijn gekomen omtrent agt uuren in den</l>
+					<l>avond, ten huijzen, daar die van <locatie>Haar¬</locatie></l>
+					<l><locatie>lem</locatie> gelogeert waren, die zij eerst bevogten,</l>
+					<l>en maakten wonderlijk gebaar van roe¬</l>
+					<l>pen en krijten, ende schoten met roers in</l>
+					<l>de huizen, zoo dat er veel gequest wor¬</l>
+					<l>den binnen de huijzen, ook zij te weer</l>
+					<l>konden komen, want zij boven op de ka¬</l>
+					<l>de muren en zolderen waren, ende schoten</l>
+					<l>zoo van onderen op, dat hem niemand</l>
+					<l>porren en dorste om af te komen, want</l>
+					<l>de huijzen beneden al vol Ruiters waren,</l>
+					<l>die niet af en lieten van schieten, en riepen</l>
+					<l>AL GEWONNEN, AL GEWONNEN; deze</l>
+					<l>schermutzinge aldus gedurende, ende </l>
+					<l>d&apos; andere poorters van <locatie>Haarlem</locatie>, die bij de</l>
+					<l>baniers van <locatie>Haarlem </locatie>niet gelogeert en</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>13</pagenumber>.</l>
+					<l><locatie>Rotterdam</locatie>.</l>
+					<l>waren maar daar omtrent, hebben </l>
+					<l>hen al te met versaamt, komende bijeen, om</l>
+					<l>deze knegten te wederstaan, en haar mede</l>
+					<l>poorteren te ontsetten, ende maakten een ge¬</l>
+					<l>krijt, roepende, HOLLAND, HOLLAND; alzoo</l>
+					<l>dat zij een mood grepen, ende schoten met roers</l>
+					<l>zoo vreesseljk op de Ruiterknegten, dat zij</l>
+					<l>worden wijkende, en drevenze uit huijzen,</l>
+					<l>zoo dat d&apos; anderen van boven af quamen, en</l>
+					<l>stonden malkander bij, ende die knegten </l>
+					<l>weerden hen ook vromelijk aan d&apos; andere zijde,</l>
+					<l>en drevenze driemaal over rugge, ten les¬</l>
+					<l>ten quam hen<persoonsnaam> Willem van Borsthuizen </persoonsnaam></l>
+					<l><persoonsnaam>Ridder ende Baljouw van Rijnland</persoonsnaam> met</l>
+					<l>die van <locatie>Leiden </locatie>en de Rijnlanders, ende ont¬</l>
+					<l>zetten die van <locatie>Haarlem</locatie>, zoo dat de rui¬</l>
+					<l>ters de vlugt namen en staken boskruit</l>
+					<l>in de sloten van den stads poorten uit na</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><pagenumber>14</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><locatie>Rotterdam</locatie>, maar daar worden er veel</l>
+					<l>in de stad gequetst, en dood geschoten, ende</l>
+					<l>niet alleen veel gevangen, maar de steden</l>
+					<l>hadden luttel dooden, en veel gequetsten,</l>
+					<l>ende aldus hadden zij de victorie op de knig¬</l>
+					<l>ten, &apos;t welk een vreesselijk ding waar geweest,</l>
+					<l>hadden de knigten te boven gegaan, daar</l>
+					<l>god wel hooglijk voor te danken was, ende</l>
+					<l>die <persoonsnaam>twee Capiteinen, als Joris de Bastert,</persoonsnaam></l>
+					<l><persoonsnaam>en Lepeltak</persoonsnaam>, die binnen <locatie>Schiedam </locatie>gevangen</l>
+					<l>lagen, quamen met dit rumoer uit de stad,</l>
+					<l>en liepen in een schip, daar zij uitgehaalt</l>
+					<l>worden, ende worden anderwerf binnen</l>
+					<l><locatie>Schiedam </locatie>gevangen gebragt, en veel van</l>
+					<l>de Ruiterknegten , die zij gevangen hadden,</l>
+					<l>worden met den swaarde geregt, die van</l>
+					<l>dit verraat ende opset geweten hadden, en</l>
+					<l>veel van de Ruiters, die gequetst waren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>15</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>storven in de Gasthuizen, ende die van</l>
+					<l><locatie>Haarlem</locatie> hadden zeven dooden, daar de ba¬</l>
+					<l>nierdrager  een af was, en zij storven alle</l>
+					<l>met haar volle sacrament, ende d&apos; ande¬</l>
+					<l>re steden hadden in alles zes dooden.</l>
+					<l>Ende op dezen tijd was de <persoonsnaam>Capitein Witten¬</persoonsnaam></l>
+					<l><persoonsnaam>horst binnen Dordregt</persoonsnaam>, bij den Roomschen</l>
+					<l>koning, deze nieuwe maar verhoorende,</l>
+					<l>maakten hem weg, maar worden agtervolgt, en</l>
+					<l>gevangen ende werd met <persoonsnaam>Joris de Bastert,</persoonsnaam></l>
+					<l><persoonsnaam>ende Lepeltack </persoonsnaam>binnen <locatie>Delft </locatie>gebragt, en</l>
+					<l>zonder twijffel zoo was dit een groote victo¬</l>
+					<l>rie, want de Ruiters nadat opset, dat</l>
+					<l>zij gemaakt hadden, begonnen zij dat ge¬</l>
+					<l>regt een uur te vroeg, want die van <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam </locatie>op weg waren, om na <locatie>Schiedam </locatie>te -</l>
+					<l>gaan, meinden als voorsz: is, daar binnen</l>
+					<l>te komen.</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l><pagenumber>16</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>Den <datum datum='1489-03-06'>6<hi rend='underlined:true; superscript:true;'>en</hi> Maart</datum>, hebben die knegten van</l>
+					<l><locatie>Rotterdam </locatie>dat dorp van <locatie>Overschie </locatie>ingeno¬</l>
+					<l>men, want daar lag van &apos;t zelve gezelschap,</l>
+					<l>die te <locatie>Schiedam </locatie>gelegen hadden, als Gelder¬</l>
+					<l>sche, en Cleefsche, ende andere, die hent:</l>
+					<l>met wille opgaven, en die zelfde Ruiters</l>
+					<l>liepen terstond in dat dorp van de <locatie>Ketel</locatie>,</l>
+					<l>ende verbrandden daar veel schoone huisen,</l>
+					<l>en woningen, daar die van Delft groote </l>
+					<l>schade van hadden.</l>
+					<l>Die van <locatie>Delft </locatie>dit vernemende, dat <locatie>Onder¬</locatie></l>
+					<l><locatie>schie</locatie> ingenomen was, meer quaads bedug¬</l>
+					<l>tende, omdat zij hem zoo na bij quamen,</l>
+					<l>en ook ziende den brand, onder het verlies</l>
+					<l>van dien, zoo is de schout van <locatie>Delft </locatie>ter</l>
+					<l>poorten uitgegaan, met veel van de</l>
+					<l>poorteren zonder eenige ordonnantie</l>
+					<l>te houden, want zij meenden die van</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>17</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l><locatie>Schiedam </locatie>t&apos; ontzetten, ende te hulp te ko¬</l>
+					<l>men tot <locatie>Ouderschie</locatie>, maar zij quamen</l>
+					<l>te laat, die knegten dit ziende hebben ze</l>
+					<l>wel bij laten komen, en zijn hen tegen ge¬</l>
+					<l>gaan, zoo dat de andere wijkende worden,</l>
+					<l>zoo dat er wel vijftig verdronken, ende</l>
+					<l>geslagen worden en dit doen geschiedde</l>
+					<l>in de <locatie>Poldervaart</locatie>, ende kregen wel hon¬</l>
+					<l>dert en vijftig goede Poorters gevangen, en</l>
+					<l>die schout quam in schijn van een land¬</l>
+					<l>man weg, maar van zijne zonen word &apos;er</l>
+					<l>een verslagen. Die knegten, deze &apos;victorie&apos;</l>
+					<l>bekomen zijnde, quamen terstond voor</l>
+					<l>die stede van <locatie>Delft,</locatie> en brandde aan die</l>
+					<l>zijde alle de huizen ter poort toe af,</l>
+					<l>ende zijn weder ongeschent na <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie> gekeert, ende doen voor &apos;t meer veel</l>
+					<l>quaads in <locatie>Delftland </locatie>en <locatie>Maasland </locatie>van</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l><pagenumber>18</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>plonderen en rooven, ende namen groote</l>
+					<l>brandschattinge van de dorpen daar on¬</l>
+					<l>trend, en die van <locatie>&apos;s Gravenhage</locatie> met hare am¬</l>
+					<l>bagt, mosten ook ten lesten brandschatting</l>
+					<l>geven, ende zaten lange tijd in @ dinge; en</l>
+					<l>die gevangen van <locatie>Delft </locatie>hebben hen ten les¬</l>
+					<l>ten moeten, ende lossen bij groote rand¬</l>
+					<l>soenen en zommen van penningen, ende</l>
+					<l>daar worde op die tijd sterk getracteert </l>
+					<l>tusschen die <locatie>steden van Holland</locatie>, en <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie>, maar daar en quam niet af.</l>
+					<l>In<datum datum='1489-03-xx'> &apos;t lest van Maart</datum>, is<persoonsnaam> heer Jan van</persoonsnaam></l>
+					<l><persoonsnaam>Naaldwijk Ridder</persoonsnaam>, met een deel knegten</l>
+					<l>gevaren uit <locatie>Rotterdam</locatie>, en quamen voor</l>
+					<l>de stad van <persoonsnaam>Geertruidenberg</persoonsnaam>, ende namse</l>
+					<l>in, want zo de poorters niet zeer af keer¬</l>
+					<l>den, en hebben &apos;t sterk gemaakt, in mee¬</l>
+					<l>ning, hen daar te onthouden; die van</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>19</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l><locatie>Dordregt</locatie> en <locatie>Schiedam </locatie>dit vernemende,</l>
+					<l>maakten hen sterk, om deze knegten daar</l>
+					<l>uit te slaan, maar zij en bedreven niet, </l>
+					<l>en keerden weder, zonder ijets meer uit te </l>
+					<l>rigten.</l>
+					<l>Den <datum datum='1489-05-04'>4<hi rend='superscript:true;'>en</hi> Meij,</datum> hadden die knegten van</l>
+					<l><locatie>Rotterdam</locatie>,  een schermutsinge voor de stede</l>
+					<l>van <locatie>Schiedam</locatie>, tegen de knegten, die daar</l>
+					<l>binnen lagen, en slogen d&apos; een d&apos; ander veel</l>
+					<l>volk af.</l>
+					<l>Den <datum datum='1489-06-04'>4<hi rend='superscript:true;'>en</hi> Junij </datum>togen die van <locatie>Rotterdam </locatie>uit</l>
+					<l>met magt te scheep de <locatie>Lek </locatie>op, nemende met</l>
+					<l>hen veel Poorters, en zommigen meenden, dat</l>
+					<l>zij om victualij trekken zouden, d&apos; ander zeide</l>
+					<l>dat zij een Blokhuis opslaan zouden op de <locatie>Lek</locatie>.</l>
+					<l>Die van <locatie>Dordregt</locatie>, van den <locatie>Goude</locatie>, van <locatie>Schoon¬</locatie></l>
+					<l><locatie>hoven</locatie>, en van <locatie>Schiedam </locatie>dit vernemende,</l>
+					<l>zijn hen snellijk nagevolgt met veel schepen</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><pagenumber>20</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>ende quamen aan malkanderen, en daar</l>
+					<l>worde zeer gevogten, maar ten lesten behiel¬</l>
+					<l>den de vier steden de overhand; daar werden</l>
+					<l>ontrend vier de half hondert gevangen, ende</l>
+					<l>veel geslagen, en nog meer verdronken, ende</l>
+					<l>veel die op &apos;t land konden komen, l<hi rend='strikethrough:true;'>i</hi>open, en </l>
+					<l>die gevangen worden binnen <locatie>Dordregt </locatie>gebragt,</l>
+					<l>ende die van <locatie>Rotterdam </locatie>verloren op die tijd,</l>
+					<l>veertien brakken of schepen, drie buisen, twee</l>
+					<l>Carveelen, en een Roeijbaars vol volks worde</l>
+					<l>in de grond gezeilt.</l>
+					<l>Ende op dezelfde tijd was de Stadhouder met </l>
+					<l>veel schepen uitgetogen voor dat blokhuis,</l>
+					<l>dat die van <locatie>Rotterdam </locatie>opgeslagen hadden</l>
+					<l>op de hoofden voor de stad, maar haar opset</l>
+					<l>verging niet wel, want zij verloren een Carvel,</l>
+					<l>vol volks, zonder ijets anders uit te regten.</l>
+					<l>Dit oorlogen van <locatie>Rotterdam </locatie>dus hangende,</l>
+					<l>is <persoonsnaam>heer Reijck van Brookhuizen, Ridder</persoonsnaam></l>
+					<l>mede binnen <locatie>Rotterdam </locatie>gekomen, en word</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>21</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>ook gemaakt een van de<persoonsnaam> overste Capiteinen.</persoonsnaam></l>
+					<l><persoonsnaam>Dezen heer Roijer</persoonsnaam> is op een tijd uitgetogen</l>
+					<l>met een deel knegten, en quamen voor de</l>
+					<l>stede van der <locatie>Goude</locatie>, ende brandde daar</l>
+					<l>veel huizen af, die buiten de poort stonden,</l>
+					<l>en keerden weder na <locatie>Rotterdam</locatie>, zonder</l>
+					<l>ijet meer uit te rigten.</l>
+					<l>Den <datum datum='1489-06-17'>17<hi rend='underlined:true; superscript:true;'>en</hi> Junij </datum>is <persoonsnaam>heer Jan van Naaldwijk,</persoonsnaam></l>
+					<l>en <persoonsnaam>Hendrik Wits</persoonsnaam> met meer andere Capitei¬</l>
+					<l>nen ende met alle de knegten, die te zamen</l>
+					<l>konden gebragt werden, uit <locatie>Rotterdam </locatie>getogen,</l>
+					<l>om victuaalje te halen, want de victuaalje</l>
+					<l>begon te minderen in de stad, en hadden wel</l>
+					<l>over de tagtig schuiten, met koren, wijn ende</l>
+					<l>andere dingen geladen, dewelke zij in meenin¬</l>
+					<l>ge waren, door de voonen en heimelijkste we¬</l>
+					<l>gen binnen <locatie>Rotterdam </locatie>te brengen, overmits</l>
+					<l>dat er veel schepen voor <locatie>Rotterdam </locatie>lagen,dat</l>
+					<l>zij &apos;t te water niet avonturen dorsten, die</l>
+					<l>stalmeester des Roomschen konings als Capi¬</l>
+					<l>teinen van des lands wegen van <locatie>Holland </locatie>dit</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l><pagenumber>22</pagenumber>.</l>
+					<l>Beschrijving der</l>
+					<l>hoorende, en op dezen tijd met veel volk in&apos;t</l>
+					<l>velt lag, en wel 4 of 5 dagen daar op gewagt</l>
+					<l>hadden, want het hem te komen gegeven was,</l>
+					<l>zoo heeft hij zijn volk in ordere gezet, en is hem </l>
+					<l>te gemoet gegaan, omtrend <locatie>het dorp van Moort</locatie>,</l>
+					<l>ende heeft ze scherpelijk aangevogten, en d&apos; ande¬</l>
+					<l>ren stelden hen vromelijk ter weer, maar in</l>
+					<l>&apos;t vegten, weken die van <locatie>Rotterdam</locatie>; ende daar</l>
+					<l>zijn boven de 300 geslagen, behalven die in de</l>
+					<l>veenen verdronken, en daar worden er ook veel</l>
+					<l>gevangen, onder welke ook was, <persoonsnaam>heer Jan van</persoonsnaam></l>
+					<l><persoonsnaam>Naaldwijk, Ridder</persoonsnaam>, ende <persoonsnaam>Hendrik van Wits,</persoonsnaam></l>
+					<l>en benamen hen alle deze schuiten met victu¬</l>
+					<l>aalje, ende daar bleef een van de<persoonsnaam> Captiteinen</persoonsnaam></l>
+					<l><persoonsnaam>verslagen, genaamt Cornelis van Treslonge,</persoonsnaam></l>
+					<l>Op dezen zelfden nagt hebben de Ruiters, leg¬</l>
+					<l>gende in de kerk van <locatie>Ouderschie</locatie>, die zij zeer</l>
+					<l>sterk, en vast bebolwerkt hadden, het zelfde</l>
+					<l>aan brand gestoken, ende ruimden <locatie>Ouderschie</locatie></l>
+					<l>en quamen binnen <locatie>Rotterdam</locatie>.</l>
+					<l>Den <datum datum='1489-06-22'>22<hi rend='superscript:true;'>en</hi> Junij, </datum>begost men sterk te tracteren,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>23.</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>tusschen den stalmeester, en <persoonsnaam>Jonkheer Frans</persoonsnaam></l>
+					<l><persoonsnaam>van Brederode</persoonsnaam>, ende daar werd een tractaat ge¬</l>
+					<l>maakt, en word openbaarlijk aft gepubliceert</l>
+					<l>van het stadhuis, wie met de voosz: J<persoonsnaam>onkheer</persoonsnaam></l>
+					<l><persoonsnaam>Frans van Brederode</persoonsnaam> uit de stad trekken woude,</l>
+					<l>die mogt dat vrij doen, ende die in de stad blijven</l>
+					<l>woude, die mogt vrij blijven, aldus is <persoonsnaam>Jonkheer</persoonsnaam></l>
+					<l><persoonsnaam>Frans van Brederoode </persoonsnaam>met zijn Capiteinen, en</l>
+					<l>knegten uit <locatie>Rotterdam </locatie>getogen na der <locatie>sluis in</locatie></l>
+					<l><locatie>Vlaanderen</locatie>.</l>
+					<l>Ende de Stalmeester quam daar binnen met</l>
+					<l>een deel van zijn knegten, en bleef daar een</l>
+					<l>wijl tijds in liggen, tot bewaringe van de stad,</l>
+					<l>die op die tijd kleinder gemaakt werde aan de</l>
+					<l>Noordzijde, ontrend 300 treden aan de wijtte, en</l>
+					<l>aan de lengte ontrend duizend en vijftig treden,</l>
+					<l>ende dit worde gedaan, omdat de stad was wijt</l>
+					<l>begrepen, en weinig betimmert, ende bewoont,</l>
+					<l>zoo dat die burgers de stad niet bezetten nog</l>
+					<l>bewaren en houden, want daar mosten altijd</l>
+					<l>knegten binnen <locatie>Rotterdam </locatie>liggen van &apos;s lands</l>
+					<l>wegen, om de stad te bewaren.</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l><pagenumber>24</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>Korts hier na worden twee Capiteinen van</l>
+					<l><persoonsnaam>Jonkheer Frans van Brederoode </persoonsnaam>binnen <locatie>Delft</locatie></l>
+					<l>met een zwaarde geregt, d&apos;eene genaamt <persoonsnaam>Lepel¬</persoonsnaam></l>
+					<l><persoonsnaam>tak</persoonsnaam>, en d&apos;ander <persoonsnaam>Rastasch</persoonsnaam>, ende agt dagen daar</l>
+					<l>na word <persoonsnaam>Joris de Bastert van Brederode</persoonsnaam> ook al¬</l>
+					<l>daar geregt met meer anderen.</l>
+					<l>Ende een wijl tijds hier na komt <persoonsnaam>Jonkheer Frans</persoonsnaam></l>
+					<l><persoonsnaam>van Brederode </persoonsnaam>met een deel schepen weder in</l>
+					<l>Holland, roovende en brandende, daar hij best</l>
+					<l>mogte, dit vernemende de stadhouder van Hol¬</l>
+					<l>land, vervolgde hem met een deel volk met</l>
+					<l>wapenen, ende quamen aan malkanderen, en</l>
+					<l>daar word zeer gevogten, ende daar bleven</l>
+					<l>veel dooden ter wederzijden, maar in &apos;t einde</l>
+					<l>word <persoonsnaam>Jonkheer Frans van Brederode</persoonsnaam> zeer ge¬</l>
+					<l>quetst, en gevangen binnen <locatie>Dordregt</locatie> gebragt,</l>
+					<l>ende daar storf hij van zijne quetsinge, en</l>
+					<l>worde in de <locatie>Augustinen kerk</locatie> begraven tot </l>
+					<l><locatie>Dordregt</locatie>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>25.</pagenumber></l>
+					<l>stad<locatie> Rotterdam</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1490-xx-xx'>1490</datum>, worde geheit het</l>
+					<l>hoog Choor van <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Laurents-kerk tot Rotter¬</locatie></l>
+					<l><locatie>dam</locatie>, ende dit deden de burgers uit liefde, en </l>
+					<l>ging om met beurte, ende worden op het werk</l>
+					<l>en daar van daan gebragt met den trommel,</l>
+					<l>ende de plaats, daar dit hoog Choor opgetim¬</l>
+					<l>mert is, heeft voortijds geweest een tuin van</l>
+					<l>de huizinge van <persoonsnaam>Spiegel</persoonsnaam> aan de <locatie>Hoogstraat</locatie>.</l>
+					<l>In &apos;t Jaar<datum datum='1497-xx-xx'> 1497</datum><datum datum='1497-06-xx'>, in Junius</datum>, worde <persoonsnaam>Philips</persoonsnaam></l>
+					<l><persoonsnaam>de  tweede van Bourgondien</persoonsnaam> binnen <locatie>Rotterdam</locatie></l>
+					<l>heerlijk ingehaalt, en ontfangen, ende gehou¬</l>
+					<l>den voor haren graaff en regte landsheer.</l>
+					<l>Copie van een</l>
+					<l>brief uit &apos;et hof.</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><pagenumber>26</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Beschrijving der</l>
+					<l>van <locatie>Holland </locatie>ge¬</l>
+					<l>zonden aan de stad</l>
+					<l><locatie>Rotterdam</locatie>, den <datum datum='1506-12-11'>11<hi rend='superscript:true;'>en</hi> </datum></l>
+					<l><datum datum='1506-12-11'>December, 1506.</datum></l>
+					<l>Op den dag van huiden, zoo was bij den <locatie>hove</locatie></l>
+					<l><locatie>van Holland</locatie> geordoneert, alzoo zekere niem@</l>
+					<l>maren en brieven gekomen zijn uit &apos;et ....</l>
+					<l>.... groote personagien, dat dezelve@</l>
+					<l>waaragtig geadverteert zijn, dat opzet ge¬</l>
+					<l>maakt is, in <locatie>&apos;t land van Gelre</locatie>, om eenige ste¬</l>
+					<l>den binnen deze langden van <locatie>Holland </locatie>in te </l>
+					<l>nemen te water ende bijzonder op <locatie>Dor¬</locatie></l>
+					<l><locatie>dregt </locatie>en <locatie>Rotterdam</locatie>, dat dezelve van de stede</l>
+					<l>van <locatie>Rotterdam</locatie> tot koste van den <locatie>gemeenen</locatie></l>
+					<l><locatie>lande van Holland</locatie> ende <locatie>Vriesland </locatie>terstond</l>
+					<l>zullen mogen aannemen, ende onderhouden</l>
+					<l>25 knegten boven de genen, die zij zelver</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>27</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>onderhouden, men zal hem dezelve 25 knegten</l>
+					<l>doen betalen, gelijk andere Capiteinen, ende</l>
+					<l>knegten tot oosten van den lande liggende, be¬</l>
+					<l>taalt werden bij <persoonsnaam>Rentmeester Generaal van</persoonsnaam></l>
+					<l><persoonsnaam>Noord-Holland Jacob Govertsz.</persoonsnaam> als ontfang</l>
+					<l>hebbende van de penningen van den lande </l>
+					<l>ter cause van de onderhoudinge van de 600 </l>
+					<l>knegten ommegeslagen, welke penningen hen</l>
+					<l>gepasseert zullen worden in &apos;t uitgeven van</l>
+					<l>zijne rekeninge, mits overbrengende deze or¬</l>
+					<l>donnantie ende quitantie, en dat geduren¬</l>
+					<l>de tot kennelijke wederzeggen van den hove.</l>
+					<l>Aldus gedaan in <locatie>den Hage</locatie> op <datum datum='1506-12-01'>den eersten dag</datum></l>
+					<l><datum datum='1506-12-01'>in December 1506</datum>. Bij mijn heer, den <persoonsnaam>stad¬</persoonsnaam></l>
+					<l><persoonsnaam>houder Generaal heer Philips van Spangien</persoonsnaam></l>
+					<l><persoonsnaam>ridder; M<hi rend='underlined:true; superscript:true;'>r</hi> Jacob Ruisch, Floris Eem van</persoonsnaam></l>
+					<l><persoonsnaam>Wijngaarden,</persoonsnaam><persoonsnaam> Floris Evert de Voor, </persoonsnaam></l>
+					<l><persoonsnaam>Jan van Duinenden</persoonsnaam>,<persoonsnaam> Reinier de Jonge,</persoonsnaam></l>
+					<l>raatsluiden</l>
+					<l>ende <persoonsnaam>Jacob Bouwens</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l><pagenumber>28</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>#</l>
+					<l>van den hove.</l>
+					<l>Mij jegenwoordig, en</l>
+					<l>was ondertekent.</l>
+					<l><persoonsnaam>D:</persoonsnaam></l>
+					<l><persoonsnaam>Ruins.</persoonsnaam></l>
+					<l>In &apos;t jaar <datum datum='1510-xx-xx'>1510</datum>, <datum datum='1511-xx-xx'>1511511xxxx1</datum>, <datum datum='1512-xx-xx'>1512</datum>, en-</l>
+					<l><datum datum='1513-xx-xx'>1513 </datum>worden de glazen gemaakt ende in¬</l>
+					<l>gezet aan het hoog Choor van <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Laurents.</locatie></l>
+					<l><locatie>kerk.</locatie></l>
+					<l>In &apos;t jaar <datum datum='1536-07-03'>1536, den 3<hi rend='underlined:true; superscript:true;'>en</hi> Julij, </datum>storf den</l>
+					<l>gelieven en wijdvermaarden <persoonsnaam>Erasmus van -</persoonsnaam></l>
+					<l><persoonsnaam>Rotterdam</persoonsnaam> in de stad <locatie>Bazil</locatie> in <locatie>Switserland</locatie>,</l>
+					<l>en wierd daar begraven, oud zijnde 68 jaren,</l>
+					<l>8 maanden, 5 dagen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>29</pagenumber></l>
+					<l>stad Rotterdam.</l>
+					<l>In &apos;t jaar <datum datum='1547-03-12'>1547, den 12<hi rend='underlined:true; superscript:true;'>en</hi> Maart,</datum></l>
+					<l>word den eersten steen geleit van het verhoo¬</l>
+					<l>gen van <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Laurents kerk toren</locatie> te <locatie>Rotterdam</locatie>; het</l>
+					<l>onderste hadde gestaan 98 jaren, eer de verhooging</l>
+					<l>daar op gezet wierde.</l>
+					<l>Korts daar na worde gemaakt de <locatie>Huibrugge</locatie></l>
+					<l>van steenwerk; voor die tijd geweest hebbende een</l>
+					<l>houte briggetjen.</l>
+					<l>Ende ontrond die tijd word ook gemaakt het <locatie>hooft</locatie></l>
+					<l><locatie>aande Oost-zijde van de oude haven</locatie> van steen¬</l>
+					<l>werk; voor die tijd geweest hebbende een rijsen</l>
+					<l>hooft.</l>
+					<l>In &apos;t jaar <datum datum='1554-xx-xx'>1554</datum>, kogt men binnen <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie> een 1000 metselsteen, om elf stuivers, en</l>
+					<l>een hoed kalk op gelijke elf stuivers.</l>
+					<l>In &apos;t Jaar <datum datum='1555-xx-xx'>1555</datum>, <datum datum='1556-xx-xx'>1556</datum>, en <datum datum='1557-xx-xx'>1557</datum>, wor¬</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l><pagenumber>30</pagenumber>.</l>
+					<l>Beschrijving der</l>
+					<l>de geheit, gefundeert, ende gemaakt de schoone</l>
+					<l>en heerlijke steene brugge, daar markt op gehou¬</l>
+					<l>den word tot <locatie>Rotterdam</locatie>, op welke brug het beeld</l>
+					<l>van Erasmus is staande, tot bewijzing, dat hij-</l>
+					<l>daar geboren ende opgevoet is na bij <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi>: Laurents</locatie></l>
+					<l><locatie>kerk.</locatie></l>
+					<l>In &apos;t Jaar <datum datum='1561-xx-xx'>1561</datum>, konde men binnen <locatie>Rot¬</locatie></l>
+					<l><locatie>terdam</locatie>, aan de <locatie>Middeldam</locatie>, &apos;t welk op die tijd -</l>
+					<l>het beste van de stad was, een huis huren een geheel </l>
+					<l>jaar, ontrent vier pond vlaamsch, maar</l>
+					<l>daarna worden &apos;t dierder.</l>
+					<l>In &apos;t Jaar <datum datum='1563-07-10'>1563, den 10<hi rend='underlined:true; superscript:true;'>en</hi> julij,</datum> wezende</l>
+					<l>saturdag, ontrend 2 uren na den middag begon</l>
+					<l>een grooten brand binnen <locatie>Rotterdam </locatie>in de <locatie>west</locatie></l>
+					<l><locatie>moulenstraat</locatie>, ende het waijde een sterken droogen</l>
+					<l>wind, zoo dat den brand niet te schutten, nog te hou¬</l>
+					<l>den was, overmits het veel rietdak, dat in de stad was,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>31</pagenumber>.</l>
+					<l>stad Rotterdam.</l>
+					<l>ende daar verbrandden &apos;t <locatie>Westnieuweland</locatie></l>
+					<l>en <locatie>Rijstuin</locatie>, d&apos; <locatie>hooftsteeg</locatie>, den <locatie>Houttuin</locatie>, ende</l>
+					<l>het Oosteinde van de <locatie>Hoogstraat</locatie>, zoo dat er</l>
+					<l>meer verbrandde dan 250 huijzen, en dat </l>
+					<l>preeker - monnicken - klooster met dat </l>
+					<l>Manhuis, de <locatie>hooftpoort</locatie>, ende de <locatie>Draaijbrug¬</locatie></l>
+					<l><locatie>ge</locatie> en wel 60 schepen, zoo klein als groot, </l>
+					<l>daar van zommige met goed geladen waren,</l>
+					<l>zoo dat er een groot goed van allerleij zoorten</l>
+					<l>verbrandde, daar een groote en onverwinne¬</l>
+					<l>lijke schade door geleden wierde.</l>
+					<l>De heeren regeerders van <locatie>Rotterdam</locatie>, ziende</l>
+					<l>en merkende, dat de <locatie>Hooft-steeg</locatie>, veel te </l>
+					<l>naauw was, zo hebben zij afgeheurt alle de</l>
+					<l>voorhuizen, aan de Oost-zijde van de straat,</l>
+					<l>want de huizen lagen ter neder van den brand,</l>
+					<l>zoo dat de straat zoo veel wijder gemaakt </l>
+					<l>worde.</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l><pagenumber>32</pagenumber>.</l>
+					<l>Beschrijving der</l>
+					<l>In &apos;t Jaar <datum datum='1564-xx-xx'>1564</datum> worde de Draaij-brugge</l>
+					<l>weder gemaakt, ende geleit binnen de 2 torens,</l>
+					<l>daar de boom van de haven op die tijd aan sloot,-</l>
+					<l>want de Draaij-brugge hadde voortijds gelegen het</l>
+					<l>een einde in <locatie>Westnieuweland</locatie>, en het ander einde</l>
+					<l>in de <locatie>Rijstuin</locatie>.</l>
+					<l>In &apos;t jaar <datum datum='1571-xx-xx'>1571</datum> worde gemaakt het blauw¬</l>
+					<l>steenwerk, daar de <locatie>Mandemakers brugge</locatie> op hooft</l>
+					<l>te rusten, dies &apos;t voor die tijd onbequamelijk en onge¬</l>
+					<l>makkelijk hadde gedaan.</l>
+					<l>In &apos;t jaar <datum datum='1572-xx-xx'>1572</datum>, als<persoonsnaam> Willem, Grave van¬</persoonsnaam></l>
+					<l><persoonsnaam>der Mark heer van Lume, Admiraal </persoonsnaam>wegens den</l>
+					<l><persoonsnaam>prince Willem van Orangien</persoonsnaam>, over de schepen, -</l>
+					<l>dies hij ook tot ontrend of ruim 20 hadde verga¬</l>
+					<l>dert, gevoert respectivelijk bij zijn <persoonsnaam>Grave van der-</persoonsnaam></l>
+					<l><persoonsnaam>Mark, Vice Admiraal Berthold Enthes van-</persoonsnaam></l>
+					<l><persoonsnaam>Montheda</persoonsnaam>, <persoonsnaam>Jonker Willem van Treslong</persoonsnaam> <persoonsnaam>Jonker</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>33</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l><persoonsnaam>Jacob Cabellau</persoonsnaam>, <persoonsnaam>Jan Claasz: Spiegel</persoonsnaam>, <persoonsnaam>Nicolaas</persoonsnaam></l>
+					<l><persoonsnaam>Ruichaver</persoonsnaam>, <persoonsnaam>Bruin van Utregt</persoonsnaam>, en meer andere</l>
+					<l>Capiteinen tot het voorsz: getal hun hadden</l>
+					<l>op &apos;t furieus gebot van de<persoonsnaam> Coninginne van Enge¬</persoonsnaam></l>
+					<l><persoonsnaam>land</persoonsnaam>, uit het zelve rijk te begeven, ende zij luiden</l>
+					<l>als doen met den goeden wind, van meeninge zijn¬</l>
+					<l>de om na &apos;t <locatie>Noorder quartier van Holland</locatie> te</l>
+					<l>zeilen, &apos;t ware op <locatie>Enkhuizen</locatie> ofte aldus daarse</l>
+					<l>best zouden mogen aankomen, of om <locatie>Texel</locatie> in te</l>
+					<l>nemen ofte verstroojen de 14 of 15 Oorlogschepen</l>
+					<l>van <persoonsnaam>Duc d&apos; Alba</persoonsnaam>, die men verstond daar te wezen </l>
+					<l>maar alzoo de wind contrarij liep, zo werden zij luiden</l>
+					<l>te rade, de Magt te kiezen, ende quamen den<datum datum='1572-04-01'>1<hi rend='superscript:true;'>n</hi></datum></l>
+					<l><datum datum='1572-04-01'>April</datum> des agtermiddags ten 2 uren, 2 van hun 26 </l>
+					<l>schepen (daar onder gerekent 2 schepen uit Span¬</l>
+					<l>gien gekomen, die zij doen juist hadden verovert) de</l>
+					<l>Maze in, en streken beide, namentlijk de <persoonsnaam>Capiteinen</persoonsnaam></l>
+					<l><persoonsnaam>Marinus Brand</persoonsnaam> ende<persoonsnaam> Daam</persoonsnaam> voor &apos;t <locatie>Brielsche</locatie></l>
+					<l><locatie>hooft</locatie>, daar na quamen de rest tot de voorsz: 26</l>
+					<l>toe, doen quam aldaar juist bij geval met den -</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l><pagenumber>34.</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>schuit eenen <persoonsnaam>Jan Pietersz Coppelstok</persoonsnaam> ( den voorsz:</l>
+					<l><persoonsnaam>Capitein Treslong</persoonsnaam> wel bekent) op wiens addres aan</l>
+					<l>den gemelten <persoonsnaam>grave van der Mark</persoonsnaam>, de zelve <persoonsnaam>Coppe¬</persoonsnaam></l>
+					<l><persoonsnaam>stok</persoonsnaam> wierd geinplojeert, om gesterkt met het sig¬</l>
+					<l>net van<persoonsnaam> Treslong den Magistraat</persoonsnaam> aan te dienen,-</l>
+					<l>dat er 2 uit den haren zouden hebben te komen-</l>
+					<l>buiten aan &apos;t hooft, om met den meer gemelt den -</l>
+					<l>grave cumß: te spreken, als aldaar gekomen, om</l>
+					<l>haarluiden te verlossen van den 10<hi rend='underlined:true; superscript:true;'>en</hi> penning, en te</l>
+					<l>beschermen voor den <persoonsnaam>hertoge Alva</persoonsnaam>, en den Span¬</l>
+					<l>gjaarden; <persoonsnaam>Coppestok </persoonsnaam>gevraagt wezende, hoe sterk de</l>
+					<l>voorsz: rest mogte zijn, antwoorde hij meer uit ligt¬</l>
+					<l>vaardigheid, dan met voorgeraden gemoede, dat ze</l>
+					<l>wel 5000 sterk waren, &apos;t welk daar zulken schrik</l>
+					<l>en verbaastheid veroorzaakte, dat er eerst niemand</l>
+					<l>uit wilde, dan quamen nog eindelijk 2 met buizen</l>
+					<l>in den huizing tusschen &apos;t hooft, ende stad, alwaar</l>
+					<l>de <persoonsnaam>graaf van der Mark</persoonsnaam> de stad opeischte uit den</l>
+					<l>naam van den <persoonsnaam>prince van Orangien</persoonsnaam>, als stadhou¬</l>
+					<l>der der Conings over <locatie>Holland</locatie>, en men gafse 2</l>
+					<l>uren hun beraat, maar de vreeze was in de stad</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>35</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>zoo groot dat niet alleen de geestelijkheid, maar</l>
+					<l>ook de borgers pakten en sahten al datse in haast</l>
+					<l>konden, ende liepen de <locatie>Zuidpoort </locatie>uit, <persoonsnaam>grave van¬</persoonsnaam></l>
+					<l><persoonsnaam>der Marks </persoonsnaam>volk quam vast op &apos;t land, vragende</l>
+					<l>aan de burgers, dieze op de wallen zagen, of men</l>
+					<l>hen in zoudet laten, dan of men zig zelven in -</l>
+					<l>helpen zoud, de burgers liepen schielijk de stad uit,</l>
+					<l>en <persoonsnaam>Treslong </persoonsnaam>vertrok straks met een deel volk na de</l>
+					<l><locatie>Zuidpoort</locatie>, ende men brandde de <locatie>Noordpoort</locatie> op,</l>
+					<l>en wierde alzoo de stad ingenomen.</l>
+					<l><datum datum='1572-04-09'>Den 9<hi rend='underlined:true; superscript:true;'>en</hi> April, zijnde woonsdag den 4<hi rend='underlined:true; superscript:true;'>en</hi> Paasdag</datum></l>
+					<l>overviel <persoonsnaam>Bossu</persoonsnaam> de stad <locatie>Rotterdam</locatie>, en wierden</l>
+					<l>ter zelver tijd vermoort of dood geslagen in de </l>
+					<l>40 burgers, onder dezelve de nagenoemde</l>
+					<l><persoonsnaam>Jan Jacobsz de Roos, Burgemeester</persoonsnaam>.</l>
+					<l><persoonsnaam>Joris Baltonsz.</persoonsnaam></l>
+					<l><persoonsnaam>Job Jansz.</persoonsnaam></l>
+					<l>brouwers.</l>
+					<l><persoonsnaam>Hendrik Claasz.</persoonsnaam></l>
+					<l><persoonsnaam>Cornelis Aartsz Kievit.</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><pagenumber>36</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><persoonsnaam>Pieter Jorisz</persoonsnaam>.</l>
+					<l><persoonsnaam>Willem Arionsz van Groenhout</persoonsnaam>.</l>
+					<l><persoonsnaam>Hendrik Sweertsz.</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Jorisz.</persoonsnaam></l>
+					<l><persoonsnaam>Claas Schouten</persoonsnaam>.</l>
+					<l><persoonsnaam>Job Fransz Timmerman</persoonsnaam>.</l>
+					<l><persoonsnaam>Willem Ariensz Groenhout</persoonsnaam>.</l>
+					<l><persoonsnaam>Pieter Slampamp</persoonsnaam>.</l>
+					<l><persoonsnaam>De Vos, trommelslager</persoonsnaam>.</l>
+					<l><persoonsnaam>Cornelis Ariensz Mijnen</persoonsnaam>.</l>
+					<l><persoonsnaam>Joris Roelandsz van Sevenhuizen</persoonsnaam>.</l>
+					<l><persoonsnaam>De witten Hendrik</persoonsnaam>.</l>
+					<l><persoonsnaam>Rijk de Smit</persoonsnaam>.</l>
+					<l><persoonsnaam>Dirk Tijsz Moulenaar</persoonsnaam>.</l>
+					<l><persoonsnaam>Jacob de Smit</persoonsnaam>.</l>
+					<l><persoonsnaam>Jacob agt Schoenmaker</persoonsnaam>.</l>
+					<l><persoonsnaam>Frans Jansz Smit</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>37</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l><persoonsnaam>Marcelis Claasz.</persoonsnaam></l>
+					<l><persoonsnaam>Pieter de Lapper</persoonsnaam>.</l>
+					<l><persoonsnaam>Teunis Rekhals</persoonsnaam>.</l>
+					<l>den broeder.</l>
+					<l>De zoon van <persoonsnaam>Jan de Vosch</persoonsnaam>.</l>
+					<l><persoonsnaam>Huibert poortier van de <locatie>Schiedamsen Poort</locatie>.</persoonsnaam></l>
+					<l><persoonsnaam>Met zijn zoon.</persoonsnaam></l>
+					<l><persoonsnaam>Dooft Jan.</persoonsnaam></l>
+					<l><persoonsnaam>Jan Barentsz.</persoonsnaam></l>
+					<l><persoonsnaam>Claas Woutersz </persoonsnaam>op de Meent.</l>
+					<l>de zoon van <persoonsnaam>Maartge Huigen</persoonsnaam>.</l>
+					<l><persoonsnaam>Hendrik Aalbertsz.</persoonsnaam></l>
+					<l><persoonsnaam>Govert de Smit</persoonsnaam>.</l>
+					<l><persoonsnaam>Kuiper Tijsz.</persoonsnaam></l>
+					<l><persoonsnaam>M<hi rend='superscript:true;'>r</hi>. Cornelis Door</persoonsnaam>.</l>
+					<l><persoonsnaam>Willem Cornelis Stierman</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><pagenumber>38</pagenumber>.</l>
+					<l>Beschrijving der</l>
+					<l><persoonsnaam>Adriaan Corf@</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Cornelis Kuiper</persoonsnaam></l>
+					<l><persoonsnaam>Adriaan Willemsz gouts bloem, verdronken</persoonsnaam>.</l>
+					<l>Nog een op &apos;t kerkhof dood gebleven.</l>
+					<l>Den <datum datum='1575-07-22'>22<hi rend='underlined:true; superscript:true;'>en</hi> Julij </datum>op Dingsdag togen de Spaan¬</l>
+					<l>schen  uit <locatie>Rotterdam</locatie>, en doen quamen weder-</l>
+					<l>in veel uitgeweke vrome burgers, en men heeft</l>
+					<l>van die tijd aan de stad (die zeer zwak, en verval¬</l>
+					<l>len van vesten was) beginnen sterk te maken,</l>
+					<l>en te bolwerken, dit mosten de burgers uit </l>
+					<l>liefde doen, ende daar toe om den 3<hi rend='underlined:true; superscript:true;'>en</hi> nagt wa¬</l>
+					<l>ken, dit duurde ontrend 5 jaar lang, want de</l>
+					<l>stad wierd op die tijd aan de waterzijde ver¬</l>
+					<l>groot aan de wijtte ontrend 125 treden, en aan de</l>
+					<l>lengte van bij de <locatie>Oostpoort</locatie> af, tot bij onder</l>
+					<l><locatie>Schiedamse poort</locatie> toe, welke vergrootinge en</l>
+					<l>wierde niet gedaan, vermits daar geen plaats</l>
+					<l>en was om te timmeren (want daar waren</l>
+					<l>op die tijd veel onbetimmerde erven ende tuinen</l>
+					<l>in de stad maar het wierd gedaan om de sterkte</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>39</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>van de stad; ende om de schepen binnen de stad</l>
+					<l>te mogen brengen, want de nieuwe haven en de</l>
+					<l><locatie>Blaak</locatie> (dat beide stads vesten geweest hadden) -</l>
+					<l>wierden 2 binnen havens van gemaakt, want op</l>
+					<l>die tijd werde de meeste Coophandel van &apos;t gehe¬</l>
+					<l>le land binnen <locatie>Rotterdam</locatie> gedreven van de </l>
+					<l>Oost, en de Westerse vaart, want <locatie>Amsterdam</locatie></l>
+					<l>was op die tijd Catholijk.</l>
+					<l>In &apos;t Jaar <datum datum='1576-xx-xx'>1576</datum> wierde geordonneert</l>
+					<l>ende gemaakt het Gasthuis op het Oost-einde</l>
+					<l>van de <locatie>Hoogstraat</locatie> aan de Noordzijde, voor die</l>
+					<l>tijd geweest hebbende aan de <locatie>Huibrugge</locatie>.</l>
+					<l>In &apos;t Jaar <datum datum='1577-xx-xx'>1577</datum> wierden afgebroken</l>
+					<l>de vest-muren aan de binnenzijde van de</l>
+					<l>nieuwe haven.</l>
+					<l>In &apos;t Jaar <datum datum='1578-xx-xx'>1578</datum> wierde afgebroken de</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l><pagenumber>40</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><locatie>hooftpoort genaamt S<hi rend='underlined:true; superscript:true;'>t</hi> Laurents-poort</locatie>, ende</l>
+					<l>plag te staan op het Zuid-einde van de <locatie>hooft -</locatie></l>
+					<l><locatie>steeg</locatie> bij de <locatie>Draaijbrug.</locatie></l>
+					<l>In &apos;t jaar <datum datum='1579-xx-xx'>1579</datum>, worde gemaakt, ende</l>
+					<l>geleit de eerste <locatie>Gapersbrugge</locatie>.</l>
+					<l>van&apos;t Jaar <datum datum='1579-xx-xx'>1579</datum>, tot het jaar <datum datum='1583-xx-xx'>1583</datum>, heeft de </l>
+					<l>stad van <locatie>Rotterdam </locatie>groote en magtige onkosten</l>
+					<l>gedaan aan de <locatie>stad wallen</locatie> ende <locatie>bolwerken </locatie></l>
+					<l><locatie>aan de Waterzijde</locatie> want</l>
+					<l>In &apos;t Jaar <datum datum='1584-xx-xx'>1584 </datum>was de stad <locatie>Rotterdam</locatie></l>
+					<l>fraaij van aarde wallen, ende aarde-bolwerken</l>
+					<l>aan de waterzijde kant, als nu geschreven zal</l>
+					<l>worden.</l>
+					<l>Het <locatie>eerste bolwerk</locatie> lag aande <locatie>Oost-poort,</locatie> daar</l>
+					<l>de <locatie>Ruime molen</locatie> op getimmert worde in &apos;t jaar</l>
+					<l><datum datum='1584-xx-xx'>158x4</datum>, die in korten tijd wel 24 Roevoeten </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>41</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>sakte.</l>
+					<l>Het <locatie>tweede bolwerk</locatie> lag voor de <locatie>Oostpoort</locatie></l>
+					<l>daar de <locatie>oude Oostpoort</locatie> in gedamt was, ende</l>
+					<l>hadde voortijds geweest een poorte gelijk de</l>
+					<l><locatie>Delfsche poort.</locatie></l>
+					<l>Het <locatie>derde bolwerk</locatie> lag aan de binnenzijde van</l>
+					<l><locatie>&apos;t Haringvliet</locatie>, voor <locatie>Broer Pieter Sieren </locatie></l>
+					<l><locatie>straat.</locatie></l>
+					<l>Het <locatie>vierde bolwerk</locatie> lag aan de binnenzijde -</l>
+					<l>van <locatie>&apos;t Haringvliet</locatie> voor de <locatie>Boogertstraat</locatie>.</l>
+					<l>Het <locatie>vijfde bolwerk</locatie> lag bij de <locatie>hooftpoort</locatie>, daar</l>
+					<l>na de <locatie>beurs </locatie>opgetimmert worde.</l>
+					<l>Het <locatie>zesde bolwerk</locatie> lag bij het <locatie>Westerse hooft,</locatie></l>
+					<l>ende waar genaamt <locatie>den houten man</locatie>.</l>
+					<l>Het <locatie>zevende bolwerk</locatie> lag een weing beoosten.</l>
+					<l><locatie>Engel boonensteeg</locatie>, ende was genaamt <locatie>Tolwagen</locatie>.</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l><pagenumber>42</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>Het agste bolwerk lag schuins over de <locatie>oude Schie¬</locatie></l>
+					<l><locatie>damsche poort</locatie>, en was genaamt <locatie>Lugtenburg</locatie>, daar</l>
+					<l>in &apos;t begin des jaars <datum datum='1584-xx-xx'>1584</datum>, een wipmolen opgetim¬</l>
+					<l>mert wierde, die daar ontrend 26 jaren opstond, </l>
+					<l>ende doen worde ze afgebroken, omdat de <locatie>straat</locatie></l>
+					<l><locatie>van de Eunger brugge</locatie> daar regt oproejde, en tussen</l>
+					<l>alle voorsz: bolwerken, lag een aarden wal,</l>
+					<l>ende daar en was geen poort aan de waterzijde</l>
+					<l>van de <locatie>Oostpoort</locatie> af, tot de <locatie>oude Schiedamsche </locatie></l>
+					<l><locatie>poort</locatie> toe, dan op het <locatie>oude Oosthooft</locatie> was een</l>
+					<l>gat in de aarde, dat aan de beide zijden met </l>
+					<l>balken bezet was, ende planken daar opgeleit,</l>
+					<l>ende de aarde daar op geleit, zoo dat men on¬</l>
+					<l>der en boven d&apos;aarde ging, die op het hooft </l>
+					<l>wezen wilde, ende aldus was de stad <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie> aan de waterzijde, als voorsz: is, maar</l>
+					<l>aan de land-zijde was de stad met steene </l>
+					<l>muuren, ende torenen, die zeer vervallen </l>
+					<l>waren, ende op zommige plaatsen met </l>
+					<l>aarde weder gestopt, zoo dat de stad aan de</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>43</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie></l>
+					<l>land-zijde zeer open lag, tot in &apos;t jaar <datum datum='1584-xx-xx'>1584</datum>,</l>
+					<l>In&apos;t zelve jaar, word gemaakt van steenwerk</l>
+					<l>het <locatie>oude Westerschie hooft</locatie> voor die tijd geweest</l>
+					<l>hebbende een houten hooft dat zeer vervallen</l>
+					<l>was.</l>
+					<l>In &apos;t zelve jaar, was buiten de <locatie>Goudsche poort</locatie></l>
+					<l>met eenen tuin, nog niet een bleikvelt van </l>
+					<l>d&apos; <locatie>Oostpoort</locatie> af tot de <locatie>Rotte </locatie>toe buiten om de</l>
+					<l>stad, maar het was allegaar wijland en hooij¬</l>
+					<l>land van de <locatie>stads vest </locatie>af tot <locatie>Crooswijk</locatie> toe,</l>
+					<l>maar de oude stadsvesten zag men nog hoe </l>
+					<l>datze geweest hadden van <locatie>Pompenburg</locatie> af, tot</l>
+					<l>bij de <locatie>Oostpoort</locatie> toe, alhoewel dat het ontrend</l>
+					<l>95 jaren gelden was dat de stad kleinder</l>
+					<l>gemaakt worde leest <hi rend='strikethrough:true;'>fol:</hi></l>
+					<l>In &apos;t zelve Jaar, en stond buiten het <locatie>Hof-poor¬</locatie></l>
+					<l><locatie>tjen</locatie> niet een huis,  nog tuin nog bleikvelt </l>
+					<l>maar het was weiland van de stad af, tot de</l>
+					<l><locatie>Blommerdijksche watermolen</locatie> toe, en daar</l>
+					<l>en stond aan de <locatie>Rotte</locatie> van de stad af, tot het</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l><pagenumber>44.</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><locatie>duifhuis</locatie> toe, maar een huis, daar een <persoonsnaam>land¬</persoonsnaam></l>
+					<l><persoonsnaam>man in woonde, genaamt, Jacob Leeuwen</persoonsnaam>.</l>
+					<l>In &apos;t zelve jaar, en stond buiten de <locatie>Delftsche</locatie></l>
+					<l><locatie>poort </locatie>niet een huis, nog meulen, nog tuin,</l>
+					<l>nog bleikvelt, van de stad af tot de <locatie>Koolse</locatie></l>
+					<l><locatie>watermolen</locatie> toe, ende alzoo was het ook</l>
+					<l>buiten de<locatie> oude Schiedamsche poort.</locatie></l>
+					<l>In<datum datum='1584-03-xx'> &apos;t begin van Maart</datum> stond binnen <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie> niet meer dan 6 Corenwind-molens,</l>
+					<l>2. bij de <locatie>Oostpoort</locatie></l>
+					<l>2. </l>
+					<l>op het Noord-einde van de <locatie>Lombertstraat</locatie>.</l>
+					<l>1. bij de <locatie>Delfsche poort.</locatie></l>
+					<l>1. bij de <locatie>oude Schiedamsche poort.</locatie></l>
+					<l>Dit waren de 6 Corenmolens, en daar toe nog</l>
+					<l>5 Rosmolens, en anders geen molens en maal¬</l>
+					<l>den voor die stad <locatie>Rotterdam</locatie>.</l>
+					<l>Nu zullen wij schrijven, hoe de stad <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie> was van straten, stegen, huizen, en ge¬</l>
+					<l>bouw, in &apos;t jaar <datum datum='1584-xx-xx'>1584</datum>, en &apos;t zelve doen aan -</l>
+					<l>deelen, omdat men &apos;t zelve te beter verstaan.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>45.</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>ende onderscheiden zoude.</l>
+					<l>In &apos;t zelfde jaar, was het <locatie>Oost- nieuwland</locatie></l>
+					<l>een eiland, en hadde 11 straten of stegen.</l>
+					<l>In &apos;t zelve jaar, stond aan de noordzijde van</l>
+					<l>de nieuwe haven niet een woonhuis, anders</l>
+					<l>niet, dan een pakhuis, toebehoorende een </l>
+					<l><persoonsnaam>Coopman genaamt Cornelis Spiering</persoonsnaam> maer </l>
+					<l>het waren onbetimmerde erven, en tuinen.</l>
+					<l>die op die tijd bevrijt waren met een sloot,</l>
+					<l>van de <locatie>Meulestraat </locatie>af; tot op het <locatie>Oosteinde</locatie></l>
+					<l>van de <locatie>nieuwe haven</locatie>, ende dit hadde voor¬</l>
+					<l>tijds geweest de <locatie>binnenvest sloot</locatie>, die deurgaans</l>
+					<l>gedamt wierd, en daar staan al de voorgevels</l>
+					<l>op van de huizen, die aan de Noord-zijde van</l>
+					<l>de <locatie>nieuwe haven</locatie> staan.</l>
+					<l>In &apos;t zelve jaar, stond in de <locatie>Groenendaal </locatie>niet</l>
+					<l>dan 6 of 7 huizen, voorts waren &apos;t tuinen,</l>
+					<l>daar na de voorsz: tijd 3 stegen door ge,,</l>
+					<l>maakt wierden.</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l><pagenumber>46.</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>D&apos;eene ontrend het jaar <datum datum='1590-xx-xx'>1590</datum>, ende worde ge¬</l>
+					<l>naamt <locatie>Hiemans steeg</locatie>, omdat de man, die het</l>
+					<l>eerste huis aan deze steeg timmerde, genaamt</l>
+					<l>was <persoonsnaam>Hieman Sijmonsz , en was Capitein van</persoonsnaam></l>
+					<l><persoonsnaam>&apos;s lands wegen</persoonsnaam>.</l>
+					<l>D&apos;ander ontrend het jaar <datum datum='1593-xx-xx'>1593</datum>, ende worde ge¬</l>
+					<l>naamt<locatie> Jaap- quaaken - steeg</locatie>, omdat de man</l>
+					<l>genaamt was <persoonsnaam>Jacob Jansz Quaak,</persoonsnaam> die het eer¬</l>
+					<l>ste huis aan deze steeg timmerde, hij was een</l>
+					<l>schipper over zee.</l>
+					<l>In &apos;t zelve jaar, was de <locatie>Oost-meulestraat </locatie>wei¬</l>
+					<l>nig betimmert, en in &apos;t zelve jaar <datum datum='1584-xx-xx'>1584 </datum>wor¬</l>
+					<l>de gemaakt ende geleit de eerste brugge o¬</l>
+					<l>ver de <locatie>nieuwe haven</locatie>, die op de <locatie>Meulestraat</locatie></l>
+					<l>roeit.</l>
+					<l>In &apos;t zelve jaar was de Zuid-zijde van de <locatie>Hout¬</locatie></l>
+					<l><locatie>tuin</locatie> straat betimmert met weinig huizen,</l>
+					<l>en scheepmakers lootsen, voorts waren&apos;t onbe¬</l>
+					<l>timmerde erven, aan de noordzijde van de</l>
+					<l><locatie>Houttuinstraat</locatie>, waren &apos;t timmerwerven, ende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>47.</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>daar en stond niet een huis, van de <locatie>mandema¬</locatie></l>
+					<l><locatie>kers brug</locatie> af, tot de <locatie>valke- brugge </locatie>toe.</l>
+					<l>In &apos;t zelve jaar, was de <locatie>zevenhuizensteeg </locatie>qua¬</l>
+					<l>lijk half betimmert, voorts waren &apos;t onbetim¬</l>
+					<l>merde erven.</l>
+					<l>In &apos;t zelve jaar was de <locatie>Hooftsteeg</locatie> voltimmert,</l>
+					<l>maar daarna zijnder zommige oude huizen</l>
+					<l>afgebroken, en groote huizen weder getimmert.</l>
+					<l>In &apos;t zelve jaar, was <locatie>Cijstuin </locatie>betimmert -</l>
+					<l>met zommige huizen, en voorts waren &apos;t Cijt¬</l>
+					<l>werven, ende onbetimmerde erven, daar na</l>
+					<l>veel schoone pakhuizen op getimmert zijn,</l>
+					<l>om allerlei coopmans goed te mogen bergen.</l>
+					<l>T&apos;zedert het jaar <datum datum='1584-xx-xx'>1584 </datum>zijn tusschen de <locatie>draeij¬</locatie></l>
+					<l><locatie>brugge</locatie>, en de <locatie>Roo brugge</locatie>, zommige nieuwe</l>
+					<l>huizen getimmert, daar er voor die tijd </l>
+					<l>geen gestaan hebben.</l>
+					<l>In &apos;t zelve jaar, stond aan de Zuidzijde van</l>
+					<l>de<locatie> nieuwe haven</locatie> niet dan 3 a 4 huizen, voorts</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l><pagenumber>48</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>waren &apos;t onbetimmerde erven, ende van de</l>
+					<l><locatie>roobrugge</locatie>, of tot daar de <locatie>Haringvliet brug¬</locatie></l>
+					<l><locatie>ge</locatie> leit toe, stonden maar 7 of 8 huizen.</l>
+					<l>Nu zullen wij schrijven van het <locatie>Westnieuwe¬</locatie></l>
+					<l><locatie>land, dat aan de West-zijde leit van de oude</locatie></l>
+					<l><locatie>haven</locatie>, ende is een eiland, daar in &apos;t jaar </l>
+					<l><datum datum='1584-xx-xx'>1584</datum>, 15 straten of stegen in lagen, maar in</l>
+					<l>&apos;t jaar <datum datum='1605-xx-xx'>1605</datum>, lagen in dit voorsz eiland 21</l>
+					<l>straten, of stegen.</l>
+					<l>In &apos;t zelve jaar <datum datum='1584-xx-xx'>1584</datum> was de <locatie>Blaak</locatie> niet ge¬</l>
+					<l>kaait aan geen van beide zijden, want</l>
+					<l>van de <locatie>Gapers-brugge</locatie>, tot daar de <locatie>Enger-</locatie></l>
+					<l><locatie>brugge </locatie>leit stond op die tijd anders niet, dan</l>
+					<l>een scheepmakers huis, dat op een timmer¬</l>
+					<l>werff stond, voorts was &apos;t rietvelt, tusschen</l>
+					<l>beide de voorsz: bruggen, daar de haring </l>
+					<l>schepen voor lagen &apos;s winters aan palen, die</l>
+					<l>voor dat riet geleit waren; onder aan de</l>
+					<l>Oost-zijde van de <locatie>Gapers-brugge</locatie> waren 5</l>
+					<l>of 6 timmerwerven, daar op ijeder werf</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>49</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>een scheepmakers huis stond met riet gedekt</l>
+					<l>ende en stonden niet op rooij, gelijk de </l>
+					<l>landlieden timmeren, een ijder na zijn gele¬</l>
+					<l>gentheid, ende aan de noordzijde van de <locatie>blaek</locatie></l>
+					<l>stond niet een huis, want de plaats, daar</l>
+					<l>de straat hadde te liggen, wierd op die tijd </l>
+					<l>buiten de vestmuren, uit het water opgehoogt,</l>
+					<l>want al de huizen, die aan de Noord-zijde van</l>
+					<l>de <locatie>Blaak</locatie> getimmert zijn, staan met de </l>
+					<l>voorgevels op de oude vestmuren, ende twee</l>
+					<l>eerste huizen aan deze straat wierden ge¬</l>
+					<l>timmert in &apos;t jaar <datum datum='1587-xx-xx'>1587</datum>, op de <locatie>Westhoek</locatie> van </l>
+					<l>de <locatie>korte Schrijnwerkers-steeg</locatie>.</l>
+					<l>In &apos;t zelve jaar, was de <locatie>Visschersdijk </locatie>betim¬</l>
+					<l>mert met een deel slegte visschershuizen, die</l>
+					<l>meest al met riet gedekt waren, en voorts </l>
+					<l>waren &apos;t vele onbetimmerde erven, aan bei¬</l>
+					<l>de de zijden van de <locatie>Visschersdijk</locatie></l>
+					<l>In &apos;t zelve jaar, was <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Jacobstraat</locatie> met </l>
+					<l>vele slegte huiskens betimmert, en alzoo -</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l><pagenumber>50.</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>ook de <locatie>Bagijnenstraat </locatie>maar de <locatie>broeders¬</locatie></l>
+					<l><locatie>steeg</locatie> en de <locatie>Kokkesteeg </locatie>waren betimmert met</l>
+					<l>schamele burgers huiskens.</l>
+					<l>In &apos;t zelve jaar, lagen tusschen de <locatie>korte Kip¬</locatie></l>
+					<l><locatie>straat</locatie> tot aan de <locatie>Noord Vest </locatie>14 straten en ste¬</l>
+					<l>gen, maar in &apos;t jaar <datum datum='1604-xx-xx'>1604,</datum> waren er 17, daar</l>
+					<l>de <locatie>Lombertstraat </locatie>de voornaamste van is.</l>
+					<l>In &apos;t zelve jaar, stond in <locatie>Jan Jorisz steeg, </locatie></l>
+					<l>niet een huis, maar de eerste huizen wierden</l>
+					<l>daar getimmert in den jaar <datum datum='1587-xx-xx'>1587</datum>.</l>
+					<l>In &apos;t zelve jaar <datum datum='1584-xx-xx'>1584 </datum>worden begonnen de</l>
+					<l><locatie>lange lijnstraat,</locatie> dat op die tijd was aan de </l>
+					<l>west-zijde van de straat een overdekte lijn¬</l>
+					<l>baan, lang zijnde van de <locatie>Westsloot</locatie>, tot bijna</l>
+					<l>aan de huizen, die aan de <locatie>Kipstraat </locatie>staan.</l>
+					<l>In &apos;t jaar <datum datum='1587-xx-xx'>1587</datum>, worde gemaakt en</l>
+					<l>geleit de <locatie>eerste brugge agter het stadhuis</locatie></l>
+					<l>over de <locatie>Kipsloot</locatie>, want op die tijd lag daar</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>51</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie></l>
+					<l>een houte bruggetjen, daar naauwelijks een</l>
+					<l>wagen over konde rijden.</l>
+					<l>In &apos;t zelve jaar worde begonnen <locatie>Rombouten¬</locatie></l>
+					<l><locatie>steeg</locatie> die men de <locatie>Wildsteeg</locatie> noemt, en staat</l>
+					<l>tusschen de <locatie>Lomberstraat</locatie>, ende <locatie>Buttersloot</locatie>.</l>
+					<l>In &apos;t zelve jaar worde begonnen de <locatie>heeren¬</locatie></l>
+					<l><locatie>straat, </locatie>het hadde geweest een sloot die in de</l>
+					<l><locatie>Buttersloot </locatie>uitging, deze sloot worde gedamt</l>
+					<l>ende eene worden de voorgevels opgezet</l>
+					<l>van de huizen aan de Noord-zijde.</l>
+					<l>In &apos;t jaar <datum datum='1595-xx-xx'>1595 </datum>worden een erft daar</l>
+					<l>gegraven tusschen de <locatie>Nieuwehaven</locatie>, en</l>
+					<l><locatie>&apos;t Haringvliet</locatie>, zoo dat beide havens tot mal¬</l>
+					<l>kanderen loopen, ende daar was &apos;t een eiland</l>
+					<l>tusschen de <locatie>nieuwe haven</locatie>, en<locatie> &apos;t Haringvliet,</locatie></l>
+					<l>daar in &apos;t jaar <datum datum='1605-xx-xx'>1605 </datum>8 wel betimmerde</l>
+					<l>straten of stegen in lagen.</l>
+					<l>In &apos;t jaar <datum datum='1607-xx-xx'>1607 </datum>begreep het Oost</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l><pagenumber>52</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><locatie>nieuwland </locatie>(zijnde een eiland) in hem zelfs</l>
+					<l>16 straten of stegen.</l>
+					<l>In &apos;t jaar <datum datum='1612-xx-xx'>1612 </datum>maalden voor de stad</l>
+					<l><locatie>Rotterdam </locatie>13 Coren-wind-molens en 50</l>
+					<l>Rosmolens.</l>
+					<l>In &apos;t Jaar <datum datum='1618-06-xx'>1618, in Junij</datum>, is geleit</l>
+					<l>den eersten steen aan de <locatie>nieuwen deel.</locatie></l>
+					<l>in &apos;t Jaar <datum datum='1619-xx-xx'>1619</datum> worde gemaakt </l>
+					<l>het verlaat bij den deel.</l>
+					<l>In &apos;t zelve jaar, waren bij de stad onderhouden</l>
+					<l>84 bruggen, buitendijks 32 en binnen 52.</l>
+					<l>in &apos;t jaar <datum datum='1622-12-xx'>1622 in December</datum>, wier¬</l>
+					<l>den 12 vendels opgerigt, uit de burgerij van</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>53</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie></l>
+					<l>de eed der schutters.</l>
+					<l>In &apos;t jaar <datum datum='1630-05-13'>1630, den 13 Meij </datum>hebben</l>
+					<l>de heeren van den geregte gecasseert de 12</l>
+					<l>vendelen schutters, en wederom 6 gemaakt.</l>
+					<l>In &apos;t Jaar <datum datum='1639-xx-xx'>1639</datum>, heeft de <persoonsnaam>Admiraal</persoonsnaam></l>
+					<l><persoonsnaam>Tromp</persoonsnaam> de Spaansche vloot, sterk 67 schepen</l>
+					<l>in <locatie>Duins </locatie>teenemaal vernielt,</l>
+					<l>3 verbrand.</l>
+					<l>12 in de grond.</l>
+					<l>10 genomen.</l>
+					<l>33 aan strand gejaagt.</l>
+					<l>In &apos;t Jaar <datum datum='1640-xx-xx'>1640 </datum>is er in <locatie>Nederland</locatie></l>
+					<l>een Aardbeving geweest.</l>
+					<l>In &apos;t Jaar <datum datum='1645-xx-xx'>1645</datum>, is de nieuwe kerk¬</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l><pagenumber>54.</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>tot <locatie>Amsterdam </locatie>verbrand.</l>
+					<l>In &apos;t jaar <datum datum='1647-03-xx'>1647 in Maart</datum>, is zijn</l>
+					<l><persoonsnaam>hoogheid Frederik Hendrik</persoonsnaam> overleden, en tot</l>
+					<l><locatie>Delft </locatie>Coninglijk begraven.</l>
+					<l>In &apos;t jaar <datum datum='1648-xx-xx'>1648</datum>, is <persoonsnaam>Wilhem de tweede</persoonsnaam></l>
+					<l><persoonsnaam>tot Gouverneur Generaal</persoonsnaam>, in zijns vaders plaats</l>
+					<l>aangenomen.</l>
+					<l>In <datum datum='1648-06-05'>&apos;t zelve Jaar den 5<hi rend='underlined:true; superscript:true;'>en</hi> Junij </datum>is de vrede met de</l>
+					<l>koning van <locatie>Spangien</locatie>, en de Staten Generaal in</l>
+					<l>gantsch <locatie>Nederland </locatie>gepubliceert.</l>
+					<l>Den <datum datum='1648-10-28'>28<hi rend='underlined:true; superscript:true;'>en</hi> October van &apos;t zelfde jaar</datum>, is de eerste </l>
+					<l>steen van &apos;t stadhuis tot <locatie>Amsterdam</locatie> geleit.</l>
+					<l>In &apos;t Jaar <datum datum='1650-11-06'>1650, den 6<hi rend='underlined:true; superscript:true;'>en</hi> November</datum></l>
+					<l>is zijn<persoonsnaam> hoogheid Wilhem de tweede</persoonsnaam> overleden.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>55.</pagenumber></l>
+					<l>stad <locatie>Rotterdam.</locatie></l>
+					<l>Den <datum datum='1650-11-14'>14<hi rend='underlined:true; superscript:true;'>en</hi> November </datum>is geboren zijn zoon <persoonsnaam>Wil¬</persoonsnaam></l>
+					<l><persoonsnaam>helmus de 3<hi rend='underlined:true; superscript:true;'>de</hi> Prince van Orangien en Nassou.</persoonsnaam></l>
+					<l>In &apos;t Jaar <datum datum='1652-xx-xx'>1652</datum>, is &apos;t stadhuis tot</l>
+					<l><locatie>Amsterdam </locatie>verbrand.</l>
+					<l>In &apos;t Jaar <datum datum='1653-xx-xx'>1653 </datum>heeft <persoonsnaam>Jan van</persoonsnaam></l>
+					<l><persoonsnaam>Galen</persoonsnaam> met 15 oorlogschepen tegens 17 kloeke</l>
+					<l>Engelsche schepen slaags geweest, zijn been</l>
+					<l>afgeschoten zijnde, is hij overledenen den <datum datum='1653-12-11'>11<hi rend='underlined:true; superscript:true;'>en</hi> </datum></l>
+					<l><datum datum='1653-12-11'>December</datum>, in de <locatie>nieuwe kerk tot Amsterdam</locatie></l>
+					<l>princelijk begraven.</l>
+					<l>In <datum datum='1653-08-08'>&apos;t zelve jaar, den 8<hi rend='underlined:true; superscript:true;'>en</hi> Augusti</datum> geschie¬</l>
+					<l>de de slag voor <locatie>Wijk</locatie>, daar den vromen held</l>
+					<l><persoonsnaam>Tromp</persoonsnaam> gebleven is, en is tot <locatie>Delft </locatie>heerlijk</l>
+					<l>begraven.</l>
+					<l>In &apos;t Jaar <datum datum='1651-05-xx'>1651, in meij </datum>wierd de </l>
+					<l>vrede met <locatie>Engeland</locatie> en <locatie>Holland</locatie> gesloten.</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l><pagenumber>56</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>In <datum datum='1654-10-12'>&apos;t zelve jaar, den 12<hi rend='underlined:true; superscript:true;'>en</hi> October</datum> is &apos;t <locatie>Delfs</locatie></l>
+					<l>Magasijn gesprongen.</l>
+					<l>In &apos;t Jaar <datum datum='1663-xx-xx'>1663</datum>, is begonnen</l>
+					<l>te bouwen een <locatie>Gemeenlandshuis, off</locatie></l>
+					<l><locatie>Schielands-huis</locatie> op de <locatie>magere Varkenmarkt</locatie></l>
+					<l>is 80 voet vierkant, een overmaten kostelijk ge¬</l>
+					<l>bouw, in alles uitmuntende.</l>
+					<l>In &apos;t Jaar <datum datum='1664-xx-xx'>1664</datum>, is de kruitmolen</l>
+					<l>gesprongen buiten <locatie>Rotterdam </locatie>aan de <locatie>heul</locatie></l>
+					<l>alwaar bij ongeluk een man is dood gebleven,</l>
+					<l>en 2 gequetst, heeft voorts veel daarom</l>
+					<l>staande huizen de pannen afgesmeten, en</l>
+					<l>de glazen uit. Daar is tot groote verwonde¬</l>
+					<l>ring blijven staan een houte loots, daar wel</l>
+					<l>100000 lb kruit in was, en stond ontrend </l>
+					<l>70 a 80 voet daar maar vandaan; hoe het</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>57.</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>ongeluk bijgekomen is, weet men niet, dan </l>
+					<l>werd gezeit, dat het door &apos;t vallen van een ha¬</l>
+					<l>mer zoude zijn, zommige zeggen, dat het</l>
+					<l>kruit al te lang op den Eest heeft gelegen, en</l>
+					<l>door al te drooge hitte aan brand is geraakt.</l>
+					<l>andere wederom zeggen, dat de pan, daar</l>
+					<l>het kruit in gedroogt word, geborsten was</l>
+					<l>en overzulks niet digt, en door &apos;t uitvallen</l>
+					<l>van eenig kruit is aangegaan.</l>
+					<l>In<datum datum='1664-06-xx'> Junij</datum> zijn bij de heeren staten georde¬</l>
+					<l>neert 6000 man, om de <locatie>Eijderschans</locatie> te be¬</l>
+					<l>magtigen, alzoo die bij den Bisschop van</l>
+					<l><locatie>Munster</locatie> was ingenomen, om eenige gel¬</l>
+					<l>de die hij zeide te moeten hebben van</l>
+					<l><persoonsnaam>graaf Willem van Vriesland</persoonsnaam>. Nadat de</l>
+					<l>voorsz: <locatie>Eijderschans </locatie>bij het Staten volk</l>
+					<l>10 a 12 dagen was belegert geweest, is de</l>
+					<l>zelve met accord in handen van de Staten</l>
+					<l>overgegaan.</l>
+					<l>In &apos;t zelve jaar is tot <locatie>Rotterdam</locatie> verbout</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l><pagenumber>58.</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>De nieuwe poort op op het <locatie>Wester nieuwe</locatie></l>
+					<l><locatie>hooft</locatie> die in &apos;t jaar <datum datum='1663-xx-xx'>1663 </datum>begonnen was, is </l>
+					<l>een heerlijk gebou.</l>
+					<l>Zijn nog bij de stad begonnen te maken</l>
+					<l>2 poorten, te weten,</l>
+					<l>1. op het <locatie>Oosters nieuwe hooft</locatie>, en den andere</l>
+					<l>op het <locatie>Westers oude hooft.</locatie></l>
+					<l>In &apos;t zelve jaar in de zomer is verandert de</l>
+					<l>voorpoort van de<locatie> Delfsche poort</locatie>, en gemaakt</l>
+					<l>met een ophalende brugge; was te vorens</l>
+					<l>een vast liggende brugge tusschen 2 kleine</l>
+					<l>gaalderijtjes, daar men zomtijds de soldaten</l>
+					<l>wat water en brood op lieten eten als zij het</l>
+					<l>wat hadden verherft; de <locatie>Delfsche poort</locatie></l>
+					<l>wierd rondom afgebikt, zoo dat hij scheen</l>
+					<l>vernieuwt te zijn.</l>
+					<l>In <datum datum='1664-10-xx'>October</datum> is bij de Oost-Indische compag¬</l>
+					<l>nie begonnen een nieuw pakhuis te maken</l>
+					<l>op haar timmerwerf in de <locatie>boomtjes</locatie>.</l>
+					<l>Den <datum datum='1664-07-25'>25 Julij des selven jaars</datum>, heeft het den </l>
+					<l>gantschen dag een geweldigen storm gewaaijt.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>59</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie></l>
+					<l>Den <datum datum='1664-08-11'>11<hi rend='underlined:true; superscript:true;'>en</hi> Augustus</datum>, heeft het geweldig gewaijt,</l>
+					<l>gedondert, en gehagelt, met zoo grooten regen</l>
+					<l>dat de grooten het water niet konde swelgen.</l>
+					<l>Den <datum datum='1664-12-20'>20<hi rend='underlined:true; superscript:true;'>en</hi> December, des selven jaars</datum> is er ge¬</l>
+					<l>zien geweest een sterre met een staart, staan¬</l>
+					<l>de in het Z.Z. Oosten de staart of schijnsel op¬</l>
+					<l>waarts aan, naar het Westen, is voor de eerste¬</l>
+					<l>maal gezien den <datum datum='1664-12-12'>12<hi rend='underlined:true; superscript:true;'>en</hi> dezes</datum>, ende leste was den</l>
+					<l><datum datum='1664-12-26'>2<hi rend='underlined:true; superscript:true;'>en</hi> Kersdag, wezende den 26<hi rend='underlined:true; superscript:true;'>en</hi> December</datum>, hij</l>
+					<l>draaijde geweldig gezwind West aan, den <datum datum='1664-12-27'>27<hi rend='underlined:true; superscript:true;'>en</hi> </datum>en</l>
+					<l><datum datum='1664-12-28'>28<hi rend='underlined:true; superscript:true;'>en</hi></datum> dito heeft men beginnen te zien een sterre</l>
+					<l>des avonds 7 a 8 uren, wel zoo groot als de andere</l>
+					<l>staat, hooger als de sterre met de staart, den</l>
+					<l><datum datum='1665-01-03'>3 Januarij 1665,</datum> werd er aan deze starre</l>
+					<l>ook een staart gezien, maar bij lange na zoo</l>
+					<l>groot niet, strekkende O. a O. ten Noorden, deze</l>
+					<l>starre is gezien geweest tot den <datum datum='1665-01-22'>22<hi rend='underlined:true; superscript:true;'>en</hi> Januarij,</datum></l>
+					<l>dog, gelijk hij in &apos;t eerste scheen te verhelde¬</l>
+					<l>ren, zoo verdween hij te niets weer, draaijde</l>
+					<l>mooi heel snel naar het Westen.</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l><pagenumber>60</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>In &apos;t Jaar <datum datum='1665-01-12'>1665, den 12<hi rend='underlined:true; superscript:true;'>en</hi> Januarij</datum>, </l>
+					<l>heeft het beginnen te vriesen, en ging zoo hart</l>
+					<l>aan, dat men <datum datum='1665-01-21'>den 21<hi rend='underlined:true; superscript:true;'>en</hi></datum>, wezende woensdag, en</l>
+					<l>biddag voor het nieuwe hooft over de <locatie>Maas</locatie> </l>
+					<l>liep op het tolhuis.</l>
+					<l>Den <datum datum='1665-02-03'>3</datum>, <datum datum='1665-02-04'>4</datum>, en <datum datum='1665-02-05'>5<hi rend='underlined:true; superscript:true;'>en</hi> Februarij</datum> is men doende geweest,</l>
+					<l>om <locatie>de maas</locatie> op te bijten, alzoo de vorst weinig</l>
+					<l>of niet hadde te beduden, ende <locatie>maas </locatie>gaan¬</l>
+					<l>de, en bijna zonder ijs was, van beneden af,</l>
+					<l>tot weinig beneden het tolhuis. Dien zel¬</l>
+					<l>ven dag konde men met een slee zig op het</l>
+					<l>tolhuis laten rijden gins en weêr voor 3 sts<hi rend='superscript:true;'>s</hi></l>
+					<l>zijnde voor de middag; des namiddags kon¬</l>
+					<l>de men voor zoo veel gelt over varen met een </l>
+					<l>schuitje.</l>
+					<l>Den <datum datum='1665-02-07'>7</datum>, <datum datum='1665-02-08'>8</datum> en <datum datum='1665-02-09'>9<hi rend='underlined:true; superscript:true;'>en</hi> Februarij</datum>, en volgende dagen</l>
+					<l>heeft het wederom zoo gevrosen, dat men den </l>
+					<l><datum datum='1665-02-11'>11<hi rend='underlined:true; superscript:true;'>en</hi></datum> weder zonder perijkel van het nieuwe -</l>
+					<l>hooft op het tolhuis over de <locatie>maas</locatie> kondegaa.</l>
+					<l>Den <datum datum='1665-02-18'>18<hi rend='underlined:true; superscript:true;'>en</hi> dito,</datum> is het weer beginnen te ontla¬</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>61.</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie></l>
+					<l>@en. </l>
+					<l>Den <datum datum='1665-02-21'>21<hi rend='underlined:true; superscript:true;'>en</hi></datum> dito, zijnde een Westenwind, is &apos;t ijs</l>
+					<l>des morgens van verscheide luiden gebruikt,</l>
+					<l>zoo wel van de een als de ander zijde van</l>
+					<l>de <locatie>Maas</locatie>, den een na <locatie>Rotterdam</locatie>, den ander</l>
+					<l>na het Tolhuis, des namiddags voer men</l>
+					<l>na genoegen den selven weg bijna zonder</l>
+					<l>drijvent ijs.</l>
+					<l>Den <datum datum='1665-04-08'>8<hi rend='underlined:true; superscript:true;'>en</hi> April</datum>, is er wederom tot <locatie>Rotterdam</locatie></l>
+					<l>een starre met een staart gezien, komt op</l>
+					<l>benoorden het Oosten, des morgens ontrend</l>
+					<l>2 uren, draaijt Zuid aan, verliest zijn</l>
+					<l>staart, door &apos;t opkomen van den dag na</l>
+					<l>4 uren, is hij 4 dagen na den anderen ge¬</l>
+					<l>zien geweest.</l>
+					<l>Den <datum datum='1665-04-13'>13<hi rend='underlined:true; superscript:true;'>en</hi></datum> dito, is er op klaren middag</l>
+					<l>een sterre gezien, bezuiden in het westen,</l>
+					<l>stond tot in den avond, dat de andere ster¬</l>
+					<l>ren op quamen.</l>
+					<l>Den <datum datum='1665-12-05'>5<hi rend='underlined:true; superscript:true;'>en</hi> december</datum>, op Saturdag, zijnde S<hi rend='underlined:true; superscript:true;'>t</hi></l>
+					<l>Nikolaas avond, heeft heeft het een harde storm,</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l><pagenumber>62</pagenumber>.</l>
+					<l>Beschrijving der</l>
+					<l>uit den N. Westen, of wel zoo Noordelijk ge¬</l>
+					<l>waait, dat het water zoo hoog dede vloeijen</l>
+					<l>dat de geheele Buitenstad tot <locatie>Rotterdam</locatie> onder</l>
+					<l>water liep, is ongelijk hoogen vloed geweest, als</l>
+					<l>de vloed van &apos;t jaar <datum datum='1472-xx-xx'>1472</datum> was, zijn veel lan¬</l>
+					<l>den ondergeloopen, en dijken overspoelt, veel</l>
+					<l>beesten zijn verdronken, het <locatie>Noordholland</locatie>, </l>
+					<l><locatie>Kennemerland</locatie>, <locatie>Waterland</locatie>, zijn meest alle on¬</l>
+					<l>der geloopen, het water viel, tot dat de vol¬</l>
+					<l>gende vloed was gekomen, met meer als een</l>
+					<l>voet, zoo dat men wel zeggen mag, dat het</l>
+					<l>water 16 uren blijft staan.</l>
+					<l>In &apos;t Jaar <datum datum='1672-08-11'>1672, den 11<hi rend='underlined:true; superscript:true;'>en</hi> Augusti</datum>, quam</l>
+					<l>tot <locatie>Rotterdam</locatie> tijdinge, dat 2 Kapers van</l>
+					<l><locatie>Zeeland</locatie> hadden opgezonden 8 prijsen geladen</l>
+					<l>als volgt,</l>
+					<l>30 stuk brandewijn.</l>
+					<l>80000 lb Harpenijs.</l>
+					<l>150 stuk brandewijn.</l>
+					<l>50000 lb baarden.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l> stad <locatie>Rotterdam</locatie>.</l>
+					<l>2000 Frans zout.</l>
+					<l>5000 pinten.</l>
+					<l>100 balen zoet hout.</l>
+					<l>25 vadt Lagoense wijn.</l>
+					<l>300 noteboome planken.</l>
+					<l>750 quarteelen traan.</l>
+					<l>280 balen wolle.</l>
+					<l>30 balen pastel.</l>
+					<l>1000 hellebaarden.</l>
+					<l>300 last kolen.</l>
+					<l>Den <datum datum='1672-08-17'>17<hi rend='underlined:true; superscript:true;'>en</hi> dito</datum> zijnde woonsdag, des morgens</l>
+					<l>bevond men in <locatie>de Prince kerk </locatie>dat over </l>
+					<l>de 100 stoelen de matten waren uitgesneed,</l>
+					<l>zommige zeggen 110, ander 130 altijd erg</l>
+					<l>groot gedeelte.</l>
+					<l>Den <datum datum='1672-10-06'>6<hi rend='underlined:true; superscript:true;'>en</hi> October</datum>, wierd er gepubliceert tot</l>
+					<l><locatie>Rotterdam</locatie>, dat, zoo ijmand wist aan te</l>
+					<l>brengen, den of die genen, die in de Prince</l>
+					<l>kerk de stoelen hadden aan stukken ge¬</l>
+					<l>sneden, of nu tusschen Dijnsdag en woons</l>
+					<l><pagenumber>63</pagenumber>.</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l><pagenumber>64</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>dag in de <locatie>S<hi rend='underlined:true; superscript:true;'>t</hi> Laurents kerk</locatie> de gestoelten</l>
+					<l>en stoelen met teer gesmeert, die zoude men</l>
+					<l>een vereering geven van 200 gl.</l>
+					<l>In &apos;t Jaar <datum datum='1674-07-18'>1674, den 18<hi rend='underlined:true; superscript:true;'>en</hi> Julij</datum> zijnde</l>
+					<l>saturdag, was er een zwaar weer hangende</l>
+					<l>in &apos;t westen, en begonde ontrend ten 9 uren</l>
+					<l>zoo te regenen, met donder en bliksem, welk</l>
+					<l>donder en bliksem zoo hard toenam, dat het</l>
+					<l>weer nooit van den hemel was, met een gewel¬</l>
+					<l>dige donkere lugt, dat al continueerde en</l>
+					<l>volgde daar op dat des nagts ontrend of bij</l>
+					<l>12 uren zoo geweldig hagelde, en dat met </l>
+					<l>zulke groote hagelsteenen, dat meest al</l>
+					<l>de glasen, die naar het westen en N. Westen</l>
+					<l>stonden, uithagelden, dat tot <locatie>Vlaarding</locatie></l>
+					<l>begon, en zoo tot <locatie>Schiedam</locatie>, <locatie>Delfshaven</locatie>,</l>
+					<l>en hier tot <locatie>Rotterdam</locatie>, en zoo voort 2</l>
+					<l>a 3 uren Oost en Z. Oost op boven <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie> eindigden, en die Zuidelijker in Noor¬</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>65</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam.</locatie></l>
+					<l>delijker lagen, weten van zulk weer niet</l>
+					<l>te spreken; zoo tot <locatie>Rotterdam</locatie> als <locatie>Schiedam</locatie></l>
+					<l>en <locatie>Delfshaven</locatie> wierd eendragtelijk gezeit, </l>
+					<l>dat daar hagelsteenen zijn gevallen, die meer</l>
+					<l>als een pond zwaar wogen, zommige zeggen</l>
+					<l>gewogen te hebben, die over de 11/2 lb wogen,</l>
+					<l>ook zijn in de tuinen in deze streek alle</l>
+					<l>de vrugten ter neder geslagen, ook op de</l>
+					<l>velden het koorn, en gewas, zoo dat de</l>
+					<l>schade heel groot was.</l>
+					<l>Den <datum datum='1674-08-01'>1<hi rend='underlined:true; superscript:true;'>en</hi> Augustus</datum>, woonsdag, zijnde biddag,</l>
+					<l>tegen den avond ontrend ten 7 uren quam</l>
+					<l>weer heel quaad weer op, en dreef al na</l>
+					<l>&apos;t Oosten over, geweldig blikzemde en don¬</l>
+					<l>derende, des anderen daags</l>
+					<l>Den <datum datum='1674-08-02'>2<hi rend='underlined:true; superscript:true;'>en</hi> Augustus</datum> quam tijding tot <locatie>Rotter¬</locatie></l>
+					<l><locatie>dam</locatie>, dat dit weer was nedergevallen tot</l>
+					<l><locatie>Amsterdam</locatie>, <locatie>Utregt</locatie>, tot aan <locatie>Aarnhem</locatie> toe.</l>
+					<l>doende onderweeg groote en veel schade, tot</l>
+					<l><locatie>Amsterdam</locatie> zijn veel en ontallijke huizen be¬</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l><pagenumber>66</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l>schadigt, als mede kerken en torens, en 10</l>
+					<l>schepen, die voor de palen lagen, omgeslagen,</l>
+					<l>de anderen meest alle beschadigt, diverse men¬</l>
+					<l>schen dood gebleven, in de 30 zoo kooren als</l>
+					<l>zaagmolens en andere wierden door dit </l>
+					<l>quaad weer omgesmeten.</l>
+					<l><locatie>Purmerent</locatie> genoegzaam heel ten neder, zoo</l>
+					<l>van huizen als kerken.</l>
+					<l>Tot <locatie>Utregt</locatie> was niet minder, daar waren meest</l>
+					<l>al de kerken, of torens beschadigt, den</l>
+					<l><locatie>Dom-kerk</locatie> zonder den toren en Choor geheel</l>
+					<l>ter nedergeslagen.</l>
+					<l>In &apos;t Jaar <datum datum='1676-01-08'>1676, den 8<hi rend='underlined:true; superscript:true;'>en</hi> Januarij</datum> heeft</l>
+					<l>den <persoonsnaam>admiraal M.A. de Ruiter</persoonsnaam> de Fransche</l>
+					<l>vloot voor <locatie>Messina</locatie> geslagen.</l>
+					<l>Den <datum datum='1676-04-22'>22<hi rend='superscript:true;'>en</hi> April</datum>, heeft den <persoonsnaam>Admiraal M.A.</persoonsnaam></l>
+					<l><persoonsnaam>de Ruiter</persoonsnaam> wederom geslagen tegende Fran¬</l>
+					<l>schen, in welk gevegt, den <persoonsnaam>admiraal de </persoonsnaam></l>
+					<l><persoonsnaam>Ruiter</persoonsnaam> op 3 plaatzen gequetst zijnde, den <datum datum='1676-04-29'>29<hi rend='underlined:true; superscript:true;'>en</hi></datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>67</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>dito is overleden.</l>
+					<l>Den <datum datum='1676-06-11'>11<hi rend='underlined:true; superscript:true;'>en</hi> Junij</datum> heeft den <persoonsnaam>Admiraal C. Tromp</persoonsnaam></l>
+					<l>de<locatie> Sweedse </locatie>vloot zoo fel aangetast, dat zij met</l>
+					<l>verlies van haar meeste opperhoofden, en 12 van</l>
+					<l>haar kloekste schepen moesten retiren.</l>
+					<l>In &apos;t Jaar <datum datum='1677-03-01'>1677, den 1<hi rend='underlined:true; superscript:true;'>en</hi> Maart</datum>, is den</l>
+					<l>heer <persoonsnaam>admiraal M.C. de Ruiter</persoonsnaam> tot <locatie>Amster¬</locatie></l>
+					<l><locatie>dam</locatie> in de <locatie>Nieuwe kerk</locatie> princelijk begraven.</l>
+					<l>In &apos;t Jaar <datum datum='1678-08-10'>1678, tusschen den 10<hi rend='underlined:true; superscript:true;'>en</hi></datum> en <datum datum='1678-08-11'>11<hi rend='underlined:true; superscript:true;'>en</hi></datum></l>
+					<l><datum datum='1678-08-11'>Augustus</datum>, ontrend middernagt, is binnen <locatie>Nim¬</locatie></l>
+					<l><locatie>wegen</locatie> de vrede tusschen den <persoonsnaam>Coning van</persoonsnaam></l>
+					<l><persoonsnaam>Vrankrijk</persoonsnaam>, en haar Hoog: Mog: geteekent.</l>
+					<l>In &apos;t Jaar <datum datum='1680-07-24'>1680, den 24<hi rend='underlined:true; superscript:true;'>en</hi> Julij</datum>, is het</l>
+					<l><locatie>kruithuis tot Heusden</locatie>, door den bliksem</l>
+					<l>in brand geraakt.</l>
+					<l>In &apos;t Jaar <datum datum='1682-01-26'>1682, den 26<hi rend='superscript:true;'>en</hi></datum> en <datum datum='1682-01-27'>27<hi rend='underlined:true; superscript:true;'>en</hi></datum></l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l><pagenumber>68</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><datum datum='1682-01-xx'>Januarij</datum>, is een verschrikkelijke watervloed geweest</l>
+					<l>in <locatie>Holland</locatie>, <locatie>Zeeland</locatie>, <locatie>Braband</locatie>, <locatie>Noord en Zuid Be¬</locatie></l>
+					<l><locatie>verland</locatie>, <locatie>Vlaanderen</locatie>. <locatie>&apos;t land van Casant</locatie> en andere</l>
+					<l>rivieren, de polders ten oosten en ten westen <locatie>Ede</locatie>,</l>
+					<l>het <locatie>groote en kleine Sas</locatie> bij <locatie>Sluis</locatie>, tot voor de poor¬</l>
+					<l>ten van de stad <locatie>Brugge</locatie>, ook tot <locatie>Bremen</locatie>, <locatie>Hamburg</locatie>,</l>
+					<l>en op veel andere plaatsen aan den <locatie>Rijn</locatie>, <locatie>Maas</locatie>, </l>
+					<l><locatie>Waal</locatie>, en <locatie>IJssel</locatie>, welke watervloed in deze landen zoo</l>
+					<l>groot en zwaar is geweest, als in geen 300 jaren is</l>
+					<l>gezien geweest, waar door veel menschen en beesten</l>
+					<l>zijn omgekomen.</l>
+					<l>In &apos;t jaar <datum datum='1684-01-xx'>1684, in Januarij </datum>en<datum datum='1684-02-xx'> Febru,,</datum></l>
+					<l><datum datum='1684-02-xx'>arij</datum> is het zoo een harden winter geweest, als daar</l>
+					<l>in 100 jaren niet geweest is: men heeft met paard</l>
+					<l>en slede van het eiland <locatie>Texel </locatie>na <locatie>de Helder</locatie> gereden,</l>
+					<l>ook heeft men van <locatie>der Schelling</locatie> over &apos;t ijs op <locatie>Ame¬</locatie></l>
+					<l><locatie>land</locatie> gewoon met met handsleden; tot <locatie>Amsterdam</locatie></l>
+					<l>zag men dagelijks aankomen paarden en sleden,</l>
+					<l>van <locatie>den Helder</locatie>, <locatie>Texel</locatie>, <locatie>Harlingen</locatie>, <locatie>Stavoren</locatie>, en </l>
+					<l><locatie>Enkhuizen</locatie>, over de <locatie>Zuider-zee</locatie>, op de rivier de</l>
+					<l><locatie>Amster</locatie> reden de karossen met 2 en 4 paarden,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>69</pagenumber></l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>tot 60 in &apos;t getal agter malkander, als of het</l>
+					<l>in <locatie>den Haag</locatie> was.</l>
+					<l><datum datum='1684-06-03'>Den 3<hi rend='underlined:true; superscript:true;'>en</hi></datum> en <datum datum='1684-06-04'>4<hi rend='underlined:true; superscript:true;'>en</hi> Junij</datum>, zijn tot <locatie>Hamburg</locatie> wel 214 hui¬</l>
+					<l>zen afgebrand, uitmakende 1724 woningen, de scha¬</l>
+					<l>de werd op 2 millioonen rijxdaalders geschat.</l>
+					<l>Den <datum datum='1684-06-29'>29<hi rend='underlined:true; superscript:true;'>en</hi> </datum>, is de 20 jarige trevis tusschen <locatie>Vrank¬</locatie></l>
+					<l><locatie>rijk</locatie> en <locatie>Holland </locatie>in<locatie> den Haag </locatie>geteekent.</l>
+					<l>In &apos;t Jaar <datum datum='1688-10-xx'>1688, in &apos;t begin van October</datum></l>
+					<l>begonnen hier tot <locatie>Rotterdam </locatie>veel Galjoots toe</l>
+					<l>te maken, hier op volgden, dat men meerder sche¬</l>
+					<l>pen klaar maakten, fleuiten en meer drie maste</l>
+					<l>schepen, van alle zoorten, in de <locatie>boomtjes </locatie>wierden</l>
+					<l>van de muur tot op de palen gemaakt breggens om </l>
+					<l>paarden over te schepen.</l>
+					<l>In &apos;t midden van <datum datum='1684-10-xx'>October</datum>, begonde men eenige </l>
+					<l>paarden aldaar in te schepen, zoo wel fleuiten</l>
+					<l>als andere vaartuigen, ook alle andere zoorten</l>
+					<l>van krijgsbehoeften.</l>
+					<l>Den <datum datum='1684-10-24'>24<hi rend='underlined:true; superscript:true;'>en</hi> dito</datum> wierden in de ijsere leuning van de</l>
+					<l><locatie>Louven brugge </locatie>aan weerzijden gemaakt 2 gaten,</l>
+					<l>zulks men in 4 schepen gelijk paarden konde </l>
+					<l>schepen.</l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<p>
+				<lg>
+					<l><pagenumber>70</pagenumber></l>
+					<l>Beschrijving der</l>
+					<l><datum datum='1688-10-25'>Den 25<hi rend='underlined:true; superscript:true;'>en</hi> e</datum>n <datum datum='1688-10-26'>26<hi rend='underlined:true; superscript:true;'>en</hi> dito</datum> scheepte men veel paarden, niet</l>
+					<l>alleen aan de <locatie>Louvenbrugge</locatie>, maar ook aan <locatie>de hoofden</locatie></l>
+					<l>neffens karossen, harren, als ander oorlogsgereetschap,</l>
+					<l>en zeilden vele schepen zoo fleuiten als galjoots neder¬</l>
+					<l>waarts aan.</l>
+					<l>Den <datum datum='1688-10-27'>27<hi rend='underlined:true; superscript:true;'>en</hi> dito</datum>, biddag zijnde wierden nog eenige paar¬</l>
+					<l>den van particuliere heeren gescheept, waar onder</l>
+					<l>waren eenige paarden van den <persoonsnaam>Grave Argeu</persoonsnaam>l (wirt</l>
+					<l>gezeit, den grootsten en magtigsten graaf van <locatie>Schot¬</locatie></l>
+					<l><locatie>land</locatie> te wezen) die als doen hier mede was, en neffens</l>
+					<l>meer graven en Lords in een smal scheepje gin¬</l>
+					<l>gen en neffens een groot gedeelte zeeschepen afdre¬</l>
+					<l>ven met een N. Oosten wind, dog slapjes.</l>
+					<l>Den <datum datum='1688-11-25'>25<hi rend='underlined:true; superscript:true;'>en</hi> November,</datum> declareert de koning van</l>
+					<l><locatie>Vrankrijk</locatie> den oorlog aan de Staten Generaal.</l>
+					<l>In &apos;t Jaar <datum datum='1689-02-20'>1689, den 20<hi rend='underlined:true; superscript:true;'>en</hi> Februarij</datum>, vertrok</l>
+					<l>de <persoonsnaam>princesse van Orangien</persoonsnaam> na <locatie>Engeland</locatie>, en quam</l>
+					<l>den <datum datum='1689-02-22'>22<hi rend='underlined:true; superscript:true;'>en</hi> des avonds</datum> binnen  <locatie>Londen </locatie>met groote vreugd.</l>
+					<l>Den <datum datum='1689-03-17'>17<hi rend='underlined:true; superscript:true;'>en</hi> Maart</datum>, hebben hare Hoog: Mog: den</l>
+					<l>oorlog tegen <locatie>Vrankrijk </locatie>gedeclareert.</l>
+					<l>Den <datum datum='1689-04-21'>21<hi rend='underlined:true; superscript:true;'>en</hi> April </datum>is de <persoonsnaam>koning William</persoonsnaam> en <persoonsnaam>Maria</persoonsnaam></l>
+					<l>binnen <locatie>Londen</locatie>, met groote acclamatie der ge¬</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>71</pagenumber>.</l>
+					<l>stad <locatie>Rotterdam</locatie>.</l>
+					<l>meinte plegtelijk gekroont, en is door geheel <locatie>Hol¬</locatie></l>
+					<l><locatie>land</locatie>, en al de andere provincien, over &apos;t zelve subject</l>
+					<l>ten selven dage heerlijk geviert, met het aansteken</l>
+					<l>van vuren, en uitnemende vuurwerken, en veel de</l>
+					<l>zels bij particulieren zijn aangestoken ; waar in</l>
+					<l>boven al de Engelsche koopluiden tot <locatie>Amster¬</locatie></l>
+					<l><locatie>dam </locatie>hebben uitgeschenen.</l>
+					<l>In &apos;t Jaar <datum datum='1690-07-24'>1690, den 24<hi rend='underlined:true; superscript:true;'>en</hi> Julij</datum>, is er</l>
+					<l>tusschen <locatie>Vrankrijk </locatie>en de <locatie>H: Staten</locatie> een Accoord</l>
+					<l>tot <locatie>Duinkerken </locatie>gesloten, dat alle zeevarende</l>
+					<l>personen aan wederzijden zullen vrij gegeven wor¬</l>
+					<l>den, en nooit geen meer gevangen te houden van</l>
+					<l>de schepen, die men noemt, in al de 4 deelen der</l>
+					<l>wereld.</l>
+					<l>Den <datum datum='1690-11-13'>13<hi rend='underlined:true; superscript:true;'>en</hi> November</datum>, is het Magazijn tot <locatie>&apos;s Gra¬</locatie></l>
+					<l><locatie>venhage</locatie> bij ongeluk gesprongen.</l>
+					<l>Eijnde.</l>
+				</lg>
+			</p>
+			<pb n='38'/>
+			<pb n='39'/>
+		</body>
+	</text>
+</TEI>

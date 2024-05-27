@@ -1,0 +1,2887 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1735_Dokk_Hesm - Omstandig verhaal van hetgeen sedert den jare 10... tot den jare 1710 incluis tot Doccum is voorgevallen</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>Omstandig Verhaal</l>
+					<l>van</l>
+					<l>hetgeen sedert den jare <datum datum='0010-xx-xx'>10</datum> na de geboorte</l>
+					<l>onzes Heeren en Zaligmakers tot</l>
+					<l>den jare <datum datum='1710-xx-xx'>1710 </datum>incluis</l>
+					<l>tot</l>
+					<l><locatie>Doccum</locatie></l>
+					<l>is voorgevallen;</l>
+					<l>uit veele schryvers by een vergaderd door</l>
+					<l><persoonsnaam>Gerrit Hesman,</persoonsnaam></l>
+					<l>later door een ander vervolgd tot <datum datum='1735-xx-xx'>1735</datum>.</l>
+					<l>Verkort afschrift naar het Handschrift</l>
+					<l>door <persoonsnaam>D. Fockema </persoonsnaam>beschreven in de</l>
+					<l>Vrye Fries, VI 127 en thans in t bezit der</l>
+					<l>Stad <locatie>Dokkum</locatie>.</l>
+					<l>zie verder het Naberigt.</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>pag 1</l>
+					<l>Ao</l>
+					<l><datum datum='0010-xx-xx'>10</datum></l>
+					<l>Onder andere steden van <locatie>Friesland</locatie> wordt <locatie>Dokkum</locatie></l>
+					<l>in oudheid naast de Koninklijke hoofdstad <locatie>Stavoren</locatie></l>
+					<l>gesteld, want in het tiende Jaar na de menschwerdin</l>
+					<l>ge onze Zaligmakers is het al onder den naam van</l>
+					<l><locatie>Doccinga </locatie>bekend geweest want toen ter tijd heeft</l>
+					<l><persoonsnaam>Diocarus </persoonsnaam>zegen (als hij nog veldheer van <persoonsnaam>Assinga</persoonsnaam></l>
+					<l><persoonsnaam>Asson, vierde Prins der Vriesen</persoonsnaam> was) hier Vechtscholen</l>
+					<l>opgerigt, waarin de Jeugd alle weken driemaal te</l>
+					<l>voet en te paard geoefend wierde. Wins. Folio.19.</l>
+					<l>248 (</l>
+					<l>(Andere zeggen 246) is hier van <persoonsnaam>Ulbo de vierde Hertog</persoonsnaam></l>
+					<l>een kasteel gebouwd en van hem <locatie>Doccinga </locatie>(andere</l>
+					<l>zeggen <locatie>Doccumburg</locatie>) genaamd en heeft hetzelve met</l>
+					<l>een wal, en goede haven voorzien Ziet Wins fol. 33...</l>
+					<l>Het was destijds, een van de voornaamste vastigheden,</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>2</hi></pagenumber></l>
+					<l>dezer Provincie, en diende om de Zeeroovers in hare</l>
+					<l><datum datum='0336-xx-xx'>336</datum>.</l>
+					<l>rooverijen te beletten. Kwam hier <persoonsnaam>Odilbaldus</persoonsnaam>, die</l>
+					<l>naderhand de tweede Koning dezes lands geweest is,</l>
+					<l>bij zijn <persoonsnaam>vrouw Haddinga</persoonsnaam>, dochter van de Noorweegsen</l>
+					<l>Koning, bij welke hij drie Zoons en acht dochters teelde,</l>
+					<l>en wierde van haar zer minnelijk ontvangen.</l>
+					<l>Siet (+) Wins Stavrienses fol 8.</l>
+					<l>(+) lees </l>
+					<l><persoonsnaam>winsemius</persoonsnaam></l>
+					<l>Staeriensis@</l>
+					<l><datum datum='0376-xx-xx'>376</datum>. </l>
+					<l>Verzamelde <persoonsnaam>Udolphus Haron de zevende of laatste Hertog</persoonsnaam></l>
+					<l>hiier en tot <locatie>Stavoren </locatie>een groot leger, om daarmede de</l>
+					<l>deenen en Normannen te bespringen, heeft vele plaatsen</l>
+					<l>ingenomen, en is met overwin<hi rend='superscript:true;'>nin</hi>gen na huis gekeerd. Wins fol 39</l>
+					<l><datum datum='0385-xx-xx'>385</datum></l>
+					<l>wierd de Afgod Mercurius van de Heidenen en Vriesen</l>
+					<l>als de voornaamste God tot <locatie>Dokkum </locatie>geeerd en aangebeden</l>
+					<l>Stav. lib 1 fol. 9.</l>
+					<l>Alhoewel deze Stad klein is, zijn hier nog thans</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>3</hi></pagenumber></l>
+					<l>verscheidene mannen van aanzien geboren ook</l>
+					<l>gestorven en begraven want in &apos;t Jaar <datum datum='0409-xx-xx'>409 </datum>is <persoonsnaam>Iglio Lascon,</persoonsnaam></l>
+					<l><datum datum='0409-xx-xx'>409</datum></l>
+					<l>de Veldheer dezes lands, hierin zijn 93. overleeden als</l>
+					<l>hij <locatie>Engeren</locatie> 65. Jaaren geregeerd hadde, alzoo is ook</l>
+					<l><persoonsnaam>Richoldus</persoonsnaam>, zijnde de derde Vriesche Koning, hier uit</l>
+					<l>zijn Vader <persoonsnaam>Odilbaldus</persoonsnaam>, die ten Wijfe had <persoonsnaam>Haddinga</persoonsnaam>,</l>
+					<l>de dochter des Noorschen Koning, in het jaar <datum datum='0404-xx-xx'>440</datum></l>
+					<l>geboren.</l>
+					<l>470</l>
+					<l>Is de Vader <persoonsnaam>Odicaldus</persoonsnaam>, zijnde de tweede Koning is hier</l>
+					<l>gestorven, maar tot <locatie>Teklenburg </locatie>begraven, dat toen nog</l>
+					<l>onder desen lande behoorde. Wens. Stave. 1. boek fol. 10.11.</l>
+					<l><datum datum='0700-xx-xx'>700</datum></l>
+					<l>Woonde <persoonsnaam>Harialtus</persoonsnaam>, van deze Stad geboortig en uit een</l>
+					<l>adellijke stam afkomstig op het kasteel dezer stad; hij</l>
+					<l>was getrouwd aan de dochter van <persoonsnaam>Radbodus </persoonsnaam>de 2<hi rend='superscript:true;'>de</hi></l>
+					<l>de naam zijner vrouw was <persoonsnaam>Bolovina</persoonsnaam>, die in &apos;t Jaar</l>
+					<l><datum datum='0713-xx-xx'>713 </datum>na den dood van haar man <locatie>Bolsward </locatie>heeft,</l>
+					<l>gebouwd. Deze <persoonsnaam>Harialt<hi rend='strikethrough:true;'>us</hi> </persoonsnaam>is naderhands, als hij</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>4</l>
+					<l>alleen op de <locatie>Valbrug</locatie> tot <locatie>Medenblik </locatie>den Hollanders</l>
+					<l>Stutte<hi rend='strikethrough:true;'>n</hi>de, dat ze niet met zijn Schoonvader tot de</l>
+					<l>poort zouden indringen, omdat hij zwaarlijk van</l>
+					<l>zijn vijanden verwond was, en zag, dat hij haar niet</l>
+					<l>overmogte, in de Gracht gesprongen, en Jammerlijk verdronken,</l>
+					<l>nadat hij menigmaal om hulp geroepen hadde: is aldaar</l>
+					<l>met alle staat en pracht begraven; ook heeft de Koning</l>
+					<l>zijn Schoonvader aldaar een hooge Pyllaar of Graftnaalde</l>
+					<l>tot zijne Gedachtenisse laten oprichten: Wens. 2 boek, en Stavienses</l>
+					<l>in ’t eerste boek folij. 13. en 14. liet een zoon na <persoonsnaam>Gordiaan</persoonsnaam> genaamd.</l>
+					<l><datum datum='0739-xx-xx'>739</datum>.</l>
+					<l>Heeft <persoonsnaam>Gandobaldus</persoonsnaam> de agste koning hier de eerste Goud</l>
+					<l>en Zilvermunte geslagen, Ziet wensem: lib. 2. pag. 69. Dit</l>
+					<l>blijkt aan zeker opschrift eenes pennings hier achter</l>
+					<l>staande, waarvan nog een bij mij is berustende, doch</l>
+					<l><persoonsnaam>Staviensis </persoonsnaam>wil, dat deze <locatie>Doccum </locatie>tot een volkomen</l>
+					<l>Stad gemaakt heeft. Stavr. lib. 1. fol. 16.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>5</l>
+					<l><datum datum='0754-xx-xx'>754</datum>.</l>
+					<l>Den <datum datum='0754-06-05'>5 Junij</datum>, doch <persoonsnaam>Emmius</persoonsnaam>, en <persoonsnaam>Schotanus </persoonsnaam>zeggen <datum datum='0755-xx-xx'>755</datum>.</l>
+					<l>kwam <persoonsnaam>Bonifacius </persoonsnaam>hier, om het Heidendom tot</l>
+					<l>Christendom om te bekeren; hij was van Northumber¬</l>
+					<l>land uit Engeland geboortig, en uit een Koninklijke</l>
+					<l>stam afkomstig, een zeer verstandig Jongman, alwaarom</l>
+					<l>de <persoonsnaam>Bisschop Willebrordus </persoonsnaam>van <locatie>Utrecht</locatie>, zijnde de Eerste</l>
+					<l>in ordre, Hem tot zijn medehulp aannam, en met</l>
+					<l>groote vrucht gebruikte XIII. Jaren lang, <persoonsnaam>Schotanus</persoonsnaam></l>
+					<l>telt in zijn Cronijk pag: 59 maar vier Jaren; daarna</l>
+					<l>keerde hij naar <locatie>Romen</locatie>, en van daar als Pauselijke</l>
+					<l>gesant naar Duitsland in het Jaar <datum datum='0735-xx-xx'>735</datum>, en wierde</l>
+					<l>van de <persoonsnaam>Paus Gregorius de tweede</persoonsnaam> van die naam</l>
+					<l><persoonsnaam>Bonifacius </persoonsnaam>geheeten daar eerst zijn naam</l>
+					<l><persoonsnaam>Winfridus </persoonsnaam>was, en tot Arts Bisschop van <locatie>Duitsland</locatie></l>
+					<l>gemaakt, in het Jaar <datum datum='0741-xx-xx'>741</datum> van <persoonsnaam>Gregorius de derde,</persoonsnaam> Ziet</l>
+					<l>Emmius pag 59, en na de afzettinge van de Bisschop</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l><pagenumber>6 </pagenumber></l>
+					<l>tot <locatie>Mentz</locatie>, is hij tot die stoel verheven, in welke hij</l>
+					<l>xxi jaeren; kort daarna reisde hij naar <locatie>Utrecht</locatie>,</l>
+					<l>daar hij na het zeggen van <persoonsnaam>Matthijs van der Houwe</persoonsnaam> in</l>
+					<l>het Jaar <datum datum='0736-xx-xx'>736</datum> (als <persoonsnaam>Willebrodus van Utrecht </persoonsnaam>gestorven</l>
+					<l>was) tot tweede Bisschop zoude gekooren zijn hebbende,</l>
+					<l>op de reize tot zijn medegezellen <persoonsnaam>Eobanum </persoonsnaam>en nog vijftig</l>
+					<l>andere, en voer over het water <locatie>Almera </locatie>en het <locatie>Vlie </locatie>in <locatie>Vries¬</locatie></l>
+					<l><locatie>land</locatie>, doende Groote vlijt met predicken, brak de beelden af</l>
+					<l>en stichte kerken en kloostersn en het ging gelukkig</l>
+					<l>voort, maar de Heidenen zulks niet behaagende, hebbende</l>
+					<l>een groote haat tegen hem en zijn gezelschap opgevat;</l>
+					<l>als hij nu aan het water <locatie>Burda </locatie>(dat <locatie>Oostergoo </locatie>en <locatie>wester¬</locatie></l>
+					<l><locatie>goo</locatie> van een Scheit) met zijn volk gekomen was, beval hij</l>
+					<l>alle nieuw gedoopte Christenen op Sacraments dag</l>
+					<l>tot <locatie>Dockum </locatie>bij hem te komen, om na de wijze dier¬</l>
+					<l>tijden het Heilige formsel te ontvangen. Die dag</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>7</pagenumber></l>
+					<l>gekome, zijnde, was hij al in tijds op de bestemde plaats,</l>
+					<l>maar terwijl hij de gelovige verwachte<hi rend='strikethrough:true;'>n</hi>de, ontmoete</l>
+					<l>hem een groot getal ongelovige heidenen, die met het</l>
+					<l>krieken van den dag op hem, en zijn gezelschap aanvielen</l>
+					<l>zijn medegezellen dat ziende, grepen naar geweer, dat</l>
+					<l>haar de tijd verleende, als steenen stokken en diergelijke;</l>
+					<l>doch hij zulks belettende, zeide: dat de dood hem eene</l>
+					<l>aangename gast was, en een afscheid uit dit leven, en</l>
+					<l>eene ingang tot de Eeuwige vreugde, Sij wierden alle</l>
+					<l>gedood namelijk hij en <persoonsnaam>Eobanus</persoonsnaam>, drie Prijsters te weeten</l>
+					<l><persoonsnaam>Wirtung</persoonsnaam>, <persoonsnaam>Walter</persoonsnaam>, en <persoonsnaam>Adelbert</persoonsnaam>, ook drie Lewijten als</l>
+					<l><persoonsnaam>Haimans</persoonsnaam>, <persoonsnaam>Scherbald</persoonsnaam> en <persoonsnaam>Boose </persoonsnaam>en nog vier monniken</l>
+					<l>als <persoonsnaam>Walker</persoonsnaam>, <persoonsnaam>Gunder</persoonsnaam>, <persoonsnaam>Hilder </persoonsnaam>en <persoonsnaam>Bertulf </persoonsnaam>en omtrent</l>
+					<l>nog xxx andere Staeriensis lib i Stelt zijn dood</l>
+					<l>in t jaar. <datum datum='0752-06-15'>752. den 15. Junij.</datum> <persoonsnaam>Emmius </persoonsnaam>verhaalt</l>
+					<l>dat de Moorders zijn boek willende scheuren,</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l><pagenumber>8</pagenumber></l>
+					<l>hetzelve tegen haar wille hebben moeten nalaten, en,</l>
+					<l>dat hetzelve daarna nog onbeschadigd is gevonden</l>
+					<l>en met overblijfselen in het vermaarde Klooster daarna</l>
+					<l>tot zijner gedachtenisse op de plaats van de begane¬</l>
+					<l>moord gebouwd, bewaard, en aan de nakomelingen</l>
+					<l>vertoond en van die-zelve als een heiligheid geëerd en</l>
+					<l>aangebeden wierde: dat de Moorders straks na de</l>
+					<l>begane daad, als zij haar met de buit verzadigen wilden,</l>
+					<l>haar brood in Steen veranderd ziende, welke ter</l>
+					<l>gedachtenisse van deze gebeurde zaak bewaard wierden,</l>
+					<l>en met de wijn, onder de buit gevonden, zich opgevuld</l>
+					<l>hadden, Sijnse oneenig geworden, en zich in hoopen</l>
+					<l>verdeelende, tegen malkanderen opgestaan en hebben met</l>
+					<l>vele wonden de eene den anderen verslagen, Stavr. fol. 16.</l>
+					<l>Ziet men de zelve messen, en gereedschap waarmede zij</l>
+					<l>de Heilige mannen gedood hadden. De Kloosterbouwers,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>9</pagenumber></l>
+					<l>eenige te zamen gedragene aarde Slechtende en zeer</l>
+					<l>bekommerd zijnde om water voor de Kloosterlingen in</l>
+					<l>het bijwezen van <persoonsnaam>Pipini Overste</persoonsnaam>, die te Paarde¬</l>
+					<l>zittende de plaats bezag, en het paard met zijne voeten</l>
+					<l>de aarde slaande, is daar door een wonderwerk een Fontein</l>
+					<l>van zoet water ontsprongen, ziet <persoonsnaam>Schotanij</persoonsnaam>. Chr. Cap. 19.</l>
+					<l>Welke overste Stadhouder in <locatie>Emderland </locatie>zijnde, en <persoonsnaam>Albo</persoonsnaam></l>
+					<l>geheeten, de moorders, zoo veel hij bekomen konde, gestraft</l>
+					<l>heeft <persoonsnaam>Schot</persoonsnaam>. Gr. Chr. pag: 6 Em. pag. 60 <persoonsnaam>Bonifacii </persoonsnaam>ligchaam</l>
+					<l>wierde tot <locatie>Utrecht </locatie>begraven, maar kort daarna het <locatie>klooster</locatie></l>
+					<l><locatie>Fulda</locatie>, dat hij bij zijn leven door de Mildadigheid van</l>
+					<l><persoonsnaam>Caralomannus </persoonsnaam>in &apos;t jaar <datum datum='0742-xx-xx'>742 </datum>gesticht in het <locatie>bosch Buchonia</locatie></l>
+					<l>met nog XII lijken zijner medegezellen gevoerd </l>
+					<l>van</l>
+					<l><persoonsnaam>Lullus,</persoonsnaam></l>
+					<l><persoonsnaam>Bisschop</persoonsnaam> van <locatie>mentz</locatie>, dien hij voormaals tot medehelper</l>
+					<l>verkoren had. <persoonsnaam>Emmius</persoonsnaam>. Pag. 60. en 61. De <persoonsnaam>Jesuwijt Brouwerus</persoonsnaam></l>
+					<l>die dezes martelaars leven beschreven heeft, verhaalt,</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l><pagenumber>10</pagenumber></l>
+					<l>dat hij XIII Jaren aan de Zuidkant van <locatie>Almera </locatie>gepredikt</l>
+					<l>heeft, houdende op drie plaatzen, zijn verblijf, te weten; <locatie>Wijrda</locatie>,</l>
+					<l>daar hij zeven, en <locatie>Attichem </locatie>aan de <locatie>Vecht</locatie>, daar hij drie en</l>
+					<l>ook <locatie>Felissa</locatie>, daar hij insgelijks drie jaren zoude geleerd hebben.</l>
+					<l><persoonsnaam>van der Houwe</persoonsnaam>, lib. 7. Cap. 19, Deze Houwe zegt, dat <persoonsnaam>Bonifaes,</persoonsnaam></l>
+					<l><persoonsnaam>de tweede Bisschop</persoonsnaam> tot <locatie>Utrecht </locatie>is geweest, toen hij na deze</l>
+					<l>Stad vertrok, gelijk hij in het Register der Bisschoppen aanwijst,</l>
+					<l>pag. 282. en. 283, En dat in die stoel XVI Jaren gezeten heeft, Zijn</l>
+					<l>reize naar <locatie>Vriesland</locatie> vermelt hij in dit versje </l>
+					<l>van <persoonsnaam>Melis</persoonsnaam></l>
+					<l><persoonsnaam>Stoke</persoonsnaam>:</l>
+					<l><persoonsnaam>Sinte Boni¬</persoonsnaam></l>
+					<l><persoonsnaam>faes</persoonsnaam> die ontving, Den Stoel, zoo dat hij prediken ging,</l>
+					<l>In <locatie>Vriesland </locatie>ter <locatie>Lauren </locatie>oost, En heeft vermaand, en getroost,</l>
+					<l>Al het volk t Christendom te onfaan, Te <locatie>Dockingen </locatie>quamen hem aan</l>
+					<l>De onbekende wilde Vriesen, Die gelijken verwoede riesen,</l>
+					<l>En hem versloegen met zijn gezellen, Doch, dit voegt hij hier</l>
+					<l>uit zijn zevende boek, Cap. 14. nog bij: <persoonsnaam>Bonifacius </persoonsnaam>den Hessensen</l>
+					<l>in het Christelijk geloof met alle vlijt onderwezen hebbende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>11</pagenumber></l>
+					<l>is in het Jaar.<datum datum='0723-xx-xx'>723</datum>. van den<persoonsnaam> Paus Gregorius de tweede</persoonsnaam> tot</l>
+					<l><locatie>Romen </locatie>ontboden, alwaar hij eene goede Geloofsbelijdenisse</l>
+					<l>gedaan hebbende, hem brieven aan <persoonsnaam>Carolus Martel</persoonsnaam>, als ook</l>
+					<l>aan de Bisschoppen en Prinsen van <locatie>Duitsland </locatie>mede gegêven</l>
+					<l>zijn. </l>
+					<l>Hier ontbreekt</l>
+					<l>wat <persoonsnaam>Risman</persoonsnaam></l>
+					<l>afschreef uit</l>
+					<l><persoonsnaam>M. vander Hou¬</persoonsnaam></l>
+					<l><persoonsnaam>ve</persoonsnaam>, Kantwerk</l>
+					<l>of Chartre (Chron,</l>
+					<l>Leid. 1636, H,</l>
+					<l>269. en 292, in</l>
+					<l>het Ris 14 pag.</l>
+					<l><persoonsnaam>Bonifacius </persoonsnaam>heeft ook, toen hij eeuwige Pauselijke</l>
+					<l>Nuncius of afgezante was, <persoonsnaam>Pipinum </persoonsnaam>na de afzetting van</l>
+					<l>den Franschen Koning, uit het geslachte van <persoonsnaam>Merovacus</persoonsnaam>,</l>
+					<l>binnen de Stad <locatie>Suissons </locatie>tot Koning gekroond in &apos;t Jaar <datum datum='0751-xx-xx'>751</datum>.</l>
+					<l>Ziet Christ. Schot. Vriesche historien pag 59. Voort na den dood</l>
+					<l>van <persoonsnaam>Bonifacius </persoonsnaam>kwam hier <persoonsnaam>Willehadus</persoonsnaam> een Engelsche</l>
+					<l>Prijster, gezonden van <persoonsnaam>Gregorius</persoonsnaam>, Bisschop van <locatie>Utrecht</locatie>, om</l>
+					<l>hier ter plaatze, die nog warm was van het bloed der</l>
+					<l>Martelaren, de wankelende te versterken, en de Heidenen</l>
+					<l>te bekeeren, hetwelke goeden voortgang hadde. Hij nam</l>
+					<l>ook tot zich veele kinderen van de voornaamste en</l>
+					<l>Edelen, om haar van Jongs op in de Evangelische</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l><pagenumber>12</pagenumber></l>
+					<l>waarheid te onderwijzen, Christ Schot. fries. hist lib.2.pag.61.</l>
+					<l><datum datum='0775-xx-xx'>775</datum>.</l>
+					<l>Emm.pag.61. Was deze stad zeer vermaard door het Klooster</l>
+					<l>ter Eere van <persoonsnaam>Bonifacius </persoonsnaam>gebouwd en was toen ter tijd &apos;t oudste</l>
+					<l>in deze Provincie; want, aldus spreekt de<persoonsnaam> Bisschop Rifridus</persoonsnaam></l>
+					<l>van <locatie>Utrecht</locatie>, daar af in zijn brieven: het is eerst gebouwd ten</l>
+					<l>tijde van <persoonsnaam>Pipinus</persoonsnaam>, en daar wierden Regulieren in gezet.</l>
+					<l>Doch naderhands witte Raemonstreiten, alzoo genoemd</l>
+					<l>omdatze in het wit gekleed gingen; hier waren ook nog vele</l>
+					<l>overblijfselen en heiligdommen te vinden, te weten XXXIX</l>
+					<l>ligchamen der Martelaren met <persoonsnaam>Bonifacio </persoonsnaam>omgebragt; ook</l>
+					<l>bewaarde men hiernog en toonde, na de manier der</l>
+					<l>Roomsgezinde, den Casuifel, manipul, Stole, kelk en Euangelie</l>
+					<l>boek van <persoonsnaam>Bonifacius</persoonsnaam>, ook zijn staf en Zilveren beeker,</l>
+					<l>daar hij pleeg uit te drinken. <persoonsnaam>Stavriensses </persoonsnaam>stelt deze kloos¬</l>
+					<l>terbouwinge in het jaar <datum datum='0819-xx-xx'>819</datum>; hij ziet ook een geschrift tot</l>
+					<l><locatie>Dronrijp </locatie>gezien te hebben, meldende, dat het in &apos;t jaar <datum datum='0831-xx-xx'>831</datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>3</pagenumber></l>
+					<l>gebouwd was. Stav. lib. 20. Schotani. beschrijvinge van</l>
+					<l><locatie>Vriesland</locatie>. Cap. 19. Naderhand na het aanwassen der</l>
+					<l>Kloosterlingen van <locatie>Mariengaerde</locatie>, gebouwd <datum datum='1163-xx-xx'>1163 </datum>tot <locatie>Hallum</locatie>,</l>
+					<l>zijn van daar eenige in dit Klooster gezet, ziet <persoonsnaam>Schotanus</persoonsnaam>,</l>
+					<l>777</l>
+					<l>Grote. Chr. libr. 4. ag. 401. Wierde <persoonsnaam>Ludgerus van Wierum</persoonsnaam> in <locatie>Donge</locatie></l>
+					<l><locatie>radeel</locatie> tot eerste Prijster in dit Klooster gesteld # wat een man</l>
+					<l>deze <persoonsnaam>Ludgerus </persoonsnaam>was, kan gezien worden uit Schotanij beschrij</l>
+					<l>vinge van <locatie>Vriesland</locatie>, Zijn Grootvader was geheeten Wiesung,</l>
+					<l># welke Radboden</l>
+					<l>en verder 5 regels</l>
+					<l>uitgelaten.</l>
+					<l>en zijn zoon <persoonsnaam>Tjadgrim</persoonsnaam> (dit was <persoonsnaam>Ludgerus</persoonsnaam> vader) </l>
+					<l>F Hier mist</l>
+					<l>1 p. en 6 regels,</l>
+					<l>over <persoonsnaam>Ludgers</persoonsnaam></l>
+					<l>jeugd.</l>
+					<l><persoonsnaam>F Ludgerus</persoonsnaam></l>
+					<l>heeft in Engeland het diakenschap bediend, <persoonsnaam>Albricus </persoonsnaam>daarna</l>
+					<l>tot Bisschop van <locatie>Keulen </locatie>gekozen zijnde, liet <persoonsnaam>Ludgerum </persoonsnaam>tot</l>
+					<l>Priester van <locatie>Oostergoo </locatie>en <locatie>Westergoo </locatie></l>
+					<l>wijen</l>
+					<l>en stelde zijn zitplaats in</l>
+					<l><locatie>Dockum</locatie>, </l>
+					<l>* Hier 2½ p.</l>
+					<l>* en is naderhand Bisschop tot <locatie>Munster </locatie>geweest. Deze</l>
+					<l><persoonsnaam>Ludgerus </persoonsnaam>is in &apos;t jaar <datum datum='0809-xx-xx'>809 </datum>tot <locatie>Wierum </locatie>gestorven en in zijn</l>
+					<l><locatie>Klooster Warda</locatie> in <locatie>&apos;t Graafschap mark</locatie> begraven als</l>
+					<l>een heilig geëerd. Op den <datum datum='0809-03-26'>26 Maart.</datum> <persoonsnaam>Christ Schotani</persoonsnaam> beschr. Cap. 5.</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><pagenumber>14</pagenumber></l>
+					<l>Schot.</l>
+					<l>en Christ. hist. Fries.pag. 60. en. 61. en bij Emm. pag. 58. 60. 61. en. 62.</l>
+					<l><datum datum='0797-xx-xx'>797.</datum></l>
+					<l><datum datum='0797-07-09'>Den 9 Julij</datum> wierden hier, en tot <locatie>Stavoren </locatie>en <locatie>Ezumerzijl </locatie>eenige</l>
+					<l>schepen toegerust, waarmede zij grooten buit uit <locatie>Jutland</locatie></l>
+					<l>en <locatie>Denemaerken </locatie>haalden en zijn van de Stavoorsche</l>
+					<l>4 Schepen op de <locatie>Laurus</locatie> en twee op de <locatie>Ems </locatie>genomen en hier</l>
+					<l>in deze Stad opgebracht. Doch hadden vier van de hare</l>
+					<l>voor het <locatie>Vlie </locatie>verlooren, Stavrienses, lib. 2. fol. 10. en 20.</l>
+					<l>834.</l>
+					<l>Liet <persoonsnaam>Mangrardus Canga</persoonsnaam> in het <locatie>klooster Bonifacius</locatie> op het</l>
+					<l>hooge altaar een schoone tafel van het lijden Christus stellen,</l>
+					<l>en begiftigde hetzelve met andere geschenken; zijn zoo <persoonsnaam>Haijo</persoonsnaam></l>
+					<l>schonk hetzelve de groote voor Regtsbrief van S. Magnus</l>
+					<l>Fortema, als ook eenige andere stukken van deze zijn vrouwen</l>
+					<l>grootvader, welke brief hij tot <locatie>Almenum </locatie>uitgeschreven hadde,</l>
+					<l>waarvoor hij aan die kerk een zilveren kelk vereerde <persoonsnaam>Zijn broeder</persoonsnaam></l>
+					<l><persoonsnaam>Bojaldus Jepko van Canga</persoonsnaam>, uit <locatie>Denemarken </locatie>komende en hier</l>
+					<l>stervende, is in hetzelve klooster begraven. Ziet Stavrienses</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>15</pagenumber></l>
+					<l><datum datum='1216-xx-xx'>1216 </datum>Hier ontbreekt <persoonsnaam>Oliviers </persoonsnaam>eerste komst volgens Schot. 308.</l>
+					<l><datum datum='1224-xx-xx'>1224 </datum></l>
+					<l>lib. 2. fol. 21.en 22. In <datum datum='1224-07-xx'>julij </datum>of daaromtrent kwam <persoonsnaam>Olivier </persoonsnaam>weder</l>
+					<l>om een tweede kruisvaart af te kondigen, Christ. Schot.</l>
+					<l><datum datum='1267-xx-xx'>1267</datum></l>
+					<l>lib. 4. pag.113. Emm. lib. 9 pag.132.  Was eenen <persoonsnaam>Gerbrandus</persoonsnaam></l>
+					<l><persoonsnaam>Abt</persoonsnaam> in dit <locatie>klooster van Bonifacius</locatie>. Emmius, lib XI. pag.165.</l>
+					<l>de oneenigheden en namen van de Schieringers en vetkoopers</l>
+					<l><datum datum='1270-xx-xx'>1270</datum></l>
+					<l>komen op .1264. Gingen van hier eenige Edellieden naar het</l>
+					<l>heilige land, om de Caraceenen van daar te helpen ver¬</l>
+					<l><datum datum='1305-xx-xx'>1305</datum></l>
+					<l>drieven, <persoonsnaam>Wensemius</persoonsnaam>. Den <datum datum='1305-03-10'>10 Maart </datum>wierde in de <locatie>Middelzee</locatie>,</l>
+					<l>dat is de <locatie>Zuiderzee</locatie>, een gewapende zee-ridder gevangen, die </l>
+					<l>door het land wierde omgevoerd, en is na drie weken hier</l>
+					<l>gestorven. J. J. Twisk. en Stavriensis, lib. 3. fol. 36.</l>
+					<l><datum datum='1313-xx-xx'>1313</datum></l>
+					<l>Verdrag met <locatie>Groningen </locatie>volgens Schot. 168; Emmius 190.</l>
+					<l><datum datum='1387-xx-xx'>1387</datum></l>
+					<l>Zijn hier door eene hooge Watervloed vierhonderd menschen</l>
+					<l>verdronken. Wens. en Emm. lib. 5. pag.179.  Desgelijks zijn in &apos;t</l>
+					<l>jaar <datum datum='1218-xx-xx'>1218 </datum>hier 400 menschen verdronken; want de meester</l>
+					<l>der Praemonstreiten ordre zijn Monniken latende tellen,</l>
+					<l>om te weten wat schade hij geleden had, bevond hier¬</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l><pagenumber>16,</pagenumber></l>
+					<l>en tot <locatie>Mariengaarde </locatie>elks 400 te missen. Christ. Schot. lib 5. pag 147.</l>
+					<l>ontbr. op pag. <datum datum='1398-xx-xx'>1398</datum></l>
+					<l><persoonsnaam>Hertog Albregh</persoonsnaam>t. cap. 13, Emm lib. 16.</l>
+					<l><datum datum='1413-xx-xx'>1413.</datum></l>
+					<l>Hebben de Schieringers deze Stad ingenomen en versterkt</l>
+					<l>tegen de Vetkoopers en Groningers, doch het volgende Jaar¬</l>
+					<l>Hier ontbreken 48 bladz.</l>
+					<l><datum datum='1414-xx-xx'>1414</datum></l>
+					<l><datum datum='1414-xx-xx'>1414</datum> wierden de wallen neergeworpen. Is de vermaarde <persoonsnaam>Gemma</persoonsnaam></l>
+					<l><datum datum='1500-xx-xx'>1500</datum></l>
+					<l><persoonsnaam>Frisius </persoonsnaam>hier geboren, een man van groote geleerdheid; hij is</l>
+					<l>Professor in de Medicinen en mathematicus tot <locatie>Lueven</locatie></l>
+					<l>geweest en daar <datum datum='1558-xx-xx'>1558 </datum>aan de Pest gestorven. Christ. Schot. andere</l>
+					<l>zeggen dat hij kreupel geboren is, en in het <locatie>klooster van</locatie></l>
+					<l><locatie>S. Bonifacius</locatie> de gebeenten der martelaren aanbiddende,</l>
+					<l>zijn gezondheid bekomen heeft. Hamcon. lib. 2.</l>
+					<l>ontbr. 1 bl.</l>
+					<l><datum datum='1504-xx-xx'>1504</datum>.</l>
+					<l><datum datum='1504-07-05'>Den 5. Julij</datum> liet de <persoonsnaam>Hertog Georg van Saxen</persoonsnaam> zich in <locatie>Dockum</locatie>,</l>
+					<l><locatie>Dongeradeel</locatie>, en <locatie>Dantumadeel </locatie>huldigen, Stellende hier tot</l>
+					<l><locatie>Kollum </locatie>en op andere Havens Excijsmeesters. Christ. lib. XIII</l>
+					<l>pag. 495. en 497.<persoonsnaam> Taco Heemstra </persoonsnaam>kastelein en <persoonsnaam>Tjalling Lieuwes,</persoonsnaam></l>
+					<l>^ 4</l>
+					<l><persoonsnaam>Jellinga Exijsmeester</persoonsnaam> dezer stad. Chr. Schot. pag. 48<hi rend='strikethrough:true;'>6</hi> ^</l>
+					<l>ontbreken</l>
+					<l>20 bladz.</l>
+					<l><datum datum='1556-xx-xx'>1556</datum></l>
+					<l>Heeft<persoonsnaam> Botte Mockema</persoonsnaam> hier een huis gebouwd, het welk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>17</pagenumber></l>
+					<l>naderhand de Admiraliteit voor een vergaderplaats</l>
+					<l>of Collegie gediend heeft, en daarom de oude Collegie</l>
+					<l><datum datum='1557-xx-xx'>1557</datum></l>
+					<l>genoemd wierde. Was het duren tijd; hier uit is er</l>
+					<l>ten platten lande groot gebrek geweest. <persoonsnaam>Andries Grijf,</persoonsnaam></l>
+					<l><persoonsnaam>Grietman</persoonsnaam> van <locatie>Utingeradeel</locatie>, teekent aan, hoe haastig</l>
+					<l>dat deze ondragelijke duurte zij verandert; een Roggen</l>
+					<l>brood (zoo hij schrijft) van elf pond gold tegen het <datum datum='1557-06-xx'>begin</datum></l>
+					<l><datum datum='1557-06-xx'>van Junij</datum> elf stuivers, en terstond daarna vier stuivers.</l>
+					<l>Een ander schrijver verhaalt, dat zulken brood wierde</l>
+					<l>gekocht tot <locatie><hi rend='underlined:true;'>Bolsward</hi> </locatie>voor zestien en een halve stuiver</l>
+					<l>te <locatie><hi rend='underlined:true;'>S: Nicolaas</hi></locatie> gaf men veertien stuivers, tot <locatie><hi rend='underlined:true;'>Slooten</hi></locatie></l>
+					<l>XXIJ en tot <locatie><hi rend='underlined:true;'>Workum</hi> </locatie>XXV stuivers; deze duurte begon</l>
+					<l>met vasten avond en duurde tot <datum datum='1557-xx-xx'>Pinxter maandag</datum> toe en</l>
+					<l>sloeg toen terstond af, alzoo dat men des avonds voor vijf </l>
+					<l>stuivers mogt koopen, daar men des morgens nog de voornoem</l>
+					<l>de prijs had moeten geven. Deze spoedige verandering</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l><pagenumber>18</pagenumber></l>
+					<l>schreef een ieder de Goddelijke voorzienigheid toe. Twee of</l>
+					<l>drie honderd schepen, met rogge geladen, kwamen kort¬</l>
+					<l>op malkander van Oosten in <locatie>Holland</locatie>; deze duurte, toen ze</l>
+					<l>op het hoogste was, maakte een groote morringe der gemeente</l>
+					<l>tegen hare overheden, zoo dat het scheen, te zullen uitbreken</l>
+					<l>tot een algemeen oploop. Men leide de overheden te laste,</l>
+					<l>dat zij met de toelaating van het uitvoeren der graanen deze</l>
+					<l>duurte hadden veroorzaakt, daar de Keizer in de Jaren <datum datum='1546-xx-xx'>1546</datum></l>
+					<l>en <datum datum='1554-xx-xx'>1554 </datum>de uitheemsche opkoopingen en uitvoeringen met</l>
+					<l>scherpe placcaten verboden hadde. Christ. Schot. lib XX pag.</l>
+					<l>702. Emm. lib. LX. pag. 955. Stavriensis. lib XIJ. fol. 124. tot hiertoe</l>
+					<l><persoonsnaam>Stavrienses</persoonsnaam>. Ook vind ik aan een huis op de hoek van de kleine</l>
+					<l><locatie>Oosterstraat </locatie>bij de <locatie>Stadswaag</locatie> alhier een steen, waarin deze</l>
+					<l>duurte gemeldt wordt, luidende aldus: Het werk des Heeren</l>
+					<l>is wonderlijk in de menschen: in den Jare <datum datum='1557-xx-xx'>1557</datum> omtrent,</l>
+					<l><datum datum='1557-xx-xx'><hi rend='underlined:true;'>1557</hi></datum>.</l>
+					<l>vastenavond kocht men een lopen rogge voor vier</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>19</hi></pagenumber></l>
+					<l>goud guldens en omtrent <datum datum='1557-xx-xx'>Pinkster maandag</datum> kocht men</l>
+					<l>vier loopen voor het zelve geld. Was eene <persoonsnaam>Henricus</persoonsnaam></l>
+					<l><persoonsnaam><datum datum='1565-xx-xx'><hi rend='underlined:true;'>1565</hi></datum></persoonsnaam></l>
+					<l><persoonsnaam>Kessel abt</persoonsnaam> tot <locatie>Dockum</locatie>, welke met nog VI andere abten</l>
+					<l>een brief onderteekenden wegens het beroepen eener</l>
+					<l>Sinode, hetwelk den <datum datum='1565-10-10'>tienden October</datum> zoude gehouden</l>
+					<l>worden tot <locatie>Utrecht</locatie>, welke last zij schreven niet te</l>
+					<l>kunnen op volgen zonder believen der Staten des Lands.</l>
+					<l>Christ. Schot. lib. XX. pag. 720. Was het Allerheiligenvloed,</l>
+					<l><datum datum='1570-xx-xx'><hi rend='underlined:true;'>1570</hi></datum></l>
+					<l>waardoor alleen in deze Stad 200 menschen verdronken</l>
+					<l>zijn, en met <locatie>Dongeradeel </locatie>tezamen 5200. ziet <persoonsnaam>Christ. Schot,</persoonsnaam></l>
+					<l>lib XXI pag. 757. want hij zegt, dat het water wel elf voeten</l>
+					<l>ontbreken 27 bladz.</l>
+					<l><hi rend='underlined:true;'><datum datum='1582-xx-xx'>1582</datum>.</hi></l>
+					<l>boven het land stonden. Wierde de stad vast gemaakt en</l>
+					<l>met zes dwingers versterkt en bekwame grachten voorzien,</l>
+					<l>en van den <datum datum='1582-07-10'>10 Julij</datum> tot den ingang van <datum datum='1582-10-xx'>October </datum>geheelijk</l>
+					<l>opgemaakt. <persoonsnaam>Winsem</persoonsnaam>. doch. <persoonsnaam>Christ. Schot</persoonsnaam> rekent dit in het</l>
+					<l>voorgaande Jaar. <datum datum='1581-xx-xx'>1581</datum>. daar het aan de penningen ter</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>20</hi></pagenumber></l>
+					<l>gedachtenisse dezer versterkinge anders blijkt, gelijk ook aan</l>
+					<l>de boeken van het weeshuis, leggers geheeten, welk weeshuis</l>
+					<l>het wachthuis aan de <locatie>Woudpoort </locatie>toekomt en ook de <locatie>Scher</locatie></l>
+					<l><locatie>mer fenne</locatie>, nu <locatie>Schermerweide </locatie>geheeten, daar de kleine</l>
+					<l>bleek aan vast geweest is, toebehoord heeft.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>21</hi></pagenumber></l>
+					<l><persoonsnaam>Ubbo Dux</persoonsnaam></l>
+					<l><locatie>Frisiae </locatie><locatie>Doccumburg</locatie></l>
+					<l>condidit 248 Ubi Goneto</l>
+					<l>baldus Rex civitatem</l>
+					<l><locatie>Doccum</locatie> manibus.</l>
+					<l>cinxit monitam.</l>
+					<l>duream cudit <datum datum='0739-xx-xx'>739</datum></l>
+					<l>moenia diruta <datum datum='1414-xx-xx'>1414</datum>.</l>
+					<l>restaurata <datum datum='1419-xx-xx'>1419 </datum>diruta</l>
+					<l><datum datum='1422-xx-xx'>1422 </datum>restaurata <datum datum='1516-xx-xx'>1516</datum></l>
+					<l>diruta <datum datum='1531-xx-xx'>1531</datum> restau</l>
+					<l>rata <datum datum='1582-xx-xx'>1582</datum>.</l>
+					<l>Si. dominus. non. custodiat. urbum. frustra. vigilat. custos. ps: 127: 1.</l>
+					<l>SP  000c  QD</l>
+					<l><locatie>DOCCUM</locatie>.</l>
+					<l><datum datum='1583-xx-xx'><hi rend='underlined:true;'>1583</hi></datum>.</l>
+					<l>¬is de driepijpen gemaakt door <persoonsnaam>Pieter Pietersen</persoonsnaam>. Oud Resol¬</l>
+					<l><datum datum='1584-xx-xx'><hi rend='underlined:true;'>1584</hi></datum>.</l>
+					<l>boek folij. 3. Maakte men hier zelve de Burgemeesters, die</l>
+					<l>VI in getal waren en aldus gekozen wierden. In de <datum datum='1584-01-xx'>Maand </datum></l>
+					<l><datum datum='1584-01-xx'>Januarij</datum> wierden de Burgers door klokgeklip te zamen</l>
+					<l>geroepen in de kerk, alwaar dan dezelve XII mannen verkoren,</l>
+					<l>uit elken espel drie, want de stad in IV Espelen verdeeld</l>
+					<l>was; deze XIJ wierden op VI gebragt door de Magistraat,</l>
+					<l>hetwelke des avonds op het Raadhuis geschiede; de namen</l>
+					<l>van deze zes wierden dan na het Hof gezonden, dat</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>22</hi></pagenumber></l>
+					<l>dan voorts de zaak verrigte,<hi rend='strikethrough:true;'>nde</hi> en voort daarna aan de</l>
+					<l>Stadhouder kwam, blijvende <locatie>Leeuwarden </locatie>aan &apos;t  Hof en de</l>
+					<l>Magistraat dat Jaar aldaar onveranderd. Doch het vol¬</l>
+					<l><datum datum='1585-xx-xx'><hi rend='underlined:true;'>1585</hi></datum></l>
+					<l>gende, zijnde </l>
+					<l><datum datum='1585-xx-xx'>1585</datum>,</l>
+					<l>heeft <persoonsnaam>Graaf Willem</persoonsnaam> de andere steden met Bur¬</l>
+					<l>gemeesters uit het dubbele tal voorzien, hetwelk de andere</l>
+					<l>twee als <locatie>Leeuwarden </locatie>en <locatie>Franeker </locatie>haar zochten af te praten,</l>
+					<l>willende dat zij zelve door het lot, gelijk zij, hare Burgemeesters</l>
+					<l>zouden maken; maar de IX andere steden gaven tot antwoord,</l>
+					<l>het was veel verzekerder, om goede, bekwame mannen in de</l>
+					<l>Magistraat te krijgen, wanneer zij bij</l>
+					<l>kiezen.</l>
+					<l>den stadhouder gekozen</l>
+					<l>wierden als wanneer zij zelfs zouden ^ Ziet <persoonsnaam>E. van Rheidt</persoonsnaam>,</l>
+					<l>lib IV pag. 118.</l>
+					<l>277</l>
+					<l>En zoo is dit altijd in gebruik gebleven.</l>
+					<l><datum datum='1588-xx-xx'><hi rend='underlined:true;'>1588</hi></datum></l>
+					<l>Is de lange pijp over de vaart geleid. <hi rend='strikethrough:true;'>Is de groote Kerk af¬</hi></l>
+					<l><hi rend='strikethrough:true;'>gebroken, de kleine kerk met eene uitlegging gemaakt door</hi></l>
+					<l><datum datum='1589-xx-xx'>1589</datum></l>
+					<l>O<hi rend='strikethrough:true;'>lfert Edes; de kerk toren gemaakt</hi>. Schijnt de kerk dezer</l>
+					<l><datum datum='1589-xx-xx'><hi rend='underlined:true; strikethrough:true;'>1589</hi></datum></l>
+					<l>stad gebouwd te zijn en is S. Marten toegeheiligd, alwaar</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>##</pagenumber></l>
+					<l>eerst. <locatie>S. Bonifacii kerk</locatie> gestaan heeft, daar de toorn en het</l>
+					<l>klooster nog haar naam van behouden hebben. Te dezer</l>
+					<l>tijd was ook groote onrust tusschen de Pastoren van deze</l>
+					<l>Stad, en <locatie>Franeker</locatie>. Wins. <datum datum='1589-04-09'>den 9 April.</datum></l>
+					<l>Bygevoegd</l>
+					<l>[ &apos;t  Raadhuis gemaakt</l>
+					<l>aan <persoonsnaam>kapt. Tjeerd Tjebbes</persoonsnaam> voor 900 Guldens.] Wierde de Stads</l>
+					<l><datum datum='1593-xx-xx'><hi rend='underlined:true;'>1593</hi></datum></l>
+					<l>waag gebouwd in welke een groote handel van Vijfschacht</l>
+					<l>en filemort pleeg te geschieden, waarom hier ook het Stads</l>
+					<l>wapen als de keur; op de looden geslagen en na andere Steden</l>
+					<l><datum datum='1596-xx-xx'><hi rend='underlined:true;'>1596</hi>.</datum></l>
+					<l>de gemaakte Stoffen verzonden wierden. Wierde hier het</l>
+					<l>Collegie der Admiraliteit opgericht, waarvan anno <datum datum='1600-xx-xx'>1600</datum></l>
+					<l><persoonsnaam>Sjoerd Ulbes Sprong Collecteur</persoonsnaam> en <persoonsnaam>Willem van Heteren Clerk</persoonsnaam></l>
+					<l>was. Van de Houwe. lib. 2. Cap. XI. pag.165. Stond hier een man</l>
+					<l><datum datum='1598-xx-xx'><hi rend='underlined:true;'>1598</hi></datum></l>
+					<l>van <locatie>Driesum</locatie>, <persoonsnaam>Berend Kuiper</persoonsnaam> genaamd, in de nieuwe dwinger</l>
+					<l>op Schildwacht, en wierde een dier achter de wal gewaar,</l>
+					<l>hetwelk zich eerst als een hond en daarna als een kalf vertoonde,</l>
+					<l>en naderende, deze man een groot stuk vleesch uit de zijde nam,</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l><pagenumber>24</pagenumber></l>
+					<l>zoo dat men het herte konde leggen zien, door welke wonde</l>
+					<l>hij wel zeven weken en vier dagen voor dood ter bedde lag,</l>
+					<l>behoudende alleenlijk een roode plek op zijn wang, en zoo lang</l>
+					<l>hij die behield, heeft zijn wijff hem niet willen laten</l>
+					<l>begraven; na deze tijd is hij ook gezond geworden en heeft</l>
+					<l>noch vijf kinderen bij zijn vrouw gehad. Hij verhaalde bij</l>
+					<l>gelegenheid, dat hij op eenige plaatsen geweest had, daar</l>
+					<l>het zeer ellendig, en ook, daar het zeer vermakelijk was,</l>
+					<l>zeggende, tegen hem gezegd te zijn, als hij wel leefde, dat hij</l>
+					<l>dan die vermakelijk</l>
+					<l>heid</l>
+					<l>zoude erlangen: hij is ook menigmaal</l>
+					<l>vol begeerte geweest daartoe te geraken. Het was wonderlijk</l>
+					<l>dat deze man, nu tot zijne vorige gezondheid komende,</l>
+					<l>nooit heeft willen vertellen wat hij gezien of gehoord had,</l>
+					<l>zeggende hem zulks verboden te zijn. Het eerste dat hij leven¬</l>
+					<l>dig wierd, zat zijn <persoonsnaam>wijf, Marthje</persoonsnaam> geheeten, met zijn broeder</l>
+					<l>bij het vuur; zoo begon hij de rechter voet of de groote toon</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>25</pagenumber></l>
+					<l>van die voet te roeren. Doe meenden de vrouw en broeder, dat</l>
+					<l>een muis bij hem in Stroo omliep, doch niets vernemende,</l>
+					<l>gaan weder bij het vuur zitten en niet meer om hem den¬</l>
+					<l>kende, is hij ten laatste overeinde gerezen en heeft drinken</l>
+					<l>gevorderd; als nu de wonde begon te heelen, liep dezelve</l>
+					<l>zoo zeer toe, dat hij genoodzaakt was een kussen tusschen</l>
+					<l>het ligchaam en den arm te dragen, op dat die beide niet</l>
+					<l>aan malkander zouden vastgroeijen. Dit heb ik in geene boeken</l>
+					<l>gevonden, maar van een oude vrouw gehoord, die bij hem</l>
+					<l>gewoond en hij de gansche zaak menigmaal verhaald hadde.</l>
+					<l><datum datum='1608-xx-xx'><hi rend='underlined:true;'>1608</hi></datum></l>
+					<l>staat niet</l>
+					<l>in <persoonsnaam>Hesmans</persoonsnaam></l>
+					<l>JVS.</l>
+					<l>[ Volgs. <persoonsnaam>V.G.Hesman</persoonsnaam>.] Den <datum datum='1608-05-16'>16 Me</datum>i is het blaauw huis, staande</l>
+					<l>aan de zijl gekocht van <persoonsnaam>Juffrouw Aldegonde van Achlen</persoonsnaam></l>
+					<l>en van zelven <persoonsnaam>J<hi rend='superscript:true;'>r</hi>. Caerl van Unia</persoonsnaam>, haren man voor den som van</l>
+					<l>Dertienhonderd Guldens en twee Gulden Portugaloisers tot</l>
+					<l>een geschenk van haar Dochterken alles vrij schadeloos</l>
+					<l>Geld tot een plaats om een nieuw Raadhuis te bouwen.</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>26</hi></pagenumber></l>
+					<l>Oud Res. Boek folij 106. en 108. Is het nieuw Raadhuis en</l>
+					<l>Sch@@@ @@@@</l>
+					<l>een ander</l>
+					<l>HS over</l>
+					<l><persoonsnaam>J.J.K. Lier</persoonsnaam></l>
+					<l>toorn door de <persoonsnaam>Gecomm Binke Gabes</persoonsnaam> Cum Soc. besteed te</l>
+					<l>maken aan <persoonsnaam>Jacob Lous </persoonsnaam>voor een somma 5950 Caroli Guldens</l>
+					<l><datum datum='1608-xx-xx'><hi rend='underlined:true;'>1608</hi></datum></l>
+					<l>Resolutie Boek. folij. 116. Is het nieuw Raadhuis</l>
+					<l>bijgevoegd</l>
+					<l>te zijn.</l>
+					<l>gebouwd onder &apos;t opzigt van <persoonsnaam>Burg<hi rend='superscript:true;'>r</hi>. Pieter Augustinus</persoonsnaam>,</l>
+					<l><persoonsnaam>Pieter Jansen Veltdriel </persoonsnaam>en benevens de <persoonsnaam>Burg<hi rend='superscript:true;'>r</hi>. de Bouwmeester</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Cornelis</persoonsnaam>, folij. 118, buitenwerk volgens bestek zoo aan</l>
+					<l>de Galerije om den Oostergevel als binnen aan de Schoor¬</l>
+					<l>steen als anderzins geaccordeerd op 535 Guldens en daar</l>
+					<l>en boven een Zilvere kroes van .50. Guld<hi rend='superscript:true;'>s</hi>. Oud. Res<hi rend='superscript:true;'>tie</hi>. boek. folij .119.</l>
+					<l><datum datum='1611-xx-xx'><hi rend='underlined:true;'>1611</hi> </datum></l>
+					<l>Den <datum datum='1611-07-10'>10. Julij</datum> zijn volgens genomen Resolutie .a. den <datum datum='1610-07-29'>29 Julij 1610</datum></l>
+					<l>over het bouwen van het <locatie>Weeshuis te Dockum</locatie>, tot opzigt</l>
+					<l>gesteld, <persoonsnaam>Burg<hi rend='superscript:true;'>rs</hi>. Haije Lutiens en Sijtze Fokkes</persoonsnaam>, <persoonsnaam>burger hopman</persoonsnaam></l>
+					<l><persoonsnaam>en Hendrik Jansen</persoonsnaam> en<persoonsnaam> Jakob Upts </persoonsnaam>om alles op &apos;t prophijtelijks</l>
+					<l><datum datum='1614-xx-xx'>1614</datum></l>
+					<l>folij .125. Na het uitwijzen van des Weeshuis leggers zoude</l>
+					<l>hier hetzelve Weeshuis zijn gebouwd. Emm. Is de kleine</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>27</hi></pagenumber></l>
+					<l>klok in de Groote toorn vergooten door <persoonsnaam>Jan en Franciscus</persoonsnaam></l>
+					<l><persoonsnaam>Simons</persoonsnaam> den <datum datum='1614-07-12'>12 Julij </datum>aangenomen folij .131. Is het klokspel</l>
+					<l><datum datum='1615-xx-xx'><hi rend='underlined:true;'>1615</hi></datum></l>
+					<l>op &apos;t Raadhuis gemaakt door<persoonsnaam> Jan Simons</persoonsnaam> voor &apos;t maakloon</l>
+					<l><datum datum='1618-xx-xx'><hi rend='underlined:true;'>1618</hi>.</datum></l>
+					<l>450 Gld<hi rend='superscript:true;'>s</hi>. folij .135.] Is het nieuwe Collegie der Admiraliteit</l>
+					<l><datum datum='1627-xx-xx'><hi rend='underlined:true;'>1627</hi></datum></l>
+					<l>gebouwd.<datum datum='1627-07-09'> Den 9 Julij </datum>is <persoonsnaam>Diederik Raphaels Kamphuizen</persoonsnaam></l>
+					<l>hier gestorven, en ook begraven. Twee mannen van <locatie>Amsterdam</locatie></l>
+					<l>komende, lieten bij nacht het graf openen en haalden het</l>
+					<l>Bekkeneel daaruit, en hebben hetzelve als een heiligdom</l>
+					<l>mede genomen, ofschoon de doodgravers niet wisten of dit het</l>
+					<l>hoofd van hem of van een ander was. <persoonsnaam>C. Schotanus </persoonsnaam>Beschrijvinge</l>
+					<l><datum datum='1628-xx-xx'><hi rend='underlined:true;'>1628</hi></datum></l>
+					<l>Heeft de dappere held <persoonsnaam>Pieter Pietersen Hein</persoonsnaam> van <locatie>Delfshaven</locatie></l>
+					<l>Generaal met hulpe van <persoonsnaam>Hendrik Kornelis</persoonsnaam>, toegenaamd</l>
+					<l>de Koning van <locatie>Amsterdam</locatie>, als Admiraal, naar West</l>
+					<l>indien gezeild op den <datum datum='1628-09-08'>8 Sept</datum> door Godshulpe den Spaanschen</l>
+					<l>zilvervloot van Nova Hispania in de <locatie>baije van Mantanca</locatie></l>
+					<l>aan het <locatie>Eiland Kuba </locatie>veroverd zonder eenige moeite of</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>28</hi></pagenumber></l>
+					<l>tegenstand der Spanjaarden; zij bestond in XV. schepen</l>
+					<l>daaronder IV Gallioenen en nog twee, die aan den grond</l>
+					<l>geraakten, daar van de vier Gallioenen en nog een schip</l>
+					<l>door haar veroverd en mede gebragt wierden; de andere zijn</l>
+					<l>verbrand; de schat door haar bevochten was zeer groot. te¬</l>
+					<l>weten 156,499¼ ponden zilver, nog 238 kasten en vijf staven</l>
+					<l>alle zilver, boven dit nog een groote Rijkdom van andere</l>
+					<l>waren, welke buit hij den <datum datum='1629-01-09'>9 Januarij 1629</datum> binnen bragt en</l>
+					<l>den XIV wierde hij op het heerlijkste bij de Hoogmogende</l>
+					<l>Heeren Staten ingehaald, en van den Prins tot Luitenant.</l>
+					<l>Admiraal gemaakt, en is in die<hi rend='strikethrough:true;'>n</hi> waardigheid den <datum datum='1629-05-28'>28<hi rend='superscript:true;'>sten</hi>. Mei</datum></l>
+					<l>uit <locatie>Goeree </locatie>in zee geloopen en den <datum datum='1629-06-18'>18 Junij</datum> in &apos;t vervolgen van drie</l>
+					<l>duinkerkers met een kogel van een grof geschut door zijn schouder</l>
+					<l>blad geschoten en terstond gestorven en den <datum datum='1629-07-04'>4 Julij</datum> tot <locatie>Delft</locatie></l>
+					<l>zeer Statelijk in de kerk ter aarde besteld met de vlag op zijn</l>
+					<l>grafstede; welke vlag door een Dockumer<persoonsnaam> Jeppe Nittes </persoonsnaam>van den</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>29.</hi></pagenumber></l>
+					<l>Spaanschen Admiraal de Anna afgehaald is van de zilvervloot.</l>
+					<l><datum datum='1630-04-11'><hi rend='underlined:true;'>1630</hi></datum></l>
+					<l><datum datum='1630-04-11'>Den 11 April</datum> zijn op het Noorderwad van de E.E. Manhafte</l>
+					<l><persoonsnaam>kapiteins Hendrik Tijmens</persoonsnaam> en <persoonsnaam>Wouter Jeppes</persoonsnaam> van <locatie>Anjum</locatie>,</l>
+					<l>13 Zeerovers gevangen, van de welke den <datum datum='1630-08-18'>18 Augs</datum>. 5 gehangen</l>
+					<l>zijn, als <persoonsnaam>Gerben Tjerks</persoonsnaam> van <locatie>workum </locatie>oud 30 jaren, <persoonsnaam>Jens Sterkelsen</persoonsnaam></l>
+					<l>van <locatie>Sonderborg </locatie>in <locatie>Holstein </locatie>26, en <persoonsnaam>Bartholomeus Luchting</persoonsnaam></l>
+					<l>van <locatie>Brugge</locatie> in <persoonsnaam>Vlaander </persoonsnaam>18, nog een <persoonsnaam>Engelsman Franciscus</persoonsnaam></l>
+					<l>geheeten, oud 23 Jaren; deze beklaagde zich zeer en zijn vrouw</l>
+					<l>kwam nog om voor hem te bidden, doch te laat; nog een </l>
+					<l><persoonsnaam>Marten Migchiels</persoonsnaam> van <locatie>Enkhuizen </locatie>20 Jaren; de zesde, zijnde</l>
+					<l>de kok, wierd om zijn Jonkheid met geeselen vrij gelaten. Zij</l>
+					<l>wierden acht sterk gevangen en hier in de stad gebragt,</l>
+					<l>waarvan zes uitbraken en vier achterhaald wierden, maar</l>
+					<l>twee weg geraakten, in het eerste van den aanval is de <persoonsnaam>kapitein</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Jansen </persoonsnaam>met vijf ontvlucht. Als deze zes geregt wierden,</l>
+					<l>was de toeloop van menschen zoo groot, dat de <locatie>keetenbrug</locatie></l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>30</hi></pagenumber></l>
+					<l>instorte. Het scheepje van deze rovers</l>
+					<l>heeft</l>
+					<l>hier zoo lang gelegen,</l>
+					<l>tot dat geheel verrot was; te dier tijd stond de zuiderbint</l>
+					<l><datum datum='1631-xx-xx'><hi rend='underlined:true;'>1631</hi></datum></l>
+					<l>van de Galg in &apos;t water. Was <persoonsnaam>doctor Joannes Veltriel </persoonsnaam>wegens</l>
+					<l>de staten dezer Nederlanden voor Ambassadeur aan den</l>
+					<l>Grootvorst van moscovia, en is <datum datum='1649-04-xx'>1649 in April </datum>overleden.</l>
+					<l><datum datum='1632-xx-xx'><hi rend='underlined:true;'>1632</hi></datum>.</l>
+					<l>Zijn de boomen om de Stadswallen geplant.</l>
+					<l><datum datum='1633-xx-xx'><hi rend='underlined:true;'>1633</hi></datum>.</l>
+					<l>Ontstond hier groote onrust onder de Borgerij wegens het</l>
+					<l>opdringen van eenige nieuwe lasten.</l>
+					<l><datum datum='1635-xx-xx'><hi rend='underlined:true;'>1635</hi></datum>.</l>
+					<l>Wierde hier een groote Lotterij aangesteld tot het bouwen</l>
+					<l>van eene oude mannehuis, maar had geen voortgang</l>
+					<l>schoon het veel geld opbragt.</l>
+					<l><datum datum='1637-xx-xx'><hi rend='underlined:true;'>1637</hi></datum></l>
+					<l>Wierde het getal der Burgemeesteren en Gemeenslieden</l>
+					<l>vermeerderd, de Burgemeesters tot acht en de andere</l>
+					<l>tot vier en twintig. [zamen 32 Namen der Burgemeesters</l>
+					<l>Bygevoegd</l>
+					<l><locatie>Groote Breedstraat</locatie> <locatie>Espel</locatie>. <persoonsnaam>Willem Lourens.</persoonsnaam> <persoonsnaam><hi rend='underlined:true;'>C. van Heerman</hi></persoonsnaam></l>
+					<l><locatie>Kleine Breedstraat</locatie> <locatie>Espel</locatie>. <persoonsnaam>Popke Gabes Gerbrant Hottinga.</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>31</hi>.</pagenumber></l>
+					<l><locatie>Legeweg </locatie><locatie>espel</locatie>. <persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Johannes Veltdriel.</persoonsnaam> <persoonsnaam>Johannes Gerks</persoonsnaam></l>
+					<l><locatie>Blokhuis </locatie><locatie>espel</locatie>. <persoonsnaam>Hendrik Dijonijsius</persoonsnaam>. <persoonsnaam>Tjaerdt Gauma</persoonsnaam></l>
+					<l>Oud Resoltie boek fol 249 en volgens.]</l>
+					<l><datum datum='1638-xx-xx'><hi rend='underlined:true;'>1638</hi></datum></l>
+					<l>Is het vismerkt met de Mijnnerije opgericht tot Stads</l>
+					<l>voordeel, en gerief der schippers en gold de eerste Kabeljauw.</l>
+					<l><datum datum='1646-xx-xx'><hi rend='underlined:true;'>1646</hi></datum></l>
+					<l>Drie Carol. Guldens. Wierde de zitplaats der Admiraliteit</l>
+					<l><datum datum='1647-xx-xx'><hi rend='underlined:true;'>1647</hi></datum>.</l>
+					<l>van hier tot <locatie>Harlingen </locatie>verplaatst. [<datum datum='1647-05-26'>Den 26 Mei</datum> brande men</l>
+					<l>hier vreugdevuuren over het sluiten der vrede met den</l>
+					<l>Spaanschen Koning (Schot. besch/.] In dit zelve Jaar is</l>
+					<l>de <locatie>Trekweg </locatie>van <locatie>Dockum </locatie>na <locatie>Leeuwarden </locatie>gemaakt.</l>
+					<l><datum datum='1648-xx-xx'><hi rend='underlined:true;'>1648</hi></datum></l>
+					<l>Zaten de dienaars hier op het Stadhuis en aten eenige rauwe</l>
+					<l>mosselen en de overgeblevene, die zij niet wilden eten, wierpen</l>
+					<l>ze onder de banken; zoo hoorden ze ten laatsten een groot</l>
+					<l>gepiep en gesleep; niet wetende wat er gaande was, verstou¬</l>
+					<l>teden haar eenige met de kaars naar de plaats te gaan</l>
+					<l>daar dit gedruis was, en ziet zoo hadde een van de mosselen</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>32.</hi></pagenumber></l>
+					<l>een levende muis in de zijde gevat en alzoo gevangen.</l>
+					<l><datum datum='1654-xx-xx'><hi rend='underlined:true;'>1654</hi></datum>.</l>
+					<l><persoonsnaam>C. Schot.</persoonsnaam> beschrijving. Is de <locatie>trekweg </locatie>naar <locatie>Groningen </locatie>begon</l>
+					<l><datum datum='1656-xx-xx'><hi rend='underlined:true;'>1656</hi></datum></l>
+					<l>nen, den<datum datum='1656-07-09'> 9 julij in 1656</datum> voltrokken (gedenkpenning)</l>
+					<l><datum datum='1654-xx-xx'>1654</datum></l>
+					<l>Den <datum datum='1654-07-09'>9 julij</datum> is de nieuwe weg en <locatie>trekvaart </locatie>ten gemeene beste</l>
+					<l>van <locatie>Dockum </locatie>naar <locatie>Groningen </locatie>en omliggende landen begon</l>
+					<l>nen, bij de Hoog<hi rend='strikethrough:true;'>e</hi> Magten van <locatie>Vriesland </locatie>toegestaan en bij</l>
+					<l>den Hove voor goed gekeurd en door de dapperheid of gelei van</l>
+					<l>den <persoonsnaam>Prins Frederik van Nassou</persoonsnaam> etc. en magistraat en</l>
+					<l>vroetschap: <persoonsnaam>N.S. Wissema,</persoonsnaam><persoonsnaam> D.F. Fink</persoonsnaam>.<persoonsnaam> J.K. Waelwijk, </persoonsnaam></l>
+					<l><persoonsnaam>J.J. Boom </persoonsnaam>en uit de gemeente <persoonsnaam>Radbodus Hoogakker</persoonsnaam>, <datum datum='1656-xx-xx'>1656</datum></l>
+					<l>voltrokken als <persoonsnaam>Petrus Veltriel Secretaris</persoonsnaam> was, en <persoonsnaam>W. Conradi</persoonsnaam></l>
+					<l><persoonsnaam>Rentmeester</persoonsnaam> wegens de Raad van <locatie>Groningen</locatie>.</l>
+					<l><datum datum='1659-xx-xx'><hi rend='underlined:true;'>1659</hi></datum></l>
+					<l>Bygevoegd</l>
+					<l>Is een nieuwe Vroetmansstoel of bank in de kerk gemaakt</l>
+					<l>en door ieder Burgemeester en Vroetsman daartoe opgeschoten</l>
+					<l>zeventien Gld<hi rend='superscript:true;'>s</hi>. 10 Stuivers en bij versterf van de zelve de</l>
+					<l>nieuwe die in de verstorvene plaats Suxcedeert weder</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>33</hi></pagenumber></l>
+					<l>voldoen en opschieten en zoo vervolglijk.]</l>
+					<l><datum datum='1659-xx-xx'>1659</datum>.</l>
+					<l>Is de groote klok in de toorn gehangen wegende 4359 Ponden</l>
+					<l>en wierde door de Jongens van de <locatie>Stadswaag </locatie>naar de</l>
+					<l>toorn getrokken, Staande het oude met het nieuwe Stads</l>
+					<l>wapen elk op een kant van dezelve klok de VIIJ namen </l>
+					<l>der regerende Burgemeesteren tusschen beiden te weten</l>
+					<l>aan elken kant vier met de naam der Secretaris in</l>
+					<l>dezer voegen:</l>
+					<l><persoonsnaam>Menso Gratema. </persoonsnaam><persoonsnaam>E<hi rend='strikethrough:true;'>i</hi>ccius Monsma.</persoonsnaam></l>
+					<l><persoonsnaam>Jan Jansen Boom</persoonsnaam>. <persoonsnaam>N. Radbodus.</persoonsnaam></l>
+					<l><persoonsnaam>Wilhelmus Unia.</persoonsnaam> <persoonsnaam>Joost Rinia.</persoonsnaam></l>
+					<l><persoonsnaam>Tiberias Donker</persoonsnaam>. <persoonsnaam>J.C. Waelwijk.</persoonsnaam></l>
+					<l><persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Æmilius Huber. Secretaris.</persoonsnaam></l>
+					<l>Boven in de rand om aldus<persoonsnaam> Jurjen Balthazar</persoonsnaam> heeft mij</l>
+					<l><datum datum='1661-xx-xx'>1661</datum></l>
+					<l>gegooten in <locatie>Leeuwarden</locatie>. <datum datum='1659-xx-xx'>1659</datum>. Wierde hier het zeediept</l>
+					<l>met een houten ploeg opgeploegd, dat zeer veel vorderde;</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>34</hi></pagenumber></l>
+					<l>ook waaide te dezer tijd het schip, dienende voor een weerhaan</l>
+					<l><datum datum='1662-xx-xx'><hi rend='underlined:true;'>1662</hi></datum></l>
+					<l>van de toren af. Wierde hier een wijnne tot ontlastinge</l>
+					<l>der schepen gemaakt, die naderhand door kwade opzicht</l>
+					<l>weggeraakt is en in een opslag veranderde; [<persoonsnaam>Albert Classen</persoonsnaam></l>
+					<l>en <persoonsnaam>Meindert Eeges</persoonsnaam> de stoel voor Officiers in de kerk gemaakt</l>
+					<l><datum datum='1665-xx-xx'><hi rend='underlined:true;'>1665</hi></datum></l>
+					<l>Cost 269 - 10 - ..] Den <datum datum='1665-12-05'>5 December</datum> was hier zulken hoogen vloed,</l>
+					<l>dat het water tot de <locatie>woutpoort</locatie> uitstroomde, en men leevende</l>
+					<l>Spieringen aan de Oostkant van de <locatie>Breedstraat </locatie>uit de </l>
+					<l><datum datum='1666-xx-xx'><hi rend='underlined:true;'>1666</hi></datum></l>
+					<l>huizen vangen konde. Wierden de wallen en borstweeringen</l>
+					<l>verbeterd. [Is mede door <persoonsnaam><hi rend='underlined:true;'>Jan</hi> <hi rend='underlined:true;'>Hesman</hi></persoonsnaam> gepractiseert, de klok in</l>
+					<l>de groote toorn door treden te kunnen luiden en aan hem de</l>
+					<l>dienst toegestaan.] Te dezer tyd overleed hier een man (<persoonsnaam>Govert</persoonsnaam></l>
+					<l><persoonsnaam>Speldemaker</persoonsnaam> genaamd, die in keulsland zijn eigen zoon</l>
+					<l>Gode ten Brandoffer zoude geofferd hebben) om welke daad</l>
+					<l>hij gevlugt zijnde, hier onder de Mennonijten leefde.</l>
+					<l>ziet Schot. beschrijving van <locatie>Vriesland</locatie>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>35</hi></pagenumber></l>
+					<l>Geloofwaardige aanteekening van nieuwe zaken [door</l>
+					<l><datum datum='1668-xx-xx'><hi rend='underlined:true;'>1668</hi></datum></l>
+					<l>G. Hesman.] Gold een pond Boter hier negen Stuivers.</l>
+					<l><datum datum='1671-xx-xx'><hi rend='underlined:true;'>1671</hi></datum></l>
+					<l>Wierden alle vaarten door de Stad geslat.</l>
+					<l><datum datum='1672-xx-xx'><hi rend='underlined:true;'>1672</hi></datum></l>
+					<l>Wierden de Stadswallen en borstweeringen opgemaakt,</l>
+					<l>en trokken eenige Burgers naar het <locatie>Heerenveen</locatie>, van welke</l>
+					<l>eenige gezonden wierden onder den <persoonsnaam>Lieutenant Leonadus.</persoonsnaam></l>
+					<l><persoonsnaam>Unia,</persoonsnaam> naar <locatie>Monnekezijl</locatie>, en van de Munsterse geslagen,</l>
+					<l>en de gevangene voor <locatie>Groningen</locatie> in &apos;t leger gebracht.</l>
+					<l>[Om deze tijd wierden in deze stad vele gevlugte goederen</l>
+					<l>hier te zamen gebragt] Ook is in dit Jaar de nieuwe zijl,</l>
+					<l>[leggende in de nieuwe dwinger] door een hooge watervloed</l>
+					<l>ingeschoven en daarna tegenover <locatie>Driezum </locatie>in de Dijk gelegd.</l>
+					<l>Ook is de <locatie>Paapsche kerk</locatie> opengeslagen en de beelden zijn</l>
+					<l>in een kring van Soldaten voor het Stadshuis verbrand.</l>
+					<l><datum datum='1673-xx-xx'><hi rend='underlined:true;'>1673</hi></datum></l>
+					<l>Kwam de <persoonsnaam>Graaf <hi rend='underlined:true;'>van</hi> <hi rend='underlined:true;'>Plien</hi> </persoonsnaam>hier om de nieuws gemaakte</l>
+					<l>Stads wallen te bezigtigen, en wierde van Magistraat</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><pagenumber>36</pagenumber></l>
+					<l>met een aardig muzijk op het Stadshuis onthaald.</l>
+					<l>ontbreken 2 pag. </l>
+					<l><datum datum='1674-xx-xx'>1674. </datum></l>
+					<l>In maart Gold hier een Schuite leekster blaauwe turf twee</l>
+					<l>en veertig Goud guldens en de korf vol een gulden; [En wierde</l>
+					<l>de haag op de Stads</l>
+					<l>wal?</l>
+					<l>afgehouwen en nieuws geplant] Ook</l>
+					<l>heeft tot dezer tijd een Pontman van het <locatie>Heerenveen</locatie>, <persoonsnaam>Anne</persoonsnaam></l>
+					<l><persoonsnaam>Jennes</persoonsnaam> genaamd, voor een vracht lichte turf aan Impositie</l>
+					<l>betaald vijfenzestig guldens en 16 Stuivers. <datum datum='1674-07-14'>Den 14 Julij</datum> wierden</l>
+					<l>alle burgers door klokklippen in de kerk te zamen geroepen,</l>
+					<l>en van de Crediteuren wegens de <locatie>Trekweg</locatie> gedaagd voor &apos;t recht</l>
+					<l>te komen. Waarop des anderen daags eenige mannen wierden</l>
+					<l>uitgemaakt als<persoonsnaam> Sijmon Walling</persoonsnaam> en <persoonsnaam>Reinder Hendriks,</persoonsnaam> op</l>
+					<l>welkers namen het proces afging. Doch uit ieder espel waren</l>
+					<l>twee mannen gekoozen, Gelijk bij het leezen der Sententie kan</l>
+					<l>gezien worden. De Magistraat beweerde het geld met believen der</l>
+					<l>burgers opgenomen te zijn, daar deze <locatie>Trekweg</locatie> voor gemaakt</l>
+					<l>was, doch wierde<hi rend='strikethrough:true;'>n</hi> door twee mannen, zulks bijgewoond</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>37.</pagenumber></l>
+					<l>hebbende, ontkend, van welke de eene <persoonsnaam>Hendrik Vijfling</persoonsnaam> in de</l>
+					<l>gemeene omgang genaamd wierd, en de andere <persoonsnaam>Hans Hemmes</persoonsnaam></l>
+					<l><persoonsnaam>Siersma</persoonsnaam>, anders<persoonsnaam> Hans paap,</persoonsnaam> <hi rend='strikethrough:true;'>dien ter tijd leefde</hi></l>
+					<l>nog levende; </l>
+					<l>de andere </l>
+					<l>is overleden. Omtrent deze tijd lag hier een meisje, <persoonsnaam>Dieuke</persoonsnaam></l>
+					<l><persoonsnaam>Gerrits </persoonsnaam>genaams, oud 14 Jaren omtrent XIX weken ziek,</l>
+					<l>zonder eenige Spijze of drank te nuttigen, dan wierde alleen</l>
+					<l>door een veder gelaafd en is gezond geworden en naderhand</l>
+					<l>aan <persoonsnaam>Rommert Feikes [Altena]</persoonsnaam></l>
+					<l><persoonsnaam>Bierdrager</persoonsnaam></l>
+					<l>getrouwd en heeft nog kinde</l>
+					<l>ren gehad; En is in <datum datum='1694-04-'>April 1694</datum> overleden.</l>
+					<l><datum datum='1677-xx-xx'>1677</datum>.</l>
+					<l>Den <datum datum='1677-07-15'>15 Julij</datum> kocht men hier een kabbeljauw voor drie</l>
+					<l>stuivers 8 penningen. Een ben Schelvisch voor vier stuivers.</l>
+					<l><datum datum='1678-xx-xx'><hi rend='underlined:true;'>1678</hi></datum></l>
+					<l>Den 15 Februarij heeft de Hopman Michiel Yes hier op de</l>
+					<l>schaal een levende Os geleverd, wegende 2172 Ponden aan</l>
+					<l>een Slagter te <locatie>Groningen</locatie>, gelijk hier in de waag te zien is.</l>
+					<l><datum datum='1679-xx-xx'><hi rend='underlined:true;'>1679</hi></datum></l>
+					<l>Is hier een vrouw, <persoonsnaam>Dirkjen </persoonsnaam>geheeten, die XI Jaren voor mus¬</l>
+					<l>quettier onder de Soldaten gediend hadde, <hi rend='strikethrough:true;'>is</hi> in het Gast¬</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>38</hi></pagenumber></l>
+					<l><datum datum='1681-xx-xx'><hi rend='underlined:true;'>1681</hi></datum></l>
+					<l>huis overleden. Heeft de Burgerij het pleit tegen de Crediteuren</l>
+					<l>van de <locatie>Trekweg </locatie>gewonnen en zijn den<datum datum='1681-02-08'> VIII februarij</datum> voor vrij</l>
+					<l>verklaard als volmagtigde waren: De <persoonsnaam>koopman Jelle Sijbes,</persoonsnaam></l>
+					<l><persoonsnaam>Dirk Pieters,</persoonsnaam></l>
+					<l>Brouwer,</l>
+					<l>uit de <locatie>Breedstraat-Espel</locatie>, <persoonsnaam>Edo Aquila </persoonsnaam>en <persoonsnaam>Reinder</persoonsnaam></l>
+					<l><persoonsnaam>Hendriks</persoonsnaam> uit het <locatie>oosterstraat-Espel</locatie>; <persoonsnaam>Jasper Gerbens</persoonsnaam> en <persoonsnaam>Tjepke</persoonsnaam></l>
+					<l><persoonsnaam>Tjepkes, </persoonsnaam></l>
+					<l>beide brouwers,</l>
+					<l>uit de <locatie>Leegewester-Espel</locatie>. <hi rend='superscript:true;'>x </hi>De Sententie wierde de</l>
+					<l>burgerij in de kerk te voren gelezen door <persoonsnaam>Edo Aquila.</persoonsnaam></l>
+					<l><datum datum='1684-xx-xx'><hi rend='underlined:true;'>1684</hi></datum></l>
+					<l>In <datum datum='1684-01-xx'>Januarij</datum> konde men en een dag van hier naar <locatie>Enkhuizen</locatie></l>
+					<l>Jaagen over de <locatie>Zuiderzee </locatie>met Paard en Slede, en zijn de <hi rend='underlined:true;'>Oogemers</hi>,</l>
+					<l>(Eilanders</l>
+					<l>van Schierm.</l>
+					<l>oog?)</l>
+					<l>over het zeegat <locatie>Scholballich </locatie>geloopen; want het was een Stringe</l>
+					<l>winter. Den <datum datum='1684-04-01'>1 April</datum> zijn hier in de Ee twee tuimelaars gevangen,</l>
+					<l>waarvan de eene nog levend te zien is geweest, welke door</l>
+					<l>een hoge vloed aan de Stad en met een Ebbe door <locatie>de Zijl</locatie></l>
+					<l>geraakt waren. Den <datum datum='1685-05-11'>XI Mei </datum>wierde het oude Collegie (zijn</l>
+					<l><locatie><hi rend='underlined:true;'>Moekema-huis</hi></locatie>, Anno. <datum datum='1556-xx-xx'>1556</datum>. gebouwd) met zijn toorntje geheel</l>
+					<l>afgebroken en tot een tuin gemaakt. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>39</pagenumber></l>
+					<l>Bijgevoegd</l>
+					<l>[ Den<datum datum='1684-06-01'>1 Junij </datum>is alhier gebeurd op een zondag na de middag in</l>
+					<l>de kerken dat van één familie; dat:</l>
+					<l>Een beste vader een kind liet dopen,</l>
+					<l>Twee vaders lieten ieder een kind dopen,</l>
+					<l>Een zoon liet een kind dopen, Een broeder</l>
+					<l>liet een kind dopen. </l>
+					<l>Een kindskind wierde gedoopt.</l>
+					<l>Twee zonen wierden gedoopt.</l>
+					<l>Een broeder wierde gedoopt.</l>
+					<l>Een oom wierde gedoopt.</l>
+					<l>Een neef wierde gedoopt.]</l>
+					<l>Ook wierde de steenen dam geslat en den <datum datum='1684-06-29'>29 Junij </datum>het</l>
+					<l>water daarin gedaan, doende ieder huis floreen zes Stuivers.</l>
+					<l>Den<datum datum='1684-09-29'> 29 September</datum> is zijn <persoonsnaam>Hoogh. Hendrik Casimier, Grave</persoonsnaam></l>
+					<l><persoonsnaam>van Nassou</persoonsnaam>, met zijn <persoonsnaam>E. Gemalinne en Bruid Emilia</persoonsnaam></l>
+					<l><persoonsnaam>v. Anhalt</persoonsnaam> hierlangs de stads grachten gevaren, en wierde</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>40</hi></pagenumber></l>
+					<l>van de Burgerij met geschut en musquetten van de wallen begroet.</l>
+					<l><datum datum='1685-xx-xx'><hi rend='underlined:true;'>1685</hi></datum></l>
+					<l>Den <datum datum='1685-06-11'>11 Junij</datum> wierden alle de vaarten door de stad geslat, en den</l>
+					<l><datum datum='1685-09-22'>22 September</datum> voleindigd, doende ieder huis floreen vijf stuivers.</l>
+					<l>Den <datum datum='1685-06-24'>24 Junij </datum>is de <persoonsnaam>E. Princesse Æmilia d&apos; Anhalt </persoonsnaam>in het</l>
+					<l>kinderbed bevallen en verlost van een Jonge Prins, waarover</l>
+					<l>in deze stad, de klokken geluid de stukken gelost en allerhande</l>
+					<l>vreugde bedreven wierde; alsmede den <datum datum='1685-07-10'>10 Julij </datum>wierden hier</l>
+					<l>Piktonnen aangestoken, klokken geluid en geklipt, en met</l>
+					<l>eenige stukjes van het Stadshuis geschooten ter eere van een</l>
+					<l>Jonge Prins. Op het einde van deze Maand wierden door de</l>
+					<l>E<hi rend='superscript:true;'>e</hi>. Achtb<hi rend='superscript:true;'>re</hi>. Magistraat om de behoeftigheid van het Wees¬</l>
+					<l>huis, twee buideltjes in de kerk geordineerd, waartoe vier mannen</l>
+					<l>gekozen wierden, als <persoonsnaam>Douwe Andries Lakenkooper,</persoonsnaam> <persoonsnaam>Jacob Freerks</persoonsnaam></l>
+					<l><persoonsnaam>Bakker</persoonsnaam>, <persoonsnaam>Dirk [Smedema]</persoonsnaam></l>
+					<l><persoonsnaam>Klaesen</persoonsnaam></l>
+					<l><persoonsnaam>Yzerkramer</persoonsnaam>, <persoonsnaam>Joannes Zuinja, Koordewer¬</persoonsnaam></l>
+					<l><persoonsnaam>ker,</persoonsnaam> welke twee eerste de eerste omgang op den <datum datum='1685-08-09'>9 Augustus</datum> des</l>
+					<l>nademiddags verzamelden Elf Guldens zes Stuiv. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>41</pagenumber></l>
+					<l>Den<datum datum='1685-11-25'> 25 November </datum>was het hier zoo hoogen watervloed dat het</l>
+					<l>water uit de <locatie>woudpoort </locatie>uitliep, waardoor <locatie>Emderland </locatie>groote</l>
+					<l><datum datum='1686-xx-xx'><hi rend='underlined:true;'>1686</hi></datum></l>
+					<l>schade leed. de wind was noord. Den <datum datum='1686-02-01'>1 Februarij</datum> wierde</l>
+					<l>hier een omgang voor de gevlugte Fransche gereformeerden</l>
+					<l>gedaan. Den <datum datum='1686-10-11'>11 October</datum> wierden door last van de Achtbare</l>
+					<l>Magistraat eenige straten door de stad verhoogd, als ook</l>
+					<l>het volgende Jaar. Den <datum datum='1686-11-12'>12 November</datum> was het des nagts</l>
+					<l>zulken omstuimigen wind en hooge vloed, dat het water</l>
+					<l>over de <locatie>Zijl</locatie> en tot de <locatie>woudpoort </locatie>uitstroomde, en wel vijf hout</l>
+					<l>voeten hoog in de blaauwe klok opvloeide en in de <locatie>lange</locatie></l>
+					<l><locatie>Oosterstraat </locatie>een vrouw dood boven aarde staande, zoude</l>
+					<l>ten huize uitgedreven hebben, zoo de man de kiste niet met</l>
+					<l>touwen vastgebonden hadde; andere in een kelder Slapende,</l>
+					<l>zouden (zoo een bootsgezel haar niet opgewekt hadde) op het</l>
+					<l>bed verdronken hebben; het water scheurde hier aan de stad</l>
+					<l>in de <locatie>Zuiderdijk </locatie>vijf groote gaten bij malkander, en ploegde </l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>42</hi></pagenumber></l>
+					<l>veel straten in de Stad om, en maakte op verscheidene plaat¬</l>
+					<l>sen groote gaten als op de dam en bij de <locatie>woudpoort</locatie>, alwaar</l>
+					<l>het water ook hoog in de huizen stond. Vele huizen wierden</l>
+					<l>door de sterke wind ook zeer beschadigd; de wind was eerst</l>
+					<l>zuidwest en daarna sterk uit het noordwesten, waardoor</l>
+					<l><locatie>de Groninger ommelanden</locatie> groote schade leden, gelijk myn oom</l>
+					<l><persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Henri Schenkel</persoonsnaam> te <locatie>Uithuizen </locatie>in zijn Groninger Watervloed verhaalt. </l>
+					<l><datum datum='1687-xx-xx'><hi rend='underlined:true;'>1687</hi></datum></l>
+					<l>[Zijn volgende boeken door de Stadsdienaars uit de Paapse</l>
+					<l>Bijgevoegd</l>
+					<l>kerk gehaald en op den <datum datum='1687-06-13'>13 Junij</datum> voor het Stadshuis verbrand:</l>
+					<l><persoonsnaam>Jacobi Gualterij Tabula</persoonsnaam>,<persoonsnaam> C. Hrouwa</persoonsnaam>, <persoonsnaam>Christo. ñato, Hortus</persoonsnaam></l>
+					<l><persoonsnaam>Pastorum ductore</persoonsnaam>,<persoonsnaam> Jacobo Marchantio.</persoonsnaam> Epistola annalium</l>
+					<l>Ecclesiticonum, <persoonsnaam>Cesaris Baronoij.</persoonsnaam> <persoonsnaam>P. Hasart</persoonsnaam> Triumphe der</l>
+					<l>Christelijke leere Off groote Cathechismis twee deelen Oliverij</l>
+					<l>Bonartij in Eccleviasticum, Commentarius, Commentaria</l>
+					<l>inpentateuchum mousauthore. Cornelio. a lapide Commentarius</l>
+					<l>in quatuor Evangelia, Robert.1. Bellarmini foldia Christia</l>
+					<l>nafidei de moustratia. Nicolai Causini de Eloquentia Sacra</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>43</hi></pagenumber></l>
+					<l>et Siamana. Brevarium Romanum viermaal missale</l>
+					<l>Romanum, missale Romanum.] Wierde door Ed<hi rend='superscript:true;'>e</hi>. Achtbre.</l>
+					<l><datum datum='1688-xx-xx'><hi rend='underlined:true;'>1688</hi></datum></l>
+					<l>magistraat een nieuw orgel in <datum datum='1688-05-xx'>maij</datum> begonnen, en <datum datum='1688-06-03'>1688 den</datum></l>
+					<l><datum datum='1688-06-03'>3 Junij </datum>op pinxter wierde voor de eerste maal op hetzelve de</l>
+					<l>Pauze van den een en vijftigsten Psalm gespeeld. <hi rend='superscript:true;'>X</hi> Het oude</l>
+					<l>orgel wierde (nadat het sedert den Jare <datum datum='1590-xx-xx'>1590 </datum>gestaan hadde)</l>
+					<l>afgenomen en aan de <persoonsnaam>Orgelist Haverkamp</persoonsnaam> te <locatie>Leeuwarden</locatie></l>
+					<l>voor LXXX Guldens verkocht. Den laatsten <datum datum='1688-10-xx'>October </datum>wierde</l>
+					<l>hier voor Piemonteezen een omgang gedaan uit last van</l>
+					<l>de Hoog. mog. Heeren Staten, en heeft het <locatie>breedstraat espel</locatie></l>
+					<l>opgebragt vijfennegentig gulden agtien stuivers acht</l>
+					<l>penningen, <locatie>oosterstraat-espel</locatie> zesenzeventig Guldens zeven</l>
+					<l>stuivers vier penningen, <locatie>Legeweg-espel</locatie> vijfenzestig Guldens</l>
+					<l>agt stuivers, <locatie>Blokhuis-Espel</locatie> vijfendertig Guldens Elf stui¬</l>
+					<l>vers twaalf penningen. Alles in een Somma uitmakende</l>
+					<l>twee honderd drie en zeventig guldens vijf stuivers acht pennin</l>
+					<l>gen.</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>44</hi></pagenumber></l>
+					<l>Dit geld wierde gesteld in handen van de <persoonsnaam>E. Burgemees</persoonsnaam></l>
+					<l><persoonsnaam>ter en Rentmeester Hermanus Hachtingius</persoonsnaam>.</l>
+					<l><datum datum='1688-xx-xx'><hi rend='underlined:true;'>1688</hi></datum>. </l>
+					<l>Den <datum datum='1688-01-11'>11 Januari</datum> hielde Grootschippers haar Gilde¬</l>
+					<l>maaltijd in de <locatie>Benthum </locatie>en reeden met een Sloepje op</l>
+					<l>een bart staande en door vier Paarden wordende getrok</l>
+					<l>ken, door de stad, waarin <persoonsnaam>Klaas Jogchums</persoonsnaam>, toegenaamd</l>
+					<l>Geelemug, als kapitein en een Harmen Oostindie vaarder</l>
+					<l>Luitenant was; <persoonsnaam>Jan Fietes Schipper</persoonsnaam>, <persoonsnaam>Jan Jansen Bontekoe,</persoonsnaam></l>
+					<l><persoonsnaam>Stuurman</persoonsnaam>, en <persoonsnaam>Minse Minses voerman</persoonsnaam>, welke <persoonsnaam>Minse</persoonsnaam></l>
+					<l>eenige moeite met een Soldaat kreeg, waardoor deze Soldaat</l>
+					<l>eenigmalen gewaarschuwd was om van de Sloep te blijven</l>
+					<l>en zulk niet willende doen, met de zweep geslagen wierd,</l>
+					<l>waarover hij zoo vertoornde, dat hij voornam, wie hem</l>
+					<l>van deze bootsgezellen ontmoete, te doorsteken, waarop</l>
+					<l><persoonsnaam>Jan Bontekoe,</persoonsnaam> uit het huis van <persoonsnaam>Fiete Doekes</persoonsnaam> komende, van</l>
+					<l>hem met een driekantige degen in het hert gestooken</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>45</hi>.</pagenumber></l>
+					<l>waarop de gewonde naar de wondheeler <persoonsnaam>Gerrit Nederhof</persoonsnaam></l>
+					<l>gebracht is /</l>
+					<l>/ x</l>
+					<l>en van daar na zijns zusters huis gedragen wierde,</l>
+					<l>daar hij nog eenige beweging toonde, gestorven. De dader is het</l>
+					<l>ontkomen en naar Oostindie gereisd en aldaar overleden</l>
+					<l><datum datum='1688-xx-xx'>1688</datum></l>
+					<l><datum datum='1703-03-19'>1703. Den 19 Maart</datum> is hier een omgang gedaan voor vijftien</l>
+					<l>Harlinger bootsgezellen, die bij de barbaren in Slavernije</l>
+					<l>zaten en bragt op als volgt:</l>
+					<l>Het groote<locatie> Breedstraat Espel</locatie>.  249 - 12</l>
+					<l><locatie>Kleine Breedstraat Espel</locatie>.  225. - 3</l>
+					<l><locatie>Leegeweg Espel</locatie>.   216 - 4</l>
+					<l><locatie>Blokhuis Espel</locatie>.   <hi rend='underlined:true;'>248 - 16</hi></l>
+					<l>939 - 35</l>
+					<l>Het geld wierde geteld in handen van de <persoonsnaam>E. Burgermeester</persoonsnaam></l>
+					<l><persoonsnaam>Wigerus, Stania,</persoonsnaam> <persoonsnaam>Daniel Reeneman</persoonsnaam> en<persoonsnaam> Michael de Pool,</persoonsnaam> beide</l>
+					<l>Predikanten van <locatie>Harlingen</locatie>, als uitgezondene om de verza¬</l>
+					<l>meling bijwoonen. <persoonsnaam>Klaas Overhert als Precident</persoonsnaam> en <persoonsnaam>Marten</persoonsnaam></l>
+					<l><persoonsnaam>Steenwijk als bij Praeses</persoonsnaam> uit de Magistraat zijnde.</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>46</hi></pagenumber></l>
+					<l>[Alsmede de vier Diakenen <persoonsnaam>Dirk Smedema</persoonsnaam>, <persoonsnaam>Jurjen Jans Bakker</persoonsnaam>.]</l>
+					<l><datum datum='1689-xx-xx'><hi rend='underlined:true;'>1689 </hi></datum></l>
+					<l>Hebben de Kerke Diakenen goed gevonden aan de arme ledema</l>
+					<l>ten brood uit te deelen om de Inpositie te besparen, gelijk in</l>
+					<l>andere ook gedaan wordt en hebben den<datum datum='1689-03-11'> XI. Maart</datum> voor de</l>
+					<l>eerste maal uitgedeeld. Dit Jaar wierde de Spui in de Zijl gezet.</l>
+					<l><datum datum='1690-xx-xx'><hi rend='underlined:true;'>1690</hi></datum></l>
+					<l>Den <datum datum='1690-10-28'>28 October</datum> wierde hier het diept door <persoonsnaam>Pybe Classen molen¬</persoonsnaam></l>
+					<l><persoonsnaam>maker</persoonsnaam> met een moddermolen begonnen om de modder uit</l>
+					<l>te malen, hebbende hij Piebe een bedingst met de <persoonsnaam>E. Hogemag</persoonsnaam></l>
+					<l><persoonsnaam>ten </persoonsnaam>dezer Provintie voor de tijd van XXV Jaren van ieder meet</l>
+					<l>schuite turf een stuiver te genieten. Het diept tusschen <locatie>de Zijl</locatie></l>
+					<l>en<locatie> drie pijpen</locatie> was geheel niet anders als modder en slijk, dat</l>
+					<l>effen met water bedekt stond; konde naauwelijks een praam</l>
+					<l>daarover komen; het buitendiept was niet veel beter, hebbende</l>
+					<l>op het laagste water een Kille omtrent een trede wijd; doch deze</l>
+					<l><persoonsnaam>Pijbe </persoonsnaam>maakten &apos;t beide zoo diep binnen &apos;t Jaar, dat de schuiten</l>
+					<l>naar <locatie>Leeuwarden </locatie>konden komen met haar volle ladingen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>47.</hi></pagenumber></l>
+					<l><datum datum='1691-xx-xx'><hi rend='underlined:true;'>1691</hi></datum></l>
+					<l>Den <datum datum='1691-06-18'>18 Junij</datum> zijn hier aan de <locatie>Stadwaag </locatie>geweest een hondert</l>
+					<l>zeven wagens met zoete melk kaas, op  hebbende 5523 kaazen</l>
+					<l><datum datum='1692-xx-xx'><hi rend='underlined:true;'>1692</hi></datum></l>
+					<l>wegende 71,252 ponden. Den laatsten <datum datum='1692-05-xx'>Mei </datum>waaide het zoo</l>
+					<l>sterk dat vele huizen beschadigd wierden, eenige boomen</l>
+					<l>op de stadswal omverre waaiden. En ook de Beurs of wijne ?</l>
+					<l>aan de Westkant, van waar de wind kwam, instorte.</l>
+					<l>Den<datum datum='1692-09-08'> 8 September</datum> is hier des namiddags omtrent drie uren</l>
+					<l>eenige Schudding of soorte van Aardbeving gevoeld.</l>
+					<l><datum datum='1693-xx-xx'><hi rend='underlined:true;'>1693</hi></datum></l>
+					<l>Den <datum datum='1693-06-15'>15. Junij </datum>waren hier 114 leeveringen van zoete melk kaas</l>
+					<l>aan <locatie>de Waag</locatie>, wegende 76,304 ponden.</l>
+					<l><datum datum='1694-xx-xx'><hi rend='underlined:true;'>1694</hi></datum></l>
+					<l>[Is <persoonsnaam>Dirk Smedema tot Stads Bouwmeeste</persoonsnaam>r aangesteld in</l>
+					<l>plaats van den overleeden<persoonsnaam> Vroetman Freerk Fadema</persoonsnaam> benevens</l>
+					<l><persoonsnaam>Sijmon Groenewout. </persoonsnaam>Den <datum datum='1694-06-14'>14 Junij </datum>waren hier 123 leeveringen</l>
+					<l>zoete melks kaas aan de Stadswaag. Is I. van der Rijp tot</l>
+					<l>Bouwmeester aangesteld bij <persoonsnaam>D. Smedema</persoonsnaam>. In lulij konde men</l>
+					<l>een half Kijntien afgewaaide appelen voor een oordtje koopen</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>48</hi></pagenumber></l>
+					<l>want de overvloed van Boomvrugten was zeer groot.</l>
+					<l><datum datum='1695-xx-xx'><hi rend='underlined:true;'>1695</hi></datum></l>
+					<l>Den <datum datum='1695-09-18'>18 September</datum> brande men Piktonnen, losten het geschut</l>
+					<l>rondom de wal en luiden de klokken wegens de overgave</l>
+					<l>der Sterke Stad en <locatie>kasteel van Namen</locatie>, bemagtigd door de</l>
+					<l>wapenen der Geallieerden onder het beleid van zijn<persoonsnaam> Brittani¬</persoonsnaam></l>
+					<l><persoonsnaam>sche Majesteit William de derde.</persoonsnaam></l>
+					<l><datum datum='1696-xx-xx'><hi rend='underlined:true;'>1696 </hi></datum></l>
+					<l>[Is <persoonsnaam>Dirk Smedema als Rentmeester</persoonsnaam> aangesteld in Plaats van</l>
+					<l>de afgaande <persoonsnaam>Simon Groenewout</persoonsnaam>. Blijkens Stads, oude Reso¬</l>
+					<l>lutie-Boek fol 477 is over de Stads Jurisdictie tusschen den Heer</l>
+					<l><persoonsnaam>Suffridus Saeckma</persoonsnaam>, <persoonsnaam>Grietman </persoonsnaam>over <locatie>Dantumadeel </locatie>en de Magistraat</l>
+					<l>der Stad <locatie>Dokkum </locatie>gemaakt het navolgende accoord. De stad <locatie>Dokkum</locatie></l>
+					<l>zal behouden en genieten &apos;t regt van Proclamatien- en Consent¬</l>
+					<l>Gelden van alzulke landen als van ouds en nog tegenwoordig</l>
+					<l>de floreen en lasten binnen <locatie>Dockum </locatie>schieten en onder de</l>
+					<l>Stadstafel bevond werden te behoren.]</l>
+					<l><datum datum='1697-xx-xx'><hi rend='underlined:true;'>1697</hi></datum></l>
+					<l>Den <datum datum='1697-03-18'>18 Maart </datum>waren deze mannen uit de E. Achtbre. Magistraat</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>49</hi>.</pagenumber></l>
+					<l>als afgezonden om de begraffenisse van zijne<persoonsnaam> vorstelijke door¬</persoonsnaam></l>
+					<l><persoonsnaam>luchtigheid Hend<hi rend='superscript:true;'>k</hi>. Casimier grave van Nassouw</persoonsnaam> Erfstad</l>
+					<l>houder dezer Provincie &amp;&amp;&amp; bij te woonen, als de <persoonsnaam>E. Heer</persoonsnaam></l>
+					<l><persoonsnaam>Julius Schelte van Aitzema</persoonsnaam> en <persoonsnaam>Hendrik Janzen Ruimzade¬</persoonsnaam></l>
+					<l><persoonsnaam>laar</persoonsnaam>, beide gecommitteerden op den landdag, <persoonsnaam>Haije Kornelis</persoonsnaam></l>
+					<l><persoonsnaam>Eisma, President</persoonsnaam> en <persoonsnaam>Elso Inia Sequents</persoonsnaam>; deze uit de Vroedschap</l>
+					<l><persoonsnaam>Hans Mandema</persoonsnaam> en <persoonsnaam>Bouritius Fooij.</persoonsnaam></l>
+					<l><hi rend='underlined:true;'><datum datum='1698-xx-xx'>1698</datum>.</hi></l>
+					<l>In &apos;t <datum datum='1698-07-xx'>begin van Julius</datum> konde men hier een ben Schelvis voor</l>
+					<l>anderhalf stuivers kopen, doordien in de negentig bennen</l>
+					<l>aan de afslag waren. Dit zelve jaar wierd de steenen dam</l>
+					<l>geslat, doen ieder huis floreen zes stuivers [geslat van de</l>
+					<l><locatie>woudpijp </locatie>tot aan de pijp bij de <locatie>3 Leeuwen</locatie>]</l>
+					<l><hi rend='underlined:true;'><datum datum='1699-xx-xx'>1699</datum>.</hi></l>
+					<l>Den <datum datum='1699-01-24'>24 Januarij</datum> wierde hier aan de deuren der Gereformeerde</l>
+					<l>ledematen door de Diakenen een omgang gedaan, doordien</l>
+					<l>de staat zeer ten achteren was, wegens de dure tijd en groote</l>
+					<l>opgeleide schulden, geldende een koopbrood vijftien Stuivers.</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>50</hi></pagenumber></l>
+					<l>waardoor vele armen haar onderstand bij de Diakenen,</l>
+					<l>zochten</l>
+					<l>en</l>
+					<l>gingen in het <locatie>grote breedstraat espel</locatie>:<persoonsnaam> Isaak Sipma als</persoonsnaam></l>
+					<l><persoonsnaam>ouderling,</persoonsnaam> <persoonsnaam>Jan Classen Smedema</persoonsnaam> <persoonsnaam>M<hi rend='superscript:true;'>r</hi>. Smid als Diaken,</persoonsnaam></l>
+					<l><persoonsnaam>Wouter Jansen Hoogacker, Olde Burgemeester</persoonsnaam> uit de breede</l>
+					<l>gemeente, verzamelden 247 Gulds. 2 Stuivers. In het <locatie>Oosterstraat-</locatie></l>
+					<l><locatie>Espel</locatie> door <persoonsnaam>Fokke Jans Mesmaker, als ouderling</persoonsnaam>, <persoonsnaam>Jan Wijbes Hornstra</persoonsnaam></l>
+					<l><persoonsnaam>als Diaken</persoonsnaam>, <persoonsnaam>Taco Oosterbaan, Old. Burgemeester</persoonsnaam>; wierde vergaderd</l>
+					<l>208 gulds. 8 stuivers; op de <locatie>legeweg-Espel</locatie> <persoonsnaam>Dominus Hendricus</persoonsnaam></l>
+					<l><persoonsnaam>Schregardus als ouderling</persoonsnaam> voor de overledene <persoonsnaam>Burgemeester</persoonsnaam></l>
+					<l><persoonsnaam>Hermanus Hachtingius</persoonsnaam>, de <persoonsnaam>gemeensman Gerben Olpherts</persoonsnaam></l>
+					<l><persoonsnaam>Swanenburg als Diaken</persoonsnaam> en de <persoonsnaam>Old Excuteur Hotze Everts</persoonsnaam></l>
+					<l><persoonsnaam>van Sinderen</persoonsnaam> uit de gemeente, is verzameld 186 Gulds. 9 stuivers</l>
+					<l>Op het <locatie>Blokhuis-Espel,</locatie> wierde bij een gebragt door de Burge</l>
+					<l>meester <persoonsnaam>Hendrik Ruimzadelaar</persoonsnaam>, als ouderling, <persoonsnaam>Jacob</persoonsnaam></l>
+					<l><persoonsnaam>Freerks Bakker</persoonsnaam>, als diaken,<persoonsnaam> Gerrit Nederhof, Chirurgijn;</persoonsnaam></l>
+					<l>wierde bijeen verzameld 103 guldens, 2 Stuivers.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>51</hi></pagenumber></l>
+					<l>Alzoo te zamen in een Somma uitmakende 745 gulds. en 1 stuiver,</l>
+					<l><datum datum='1699-xx-xx'>1699</datum></l>
+					<l>Den<datum datum='1699-02-01'> 1 Februarij</datum> wierde hier een Collekt voor de Remontoizen</l>
+					<l>Tot pag 57</l>
+					<l>bijgevoegd,</l>
+					<l>als niet in</l>
+					<l>Hermans</l>
+					<l>MS.</l>
+					<l>[en als uit de Paltz etc. gedaan, uit order van Haar Edele</l>
+					<l>mogende Heeren Staten van <locatie>Vriesland</locatie>, volgen Resolutie in <datum datum='1698-02-26'>dato</datum></l>
+					<l><datum datum='1698-02-26'>den 26. 1698</datum> is gecollecteerd.</l>
+					<l><locatie>Groote breedstraat espe</locatie>l - Ƒ 144.1.</l>
+					<l><locatie>Kleine breedstraat espel</locatie>. - Ƒ 6.5.19</l>
+					<l><locatie>Legeweg espel</locatie>. - Ƒ 81.8</l>
+					<l><locatie>Blokhuis espel</locatie> - <hi rend='underlined:true;'>Ƒ 45.18</hi></l>
+					<l>337-6-</l>
+					<l>En is door de <persoonsnaam>Stads Rentmeester D. Smedema</persoonsnaam> aan &apos;t Comptoir</l>
+					<l>der losse Renten opgebragt den <datum datum='1699-02-18'>18 Februarij 1699 </datum>volgens</l>
+					<l>kwitantie.] den<datum datum='1699-02-20'> 20 dito</datum> belasten de weesvoogden alle armen</l>
+					<l>die van haar onderhoud ontvangen een geele streek om den</l>
+					<l>arm te dragen. In dit zelve jaar wierde ook de <locatie>lange pijp</locatie></l>
+					<l>vernieuwd. En het <locatie>oude Klooster van S. Bonifacius</locatie></l>
+					<l>afgebroken, hebbende na de rekeninge van Staeriensis en</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l><pagenumber>52</pagenumber></l>
+					<l><persoonsnaam>Christ. Schotanus</persoonsnaam> gestaan 868 of 880 Jaren het langste</l>
+					<l>zijnde naar haar gevoelen gebouwd in &apos;t Jaar <datum datum='0819-xx-xx'><hi rend='underlined:true;'>819</hi> </datum>/2 of <datum datum='0831-xx-xx'><hi rend='underlined:true;'>831</hi> </datum>/1 ziet</l>
+					<l><datum datum='1701-xx-xx'>1701</datum></l>
+					<l>op het Jaar <datum datum='0775-xx-xx'>775</datum>. [Is binnen deze Stad <locatie>Dockum </locatie>aangesteld en</l>
+					<l>opgericht zekere Compagnie en maatschappij tot uitredinge</l>
+					<l>van <hi rend='underlined:true;'>Haringvisscherij</hi> of negotie ter zee; van de volgende Personen</l>
+					<l><persoonsnaam>Secretaris N. Bavius</persoonsnaam>,<persoonsnaam> W. Bavius,</persoonsnaam> <persoonsnaam>F. Bavius,</persoonsnaam> <persoonsnaam>Groswinis</persoonsnaam></l>
+					<l><persoonsnaam>Heringa</persoonsnaam>, <persoonsnaam>Petrus Bergsma</persoonsnaam>, <persoonsnaam>Dirk Smedema</persoonsnaam>,<persoonsnaam> Hendrik Takes</persoonsnaam></l>
+					<l><persoonsnaam>Schonegevel,</persoonsnaam> <persoonsnaam>Foppe Hessels</persoonsnaam>, <persoonsnaam>Tjerk Æbles van der Zande,</persoonsnaam></l>
+					<l><persoonsnaam>Minne Lourens,</persoonsnaam> <persoonsnaam>Benediktus Tjerks</persoonsnaam>, <persoonsnaam>Jacob Snip</persoonsnaam>, <persoonsnaam>Minne Jan</persoonsnaam></l>
+					<l><persoonsnaam>Bakker</persoonsnaam>, <persoonsnaam>Hotze Sipkes</persoonsnaam>, <persoonsnaam>Claas Rienks</persoonsnaam>, <persoonsnaam>Lieuwe Folkerts,</persoonsnaam></l>
+					<l><persoonsnaam>Reitze Sapes, </persoonsnaam><persoonsnaam>Haije Eisma</persoonsnaam>, <persoonsnaam>Claas Bokkes Bokkema.</persoonsnaam> <persoonsnaam>Pieter</persoonsnaam></l>
+					<l><persoonsnaam>Douwes Oostinde</persoonsnaam>,<persoonsnaam> Elso Inia</persoonsnaam>, <persoonsnaam>Ebbe Sjoerds</persoonsnaam>, <persoonsnaam>Rienk Eisenga,</persoonsnaam></l>
+					<l><persoonsnaam>Heere Schonegevel</persoonsnaam>, <persoonsnaam>Jan Crab</persoonsnaam>, <persoonsnaam>Lourens Lieuwes van der Kooi,</persoonsnaam></l>
+					<l><persoonsnaam>Dirk IJssel,</persoonsnaam> <persoonsnaam>Harmen Rompts</persoonsnaam>, <persoonsnaam>Wed<hi rend='superscript:true;'>e</hi>. Ebeltje Annes Gerkema</persoonsnaam>,</l>
+					<l><persoonsnaam>Cornira Ruurdsma weduw.</persoonsnaam> <persoonsnaam>Doktor nigerus Stania</persoonsnaam>, <persoonsnaam>Rinze</persoonsnaam></l>
+					<l><persoonsnaam>Tjerks,</persoonsnaam> <persoonsnaam>Sijmen Ates</persoonsnaam>, <persoonsnaam>Andries Clasen</persoonsnaam><persoonsnaam> wed. Etekapel.</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>53</hi></pagenumber></l>
+					<l><persoonsnaam>Cornelis Haijes</persoonsnaam>, <persoonsnaam>Johannes Abraham</persoonsnaam> <persoonsnaam>Wed<hi rend='superscript:true;'>e</hi>. Hittie Hendriks</persoonsnaam></l>
+					<l><persoonsnaam>Romke Gerkes</persoonsnaam>. Alzoo te zamen in een Somma uitmaken</l>
+					<l>de zestien duizend zeven honderd en vijftig guldens.</l>
+					<l>Deze besturing of Regering als dus bestaande, dat namentlijk</l>
+					<l>de Participanten, die drie honderd guldens of meer</l>
+					<l>hebben ingeteekend, bij meeste stemmen zestien van de</l>
+					<l>bekwaamste onder haar zullen uitkiezen of numeneeren</l>
+					<l>met de naam op een Cedul te stellen en over te geven om</l>
+					<l>daar uit bij verzameling te zien, op wien pluraliteit geval</l>
+					<l>len is, en deze zullen bewinthebbers zijn van verschreven</l>
+					<l>Compagnie. Daarna zullen deze bewinthebbers uit het</l>
+					<l>midden van haar vijf personen numineeren op manier</l>
+					<l>als boven, welke Directeurs van de Compagnie zullen wezen</l>
+					<l>en d&apos; Administratie hebben van alle zaken, de Compagnie </l>
+					<l>betreffende, doch alvorens en zoo jaarlijks met de bewint</l>
+					<l>hebbers beraadslaan over het principaalste en voornaamste</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l><pagenumber>54</pagenumber></l>
+					<l>vorders het alsdan geresolveerd &apos;t Excuteren en daarvan</l>
+					<l>Jaarlijks rekening te doen aan de bewinthebbers en twaalf</l>
+					<l>hoofd participanten van drie honderd guldens inleg, bij de</l>
+					<l>participanten zelf te numeneren. Ieder drie honder guldens,</l>
+					<l>die op een persoon of naam worden ingeschreven, zal het</l>
+					<l>regt van een stem geven, zoodat die 4 maal 3 honderd gul¬</l>
+					<l>dens koomt in te leggen of te kenen, zal het recht van vier</l>
+					<l>stemmen in de afferien van de Compagnie hebben en zoo</l>
+					<l>vervolgens en dien tot een meerder getal genegen is te komen;</l>
+					<l>doch de stemminge zoo verre zijn gedaan tot het maken der</l>
+					<l>bewinthebbers zal een ieder niet meer als een stem tot &apos;t ver</l>
+					<l>kiezen der Directeurs genieten, t&apos;welke ook zal plaats heb</l>
+					<l>ben onder verschreven Directeurs en besturende prinsepale</l>
+					<l>affairen. &apos;t Elkens als de Jaarlijkse afrekening wordt gedaan,</l>
+					<l>zal een ieder van de participant vrijheid hebben om præsent</l>
+					<l>te zijn. Gestemd den<datum datum='1701-03-04'> 4<hi rend='superscript:true;'>en</hi>. Maart </datum>en zijn de namen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>55</hi></pagenumber></l>
+					<l>van de eerste Bewinthebbers als volgt <persoonsnaam>Willem Bavius,</persoonsnaam></l>
+					<l><persoonsnaam>Gosfrinus Heringa</persoonsnaam>, <persoonsnaam>Petrus Bergma</persoonsnaam>, <persoonsnaam>Dirk Smedema, </persoonsnaam><persoonsnaam>Minne</persoonsnaam></l>
+					<l><persoonsnaam>Lourens</persoonsnaam>, <persoonsnaam>Foppe Hessels Houterus</persoonsnaam>, <persoonsnaam>Claas Rienks; </persoonsnaam><persoonsnaam>Lieuwe</persoonsnaam></l>
+					<l><persoonsnaam>Folkerts Haije Eisma</persoonsnaam>, <persoonsnaam>Pieter Douwes Oostinde</persoonsnaam>,<persoonsnaam> Tjerk Aebles</persoonsnaam></l>
+					<l><persoonsnaam>van der Zande</persoonsnaam>, <persoonsnaam>Herke Schonegevel</persoonsnaam>, <persoonsnaam>Hendrik Takes Schonegevel,</persoonsnaam></l>
+					<l><persoonsnaam>Rienk Eisinga</persoonsnaam>,<persoonsnaam> Elso Inia</persoonsnaam>, <persoonsnaam>Rinse Feikema,</persoonsnaam> de laatste heeft</l>
+					<l>zijn inteekening nooit betaal nihel.</l>
+					<l>Namen der Directeurs</l>
+					<l><persoonsnaam>Gosfrinus Heringa</persoonsnaam>, <persoonsnaam>Hendrik Takes Schonegevel</persoonsnaam></l>
+					<l><persoonsnaam>Tjerk Aebles van der Zande</persoonsnaam>, <persoonsnaam>Foppe Hessels Houterus,</persoonsnaam></l>
+					<l><persoonsnaam><hi rend='underlined:true;'>Dirk</hi> <hi rend='underlined:true;'>Smedema</hi> als boekhouder en Directeur.</persoonsnaam></l>
+					<l>Deze compagnie of rederij bragte vele negotie in deze Stad:</l>
+					<l>zoo aan bakkers Brouwers, Smidden, Scheeptimmerlieden,</l>
+					<l>Zeilmakers, Touwslagers, Kuipers en alle handwerken en</l>
+					<l>arbeiders, ja zelfs schippers om de haring te vervoeren</l>
+					<l>naar oosten en weder om andere waren mede te brengen.</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>56</hi></pagenumber></l>
+					<l>als granen, Klaphout, linnen en wat iets meer mag zijn</l>
+					<l>Want ik heb in de rekening gezien, dat de uitgaaf dien</l>
+					<l>aangaande bedroeg over de 4000 Guldens van <datum datum='1701-04-xx'>April 1701</datum></l>
+					<l>tot <datum datum='1701-12-xx'>December 1701.</datum> Maar hebben door de oorlog met den</l>
+					<l>Koning van Frankrijk groote Schade <hi rend='strikethrough:true;'>heeft</hi> geleden. </l>
+					<l>Want in het Jaar <datum datum='1703-xx-xx'>1703</datum> de twee buijsen uitgerust zijnde,</l>
+					<l>om te gaan visschen, is den eenen verbrant door &apos;s konings</l>
+					<l>volk en den anderen buis verjaagd, hetwelk bijna den</l>
+					<l>halven inleg daardoor verloren is en alzoo tot niet is ge¬</l>
+					<l>lopen en <datum datum='1715-05-03'>den 3. Mei 1715</datum> de overige goederen verkocht en de</l>
+					<l>Compagnie gescheiden is.</l>
+					<l><datum datum='1702-xx-xx'>1702</datum></l>
+					<l>Is de <locatie>westersingel </locatie>geslatten, van de helling bij <locatie>de drie pijpen</locatie></l>
+					<l>af lang 24 roeden, ieder roede 14 voet a zes gulden twee stuivers</l>
+					<l>en van daar tot onder de pijp door lang 28 roeden .a. Guldens</l>
+					<l>Ook is in dit zelve Jaar in de <locatie>Halfmaansgracht </locatie>geslatten</l>
+					<l><datum datum='1704-xx-xx'>1704</datum></l>
+					<l>is Octrooi van de bank van leening 20 jaren verlengd op Mei.]</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>57</pagenumber></l>
+					<l><datum datum='1705-04-09'><hi rend='underlined:true;'>1705</hi></datum></l>
+					<l><datum datum='1705-04-09'>Den 9 April</datum> werden de fondamenten van het oude <locatie>Bonifati</locatie></l>
+					<l><locatie>klooster</locatie> uitgegraven, en een schone waterput aan de zuid</l>
+					<l>zijde aan &apos;t zelve fondament ontdekt, overdekt zijnde met</l>
+					<l>een zware houtenpost, hebbende deze put eene uitwatering</l>
+					<l>noordwaarts aan naar het diept, zijnde gemaakt van</l>
+					<l>ronde huispannen, en overdekt met ruige kalfsvellen,</l>
+					<l>en wierde de fondamenten met de dood beenderen, die uit</l>
+					<l>de beene kouw aan het oostereinde ten noorden van de Kerk</l>
+					<l>staande wederom opgevuld, door dien deszelfs muure</l>
+					<l><datum datum='1706-xx-xx'>1706</datum></l>
+					<l>omgestort was. In <datum datum='1707-07-xx'>Julij </datum>wierde aan de noorder uitgang</l>
+					<l>van het kerkhof een groote ronde bornput ontdekt omtrent</l>
+					<l>vijf voeten diep onder de grond welke aleer voor een Secreet</l>
+					<l>gediend hadde, wanneer .E.<hi rend='superscript:true;'>de</hi> Achtb<hi rend='superscript:true;'>re</hi>. Magistraat aldaar</l>
+					<l>tot het water toe een diep greppel liet graven, en met huis</l>
+					<l>pannen twee en twee zijd aan zijd en zoo twee maal boven</l>
+					<l>malkander, makende te zamen 4 waterkanalen om</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l><pagenumber>58</pagenumber></l>
+					<l>voor een uitwatering voor het kerkhof te dienen. In dit</l>
+					<l>graven wierde door <persoonsnaam>Teunis Olckerts, metselaar,</persoonsnaam> en <persoonsnaam>Tamme</persoonsnaam></l>
+					<l><persoonsnaam>Hendriks, doodgraver</persoonsnaam>, een grote buit gevonden, zoo aan Goud</l>
+					<l>als anders. Dit zelve Jaar is het diept door de Stad geslat</l>
+					<l>van de <locatie>Anjumerpijp </locatie>tot de <locatie>Hanspoort</locatie>. [Het eerste perseel</l>
+					<l>van de <locatie>Anjumerpijp </locatie>af lang 20 roeden de roede van 14 voet</l>
+					<l>â. acht gulden 17 stuivers. Het 2<hi rend='superscript:true;'>de</hi>. perceel zijnde de <locatie>oostersin¬</locatie></l>
+					<l><locatie>gel</locatie> lang 36 roede â 14 guldens. Het derde perceel beginnende</l>
+					<l>van het eerste perceel voorbij de Brouwerij van de <persoonsnaam>Burge¬</persoonsnaam></l>
+					<l><persoonsnaam>meester Else Inia</persoonsnaam> lang 24 roeden â 8 Guldens 16 Stuivers.</l>
+					<l>Het vierde Perceel beginnende van het derde perceel. af. lang</l>
+					<l>35 roeden â 10 Gld. 9 stuivers lopende van de <locatie>Kloosterbrugge</locatie>.</l>
+					<l>Het vijfde perceel beginnende van de voornoemde brugge</l>
+					<l>lang 60 Roeden 3 voet â agt Gld<hi rend='superscript:true;'>n</hi>. 9 stuivers. Doch hebben</l>
+					<l>de aannemers vijf en dertig Guldens verbetering bekomen.]</l>
+					<l>De <hi rend='strikethrough:true;'>lange pijpen</hi> </l>
+					<l><locatie>Oostersingel </locatie>over</l>
+					<l><locatie>de kleine pijp</locatie>,<hi rend='strikethrough:true;'> hebben</hi></l>
+					<l>die</l>
+					<l>voor dezen voor een</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>59.</hi></pagenumber></l>
+					<l>verlaat gediend </l>
+					<l>hadden,</l>
+					<l>[doen ter tijd was er een dam in de gracht</l>
+					<l>bij de <locatie>Aalzumerpoort </locatie>en was eenen <persoonsnaam>Johannes Gabes ver¬</persoonsnaam></l>
+					<l><persoonsnaam>laatsman</persoonsnaam>.] Ditzelve Jaar wierd het kerkhof gevloerd en</l>
+					<l>is ook een riool aan de Oost en noordkant gegraven, [en</l>
+					<l>heeft wel 1000 Daalders gekost.]</l>
+					<l><datum datum='1707-xx-xx'><hi rend='underlined:true;'>1707</hi>.</datum></l>
+					<l>[Zijn naar <locatie>Leeuwarden </locatie>geweest om Haar Hoogheid de <persoonsnaam>Princesse</persoonsnaam></l>
+					<l><persoonsnaam>van Oranje,</persoonsnaam> etc. te bedanken over het Stadhouderschap, en zijn</l>
+					<l>Hoogheid de <persoonsnaam>Prins van Oranje</persoonsnaam> etc, als Erfstadhouder van</l>
+					<l>deze Provincie te feliciteren uit haar <persoonsnaam>Achb<hi rend='superscript:true;'>e</hi>. Else Inia</persoonsnaam></l>
+					<l><persoonsnaam>President en Sequens Adolf Reling</persoonsnaam>, uit de Vroetschap</l>
+					<l>mijnheer <persoonsnaam>Julius Schelto van Aitzema</persoonsnaam>, en <persoonsnaam>Dirk Smedema</persoonsnaam></l>
+					<l><persoonsnaam>Old Burgemeesteren.]</persoonsnaam></l>
+					<l><datum datum='1708-08-14'><hi rend='underlined:true;'>1708.</hi></datum></l>
+					<l><datum datum='1708-08-14'>Den 14 Augt</datum>. wierde hier een Loterij getrokken met goed¬</l>
+					<l>vinden van de Ed. Achtbare Magistraat tot voordeel van</l>
+					<l>de Diakonie en het weeshuis, bestaande in 7020 Loten,</l>
+					<l>ieder inleg drie Carolij Guldens, waarvan zeven percent,</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>60</hi></pagenumber></l>
+					<l>ten voordeele der armen was; zijn een prijs van 2000</l>
+					<l>Guldens, een van duizend en 4 van 500; 8 van 200,</l>
+					<l>16 van 100, 20 van 50, en 30 van 20 nog 100 van 12 en 1200</l>
+					<l>van 8 Guldens, die eerst en laatst getrokken wierden 30 Gulden;</l>
+					<l>wiens naam voor en na de 2000 guldens uitkwam, ieder</l>
+					<l>50 Guld<hi rend='superscript:true;'>s</hi>., voor en na de 1000 Guldens ieder 35 Gulden, die</l>
+					<l>eerst op de 2, 3. 4, 5, 6, en 7. dag uitkwam ieder 20 lb. de eerste</l>
+					<l>op de 8, 9, 10, 11, 12, 13 en 14 dag ieder 10 Guldens; deze Loterij</l>
+					<l>wierde door twee weeskinderen als <persoonsnaam>Luitien Elgersma</persoonsnaam></l>
+					<l>en <persoonsnaam>IJle Sierks</persoonsnaam> op een rondom zigtbare verheven Theater voor</l>
+					<l>het Stadshuis getrokken [ten oversten van de Residerend</l>
+					<l>Burgemeester; de devijsen wierden uitgeroepen door <persoonsnaam>Andries</persoonsnaam></l>
+					<l><persoonsnaam><datum datum='1710-xx-xx'><hi rend='underlined:true;'>1710</hi></datum></persoonsnaam></l>
+					<l><persoonsnaam>Dorema.</persoonsnaam>] <datum datum='1710-02-09'> Den 9 Februarij</datum> trouwden op eenen dag alhier</l>
+					<l>in de Kerk vader, zoon en dochter alle uit een huis.</l>
+					<l>De <persoonsnaam>vader Jacob Pieters.</persoonsnaam></l>
+					<l><persoonsnaam>D&apos; zoon Sijbe Jacobs.</persoonsnaam></l>
+					<l><persoonsnaam>D&apos; dochter Lijsbett Jacobs.</persoonsnaam></l>
+					<l>aan</l>
+					<l><persoonsnaam>Grietje Tjommes.</persoonsnaam></l>
+					<l><persoonsnaam>Geiske Sipkes.</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Douwes.</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>61</hi></pagenumber></l>
+					<l>Hier eindigt nagenoeg te de <persoonsnaam>M. van Hesman.</persoonsnaam></l>
+					<l><datum datum='1712-02-25'><hi rend='underlined:true;'>1712</hi></datum></l>
+					<l><datum datum='1712-02-25'>Den 25 Februarij</datum> waren uit deze stad gecommitteerd om</l>
+					<l>de begraffenisse van zijn Hoogheid <persoonsnaam>Prins Johan Willem</persoonsnaam></l>
+					<l><persoonsnaam>Friso</persoonsnaam> etc, etc, etc. uit de <persoonsnaam>Ed<hi rend='superscript:true;'>e</hi>. Achtb<hi rend='superscript:true;'>e</hi>. Magistraat Hendrik</persoonsnaam></l>
+					<l><persoonsnaam>Barga</persoonsnaam>, <persoonsnaam>Adolph Reling</persoonsnaam> en wegens de Vroetschap <persoonsnaam>Willem</persoonsnaam></l>
+					<l><persoonsnaam>Jensma</persoonsnaam>, <persoonsnaam>Gerrit Koumans</persoonsnaam>. En is een ringmuur voor</l>
+					<l><datum datum='1712-xx-xx'><hi rend='underlined:true;'>1713</hi></datum></l>
+					<l><locatie>de felze fontein</locatie> gemaakt. Is de <locatie>brug over de Oostersingel</locatie></l>
+					<l>gemaakt en besteed aan de minst aannemende zoo van</l>
+					<l>hout als &apos;t maakloon en is gemaakt door de <persoonsnaam>Old Burgem<hi rend='superscript:true;'>r</hi>.</persoonsnaam></l>
+					<l><persoonsnaam>Claas Overhast</persoonsnaam> voor 180 Guld<hi rend='superscript:true;'>s</hi>. Ook is voorjaars een koe-,</l>
+					<l>Barge- en schapemerkt ingesteld op order als &apos;t volgt:</l>
+					<l>zoo van koeijen, bargen en schapen, welke marktdagen</l>
+					<l>zullen in &apos;t voorjaar <datum datum='1713-05-xx'>zes donderdagen voor en na Mei.</datum></l>
+					<l>En in &apos;t najaar vier Donderdagen voor en na <datum datum='1713-11-01'>Alderheiligen</datum></l>
+					<l>En zullen de verkopers ieder gehouden zijn hunne beesten</l>
+					<l>op de marktplaatzen brengen, die daartoe geordineerd zijn.</l>
+					<l>De koe beesten zoo jong als oud zoo in &apos;t voor als najaar</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>62</hi></pagenumber></l>
+					<l>zal voor ieder beest tot marktgeld betaald worden een stuiver</l>
+					<l>Een overjaarse barg in &apos;t voorjaar een stuiver. Een bigge</l>
+					<l>vier penningen tot aan <datum datum='1713-07-25'>Sint Jacob </datum>toe en na de tijd zon</l>
+					<l>der onderscheid ieder een stuiver. En in &apos;t najaar een</l>
+					<l>overjaarre barg een stuiver en 8 penningen. Een spalling</l>
+					<l>een stuiver, van schapen en lammen die marktdagen</l>
+					<l>zullen alle Donderdagen zijn gedurende &apos;t Geheele jaar door</l>
+					<l>en tot marktgeld betaald worden ieder vier penningen. </l>
+					<l>Welke markgeld zal komen ten profijte voor &apos;t weeshuis</l>
+					<l>dezer stad. Zoo iemand onwillig was die gestipuleerde</l>
+					<l>Artikelen na te komen, en onwillig zijnde markgelden</l>
+					<l>te betalen, zal in boete vervallen van ieder beest voor de</l>
+					<l>eerste maal en voor de tweede maal dubbeld. Het versterf</l>
+					<l>der Hoornbeesten onder de tafel van <locatie>Dockum</locatie> behoorende</l>
+					<l><datum datum='1714-12-15'><hi rend='underlined:true;'>1714</hi></datum></l>
+					<l><datum datum='1714-12-15'>Den 15 December</datum> (is) bij Haar Ed. Mog: geconfidereerd</l>
+					<l>wezende op wat maniere en door welke wegen en middelen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>63</hi></pagenumber></l>
+					<l>de goede Ingezetenen, die &apos;t verlies van hare hoornbeesten</l>
+					<l>reeds hebben geleden, of noch onverhopentlijk door wijder</l>
+					<l>vervolg mogten komen te lijden, eenigzins gesoulageerd</l>
+					<l>en in het dragen van &apos;s lands lasten in &apos;t gemoet zouden</l>
+					<l>komen en behoren te worden gekomen. 1 de Atterminatie of</l>
+					<l>inhouding van een Landsfloreen voor ieder koebeest aan</l>
+					<l>de grasseerende besmettelijke ziekte gestorven, bij resolutie</l>
+					<l>van den <datum datum='1714-08-11'>11 Aug<hi rend='superscript:true;'>s</hi></datum>. laatstleden geaccordeerd zal worden</l>
+					<l>bepaald gelijk dezelve bepaald wordt bij dezen op een</l>
+					<l>Jaar in dier voegen, dat voor ieder gestorven koe (twee</l>
+					<l>rieren en vier hokkelingen respective voor een koe gerekend)</l>
+					<l>in elk omslag of dubbelde maand, tot zes incluis, zal wor</l>
+					<l>den ingehouden eenentwintig stuivers en alzoo twee ducatons</l>
+					<l>voor het geheele Jaar; beginnende voorsz. inhoudinge van de</l>
+					<l>dubbelde maand waar in ieder koebeest gestorven zal</l>
+					<l>wezen en zoo vervolgens van omslag tot omslag.</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>64</hi></pagenumber></l>
+					<l>Welke korting wegens de verstorvene hoornbeesten onder de</l>
+					<l>tafel der Stad <locatie>Dockum </locatie>behoorende bedragende in een</l>
+					<l>der Somma Tweehondert een en &apos;t negentig Guld<hi rend='superscript:true;'>s</hi>. 7 stuiv 8 penn</l>
+					<l><datum datum='1715-03-03'><hi rend='underlined:true;'>1715</hi></datum></l>
+					<l><datum datum='1715-03-03'>Den 3 Maart </datum>was het buiten water zeer hoog alzoo, dat het</l>
+					<l>tot de <locatie>Woudpoort </locatie>uitstroomde, als mede de <locatie>groote breedstraat</locatie></l>
+					<l>langs lopende bij de lange pijp in &apos;t diep stortede. Den <datum datum='1715-04-11'>11 April</datum></l>
+					<l>zijn de bomen op het bolwerk bij boelgoed verkocht en hebben</l>
+					<l>zuiver opgebracht 410-12-10. en de volgende Herfst weder</l>
+					<l>480 nieuwe geplant. â. 10 Stuivers het stuk, Nadien de ket</l>
+					<l>ting brug over het groot diept in <locatie>Dockum </locatie>vervallen en bijna</l>
+					<l>geheel weg was, alzoo dat in eenige Jaren niet tot dienst</l>
+					<l>of gebruik is geweest; Zoo is &apos;t dan bij de Ed. Achbare Magistraat</l>
+					<l>verstaan en goed gevonden om vier uit de Vroetschap en</l>
+					<l>vier uit de burgerij alzoo, ieder Espel een Vroetsman en een</l>
+					<l>burger te verzoeken om een omgang te doen bij de burgerij</l>
+					<l>van huis tot huis om te verzoeken een intekening gelieven,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>65</hi></pagenumber></l>
+					<l>te doen tot een nieuwe brug, t welk de acht personen,</l>
+					<l>hebben aangenomen en gedaan ieder in zijn espel. Ieder</l>
+					<l>espel ingetekend. <locatie>Groote breedstraat.</locatie></l>
+					<l>Uit de Vroetschap. <persoonsnaam>D. Smedema.</persoonsnaam></l>
+					<l>Uit de burgerij <persoonsnaam>Daam Heerts Brouwer</persoonsnaam>.</l>
+					<l><locatie>Kleine breedstraat espel.</locatie></l>
+					<l><persoonsnaam>De Burgm<hi rend='superscript:true;'>r</hi>. Isaak Sipma.</persoonsnaam></l>
+					<l>En de<persoonsnaam> koopman Foppe Hessels.</persoonsnaam></l>
+					<l>Uit de<locatie> legeweg Espel.</locatie></l>
+					<l>De <persoonsnaam>Old Burgemeester Thomas Hichte</persoonsnaam></l>
+					<l>En de <persoonsnaam>koopman Gerlof Johannes</persoonsnaam></l>
+					<l>Uit het <locatie>Blokhuis espel.</locatie></l>
+					<l>De<persoonsnaam> Vroetsman Jacob Jansen verhoek</persoonsnaam>, en <persoonsnaam>Outger Douwes</persoonsnaam></l>
+					<l><locatie>Groote Breedstraat </locatie>- 167 - 10 - ,,</l>
+					<l><locatie>Kleine </locatie>- 184 - 17 - ,,</l>
+					<l><locatie>Legeweg</locatie> - 166 - ,, - ,,</l>
+					<l><locatie>Blokhuis </locatie>- <hi rend='underlined:true;'>183 - 3 - ,,</hi></l>
+					<l>701 - 10</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>66</hi></pagenumber></l>
+					<l><hi rend='underlined:true;'>Door de Stadspenningen bijgedaan Ƒ 253 - 5 - ,,</hi></l>
+					<l>Ƒ 954 - 15 - ,,</l>
+					<l>En is den <datum datum='1715-04-04'>4 April </datum>ten overstaan van Commissaris uit de Ed.</l>
+					<l>Achtbare. <persoonsnaam>Magistraat Frans Geringa</persoonsnaam> en <persoonsnaam>Jan van de Rijp;</persoonsnaam></l>
+					<l>bij vrije wille en Strijkgeld besteed het maakloon aan de</l>
+					<l>minst aannemende; en is aangenomen door <persoonsnaam>Isaak Jochums</persoonsnaam></l>
+					<l><persoonsnaam>Jacob Overhert</persoonsnaam>,<persoonsnaam> Jan Edes</persoonsnaam>, en <persoonsnaam>Eekke Annes. </persoonsnaam>Ditzelve Jaar is</l>
+					<l>het straatvullens ten prophijte van de Stad verpacht en is</l>
+					<l><persoonsnaam>pachter Bartel Hillebrands</persoonsnaam> &apos;s Jaarlijks voor 325 Guldens</l>
+					<l>voor de tijd van vijf aan een volgende Jaren op <datum datum='xxxx-05-xx'>Mei </datum>in te gaan.</l>
+					<l>Is mede gearresteerd en vastgesteld dat de doodvaten voor</l>
+					<l>de stad geleverd zouden worden om daar door eenige pro¬</l>
+					<l>phijt voor de stad af te trekken tot hoedanige de stad zware</l>
+					<l>lasten en schulden. Maar heeft geen voortgang genomen</l>
+					<l>door kwade aanhitzinge, van sommige menschen, en zijn</l>
+					<l>maar dertien doodvaten zoo klein als groot door de stad</l>
+					<l>geleverd, waarop gevolgd is dat een &apos;t Reglement overtredende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>67</hi></pagenumber></l>
+					<l>daardoor de Stads dienaren in zijn huis geleid zijnde over</l>
+					<l>de betaling van de boete, daartoe staande; hebben eenige</l>
+					<l>haar niet ontzien de dienaren zoodanig te bejegenen, datze</l>
+					<l>hare posten hebben moeten verlaten en het huis te ruimen. </l>
+					<l><datum datum='1716-xx-xx'><hi rend='underlined:true;'>1716</hi></datum></l>
+					<l><hi rend='underlined:true;'>Hebben de Remonstranten voorgenomen eenen <persoonsnaam>Egbert</hi> Bisschop</persoonsnaam></l>
+					<l>tot haren vasten Prediker te beroepen en te bevestigen en</l>
+					<l>overal doen bekend te maken; Ja zelfs aan de Gereformeerde</l>
+					<l>Ledematen verzogt om de bevestinge bij te wonen alzoo, dat</l>
+					<l>er een voornaam Prediker uit Holland de bevestinge zoude</l>
+					<l>doen, waarop de. E. Kerkenraad van de Gereformeerde</l>
+					<l>gemeente aan de E. Achtb<hi rend='superscript:true;'>r</hi>. Magistraat zulks hebben bekend</l>
+					<l>gemaakt, zoo is door haar Achb<hi rend='superscript:true;'>e</hi>. aan de hoofden van</l>
+					<l>de remonstranten en aan de Prediker, die de bevestinge</l>
+					<l>zoude doen, geinsinueerd zulks na te laten: of dat men</l>
+					<l>daar nader zoude in versien. De dag gekomen zijnde, zijn</l>
+					<l>verscheidene personen van andere steden hier gekomen,</l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>68</hi></pagenumber></l>
+					<l>om &apos;t zelve bij te wonen, doch daar en is niet in gedaan,</l>
+					<l><datum datum='1717-xx-xx'>1717</datum></l>
+					<l>Is een nieuwe steenen toorn op het Raadshuis gebouwd,</l>
+					<l>beginnende van boven zoldering af, zijnde de derde toorn</l>
+					<l>sedert dat het Raadshuis gebouwd is. En is het arbeids</l>
+					<l>loon besteed aan de minst aannemende en is aangenomen</l>
+					<l>en gemaakt het metselwerk door <persoonsnaam>Jan Boukes</persoonsnaam> en <persoonsnaam>Claas</persoonsnaam></l>
+					<l><persoonsnaam>Sijbes</persoonsnaam> voor 153 guld. 19 stuiv buitenwerk, 2 guld<hi rend='superscript:true;'>s</hi>. Het </l>
+					<l>timmerwerk gemaakt door <persoonsnaam>Sijbren Douwes</persoonsnaam> en <persoonsnaam>Willem Lieuwes</persoonsnaam></l>
+					<l>voor 249 guld<hi rend='superscript:true;'>s</hi>. 15 Stuiv buitenwerk 88 Guld<hi rend='superscript:true;'>s</hi>. 9 Stuiv. Het</l>
+					<l>loodwerk gemaakt door <persoonsnaam>Foppe Hessels </persoonsnaam>en is meer dan 6000 lb.</l>
+					<l>lood daartoe verbruikt, 39700 Steenen en 160 tonnen kalk</l>
+					<l>voorts Serment, holt, ijzer en koperwerk en wat dies meer</l>
+					<l>mag zijn: hetwelk alle niet Specife hier werd gesteld maar</l>
+					<l>heeft in een der Somma gekost Ƒ 2264 - 3 - 8. <datum datum='1717-10-30'>Den 30 October</datum></l>
+					<l>heeft de E. A. Magistraat de trompetter geordineerd om de</l>
+					<l>dienst weder waar te nemen op de toorn. Den <datum datum='1717-11-03'>3 Novemb. </datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>69</hi></pagenumber></l>
+					<l>Is het uurwerk aan de gang gebragt en de klokken heel, en</l>
+					<l>half geslagen en den <datum datum='1718-09-25'>25 Sept 1718</datum>. is het speelwerk voltooid</l>
+					<l>en de eerste maal Zondags voor de Predikatie opgespeeld door</l>
+					<l><persoonsnaam>Egbert Basuink</persoonsnaam>. Onder wat Regerende Burgemeesters deze</l>
+					<l>bouwing is voorgevallen kan gezien worden in de uitgehou</l>
+					<l>wen steen, staande in de toorn boven de Zolders deur.</l>
+					<l><datum datum='1717-xx-xx'>1717?</datum></l>
+					<l>S. Nagts tusschen den <datum datum='1717-12-24'>24 </datum>en <datum datum='1717-12-25'>25 December</datum>; zijnde kersnagt, is</l>
+					<l>er een zeer hoogen watervloed geweest, zoo dat bij menschen</l>
+					<l>geheug niet is gebeurd: het water liep over de geheele</l>
+					<l><locatie>breedstraat </locatie>langs tot bij <locatie>de lange pijp</locatie> in t diep storte</l>
+					<l>alzoo dat de <locatie>boterstraat </locatie>tot bijna aan de fetze onderstonde,</l>
+					<l>alsmede tot de <locatie>woudpoort </locatie>uitstroomde en grote gaten in</l>
+					<l>de straten spoelde; Ja de Poortier heeft verhaald, voeten hoog</l>
+					<l>stonde, en eenige huizen grote schade hebben geleden; een </l>
+					<l>koe, op de stal staande, is verdronken; het water loopende</l>
+					<l>over <locatie>de zijl</locatie> en achter de zijl weder instorte en gaten</l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>70</hi></pagenumber></l>
+					<l>in de straten spoelde en wallen wegnam, alsmede een groot</l>
+					<l>stuk van <locatie>Halfmanus dwinger </locatie>afspoelde; &apos;t water liep bij</l>
+					<l>de vernoemde dwinger over de borstweering in de gracht</l>
+					<l>en mede tot de <locatie>Halvemaanspoort </locatie>uit; Ja het water was</l>
+					<l>zoo hoog, dat men den<datum datum='1717-12-25'> 25 dito</datum> niet verder als <locatie>de lange pijp</locatie></l>
+					<l>en de <locatie>kleine oosterstraat</locatie> tot aan de <locatie>boterwaag </locatie>konde gaan,</l>
+					<l>alzoo dat men niet op de stadswal konde komen als bij</l>
+					<l>de <locatie>Halvemaanspoort</locatie>, <locatie>Hanspoort </locatie>en bij de straat,</l>
+					<l>lopende van <locatie>Lageweg </locatie>na t bolwerk en de <locatie>Woutpoort</locatie>.</l>
+					<l>De lager gedeelten van de stad stonden onder water zoodat</l>
+					<l>de menschen de huizen moesten verlaten en stadwaarts intrek¬</l>
+					<l>ken om haar te bergen. Een vrijster, genaamd <persoonsnaam>Antje Jans</persoonsnaam>, is op </l>
+					<l>een stuk dak van een huis met een levendig varken komen</l>
+					<l>aandrijven van <locatie>Ternaarder visburen</locatie> af, en alhier bij <locatie>de</locatie></l>
+					<l><locatie>drie pijpen</locatie> aangekomen en geburgen. Er zijn in <locatie>Oost en west¬</locatie></l>
+					<l><locatie>dongeradeel </locatie><locatie>Dantumadeel </locatie>en <locatie>Kollumerland </locatie>veel dijken</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>61</hi></pagenumber></l>
+					<l>doorgebroken, Paalwerk weg gespoeld en veel Wielen, ge¬</l>
+					<l>scheurd veel huizen aan de dijken staande omgespoeld,</l>
+					<l>veel menschen en beesten verdronken. Tot <locatie>Oostmahorn</locatie></l>
+					<l>XXV menschen, in een huis bij-eengekomen zijnde, is het</l>
+					<l>huis omgespoeld. Een daarvan is levend op het dak</l>
+					<l>geburgen zijn 24 verdronken. Den <datum datum='1717-12-30'>30 December</datum> is een groote</l>
+					<l>levendige vleet te <locatie>Hantumhuizen </locatie>aan de Terp gevangen</l>
+					<l>en alhier op de afslag verkocht en heeft 16 Stuiv gegolden.</l>
+					<l>En daar wierden ook Schol, haring, en Sprot in de binnen</l>
+					<l><datum datum='1718-xx-xx'><hi rend='underlined:true;'>1718</hi></datum></l>
+					<l>wateren gevangen. In <datum datum='1718-01-xx'>Januarij </datum>is er een vaste Stoel of bank</l>
+					<l>in de Kerk gemaakt voor de Wees- en Armvoogden en Ontvanger.</l>
+					<l>den <datum datum='1718-01-23'>23 dito</datum> voor de eerste maal daarin gezeten de Voogden</l>
+					<l>met namen <persoonsnaam>Minne Sijbes Donga</persoonsnaam>. <persoonsnaam>Johannes. Roelofs.</persoonsnaam></l>
+					<l><persoonsnaam>Benediktus. Tjerks.</persoonsnaam> ende ontvanger.<persoonsnaam> Daam Heerts</persoonsnaam> de voogd</l>
+					<l><persoonsnaam>Jacob jacobs</persoonsnaam> absent. In <datum datum='1718-01-xx'>Januarij </datum>hebben de Brouwers. gild de</l>
+					<l><locatie>fetze fontein</locatie> laten slatten om water te bekomen om te</l>
+				</lg>
+			</p>
+			<pb n='38'/>
+			<p>
+				<lg>
+					<l><pagenumber>73</pagenumber></l>
+					<l>brouwen om dat daar geen versch water was te bekomen.</l>
+					<l>Eenige weken daarna hebben dezelve de fontein, buiten de</l>
+					<l><locatie>woutpoort</locatie>, dobbe en Sloot mede laten Slatten. <datum datum='1718-02-04'>Den 4 Febru</datum></l>
+					<l><datum datum='1718-02-04'>arij</datum> is de haag, staande aan de buitenkant van de</l>
+					<l>Stadswal, bij boelgoed verkocht opgebragt aan zuiver</l>
+					<l>geld Ƒ 82 - 4 - ,,  In de Meitijd zijnder 170 ijperen boomen</l>
+					<l>om de stadswal geplant â tien Stuivers en in t najaar</l>
+					<l>3000 haagboomtjes geplant tusschen de afgehouwene.</l>
+					<l>Is aan de minst aannemende besteed &apos;t Slatten in de</l>
+					<l><locatie>Stadsgracht </locatie>van het diept tot de zuider steenen baar</l>
+					<l>om de aarde te brengen in de dwinger om het afgespoelde</l>
+					<l>te verbeteren en is aangenomen en gemaakt door <persoonsnaam>Hans</persoonsnaam></l>
+					<l><persoonsnaam>Jurjens</persoonsnaam> cum soc voor Ƒ 149 - 16 St. Nadien de <locatie>Halfmaans</locatie></l>
+					<l><locatie>brug</locatie> over de gracht Oud en bijna onbruikbaar was is</l>
+					<l>op den <datum datum='1718-07-04'>4 Julij</datum> een nieuwe steenen brugge aan de Noord¬</l>
+					<l>kant van de Steenen baar langs door de Ed<hi rend='superscript:true;'>e</hi>. Achb<hi rend='superscript:true;'>re</hi>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>74</pagenumber></l>
+					<l>Magistraat als Burgem<hi rend='superscript:true;'>r</hi>. waren <persoonsnaam>Hessel van Sminia,</persoonsnaam></l>
+					<l><persoonsnaam>Jan van de Rijp,</persoonsnaam> <persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Leonardus Wendt,</persoonsnaam> <persoonsnaam>Dirk Smedema</persoonsnaam></l>
+					<l><persoonsnaam>Frans Geringa</persoonsnaam>, <persoonsnaam>Thomas Hicht,</persoonsnaam><persoonsnaam> Pier Hornstra,</persoonsnaam> <persoonsnaam>Willem</persoonsnaam></l>
+					<l><persoonsnaam>Jensma,</persoonsnaam> <persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Epeus Kiestra als Secretaris</persoonsnaam>. Door hunne</l>
+					<l>Commissarien volgens bestek besteed aan de minst</l>
+					<l>aannemende &apos;t arbeidsloon en metselwerk en zijn aan</l>
+					<l>nemers geworden: <persoonsnaam>Piebe Jans </persoonsnaam>en <persoonsnaam>Jan Baukes </persoonsnaam>voor 320 Gld<hi rend='superscript:true;'>s</hi>.,</l>
+					<l>Onder het opzigt van <persoonsnaam>Outger Douwes Bijlevelt</persoonsnaam> als</l>
+					<l>Burgemeester. En is op den <datum datum='1718-07-13'>13 Julij</datum> den eersten steen</l>
+					<l>daar aan geleid door <persoonsnaam>Machiel Piebes</persoonsnaam> zijnde de Zoon</l>
+					<l>van<persoonsnaam> Piebe Jans</persoonsnaam>. En heeft deze brugge gekost zoo van hout</l>
+					<l>tot hijenge onder &apos;t werk steen, kalk, Serment, ijzer,</l>
+					<l>arbeidsloon etz, 1661.gld<hi rend='superscript:true;'>s</hi>. 13 Stuivers. Zijnde de <hi rend='underlined:true;'>vierde</hi></l>
+					<l>brugge sedert &apos;t jaar <datum datum='1584-xx-xx'>1584</datum>: want op huiden, den <datum datum='1584-02-20'>XX<hi rend='superscript:true;'>en</hi>.</datum></l>
+					<l><datum datum='1584-02-20'>Februarij, A<hi rend='superscript:true;'>o</hi>. 1584,</datum> Compareert op den Raadhuize binnen</l>
+					<l><locatie>Dockum </locatie>den Eerentpheste wijzen voorzichtigen. <persoonsnaam>M<hi rend='superscript:true;'>r</hi>. Hobbe</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='39'/>
+			<p>
+				<lg>
+					<l><pagenumber>75</pagenumber></l>
+					<l><persoonsnaam>Baartz</persoonsnaam>, mede gedeputeerde van <locatie>Vriesland</locatie>, vertonen</l>
+					<l>aldaar voor der Magistraat en de gezworen gemeente</l>
+					<l>dezer Stad <locatie>Dockum</locatie>, dewelke aldaar present waren,</l>
+					<l>zekere Requeste bij den <persoonsnaam>Grietman Sijuck van Humalda,</persoonsnaam></l>
+					<l>vanwegen de dorpen<locatie> Oostrum,</locatie> <locatie>Ee</locatie>, <locatie>Engwierum</locatie> en <locatie>Jouswier</locatie>,</l>
+					<l>de Heeren Gedeputeerden gepresenteerd, belangende &apos;t verzoek</l>
+					<l>van een ingang en uitgaande brugge te hebben bij de</l>
+					<l>baar aan den <locatie>Halvemaan </locatie>in &apos;t oost dezer stede aan de</l>
+					<l>noorder zijde strekkende, mitsgaders de Commissie bij de Heeren</l>
+					<l>Gedeputeerden op ten genoemden <persoonsnaam>Baardt </persoonsnaam>dien aangaande</l>
+					<l>gepasseerd, volgens welke bij den zelven <persoonsnaam>Baardt </persoonsnaam>de </l>
+					<l>Magistraat en de gemeente voornoemde zekeren voor¬</l>
+					<l>slag gedaan heeft, ten einde de voornoemde vier dorpen</l>
+					<l>(&apos;t welk durch d: forteficatie van <locatie>Dockum </locatie>haren ingang</l>
+					<l>kwijt geworden waren) wederom aldaar in &apos;t oosten ver</l>
+					<l>haald eenen nieuwen ingang mogt bekomen, &apos;t welke,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>76</pagenumber></l>
+					<l>Zoewel tot prophijt dezer stad als de voornoemde vier</l>
+					<l>dorpen was strekkende, gelijk de gemelde Bardt was</l>
+					<l>verhalende, verzoek daarop (na een communicatie van</l>
+					<l>Magistraat en de gemeente) eenigen antwoord volgens</l>
+					<l>remonstreren dienaangaande, gehouwen na diverse</l>
+					<l>redenen tusschen malkanderen gevallen, is eindelijk</l>
+					<l>geresolveerd en bij de Magistraat en de gemeente voornoemd</l>
+					<l>geconsenteerd en geantwoord, om de voornoemde vier</l>
+					<l>dorpen te geven nog een kleinen brugge (bij den <locatie>halven</locatie></l>
+					<l><locatie>maan</locatie> vorsz, op kosten van vorsz. vier dorpen gemaakt </l>
+					<l>te worden met twee valbruggen en vier voet breed, de welke</l>
+					<l>mede zouden worden alle tijden onderhouden bij den</l>
+					<l>voorzegde dorpen; wel verstaande, dat eerst en vooral</l>
+					<l>bij den voorzegde dorpen zouden nagekomen worden de</l>
+					<l>Ordonnantie en dispositien bij de Heeren Staten gemaakt</l>
+					<l>belangende het leggen en maken van een nieuwen, weg¬</l>
+				</lg>
+			</p>
+			<pb n='40'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>77</hi></pagenumber></l>
+					<l>Strekkende van dijk naar <locatie>Aalsumerpoort </locatie>volgens dezelve</l>
+					<l>actie, alsmede eerst en vooral bij den voorzegde dorpen</l>
+					<l>zouden weggenomen worden den kop van den dijk bij de</l>
+					<l>halven maan bij de baare strekkende, en dezelve dijk in den</l>
+					<l>regten alzoo gelegd zal worden, alles tot laste van de gemelde</l>
+					<l>dorpen; alle &apos;t welke de Magistraat en de gemeente vorsz. verzog¬</l>
+					<l>ten ten Resolutie boek gesteld te worden. Actum ut Supra</l>
+					<l>ziet Oud Res<hi rend='superscript:true;'>tie</hi>. boek folij. 4. en 5. zijnde de <hi rend='underlined:true;'>eerste</hi> brug</l>
+					<l>Ophuiden den <datum datum='1604-03-21'>21. Maart A<hi rend='superscript:true;'>o</hi>. 1604</datum>. is bij den Raad en de</l>
+					<l>gezworen gemeente geresolveerd, dat men den brugge buiten</l>
+					<l><locatie>den halven maan</locatie> aan de zuidzijde van de laar leggende, en</l>
+					<l>nu gansch gegrasseerd zijnde, voorts zolde molieren en binnen</l>
+					<l>den laar aan de noordzijde leggen en zoo verbreden, dat men</l>
+					<l>met wagens en paarden uit en in zal kunnen rijden. actum</l>
+					<l>ut Supra Oud Resol<hi rend='superscript:true;'>tie</hi>. boek folij 97 alzoo de <hi rend='underlined:true;'>tweede</hi> brugge. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>78</hi></pagenumber></l>
+					<l>De <hi rend='underlined:true;'>derde</hi> brug is gemaakt in den Jare <datum datum='1670-xx-xx'>167-.</datum> In den Jare <datum datum='1694-xx-xx'>1694</datum></l>
+					<l>is de voornoemde brugge gemaakt en verbeterd, Stukken op</l>
+					<l>de hoofdbalken, nieuwe onderleggers en overkleding en wat</l>
+					<l>dies meer mag zijn, volgens een bestek daar af zijnde, aan</l>
+					<l>genomen en gemaakt door<persoonsnaam> Foppe Hesselsen</persoonsnaam>; heeft als toen</l>
+					<l>gekost: <hi rend='underlined:true;'>630. Gld</hi><hi rend='underlined:true; superscript:true;'>s</hi><hi rend='underlined:true;'>.</hi> 19 Stuiv. 8 penn., Is door<persoonsnaam> Rein Jans</persoonsnaam> 2 nieuwe</l>
+					<l>kalkovens gebouwd op de <locatie>Eewal</locatie>. Door &apos;t inbreken van de</l>
+					<l>zeedijken als op &apos;t last van verleden Jare verhaald is. Is in </l>
+					<l>dit jaar door Haar Ed mogende de zeedijken en volgende</l>
+					<l>Grietenijen als <locatie>Ferwerderadeel</locatie>, <locatie>Westdongeradeel</locatie>, <locatie>Oosdon¬</locatie></l>
+					<l><locatie>geradeel</locatie>, <locatie>Dantumadeel</locatie>, <locatie>Kollumerland</locatie>, ieder Grietenij in</l>
+					<l>gemeenschap gebragt en bezwaard met dijksflorenen op</l>
+					<l>ieder roede dijk, nadat de dijk kwaad is en door het water</l>
+					<l>heeft te lijden.</l>
+					<l>Ieder Grietenij</l>
+					<l>aan</l>
+					<l>Dijksfloreen</l>
+					<l>{.</l>
+					<l><locatie>Ferwerderadeel</locatie>.</l>
+					<l><locatie>Westdongeradeel</locatie>. 570. fl. 21.St. 2 <hi rend='underlined:true;'>penn</hi>.</l>
+					<l><locatie>Oostdongeradeel</locatie>.</l>
+					<l><locatie>Dantumadeel</locatie></l>
+					<l><locatie>Collumerland</locatie>.</l>
+				</lg>
+			</p>
+			<pb n='41'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>79</hi></pagenumber></l>
+					<l>Ieder floreen gesteld op een Gld<hi rend='superscript:true;'>s</hi>. gelijk de landfloreen en dan</l>
+					<l>Jaarlijks gesteld en betaald worden na &apos;t vereischt wordt.</l>
+					<l><datum datum='1719-xx-xx'><hi rend='underlined:true;'>1719</hi></datum></l>
+					<l>Is de gemeenschap der dijken ingegaan. In <datum datum='1719-02-xx'>Februarij </datum>zijn de</l>
+					<l>stoelen in de Kerk geteekend en genummerd en wat ieder voor</l>
+					<l>zitgeld in &apos;t vierendeel Jaars moet betalen. En het Reglement</l>
+					<l>weder vernieuwd en wegens overdragt van een stoel van Stuiv</l>
+					<l>2 Gld<hi rend='superscript:true;'>s</hi>., een stoel van 6. Stuiv: 1 Gld. 10 Stuiv. een stoel van vier</l>
+					<l>stuiv 1 Gld. aan t weeshuis te zullen betalen; de overtekening</l>
+					<l>door den Secretaris te laten doen en daarvoor te betalen. </l>
+					<l>Den <datum datum='1719-04-15'>15 April </datum>is een omgang gedaan voor het behoeftig</l>
+					<l>Weeshuis, ieder espel een Burgem<hi rend='superscript:true;'>r</hi>. een Vroetsman een wees</l>
+					<l>voogd met een bekkenvoogd. <locatie>Groote breedstraat espel</locatie>.</l>
+					<l><persoonsnaam>Burg. D. Smedema, Vroetsm. </persoonsnaam><persoonsnaam>Sipke van der Molen.</persoonsnaam></l>
+					<l><persoonsnaam>Weesv. Jacob Jacobs</persoonsnaam>. <persoonsnaam>Bekkem Sijbe. Jacobs</persoonsnaam>. Opgebragt Ƒ 114. - 1 - ,,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>80</hi></pagenumber></l>
+					<l><locatie>Kleine breedstraat espel</locatie>.</l>
+					<l><persoonsnaam>Burg. A. Reling</persoonsnaam></l>
+					<l><persoonsnaam>Vroetsm. C. Hexan</persoonsnaam></l>
+					<l><persoonsnaam>Weesv. Rein Jans</persoonsnaam></l>
+					<l><persoonsnaam>Bekkenv. Taeke Hendriks  </persoonsnaam> Opgebracht Ƒ 76 - 18 - 1</l>
+					<l><locatie>Legeweg espel</locatie></l>
+					<l><persoonsnaam>Burg. W. Jensma.</persoonsnaam></l>
+					<l><persoonsnaam>Vroetsm. S. Ruimzadelaar</persoonsnaam></l>
+					<l><persoonsnaam>Weesv. Andries Reinders bekkenv </persoonsnaam> Opgebragt. Ƒ 109 - 19 - ,,</l>
+					<l><locatie>Blokhuis espel</locatie></l>
+					<l><persoonsnaam>Burgem. P. Hornsma</persoonsnaam></l>
+					<l><persoonsnaam>Vroetsm. J Eisma</persoonsnaam></l>
+					<l><persoonsnaam>Weesvoogd. Benediktus Tjerks.</persoonsnaam></l>
+					<l><persoonsnaam>Bekkenv. Evert. Buwes.</persoonsnaam>  Opgebragt  Ƒ<hi rend='underlined:true;'>  65 - 16 - 11</hi></l>
+					<l>Zamen  356 - 14 - ,,</l>
+					<l>Is een nieuwe bonte brug gemaakt en heeft een somma,</l>
+					<l>gekost zoo van Matrialen als arbeidslonen, en heeft een</l>
+				</lg>
+			</p>
+			<pb n='42'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>81</hi></pagenumber></l>
+					<l>somma gekost.</l>
+					<l>Ƒ. 1020 - 13. - ,,</l>
+					<l>In <datum datum='1719-08-xx'>Augustus </datum>is door de Edele Achtbare Magistraat aan</l>
+					<l><persoonsnaam>Minne Lourens </persoonsnaam>toegestaan om een Slattinge in de gracht</l>
+					<l>te doen bij de <locatie>Halvemaansdwinger</locatie>, om sijn stengen en mas¬</l>
+					<l>ten in te leggen voor de tijd van 25 jaar. Den <datum datum='1719-08-13'>13 </datum>Is door</l>
+					<l><persoonsnaam>Petrus van Iveren</persoonsnaam> de eerste steen gelegd van de <locatie>Aalsumer</locatie></l>
+					<l><locatie>poort</locatie>, alwaar het staande bijnt op staat, en heeft een somma</l>
+					<l>gekost 410. Gld .12. Stuiv ziet vorders op folij 159.</l>
+					<l><datum datum='1720-xx-xx'><hi rend='underlined:true;'>1720</hi></datum></l>
+					<l>Is zeediept door opslijken bijna onvaarbaar geworden,</l>
+					<l>zoo buiten als binnen de Zijl. En in de Jaren <datum datum='1721-xx-xx'>1721 </datum>en <datum datum='1722-xx-xx'>1722</datum>,</l>
+					<l>met groote kosten, weder verbeterd en vaarbaar gemaakt.</l>
+					<l><datum datum='1721-xx-xx'><hi rend='underlined:true;'>1721</hi></datum> </l>
+					<l>Is de nieuwe Collegie gekocht om tot scholen te gebruiken</l>
+					<l>en is den <datum datum='1721-09-02'>2<hi rend='superscript:true;'>en</hi>. September </datum>de eerste maal de schole in gehouden</l>
+					<l>door de <persoonsnaam>Rector en Conrector D<hi rend='superscript:true;'>r</hi>. Petrus Savois</persoonsnaam> en de <persoonsnaam>Subrec</persoonsnaam></l>
+					<l><persoonsnaam>tor D<hi rend='superscript:true;'>om</hi>. Johannes Rooswinkel; </persoonsnaam>de <persoonsnaam>duitsche Jongers meester</persoonsnaam></l>
+					<l><persoonsnaam>kornelis Baijens,</persoonsnaam> <persoonsnaam>de meisjes meester Andries Dorema.</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>82</hi></pagenumber></l>
+					<l>Is mede weder volgens accoord aan de stad gekomen de</l>
+					<l>roertollen van de schepen, varende tot den <locatie>oosterboom </locatie>uit, en</l>
+					<l>de Vis, Vleesch, Vrucht, en kraammarkt-Gelden; zijn de</l>
+					<l>graven in de Kerk verhoogd ieder graf kost 1½ Gld.</l>
+					<l><datum datum='1722-xx-xx'><hi rend='underlined:true;'>1722</hi></datum>.</l>
+					<l>Goedkope tijd van zoetemelkkaas, alsmede appelen en</l>
+					<l>Peren goedkoop, door overvloed van &apos;t gewas.</l>
+					<l><datum datum='1723-xx-xx'><hi rend='underlined:true;'>1723</hi> </datum></l>
+					<l>Zijn de Stads binnenvaarten geslatten, beginnende van de</l>
+					<l><locatie>Anjumerpijp </locatie>tot aan het diept: bij <locatie>de drie pijpen</locatie>, alsmede</l>
+					<l>beginnende van het diept bij de <locatie>bonte brugge</locatie> tot door</l>
+					<l>de <locatie>Woutpijp </locatie>en heeft een somma gekoste van 2316 Gld<hi rend='superscript:true;'>s</hi> 15 St 2 penn</l>
+					<l>Den <datum datum='1723-06-14'>14 Junij</datum> is in de stad een bruinvis gevangen.</l>
+					<l>Den<datum datum='1723-08-02'> 2<hi rend='superscript:true;'>den</hi>. Augustus</datum> is hier een Collect gedaan voor de</l>
+					<l>Oostvriesche Predikanten en schoolmeesters als volgt</l>
+					<l>gecollecteerd. de Stad Ƒ 50 - ,, - ,,</l>
+				</lg>
+			</p>
+			<pb n='43'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>83</hi></pagenumber></l>
+					<l><locatie>Groote breedstraat espel</locatie> Ƒ 111 - 15 - 8</l>
+					<l><locatie>Kleine breedstraat espel </locatie>Ƒ 71 - 9 - 4</l>
+					<l><locatie>Leege weg espel </locatie> Ƒ 73 - 9 - 2</l>
+					<l><locatie>Blokhuis espel</locatie>  <hi rend='underlined:true;'>Ƒ 54 - 14 - 6</hi></l>
+					<l>361 - 8 - 4</l>
+					<l>Gaat af voor twee weesjongens</l>
+					<l>die van huis tot huis.</l>
+					<l>aankondiging deeden <hi rend='underlined:true;'>Ƒ 1 - 2 - ,,</hi></l>
+					<l>Ƒ 360 - 6 - 4</l>
+					<l>Tusschen <datum datum='1723-xx-xx'>1723 </datum>en <datum datum='1724-xx-xx'>1724 </datum>is het een milde winter geweest, alzoo</l>
+					<l>dat koebeesten de geheele winter hebben uitgegaan.</l>
+					<l><datum datum='1724-xx-xx'><hi rend='underlined:true;'>1724</hi></datum></l>
+					<l>Is &apos;t Octrooi van de bank van leening verlengd voor de</l>
+					<l>tijd van 20 Jaren. Den <datum datum='1724-07-25'>25 Julij</datum> is alhier een levendige steur</l>
+					<l>op de afslag verkocht. </l>
+					<l><datum datum='1725-xx-xx'><hi rend='underlined:true;'>1725</hi></datum></l>
+					<l>Is een nieuwe Puister met een nieuwe Dulchiaan aan </l>
+					<l>het Orgel gemaakt door <persoonsnaam>Johannes Radiker</persoonsnaam>, en is op Zondag</l>
+					<l>den <datum datum='1724-01-28'>28 Januarij</datum> de eerste maal gebruikt en heeft gekost</l>
+					<l>126 Gld. En voor extra ordinaire kosten 20 Gld. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>84</hi></pagenumber></l>
+					<l>In dit jaar zijn de appelen en peeren goedkoop geweest.</l>
+					<l>Is door de Ed Achtb Magistraat besteed het slatten aan de</l>
+					<l>buitenkant van de gracht, bestaande in zes perceelen van</l>
+					<l>de <locatie>Woutpoort </locatie>af tot de buitenkant van de dwinger van de</l>
+					<l><datum datum='1727-xx-xx'><hi rend='underlined:true;'>1727</hi></datum></l>
+					<l><locatie>Hanspoort</locatie>. Zijn de vier bierdragers in &apos;t blaauw leverij ge¬</l>
+					<l>kleed; de mouwen met geele opslagen en de hoeden met zilver</l>
+					<l>boorzel om de randen, tot kosten van de stad gedaan.</l>
+					<l>Is in de Stad geslat van de <locatie>Woutpoort </locatie>tot de steenen baar</l>
+					<l>in de Gracht; heeft gekost, 1095 Gld<hi rend='superscript:true;'>s</hi>. En zijn de boomvruchten</l>
+					<l>goedkoop geweest, alzoo dat men de beste appelen ¼ Korf</l>
+					<l>vol voor 6 a 7 stuivers konde kopen. </l>
+					<l><datum datum='1728-xx-xx'>1728</datum>.</l>
+					<l>Zijn <locatie>de vier pijpen</locatie> bij de <locatie>Aalsumerpoort </locatie>gemaakt en heeft</l>
+					<l>gekost zoo van matrialen hout, kalk,steen, Serment,</l>
+					<l>arbeidsloon ongeveer 1965 Gld<hi rend='superscript:true;'>s</hi>. 4 Stuiv 12 penn. Den 8 Junij</l>
+					<l>is de eerste steen gelegd door <persoonsnaam>Harmen Johannes</persoonsnaam>. <datum datum='1728-07-24'>Den</datum></l>
+					<l><datum datum='1728-07-24'>24 Julij</datum> is de eerste wagen over de pijpen gereden.</l>
+				</lg>
+			</p>
+			<pb n='44'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>85</hi></pagenumber></l>
+					<l>N.B. De ijzere leuning van de oude brug zijn daartoe</l>
+					<l>verbruikt. En een nieuwe steenen trap bij de <locatie>Woutpoort</locatie></l>
+					<l>gemaakt en den <datum datum='1728-08-11'>11 Augustus </datum>de eerste steen daarvan gelegt.</l>
+					<l><datum datum='1729-05-13'><hi rend='underlined:true;'>1729</hi></datum></l>
+					<l>Is de nieuwe steenen brugge bij de <locatie>Hanspoort </locatie>gemaakt</l>
+					<l>En heeft gekost zoo van Materialen, hout, kalk, steen, serment</l>
+					<l>arbeidsloon etc ongeveer 2690 Guld<hi rend='superscript:true;'>s</hi>. 5. Stuiv 8 penn. en zijn</l>
+					<l>de ijzere leunings van de oude brug daarop gezet.</l>
+					<l>Den <datum datum='1729-05-13'>13 Mei</datum> is de eerste steen gelegd door <persoonsnaam>Benjamin Bekius.</persoonsnaam></l>
+					<l>Zijn de binnen vaarten geslatten, beginnende van <persoonsnaam>Mijnheer</persoonsnaam></l>
+					<l><persoonsnaam>van der Broek </persoonsnaam>af, lang 39 roede 9 voet a. 6 Gld<hi rend='superscript:true;'>s</hi>. 15 Stuivers,</l>
+					<l>lopende tot aan de hoek van <persoonsnaam>Eelke Hendriks</persoonsnaam> bewoonde</l>
+					<l>huizinge. Vijfde perceel beginnende van <persoonsnaam>Eelke Hendriks</persoonsnaam></l>
+					<l>af tot de <locatie>Hanspoort </locatie>en door de pijp van de <persoonsnaam>Burgem. Houterus</persoonsnaam></l>
+					<l>wei<hi rend='superscript:true;'>e</hi>. lang 16<hi rend='superscript:true;'>e</hi> roede 3 voet a 8 Gld 15 Stuiv. Sesde perceel</l>
+					<l>beginnende van vorige pijp af langs de <locatie>westersingel</locatie> lang</l>
+					<l>20 roede. a. 6. Gld. 11 Stuiv. Zevende perceel beginnende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>86</hi></pagenumber></l>
+					<l>van vorige afloopende aan de helling bij de drie pijpen</l>
+					<l>lang 27 roeden. a. 5. Gld<hi rend='superscript:true;'>s</hi>. 11 Stuiv. Agste perceel beginnende</l>
+					<l>van de <persoonsnaam>Vroetsman Douwe Handsma </persoonsnaam>af, of de pijp tot aan</l>
+					<l>de brugge bij de steenen dam lang 27. roeden. a. 5 Guld<hi rend='superscript:true;'>s</hi>. 9. Stuiv.</l>
+					<l>Negende perceel beginnende van &apos;t vorige perceel af tot door</l>
+					<l>de <locatie>Woutpoort</locatie> en aan <locatie>&apos;t Molenaars brugje</locatie> lang 33 roede. a.</l>
+					<l>6. Gld<hi rend='superscript:true;'>s</hi>. 6.Stuiv. Betaald de arbeidsloonen wegens het slatten</l>
+					<l>van <locatie>de drie pijpen</locatie> tot aan de zijl 3180 Gld. 4. Stuiv. 12 penn.</l>
+					<l>buiten de materialen van dammen en hout en verdere</l>
+					<l>gereedschappen van dien, gelijk in de Stadsrekening nagezien</l>
+					<l>kan worden. Zijn de stadspijpen met ijzere leunings voorzien.</l>
+					<l><datum datum='1730-xx-xx'><hi rend='underlined:true;'>1730</hi></datum></l>
+					<l>Den <datum datum='1730-04-11'>11 April</datum> is het groot diep door de Heeren Gedeputeerden</l>
+					<l>bij strijkgeld besteed het slatten van het <locatie>Dockumer diept,</locatie></l>
+					<l>beginnende van de <locatie>Dockumerzijl </locatie>af, tot aan de <locatie>Vriezumer</locatie></l>
+					<l><locatie>zijl</locatie> lang 1020½ roede; heeft gekost voor het landschap een</l>
+					<l>somma van Ƒ67,112 - 25 - 8. alsmede het slatten in de stads</l>
+				</lg>
+			</p>
+			<pb n='45'/>
+			<p>
+				<lg>
+					<l><pagenumber>87</pagenumber></l>
+					<l>gracht bij de <locatie>Halfmaanspoort </locatie>door de Ed<hi rend='superscript:true;'>e</hi> Achtb<hi rend='superscript:true;'>e</hi> Magistraat</l>
+					<l>bij strijkgeld besteed en aangenomen door <persoonsnaam>Jan Rienks</persoonsnaam></l>
+					<l>van <locatie>&apos;t Bildt </locatie>en heeft gekost 755 Carolij Gld<hi rend='superscript:true;'>s</hi>. Is door</l>
+					<l>Haar Achtb<hi rend='superscript:true;'>r</hi> het orgel besteed om schoon te maken aan</l>
+					<l><persoonsnaam>Johan Michael Swartsberg</persoonsnaam> en den <datum datum='1730-05-04'>4 Mei 1730</datum> voor betaald</l>
+					<l>80 Car. Gld. Den<datum datum='1730-08-02'> 2 Augustus</datum> zijn de eerste schepen, nadat</l>
+					<l>het groot diept geslat is in de stad gekomen het eerste was</l>
+					<l>een Turfschip, het tweede was <persoonsnaam>Roelof Bok</persoonsnaam> tot <locatie>Dockum</locatie></l>
+					<l><datum datum='1731-03-27'>1731</datum> </l>
+					<l>Den <datum datum='1731-03-27'>27 Maart</datum> is door de E<hi rend='superscript:true;'>e</hi> Achb<hi rend='superscript:true;'>r</hi> Magistraat bij strijkgeld</l>
+					<l>besteed het arbeidsloon van een nieuwe steenen brugge</l>
+					<l>bij de <locatie>Woutpoort</locatie>; het timmerwerk aangenomen door <persoonsnaam>Dirk</persoonsnaam></l>
+					<l><persoonsnaam>Everts</persoonsnaam> voor 210 Guld<hi rend='superscript:true;'>s</hi> het metselwerk aangenomen door</l>
+					<l><persoonsnaam>Bouke Jans</persoonsnaam> 245 Gld<hi rend='superscript:true;'>s</hi> en heeft een somma gekost zoo van</l>
+					<l>Materialen 1422 Gld<hi rend='superscript:true;'>s</hi> 14 Stuiv 8 penn. En zijn de ijzere leunings</l>
+					<l>van de oude brugge daar opgezet. Den <datum datum='1731-04-28'>28 April </datum>is de steenen</l>
+					<l>baar bij strijkgeld door de E<hi rend='superscript:true;'>e</hi> Achtb<hi rend='superscript:true;'>r</hi> Magestraat besteed</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>88</pagenumber></l>
+					<l>om weg te breken en is aangenomen door <persoonsnaam>Einte Jans</persoonsnaam> voor</l>
+					<l>245 Gld<hi rend='superscript:true;'>s</hi> <datum datum='1731-05-01'>Den 1 Mei</datum> is de eerste steen van de nieuwe steenen</l>
+					<l>brugge bij de <locatie>Woutpoort </locatie>gelegd door <persoonsnaam>Jonker Livius van</persoonsnaam></l>
+					<l><persoonsnaam>Viersen.</persoonsnaam> Den <datum datum='1731-05-18'>18 Mei</datum> is de eerste maal het schip doorgeva</l>
+					<l>ren alwaar de steenen baar geweest is. <datum datum='1731-06-13'>Den 13 Junij </datum>is de</l>
+					<l>eerste paard en wagen over de nieuwe steenen brugge</l>
+					<l>bij de <locatie>Woutpoort </locatie>gereeden (: maar het was een woudboer)</l>
+					<l><datum datum='1731-xx-xx'>1731</datum></l>
+					<l><datum datum='1731-09-24'>Den 24 September </datum>zijn <persoonsnaam>Hoogheid Willem Karel Hendrik</persoonsnaam></l>
+					<l><persoonsnaam>Frisso Prins van Oranje en Nassau, enz. enz. enz.</persoonsnaam> Stadhou¬</l>
+					<l>der van <locatie>Vriesland </locatie>etz bevestigd. En den <datum datum='1731-07-07'>7 Julij</datum> zijn gecom</l>
+					<l>mitteerd uit de<persoonsnaam> E<hi rend='superscript:true;'>e</hi> Achtb<hi rend='superscript:true;'>r</hi> Magistraat Mijnheer H. van</persoonsnaam></l>
+					<l><persoonsnaam>Sminia</persoonsnaam> en <persoonsnaam>Mijnheer Jacobus van den Broecke</persoonsnaam> (  En uit de</l>
+					<l>E. Vroetschap zijn gecommitteerd) de <persoonsnaam>Old Burgem. Pieter</persoonsnaam></l>
+					<l><persoonsnaam>Brantsma </persoonsnaam>en de <persoonsnaam>Old Burgem. Augustinius de Penijn</persoonsnaam></l>
+					<l>Om de Olde Prinsesse, zijnde de moeder van de voorschreven</l>
+					<l>Prins, voor haar gedane diensten als stadhouderesse te</l>
+				</lg>
+			</p>
+			<pb n='46'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>89</hi>.</pagenumber></l>
+					<l>bedanken voor haar aangevende Glooiren, alsmede de <persoonsnaam>Prins</persoonsnaam></l>
+					<l><persoonsnaam>Willem Karel Hendrik Friso. etz. etz. etz</persoonsnaam> als stadhouder dezer</l>
+					<l>Landschap etz te Feliciteren. Den <datum datum='1731-10-22'>22 October </datum>zijn nieuwe </l>
+					<l>koperen blakers met pijpen voor een groot gedeelte aan de</l>
+					<l>gestoelten en zitbanken in de kerk gekomen, tot een getal</l>
+					<l><datum datum='1732-xx-xx'>1732</datum></l>
+					<l>van en den 3 Gl. <datum datum='1732-03-05'>Den 5. Maart </datum>is alhier in de <locatie>driepijpster</locatie></l>
+					<l><locatie>dwinger</locatie> een metalen kanon aan stukken gesprongen door</l>
+					<l>t schieten over het vreugde bedrijf wegens het doorreizen</l>
+					<l>van den <persoonsnaam>Prins Willem Karel Hendrik Friso etz</persoonsnaam> en is de</l>
+					<l><persoonsnaam>Constapel Jochum Jans</persoonsnaam> door &apos;t schieten gekwetst, en het</l>
+					<l>meesterloon heeft de stad betaald aan de <persoonsnaam>Vroetsman Johannes</persoonsnaam></l>
+					<l><persoonsnaam>Tadema</persoonsnaam> op den <datum datum='1732-06-30'>30 Junij 1732</datum> tot twintig gl<hi rend='superscript:true;'>d</hi>. elf stuiv.</l>
+					<l>Welk Canon is door Ed<hi rend='superscript:true;'>e</hi>. Achtb<hi rend='superscript:true;'>r</hi>. Magistraat verkocht aan</l>
+					<l><persoonsnaam>Sijbren Hicht M<hi rend='superscript:true;'>r</hi>. koperslager </persoonsnaam>te <locatie>Dockum </locatie>wegende 1032 pond</l>
+					<l>a. 344 Gld t 100 Pond en op den <datum datum='1732-07-14'>14 Julij 1732</datum> daarvoor ontvan</l>
+					<l>gen aan zuiver Geld driehonderd en vijftig. Car. Gld<hi rend='superscript:true;'>s</hi>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>90</hi></pagenumber></l>
+					<l>vijftien stuivers. Is door de E<hi rend='superscript:true;'>d</hi>. Achtb<hi rend='superscript:true;'>r</hi>. Magistraat een nieuwe</l>
+					<l>middelbare brandspuit gekocht en den <datum datum='1732-06-21'>21 Junij 1732</datum> voor</l>
+					<l>betaald vijfhonderd en tachtig Carol Guld, Zijnde voorzien</l>
+					<l>met een kopere Slang-brandspuit, ophaal touw gereetschap,</l>
+					<l>zak en verdere toe behoren, een aanbrenger tot dezelve met</l>
+					<l>360 voet waterslang en 6 Pond geprepereerd Smeer tot de</l>
+					<l>Leere Slang. Is er een nieuwe brugge gemaakt over het diept</l>
+					<l>alwaar men gaat na de nieuwe groote rogmolen en heeft</l>
+					<l>gekost een somma van een hondert en vier Gld<hi rend='superscript:true;'>s</hi>. 17 Stuiv 4 penn</l>
+					<l>is een 3<hi rend='superscript:true;'>de</hi>. part tot laste van de stad, en de <persoonsnaam>Old burger Hepman</persoonsnaam></l>
+					<l><persoonsnaam>Minne Piers Hornsma </persoonsnaam>een gelijke derde part en de Resterende</l>
+					<l>part ten laste van<persoonsnaam> Jelle Ubles</persoonsnaam> en<persoonsnaam> Æde IJpes.</persoonsnaam></l>
+					<l><datum datum='1733-xx-xx'><hi rend='underlined:true;'>1733</hi></datum></l>
+					<l><datum datum='1733-03-13'>Den 13 Maart</datum> heeft de Ed<hi rend='superscript:true;'>e</hi>.<hi rend='superscript:true;'> </hi>Achtb<hi rend='superscript:true;'>r</hi>. Magistraat bij boelgoed</l>
+					<l>laten verkopen zevenenvijftig Abelijboomen staande op het</l>
+					<l>bolwerk van de <locatie>Hanspoort </locatie>tot de <locatie>Aalsumerpoort</locatie>; en zijn</l>
+					<l>in &apos;t voorjaar twee en dertig ijperen boomen op de wal geplant.</l>
+				</lg>
+			</p>
+			<pb n='47'/>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>91</hi></pagenumber></l>
+					<l>en daarvoor op den<datum datum='1733-04-09'> 9<hi rend='superscript:true;'>den</hi>. April 1733</datum> betaald aan <persoonsnaam>Cornelis</persoonsnaam></l>
+					<l><persoonsnaam>Jans van Groos </persoonsnaam>15 Guld<hi rend='superscript:true;'>s</hi>. Dit jaar is de groote klok in de</l>
+					<l>groote toorn door het luiden over de begraffenis van de</l>
+					<l><persoonsnaam>Burgemeester Augustinus de Persijn</persoonsnaam>, gescheurd en door</l>
+					<l>haar Achtbaarheden een stuk daaruit hebben laten geboord</l>
+					<l>door <persoonsnaam>Sijbout Lammerts M<hi rend='superscript:true;'>r</hi>. Slotmaker</persoonsnaam> en daarvoor betaald</l>
+					<l>op den <datum datum='1733-06-06'>6 Junij 1733</datum>. een somma van vijfentwintig Gld<hi rend='superscript:true;'>s</hi>.</l>
+					<l>Den <datum datum='1733-08-27'>27. Augustus</datum> zijn de beide klokken in de groote toorn</l>
+					<l>weder geluid voor de eerste maal zedert dat de klok weder</l>
+					<l>hersteld is over de begraffenis van <persoonsnaam>Grietje Jacobs keetmeid (alias)</persoonsnaam></l>
+					<l><persoonsnaam>Dikke Griet</persoonsnaam> in de wandeling genaamd. Deze Grietje heeft voor</l>
+					<l><persoonsnaam>keetmeid bij Wouter Thijssen de Haan</persoonsnaam> Me@ gediend. Denzelven</l>
+					<l><datum datum='1733-08-27'>dito </datum>is door Haar Achtbaarheden bij strijkgeld besteed het</l>
+					<l>Slatten in de stads gracht bij de <locatie>Halfmaanspoort </locatie>en is</l>
+					<l>aangenomen door <persoonsnaam>Gabriel Doedes</persoonsnaam> en heeft gekost zes en ne¬</l>
+					<l>gentig gulden tien stuivers, en is bevonden lang te zijn</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>92</hi></pagenumber></l>
+					<l>een en veertig roede en wegens het end en de <locatie>Halfmaans</locatie></l>
+					<l><locatie>gracht </locatie>na de <locatie>zuider Ee</locatie>, en is aangenomen door <persoonsnaam>Willem</persoonsnaam></l>
+					<l><persoonsnaam>Lieuwes</persoonsnaam> en heeft gekost zes en vijftig Car. Gld<hi rend='superscript:true;'>s</hi>. 16 Stuiv en</l>
+					<l>nopens vergoeding en overmaat drie Gld<hi rend='superscript:true;'>s</hi>. en nopens behoor</l>
+					<l>lijk uitte leiken 10 Gld<hi rend='superscript:true;'>s</hi>. alzoo te zamen 69 Gld. 16 St en hebben</l>
+					<l>deze twee perceelen een somma gekost met het strijk en</l>
+					<l>verminder geld. Een honderd en 80 Gld<hi rend='superscript:true;'>s</hi>. tien Stuivers.</l>
+					<l>Den<datum datum='1733-10-07'> 7 October</datum> Is er een gebeente in de <locatie>Halfmaansgracht </locatie>ge¬</l>
+					<l>vonden in het slatten. Dit jaar is de groote toorn groote</l>
+					<l>reparatie aangedaan en heeft wel 3000 Gld gekost. </l>
+					<l><datum datum='1734-xx-xx'><hi rend='underlined:true;'>1734</hi></datum></l>
+					<l>Den<datum datum='1734-01-21'> 21. Januarij.</datum> Is het <hi rend='underlined:true;'>gebeente</hi> aan de <locatie>zuidwesterhoek </locatie>van</l>
+					<l>de waag opgehangen dat den<datum datum='1733-10-07'> 7 October in &apos;t vorige Jaar</datum></l>
+					<l>in &apos;t slatten van de <locatie>Halfmaans gracht </locatie>gevonden is.</l>
+					<l>Den <datum datum='1734-03-25'>25 Maart</datum> is zijn <persoonsnaam>Hoogheid Willem Karel Hendrik</persoonsnaam></l>
+					<l><persoonsnaam>Friso. prins van Oranje en Nassau enz. enz. enz. </persoonsnaam>getrouwd</l>
+					<l>binnen <locatie>Londen </locatie>in <locatie>Engeland </locatie>en de <locatie>St Janus Capel </locatie>met</l>
+				</lg>
+			</p>
+			<pb n='48'/>
+			<p>
+				<lg>
+					<l><pagenumber>93</pagenumber></l>
+					<l>haar <persoonsnaam>Koninglijke Hoogheid Anna van Bronswijk</persoonsnaam></l>
+					<l><persoonsnaam>Lunenberg, kroonprincesse</persoonsnaam>, dochter van <persoonsnaam>George de tweede</persoonsnaam></l>
+					<l><persoonsnaam>koning van Groot Brittanje enz.enz.enz.</persoonsnaam> Den<datum datum='1734-05-11'> 11 Mei heeft</datum></l>
+					<l>de voornoemde Prins zijn gemalinne te <locatie>Leeuwarden </locatie>ingehaald</l>
+					<l>met een grooten Victorie; en de kanonnen alhier van de</l>
+					<l>wallen gelost en zijn gecommitteerd om haar te Filiciteren</l>
+					<l>uit de Edele Achtbare Magistraat de<persoonsnaam> Heeren Burgemeesteren</persoonsnaam></l>
+					<l><persoonsnaam>Petrus Brantsma</persoonsnaam> en <persoonsnaam>Douwe Snip</persoonsnaam> en uit de Vroetschap de</l>
+					<l><persoonsnaam>Ed<hi rend='superscript:true;'>e</hi> Heer Hessel van Sminia </persoonsnaam>en <persoonsnaam>Wilhelmus Bergsma. </persoonsnaam></l>
+					<l><datum datum='1734-05-21'>Den 21 Mei</datum> is de eerste steen van de kerkkamer gelegd</l>
+					<l>door <persoonsnaam>klaas Sijbes (alias Professor) </persoonsnaam>en heeft een somma gekost</l>
+					<l>een duizend en zeshonderd Gld<hi rend='superscript:true;'>s</hi> ongeveer zoo van alle</l>
+					<l>materialen en arbeidslonen.<datum datum='1734-06-08'> Den 8 Junij </datum>ontvangen</l>
+					<l>van de boelpenningen van de zevenen vijftig abelij</l>
+					<l>bomen die de Ed<hi rend='superscript:true;'>e</hi> Achtb<hi rend='superscript:true;'>re</hi> Magistraat op den <datum datum='1733-03-13'>13 Maart</datum></l>
+					<l><datum datum='1733-03-13'>1733</datum>. bij boelgoed hebben laten verkopen en aan zuiver geld.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>94</pagenumber></l>
+					<l>opgebragt een somma van een en twintig gulden 11 Stuiv</l>
+					<l>8 penn gelijk in dit boek (?) op folij 165 te zien is. <datum datum='1734-06-09'>Den 9 Junij</datum></l>
+					<l>Is door de E<hi rend='superscript:true;'>e</hi> Acht<hi rend='superscript:true;'>e</hi> Magestraat bij Strijkgeld besteed</l>
+					<l>vier perceelen slatten in de <locatie>stadsgracht </locatie>het eerste perceel</l>
+					<l>voor 90 Gld<hi rend='superscript:true;'>s</hi> 10 Stuiv. Het tweede perceel voor 47 Gld<hi rend='superscript:true;'>s</hi> bij <persoonsnaam>Æde</persoonsnaam></l>
+					<l><persoonsnaam>Rienks</persoonsnaam> aangenomen. Het 3<hi rend='superscript:true;'>de</hi> perc. voor 66 Gld<hi rend='superscript:true;'>s</hi> bij <persoonsnaam>Jan</persoonsnaam></l>
+					<l><persoonsnaam>Rintjes</persoonsnaam> aangenomen. Het 4<hi rend='superscript:true;'>de</hi> perc voor 44 Gld<hi rend='superscript:true;'>s</hi> 10 Stuiv</l>
+					<l>bij<persoonsnaam> Æde Rienks</persoonsnaam> aangenomen en voorstrijk en verminder</l>
+					<l>Geld betaald 9 Gld. 4. Stuiv alzoo bedragende te zamen</l>
+					<l>een Somma van 287 Gld 4 Stuiv. <datum datum='1734-06-23'>Den 23 Junij</datum> heeft</l>
+					<l>de E<hi rend='superscript:true;'>e</hi> Achtb<hi rend='superscript:true;'>re</hi> Magistraat geordineerd dat de drie burger</l>
+					<l>officieren op de wagten zullen zijn zoo boven als onder</l>
+					<l>waarvan dat de <locatie>groote Breedstraat espel </locatie>de eerste wagt</l>
+					<l>hadden als H<persoonsnaam>opman Sipke Ates</persoonsnaam>: <persoonsnaam>Luitenant Jacob Piers</persoonsnaam></l>
+					<l><persoonsnaam>Hornsma</persoonsnaam> <persoonsnaam>Vaandrich Anthonius Peve.</persoonsnaam> <datum datum='1734-06-24'>Den 24 Junij</datum></l>
+					<l>uit het <locatie>leege weg espel </locatie>de 2<hi rend='superscript:true;'>de</hi> wagt als Hopman . . . .</l>
+				</lg>
+			</p>
+			<pb n='49'/>
+			<p>
+				<lg>
+					<l><pagenumber>95</pagenumber></l>
+					<l><persoonsnaam>Jakle Sijbrens </persoonsnaam><persoonsnaam>Lieutenant Tjerk Hoogacker</persoonsnaam> <persoonsnaam>Vaandrich</persoonsnaam></l>
+					<l><persoonsnaam>Jou Sijtzes.</persoonsnaam> <datum datum='1734-06-25'>Den 25 junij</datum> uit het<locatie> Blokhuis espel de</locatie></l>
+					<l>derde wagt als <persoonsnaam>Hopman. Rinze Heringa</persoonsnaam> <persoonsnaam>Luitenant</persoonsnaam></l>
+					<l><persoonsnaam>Arrien Cornelis Fijltie</persoonsnaam> <persoonsnaam>Vaandrich Claas Jelles van de Bos</persoonsnaam></l>
+					<l>Den <datum datum='1734-06-26'>26 juni</datum>j uit <locatie>de kleine Breedstraat espel</locatie> de vierde</l>
+					<l>wagt als <persoonsnaam>Hopman Jacob Taekes </persoonsnaam><persoonsnaam>Luitenant Hendrik</persoonsnaam></l>
+					<l><persoonsnaam>Stolte</persoonsnaam>: <persoonsnaam>Vaandrich Thomas Bruggelman </persoonsnaam>en Haar Acht</l>
+					<l>baarheden gaf ieder nacht een tonne acht Gld<hi rend='superscript:true;'>s</hi>. bier.</l>
+					<l>(Tot voorkoming van eenen grooten oproer van de Papen.)</l>
+					<l>want geruchten gingen over het geheel <locatie>Vriesland </locatie>en</l>
+					<l>mede over geheel <locatie>Holland</locatie>, dat de Papen zouden den</l>
+					<l>overhand krijgen te <datum datum='1734-06-24'>St. Jans nagt</datum>; zijnde de<datum datum='1734-06-24'> den 24 Junij</datum></l>
+					<l><datum datum='1734-06-24'>1734</datum>: want de papen gaven eenen prophecie uit en luiden</l>
+					<l>aldus: Binnen Napels bij de Eerwaardige Paters,</l>
+					<l>Benedictiners, is een graf geopend zijnde in datzelve</l>
+					<l>een Pater van de zelve ordre lange Jaren aldaer begraven,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber><hi rend='underlined:true;'>96</hi></pagenumber></l>
+					<l>zijnde met peene van Heiligheid gestorven zijnde,</l>
+					<l>hebbende in zijn hand een bord van lood, waarop deze</l>
+					<l>volgende woorden gegraveert stonden: Als Marcies op</l>
+					<l>Paaschdag komt, Anthoni op Pinxterdag, Johannes op</l>
+					<l>Sacramentsdag zal de wereld, wee, wee, wee, roepen dat</l>
+					<l>geschiedt in &apos;t Jaar <datum datum='1734-xx-xx'>1734</datum>;- <datum datum='1740-xx-xx'>1740</datum>. Een groote Aardbeving</l>
+					<l>over de geheele Wereld;- <datum datum='1760-xx-xx'>1760 </datum>Zal Afrika branden en door</l>
+					<l>menschenbloed vergooten worden; <datum datum='1780-xx-xx'>1780</datum>, Zal de Gramschap</l>
+					<l>Gods over de geheele zijn; <datum datum='1790-xx-xx'>1790</datum>, Zal de ware god van weinigen</l>
+					<l>gekend worden; <datum datum='1870-xx-xx'>1870 </datum>Zal er geen Harder meer zijn;</l>
+					<l><datum datum='1888-xx-xx'>1888</datum>, Zal de groote Antichrist opstaan; <datum datum='1890-xx-xx'>1890</datum> Zullen de lichten</l>
+					<l>uitgebluscht worden en &apos;t zal een schaapstal en een harder</l>
+					<l>zijn. Alsmede een Pasquil waarvan dat op het hek</l>
+					<l>van<locatie> &apos;t huis Rijswijk</locatie> is gevonden, Luidt aldus:</l>
+					<l><locatie>Holland </locatie>is een Kasteel:</l>
+					<l>De papen hebben ook een deel.</l>
+				</lg>
+			</p>
+			<pb n='50'/>
+			<p>
+				<lg>
+					<l><pagenumber>97</pagenumber></l>
+					<l>Maer de Geusen hebben een deel op scha of schande</l>
+					<l>Doch de Geusen moeten brande. Op heilig Sacramentsdag</l>
+					<l>of op <datum datum='1734-06-24'>S<hi rend='superscript:true;'>t</hi>. Jans nagt</datum> zijn de Papen op de wagt.</l>
+					<l>Met nog een Pasquil, hetwelk gevonden is aan de deur</l>
+					<l>van <persoonsnaam>D<hi rend='superscript:true;'>m</hi>. Wittebol</persoonsnaam> / in<locatie> &apos;s Gravenhage</locatie>, &apos;t welk in de Sinodale</l>
+					<l>vergadering te <locatie>Bolsward </locatie>aldaar is vertoond en luidet aldus</l>
+					<l><persoonsnaam>Calvinus</persoonsnaam> heeft ons geraden,</l>
+					<l>Dat men de Paus aan &apos;t spit zou braden,</l>
+					<l>Maar &apos;t is om &apos;t geuse bloed,</l>
+					<l>Dat men offerhande doet,</l>
+					<l>De tijd wanneer is mij vergeten, over acht dagen zal wittebol</l>
+					<l>&apos;t weten, want de Papen maakten malkander gewigtig</l>
+					<l>dat, dan zouden daar groote miraculen geschieden. Maar</l>
+					<l>het is terug gebleven Maar haar Achtbaarheden lieten</l>
+					<l>alle Paapsche huizen viciteren of daar ook geweer in</l>
+					<l>was. Doch daar is niets in bevonden. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>98</pagenumber></l>
+					<l><datum datum='1735-xx-xx'><hi rend='underlined:true;'>1735</hi></datum></l>
+					<l><datum datum='1735-06-12'>Den 12 Julij</datum> is alhier een persoon in deze stad van <locatie>Dockum</locatie></l>
+					<l>geweest Geboortig van <locatie>Dalmatria </locatie>in (?) <locatie>Constantinopolen</locatie>;</l>
+					<l>doch is woonachtig onder den Koning van Groot Brittanjen,</l>
+					<l>en gaf hem uit voor een Grieksche priester, en deede hier een</l>
+					<l>omgang in deze stad met concent van de Ed<hi rend='superscript:true;'>e</hi>. Achtbr</l>
+					<l>Magistraat en over geheel <locatie>Vriesland </locatie>voor een groot getal</l>
+					<l>Christenen-Slaven die bij den Turk gevangen waren;</l>
+					<l>welke gelden, die hij verzamelde, zouden dienen tot ver</l>
+					<l>lossing van dezelve slaven; zoo kwam die zelve Grieksche</l>
+					<l>Priester bij <persoonsnaam>Teodorus van Thuijnen</persoonsnaam>, <persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Theol, Bedienaar</persoonsnaam></l>
+					<l><persoonsnaam>des Goddelijken woorts</persoonsnaam> in deze stad en verzochte aan</l>
+					<l>zijn Ed: ook een gifte voor die slaven, doch <persoonsnaam>D<hi rend='superscript:true;'>m</hi>. van</persoonsnaam></l>
+					<l><persoonsnaam>Thuijnen</persoonsnaam> gaf hem tot antwoord, dat hij belet had en</l>
+					<l>konde nu hem niet te reden staan; en D<hi rend='superscript:true;'>m</hi>. verzocht hem</l>
+					<l>des anderen daags eens weder te komen bij hem aan zijn</l>
+					<l>huis en de Priester nam dat aan te doen en kwam</l>
+				</lg>
+			</p>
+			<pb n='51'/>
+			<p>
+				<lg>
+					<l>99</l>
+					<l>bij D<hi rend='superscript:true;'>m</hi>. aan zijn huis. Doch D<hi rend='superscript:true;'>om</hi>. nam hem mede binnen in</l>
+					<l>de kamer en D<hi rend='superscript:true;'>om</hi>. vraagde hem hoeveel Grieksche kerken,</l>
+					<l>dat er in <locatie>Dalmatria </locatie>waren; de Priester noemde dan <hi rend='strikethrough:true;'>een</hi></l>
+					<l>maar een getal, doch D<hi rend='superscript:true;'>om</hi>. zeide dan ook een getal; dat kwam</l>
+					<l>met de Priester niet overeen, maar D<hi rend='superscript:true;'>om</hi>. ondervraagde</l>
+					<l>de Priester ook de Principaale stukken van het Griekse</l>
+					<l>geloof; doch Dat kwam met D<hi rend='superscript:true;'>om</hi>. zeggen niet overeen:</l>
+					<l>want D<hi rend='superscript:true;'>om</hi>. had een beschrijving van het Grieksche geloof:</l>
+					<l>en hoeveel Grieksche kerken in <locatie>Dalmatria </locatie>waren; doch</l>
+					<l>deze Priester wiste niet een ding te beantwoorden, zoodat</l>
+					<l>het maar een groote leugenaar was, zoodat de stad aan</l>
+					<l>deze Grieksche Priester heeft gegeven twintig Gld<hi rend='superscript:true;'>s</hi>. tot ver</l>
+					<l>lossing der voornoemde Christen Slaven; en deze Grieksche</l>
+					<l>Priester liet van hem gaan, dat hij niet anders konde</l>
+					<l>spreken als Latijn en Fransch, doch die beide talen</l>
+					<l>kon hij niet spreken, volgens &apos;t zeggen van <persoonsnaam>D<hi rend='superscript:true;'>om</hi>. van Thuimen</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>100</pagenumber></l>
+					<l>en deze Grieksche Priester had ook een tolk bij hem die was</l>
+					<l>van <locatie><hi rend='underlined:true;'>Hallum</hi> </locatie>van geboorte en wierde in de wandeling</l>
+					<l>genaamd (<persoonsnaam>Jan van Hallum</persoonsnaam>), maar het was een Paarde</l>
+					<l>kopers knegt; doch deze Grieksche Priester was gelogeerd</l>
+					<l>in <locatie>de witte Swan </locatie>in deze stad bij <persoonsnaam>Wijbe Zijlstra </persoonsnaam>als</l>
+					<l>Herbergier en is naderhand vertrokken naar <locatie>Leeuwarden</locatie>,</l>
+					<l>en heeft zoo veel kwaad aldaar gedaan, en vorders een</l>
+					<l>lange tijd op het <locatie>blokhuis </locatie>gevangen geweest te <locatie>Leeuwarden</locatie>.</l>
+					<l>Den <datum datum='1735-07-14'>14 Julij</datum> Is op het Raadhuis door de E<hi rend='superscript:true;'>e</hi>. Achtb<hi rend='superscript:true;'>e</hi>. Magistraat</l>
+					<l>bij Strijkgeld besteed het slatten in de <locatie>stadsgracht</locatie> beginnen</l>
+					<l>de van de <locatie>Hanspoort </locatie>tot aan de <locatie>Halfmaanspoort </locatie>bestaan</l>
+					<l>de in 9 perceelen. Het eerste perceel aangenomen door <persoonsnaam>Roe</persoonsnaam></l>
+					<l><persoonsnaam>lof Jans</persoonsnaam> en<persoonsnaam> Pieter Jetzes van Kollum</persoonsnaam> de roede voor zestien</l>
+					<l>Gld<hi rend='superscript:true;'>s</hi>. lang vyf en twintig roede bedraagt vierhondert Gld<hi rend='superscript:true;'>s</hi>.</l>
+					<l>Het tweede perceel aangenomen door den zelfden de roede</l>
+					<l>voor zestien Gld<hi rend='superscript:true;'>s</hi>. lang vijf en twintig roede bedraagt 400 Gld<hi rend='superscript:true;'>s</hi>.</l>
+				</lg>
+			</p>
+			<pb n='52'/>
+			<p>
+				<lg>
+					<l><pagenumber>101</pagenumber></l>
+					<l>Het 3<hi rend='superscript:true;'>de</hi>. perceel aangenomen door <persoonsnaam>Harmen Jurriens</persoonsnaam> en</l>
+					<l><persoonsnaam>weit Pieters</persoonsnaam> te <locatie>Collum </locatie>de roede voor 13 Guld<hi rend='superscript:true;'>s</hi>. 10 Stuiv lang</l>
+					<l>25 roede bedraagt 337 Gld<hi rend='superscript:true;'>s</hi>. 10 St. Het vierde perceel aangenomen</l>
+					<l>door<persoonsnaam> Tjeerd Buwes </persoonsnaam>en<persoonsnaam> Dirk bruins van Oldenburg</persoonsnaam> de roede</l>
+					<l>voor veertien Guld<hi rend='superscript:true;'>s</hi>. lang 25 roede bedraagt 350 Guld<hi rend='superscript:true;'>s</hi>.</l>
+					<l>het 5<hi rend='superscript:true;'>de</hi> perceel aangenomen door <persoonsnaam>Geert Edes</persoonsnaam> en<persoonsnaam> Jan Tietes</persoonsnaam></l>
+					<l>te <locatie>Buitenpost </locatie>de roede voor vijftien Gld<hi rend='superscript:true;'>s</hi>. lang 25 roede</l>
+					<l>bedraagt 375. Guld<hi rend='superscript:true;'>s</hi>. Het 6<hi rend='superscript:true;'>de</hi> perceel aangenomen door <persoonsnaam>Roelof</persoonsnaam></l>
+					<l><persoonsnaam>Jans </persoonsnaam>en <persoonsnaam>Pieter Jetzes van Kollum</persoonsnaam> de roede voor 14 Gld<hi rend='superscript:true;'>s</hi>. 5 S<hi rend='superscript:true;'>t</hi>.</l>
+					<l>lang 25 roede bedraagt 356 Gld<hi rend='superscript:true;'>s</hi>. 5 St. daar en boven nog 200 Gld.</l>
+					<l>ter zake buitenwerk. Het 7<hi rend='superscript:true;'>de</hi>. perceel aangenomen door <persoonsnaam>Tjeerd</persoonsnaam></l>
+					<l><persoonsnaam>Buwes</persoonsnaam> en <persoonsnaam>Dirk Bruins van Oldenburg</persoonsnaam> de roede voor 15 Gld.</l>
+					<l>10 St lang 25 roede bedraagt 387. Gld. 10 St. Het 8<hi rend='superscript:true;'>ste</hi>. perceel</l>
+					<l>aangenomen door <persoonsnaam>Roelof Jans</persoonsnaam> en<persoonsnaam> Pieter Jetzes van Collum</persoonsnaam></l>
+					<l>de roede voor negentien Gld<hi rend='superscript:true;'>s</hi>. vijf stuiv. lang 25 roede bedraagt</l>
+					<l>481 Glds. 5 Stv. Het negende of laatste pe </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>102</pagenumber></l>
+					<l><locatie>Halfmaans gracht </locatie>aangenomen door <persoonsnaam>Pieter Jansen van</persoonsnaam></l>
+					<l><persoonsnaam>Kollum</persoonsnaam> in de omgang genaamt. (<persoonsnaam>Pieter dijker</persoonsnaam>.) en <persoonsnaam>Jan Cornelis</persoonsnaam></l>
+					<l>mede van <locatie>Collum </locatie>de roede voor 18 Gld<hi rend='superscript:true;'>s</hi>. 10 Stuiv. lang zestig</l>
+					<l>roede bedraagt 1110 Gld<hi rend='superscript:true;'>s</hi>. volgens besteeding van alle deze</l>
+					<l>perceelen. Ieder aannemer trok voor ieder man, die zij</l>
+					<l>daags in &apos;t werk hadden 8 Stuiver in vermindering van</l>
+					<l>&apos;t aangenomen werk en &apos;t overig geld wierde dan betaald</l>
+					<l>als het werk goedgekeurd was alhoewel het laatste perceel</l>
+					<l>voor 1110 Guld<hi rend='superscript:true;'>s</hi>. was besteed zoo heeft voornoemde aanne</l>
+					<l>mer Pieter zoo voor als na ontvangen een somma van een</l>
+					<l>duizend twee honderd 15 Gld. 12 Stuiv. 8 penn. Edoch niet</l>
+					<l>een van de aannemers hebben eenige verbetering van</l>
+					<l>Geld meerder ontvangen als zij bedongen hadden. </l>
+					<l>Welke perceelen slatting bedragende volgens de besteding</l>
+					<l>en Somma van 4197 Guld<hi rend='superscript:true;'>s</hi>. 10 Stuiv. en heeft van andere</l>
+					<l>onkosten gekost een somma van 902 Guld<hi rend='superscript:true;'>s</hi>. 3 Stuiv. </l>
+				</lg>
+			</p>
+			<pb n='53'/>
+			<p>
+				<lg>
+					<l><pagenumber>103</pagenumber></l>
+					<l>bedragende te zamen een somma van 5099 Gld<hi rend='superscript:true;'>s</hi>. 13 St. als regé</l>
+					<l>rende Burgemeesters waren:<persoonsnaam> Douwe Snip,</persoonsnaam><persoonsnaam> Petrus Brantsma</persoonsnaam></l>
+					<l><persoonsnaam>Thijs de Haan</persoonsnaam>.<persoonsnaam> Tjeerd Hicht</persoonsnaam>. <persoonsnaam>Timotius Heringa. </persoonsnaam><persoonsnaam>Klaas</persoonsnaam></l>
+					<l><persoonsnaam>Hexan.</persoonsnaam> de <persoonsnaam>Ed H<hi rend='superscript:true;'>r</hi>. Hessel van Sminia. </persoonsnaam><persoonsnaam>Douwe Ruimzade</persoonsnaam></l>
+					<l><persoonsnaam>laar</persoonsnaam>.<persoonsnaam> L.P. Sevensma Sibstuit Secretaris</persoonsnaam>. <persoonsnaam>Pauls Smedema</persoonsnaam></l>
+					<l><persoonsnaam>als Rentmeester</persoonsnaam><persoonsnaam> Rindert Kammens als opzigter.</persoonsnaam></l>
+					<l>Den <datum datum='1735-10-05'>5 October</datum> heeft <persoonsnaam>Douwe Pieters Kleinhout </persoonsnaam>de eerste steen</l>
+					<l>gelegd van de <locatie>Aalsumerpoort </locatie>daar het staande bijnt</l>
+					<l>op staat; waarvan het vorige bijnt gemaakt is in &apos;t jaar</l>
+					<l><datum datum='1719-xx-xx'>1719 </datum>ziet in dit boek op folij 156.(?) </l>
+					<l>+ Het</l>
+					<l><hi rend='underlined:true;'>afschrift</hi></l>
+					<l>welk ik </l>
+					<l>heb nage</l>
+					<l>schreven</l>
+					<l>is anders</l>
+					<l>gepagineerd</l>
+					<l>geweest</l>
+					<l>dan <hi rend='underlined:true;'>het</hi></l>
+					<l><hi rend='underlined:true;'>oorspronk</hi></l>
+					<l><hi rend='underlined:true;'>kelijk</hi> stuk</l>
+					<l>want van</l>
+					<l><persoonsnaam>slooten. J. </persoonsnaam></l>
+					<l>afschrift</l>
+					<l>heeft</l>
+					<l>slechts </l>
+					<l>97 pag</l>
+					<l><persoonsnaam>kiestra</persoonsnaam></l>
+					<l><datum datum='1735-10-06'>Den 6 October</datum> zijn na</l>
+					<l><locatie>Leeuwarden </locatie>gecommitteerd geweest voor de Heeren Gede¬</l>
+					<l>puteerde Staten van <locatie>Friesland</locatie> over het slatten van de Ee</l>
+					<l>van <locatie>Dockum </locatie>na <locatie>Leeuwarden </locatie>uit de Achtbare Magistraat</l>
+					<l>de <persoonsnaam>Burgem<hi rend='superscript:true;'>r</hi>. Timotius Heringa</persoonsnaam> en uit de Vroetschap</l>
+					<l><persoonsnaam>Jan Suiderbaan</persoonsnaam> mede Fiscaal van Ed geregt in deze</l>
+					<l>Stad.<datum datum='1735-10-29'> Den 29 October</datum> is de eerste Paarden en wagen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>104</l>
+					<l>tot de <locatie>Aalsumer poort</locatie> in en uitgereden sedert dat de pijp</l>
+					<l>gemaakt is de persoon was <persoonsnaam>Jetze Jans voerman</persoonsnaam> van <locatie>Wierum</locatie></l>
+					<l>op <locatie>Dockum</locatie>; En heeft gekoste een somma zoo van Materialen</l>
+					<l>en arbeidsloon driehondert vijf en vijftig Gld. acht Stuiv.</l>
+					<l>Den<datum datum='1735-12-30'> 30 December</datum> zijn aan de Gecommitteerden die naar</l>
+					<l><locatie>Leeuwarden </locatie>zijn geweest om de Princes in te halen ieder</l>
+					<l>gecommitteerde een Zilvere Medalie vereerd. Dit Jaar is</l>
+					<l>de haag van &apos;t bolwerk afgeslagen.</l>
+					<l>Hier houdt de kronijk op, zonder dat er <hi rend='underlined:true;'>einde</hi> of iets</l>
+					<l>anders onder staat. <persoonsnaam>J.J. Kiestra.</persoonsnaam></l>
+					<l>In het 24<hi rend='superscript:true;'>ste</hi>. verslag van de Handelingen van het Friesch</l>
+					<l>genootschap an Geschied- Oudheid- en Taalkunde,</l>
+					<l>uitgebragt in de vergadering van den <datum datum='1852-07-08'>8 Julij .1852.</datum> vindt</l>
+					<l>men pag 367. het volgende: In hetzelfde handschrift</l>
+					<l>Gesta Frisiorum alique bevindt zich ook de Docciemanae</l>
+					<l>Stragis descriptie auctore Henrico a Bra Medicinae¬</l>
+				</lg>
+			</p>
+			<pb n='54'/>
+			<p>
+				<lg>
+					<l><pagenumber>105</pagenumber></l>
+					<l>Doctore zijnde een geschied verhaal van de overrompeling</l>
+					<l>van <locatie>Dockum </locatie>door de Spanjaarden in <datum datum='1572-xx-xx'>1572</datum>, bij de Friesche</l>
+					<l>Geschiedschrijvers bekend onder den naam van de Waalsche</l>
+					<l>furie. Dit stuk door <persoonsnaam>suffridus Petrus</persoonsnaam> in zijn boek. De</l>
+					<l>scriptoribus Frisiae, vermeld in vrij goed Latijn geschre</l>
+					<l>ven, was tot dus verre onbekend. Afschriften schijnen er</l>
+					<l>niet van te bestaan. Alleen bezit de Heer <persoonsnaam>M<hi rend='superscript:true;'>r</hi>. D. Fokkema</persoonsnaam></l>
+					<l>eene vertaling zonder de inleiding en het slot, opgenomen</l>
+					<l>in een handschrift getiteld: Historisch verhaal van</l>
+					<l>het gebeurde te <locatie>Dockum </locatie>sedert het <datum datum='0010-xx-xx'>10<hi rend='superscript:true;'>de</hi> Jaar der gewone</datum></l>
+					<l><datum datum='0010-xx-xx'>tijdrekening</datum> tot het Jaar <datum datum='1711-xx-xx'>1711</datum> uit veele schrijvers bijeen</l>
+					<l>vergaderd door <persoonsnaam>Gerrit Hesman</persoonsnaam>. De uitvoerigheid</l>
+					<l>van dit verhaal door eenen ooggetuige geschreven</l>
+					<l>geeft daareen eene Historische waarde en heeft het</l>
+					<l>genootschap doen besluiten tot de uitgave van deze</l>
+					<l>Descriptie. Dien ten gevolge is daarvan door den</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>106</pagenumber></l>
+					<l>Secretaris eene nieuwe vertaling vervaardigd, en met </l>
+					<l>de aanteekeningen (+) van <persoonsnaam>M<hi rend='superscript:true;'>r</hi>. D. Fokkema </persoonsnaam>over het</l>
+					<l>werk van <persoonsnaam>Gerrit Hesman</persoonsnaam> geplaatst in de Vrije Frieser</l>
+					<l>127.</l>
+					<l>Men diene hiermede te vergelijken den titel en pag 39</l>
+					<l>van ons Handschrift. k (+) Geplaatst in de vrije Fries, 6<hi rend='superscript:true;'>e</hi> deel 2<hi rend='superscript:true;'>e</hi></l>
+					<l>stuk pag. 127. env: + Deze Gerrit Hesman was een verwer</l>
+					<l>of schilder: zie; het handschrift van<persoonsnaam> Catharina Geer</persoonsnaam></l>
+					<l><persoonsnaam>truid Schrader</persoonsnaam> <hi rend='underlined:true;'>Dagboek</hi> van verrigte verlossingen</l>
+					<l>van <datum datum='1693-xx-xx'>1693 </datum>-<datum datum='1745-xx-xx'>1745</datum>. alwaar men vindt pag 117; &quot; <datum datum='1703-09-07'>1703,</datum></l>
+					<l><datum datum='1703-09-07'>den 7 Sep</datum>. bij <persoonsnaam>Bauwkie Snip</persoonsnaam>, sijnde de verwer of schilder</l>
+					<l><persoonsnaam>gerrit Hessman </persoonsnaam>sijn wijf een Son</l>
+					<l>Guld  st / pn.</l>
+					<l>(3 - 0 - 0, voor</l>
+					<l>de verlossing gerekend.</l>
+					<l>(get.) <persoonsnaam>J.J. Kiestra.</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='55'/>
+			<p>
+				<lg>
+					<l>Naberigt.</l>
+					<l>De brave en geleerde <persoonsnaam>Mr. Daam Fockema</persoonsnaam> mogt</l>
+					<l>gedurende zyn lange regterlyke en staatkun¬</l>
+					<l>dige loopbaan zóó grooten roem en eerbied</l>
+					<l>verwerven, dat wij leden van het Friesch Ge¬</l>
+					<l>nootschap groote verwachting hadden van zyne</l>
+					<l>medehulp, toen hy in de laatste jarens zyns</l>
+					<l>levens blyken gaf van zucht voor de beoefening</l>
+					<l>van de Friesche Geschiedenis.</l>
+					<l>Dewyl hy voor vele jaren uittreksels en aan¬</l>
+					<l>teekeningen had gemaakt uit de Crimineele</l>
+					<l>Sententieboeken van het Hof van Friesland</l>
+					<l>Sedert <datum datum='1516-xx-xx'>1516</datum>, </l>
+					<l>zoo</l>
+					<l>spoorden wy hem zelfs welmeenend</l>
+					<l>aan, om deze tot grondslag te leggen van eene</l>
+					<l>geschiedenis van het Friesche Strafregt, in ver¬</l>
+					<l>band met de vroegere Lex Frisionum, de oude</l>
+					<l>Friesche Wetten enz. in de hoop, dat wy daardoor</l>
+					<l>voor dit onderwerp in het bezit mogten geraken</l>
+					<l>van een dergelyk verdienstelyk werk als de Raads¬</l>
+					<l>heer</l>
+					<l>Cannaert</l>
+					<l>over het oude strafregt in <locatie>België </locatie>had geleverd. </l>
+				</lg>
+			</p>
+			<pb n='56'/>
+			<p>
+				<lg>
+					<l><pagenumber>2</pagenumber></l>
+					<l>En inderdaad scheen dit ook eerst zijn plan te</l>
+					<l>zyn; maar om niet dadelijk</l>
+					<l>voetstoots</l>
+					<l>met <datum datum='1515-xx-xx'>1515 </datum>te beginnen</l>
+					<l>en als met de deur in het huis te vallen, gaf</l>
+					<l>hy zich, om zyn tyd voor zich aangenaam en</l>
+					<l>nuttig te besteden, toe aan uitgebreide histo¬</l>
+					<l>rische onderzoekingen en legde hij op ruime</l>
+					<l>schaal een groot werk aan, dat met Anno 1</l>
+					<l>begon en door 10 Tydvakken heen tot <datum datum='1811-xx-xx'>1811</datum></l>
+					<l>zoude loopen, zoo als ons bleek, toen hy in</l>
+					<l><datum datum='1840-05-xx'>Mei 1840</datum> her eerst deel uitgaf van zyne</l>
+					<l><hi rend='underlined:true;'>Schetzen van de Friesche Geschiedenis in het</hi></l>
+					<l><hi rend='underlined:true;'>algemeen en wegens het Strafregt in het byzon¬</hi></l>
+					<l><hi rend='underlined:true;'>der</hi>, loopende tot het jaar <datum datum='0775-xx-xx'>775</datum>, Nog in het zelfde</l>
+					<l>jaar kwam het 2<hi rend='superscript:true;'>e</hi> deel uit, wat tot <datum datum='1150-xx-xx'>1150 </datum>liep,</l>
+					<l>en in <datum datum='1844-xx-xx'>1844 </datum>en <datum datum='1846-xx-xx'>46</datum> volgde het 3<hi rend='superscript:true;'>e</hi> deel in 2 stukken,</l>
+					<l>loopende van <datum datum='1150-xx-xx'>1150 </datum>tot <datum datum='1515-xx-xx'>1515</datum>, Maar dit was ook</l>
+					<l>het laatste, zoodat, tot onze groote teleurstel¬</l>
+					<l>ling, de aanloop &apos;s mans krachten geheel</l>
+					<l>had weggenomen en de zes laatste tydvakken,</l>
+					<l>waarin wy het meeste belangstelden, omdat</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>hy daarover onuitgegeven bronnen bezat, achter¬</l>
+					<l>wege zyn gebleven. Had de brave man wat</l>
+					<l>meer kritiek en betere, ook nieuwere, bron¬</l>
+					<l>nen gebruikt, en ware hij met eigene denk¬</l>
+					<l>beelden niet zoo zeer in genomen geweest,</l>
+					<l>wy zouden zyn veelomvattend werk thans</l>
+					<l>op hoogere prys stellen. Maar hy begon</l>
+					<l>dit veld van studie voor zich te laat te be¬</l>
+					<l>arbeiden en kon niet begrypen, dat anderen</l>
+					<l>hem reeds lang vooruitgesneld waren</l>
+					<l>in het juiste begrip van het leven en streven</l>
+					<l>des volks. </l>
+					<l>Intusschen voedden wy ook de hoop, dat hy nog </l>
+					<l>eens eene geschiedenis of geschiedkundige Be¬</l>
+					<l>schrijving van zyne geboortestad <locatie><hi rend='underlined:true;'>Dokkum</hi></locatie></l>
+					<l>zoude bewerken, dewyl hij daarmede zoo in</l>
+					<l>byzonderheden bekend was. Nog op <datum datum='1851-10-09'>den 9</datum></l>
+					<l><datum datum='1851-10-09'>october 1851</datum> sprak hy daarover in eene verga¬</l>
+					<l>dering van het Friesch Genootschap (Vrije Fries VI 127)</l>
+				</lg>
+			</p>
+			<pb n='57'/>
+			<p>
+				<lg>
+					<l><pagenumber>4</pagenumber></l>
+					<l>en verhaalde, dat hy reeds in <datum datum='1838-xx-xx'>1838 </datum>in het bezit was</l>
+					<l>gekomen van een handschrift van <persoonsnaam>Gerrit</persoonsnaam></l>
+					<l><persoonsnaam>Hesman</persoonsnaam> over de lotgevallen van <locatie>Dokkum</locatie></l>
+					<l>tot <datum datum='1711-xx-xx'>1711</datum>. Doch ook hiervan kwam niets, en</l>
+					<l>na den dood van<persoonsnaam> M<hi rend='superscript:true;'>r</hi>. Fockema</persoonsnaam> verloren</l>
+					<l>wij het HS. van <persoonsnaam>Hesman </persoonsnaam>geheel uit het</l>
+					<l>oog.</l>
+					<l><persoonsnaam>De Heer M<hi rend='superscript:true;'>r</hi>. W. W. Buma </persoonsnaam>gaf echter in een</l>
+					<l>der vergaderingen te kennen, hoe noodig</l>
+					<l>het zou zyn hiernaar onderzoek te doen</l>
+					<l>en daarvan een afschrift te bekomen</l>
+					<l>voor het genootschap. Dien ten gevolge</l>
+					<l>deed ik nasporingen en vernam, dat </l>
+					<l>my vriend <persoonsnaam>D<hi rend='superscript:true;'>r</hi>. J.J. Kiestra </persoonsnaam>te <locatie>Ee </locatie>van dat</l>
+					<l>Handschrift eene Kopij had gemaakt</l>
+					<l>voor zich zelven. Gaarne stond hy deze</l>
+					<l>af, om daarvan een afschrift te maken,</l>
+					<l>en dit is hetgeen de inhoud van <hi rend='underlined:true;'>dezen</hi> <hi rend='underlined:true;'>band</hi></l>
+					<l>uitmaakt.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>5</pagenumber></l>
+					<l>Later vernam ik echter, dat <persoonsnaam>Mr. Fockema</persoonsnaam> zyn</l>
+					<l>ex. had gelegateerd aan de Stad <locatie>Dokkum</locatie>,</l>
+					<l>onder eenige bepalingen. Ik vroeg dit nu</l>
+					<l>ter leen, om het met dat van den Heer K.</l>
+					<l>te vergelyken, of</l>
+					<l>om</l>
+					<l>ons afschrift naar dat</l>
+					<l>origineel te collatirneeren. Maar hoezeer</l>
+					<l>stond ik verbaast, toen ik weldra bemerkte,</l>
+					<l>dat de Heer <persoonsnaam>Kiestra </persoonsnaam>had goedgevonden</l>
+					<l>vele bladzyden over te slaan; terwyl zyn</l>
+					<l>stuk in het laatste gedeelte veel meer be¬</l>
+					<l>vatte dan het HS. van <persoonsnaam>Hesman</persoonsnaam>, dat slechts</l>
+					<l>tot <datum datum='1711-xx-xx'>1711 </datum>loopt, terwyl het zyne tot <datum datum='1735-xx-xx'>1735 </datum>is voort¬</l>
+					<l>gezet. Er schynen dus <hi rend='underlined:true;'>twee</hi> HN. te bestaan,</l>
+					<l>welke hierin tot een geheel gebragt zyn en</l>
+					<l>toch geen volledig zamenstel uitmaken.</l>
+					<l>Misschien was het laatste van <persoonsnaam>D. Smedema </persoonsnaam>en</l>
+					<l>in het bezit van <persoonsnaam>Mr. A. van Slooten, Stads Secretaris,</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='58'/>
+			<p>
+				<lg>
+					<l><pagenumber>6</pagenumber></l>
+					<l>Dit alles verdient dus nader onderzocht</l>
+					<l>te worden door hem, die wy wenschen, dat</l>
+					<l>eens eene geschiedenis van <locatie>Dokkum </locatie>in ver¬</l>
+					<l>band met die van <locatie>Friesland</locatie> en byzonder</l>
+					<l>van <locatie>Oostergoo </locatie>mogt willen bewerken.</l>
+					<l>Daarvoor bevat dit HS. wel vele gegevens,</l>
+					<l>maar het eerste gedeelte is slechts afschry¬</l>
+					<l>very uit allerlei Kronijken zonder eenig</l>
+					<l>begrip of oordeel; veel wordt er gemist,</l>
+					<l>dat eene plaats had verdient; slecht</l>
+					<l>is de styl en hemelsbreed verschil de ver¬</l>
+					<l>haaltrant van die van <persoonsnaam>D<hi rend='superscript:true;'>r</hi>. Hendrik Bra,</persoonsnaam></l>
+					<l><persoonsnaam>die</persoonsnaam> in het latyn zulk eene schoone Beschry¬</l>
+					<l>ving gaf van de Walsche Furie te <locatie>Dokkum</locatie>,</l>
+					<l>in <datum datum='1572-xx-xx'>1572</datum>, vertaald medegedeeld voor<persoonsnaam> D<hi rend='superscript:true;'>r</hi>. J.G.</persoonsnaam></l>
+					<l><persoonsnaam>Ottema</persoonsnaam> in de Vrye Fries, VI 131. Bovendien</l>
+					<l>geven vele byzonderheden uit het stads</l>
+					<l>leven wel licht omtrent plaatselyke be¬</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>7</pagenumber></l>
+					<l>langen, maar de meesten, vooral de latere,</l>
+					<l>zyn zoo gezocht, klein en onbeduidend,</l>
+					<l>dat zy een walging aan belangstelling</l>
+					<l>wekken; vooral wanneer men bemerkt,</l>
+					<l>dat zulke kapitale feiten, als het aan¬</l>
+					<l>leggen van de<locatie> Dokkumer Nieuwezylen</locatie></l>
+					<l>in <datum datum='1729-xx-xx'>1729</datum>, waardoor de ligging en water¬</l>
+					<l>staat van <locatie>Dokkum </locatie>zoo groote veran¬</l>
+					<l>dering onderging, stilzwygend zyn voor¬</l>
+					<l>by gegaan. Niettemin is er veel van dit</l>
+					<l>onderwerp te maken door iemand van</l>
+					<l>kennis, vernuft en smaak, die het op</l>
+					<l>eene dergelyke wys zou kunnen behandelen</l>
+					<l>als<persoonsnaam> D<hi rend='superscript:true;'>r</hi>. Piccard</persoonsnaam> thans de lotgevallen van het</l>
+					<l>stadje <locatie>Goes </locatie>heeft gedaan. Dan wordt de ge¬</l>
+					<l>schiedenis lust en leven en aangenaam voed¬</l>
+					<l>sel voor den geest.</l>
+					<l><datum datum='1865-03-30'>30 Maart 1865.</datum></l>
+					<l><persoonsnaam>W. Eekhoff.</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='59'/>
+			<p>
+				<lg>
+					<l><pagenumber>8</pagenumber></l>
+					<l>Ten behoeve dier gewenschte bewerking van</l>
+					<l>dit onderwerp voeg ik hier nog, als aan¬</l>
+					<l>wyzing van meerdere bronnen, by; dat</l>
+					<l>van groot belang is daarby gebruik te </l>
+					<l>maken van eene merkwaardige <hi rend='underlined:true;'>Nota</hi></l>
+					<l><hi rend='underlined:true;'>over</hi> <hi rend='underlined:true;'>de</hi><locatie> <hi rend='underlined:true;'>Ee</hi></locatie>, tusschen <locatie>Leeuwarden </locatie>en <locatie>Dokkum</locatie>,</l>
+					<l>en de daarin en aangelegen dijken, brug¬</l>
+					<l>gen, sluizen enz. benevens de verschil¬</l>
+					<l>lende slattingen van dien stroom; in</l>
+					<l><datum datum='1845-xx-xx'>1846 </datum>opgemaakt door den <persoonsnaam>Heer M.W.W.</persoonsnaam></l>
+					<l><persoonsnaam>Buma</persoonsnaam>, als lid van Gedeputeerde Staten;</l>
+					<l>een voortreffelyk stuk, met veel naauw¬</l>
+					<l>keurigheid en zaakkennis opgemaakt,</l>
+					<l>waarvan ik in <datum datum='1865-xx-xx'>1865 </datum>een afschrift voor het</l>
+					<l>Archief van <locatie>Leeuwarden </locatie>van Zh. heb be¬</l>
+					<l>komen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>9</pagenumber></l>
+					<l>Verder is in mijn partikulier bezit een lang</l>
+					<l>folio <hi rend='underlined:true;'>Annotatieboek</hi> in HS. bevattende uit¬</l>
+					<l>voerige aanteekeningen en afschriften van</l>
+					<l>authentieke stukken over de stedelyke Ei¬</l>
+					<l>gendommen, Bolwerken, Verpachtingen, Collecten,</l>
+					<l>Schutterij, Raadsbestelling, Register van de</l>
+					<l>Huisfloreen, Fortificatien, Predikanten</l>
+					<l>en Schoolmeesters, Grondpachten, Reglemen¬</l>
+					<l>ten, Instructiën, Waag, Resolutiën, Landsfloreen,</l>
+					<l>Wacht, Bruggen, Tractementen, Schulden,</l>
+					<l>Gilden, Bestekken, Lysten, straten, Wallen,</l>
+					<l>Kerkhof enz. alles loopende van <datum datum='1696-xx-xx'>1696 </datum>- <datum datum='1740-xx-xx'>1740,</datum></l>
+					<l>en zo t schijnt opgemaakt door <persoonsnaam>D. Smedema,</persoonsnaam></l>
+					<l>wiens naam er op staat. Zeer rijk in byzonderheden</l>
+					<l>Nog bezit ik een folio boek in HS. genaamd</l>
+					<l>een Administratieboek der Haringreedery</l>
+					<l>en andere negotie te <locatie>Dokkum</locatie>, van</l>
+					<l><datum datum='1701-xx-xx'>1701 </datum>tot <datum datum='1715-xx-xx'>1715</datum>.</l>
+				</lg>
+			</p>
+			<pb n='60'/>
+			<p>
+				<lg>
+					<l>[dubbel en niet getranscribeert]</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='61'/>
+			<p>
+				<lg>
+					<l><pagenumber>10</pagenumber></l>
+					<l>Toen ik in<datum datum='1865-02-xx'> Febr. 1865</datum> eene uitvoerige Memorie</l>
+					<l>heb gesteld over de geschiedenis en het onder¬</l>
+					<l>houd van den <locatie><hi rend='underlined:true;'>Dokkumer</hi> <hi rend='underlined:true;'>Trekweg</hi></locatie>, ont¬</l>
+					<l>ving ik eene verzameling meest origineele</l>
+					<l>stukken over dit onderwerp ter leen van</l>
+					<l>den<persoonsnaam> Heer Jarig van der Heide</persoonsnaam> alhier,</l>
+					<l>waarby ook de Koopbrief van de westelyke</l>
+					<l>helft, in <datum datum='1654-xx-xx'>1654 </datum>door <locatie>Dokkum </locatie>verkocht</l>
+					<l>voor ½ aan de stad <locatie>Harlingen </locatie>en voor</l>
+					<l>½ aan de <persoonsnaam>Heeren v. Wiedefeer</persoonsnaam> en <persoonsnaam>v. Nierssen</persoonsnaam>, welke</l>
+					<l>laatste door<persoonsnaam> v.d. Heide</persoonsnaam> zijn gekocht.</l>
+					<l>Over het aanleggen van den <locatie>trekweg naar</locatie></l>
+					<l><locatie>Stroobos</locatie> moeten er twee banden stukken</l>
+					<l>in het Prov. Archief bestaan.</l>
+					<l>Doch de lotgevallen van de zoogenaamden</l>
+					<l>Dokkumer Bacorel zyn voorval beschreven</l>
+					<l>in <hi rend='underlined:true;'>drie</hi> folio banden met compren schrift,</l>
+					<l>welke mij in <datum datum='1857-xx-xx'>1857 </datum>uit <locatie>Harlingen</locatie> zyn toegezonden,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>11</pagenumber></l>
+					<l>en die ik in <datum datum='1864-xx-xx'>1864 </datum>ten gebruike heb gegeven aan</l>
+					<l>Heeren Gedeputeerde Staten. Hierin zyn vele</l>
+					<l>afschriften van contracten en ander stuk¬</l>
+					<l>ken opgenomen. </l>
+					<l>De boeken van het Nedergeregt van <locatie>Dokkum</locatie></l>
+					<l>zyn in <datum datum='1824-xx-xx'>1824 </datum>welligt mede bij de Arr. Regt¬</l>
+					<l>bank te <locatie>Leeuwarden </locatie>overgebragt en</l>
+					<l>zullen zich met de overige op de zolders</l>
+					<l>van het paleis van Justitie bevinden. </l>
+					<l>Er is een ruime voorraad van boeken in</l>
+					<l>Handschrift buiten de Resolutieboeken</l>
+					<l>en verder stukken, welke het Archief</l>
+					<l>van <locatie>Dokkum </locatie>zelf zal bevatten, gelyk</l>
+					<l>dat van <locatie>Leeuwarden</locatie> ook verscheidene</l>
+					<l>met deze stad gewisselde stukken bezit,</l>
+					<l>waarvan slechts sommige in het Charter¬</l>
+					<l>boek zyn gedrukt. </l>
+				</lg>
+			</p>
+			<pb n='62'/>
+			<p>
+				<lg>
+					<l>Van de gedrukte bescheiden zyn, behalve</l>
+					<l>die in het Charterboek, de beschryvingen</l>
+					<l>van <persoonsnaam>Ubbo Emmius</persoonsnaam>, <datum datum='1616-xx-xx'>1616</datum>, <persoonsnaam>Winsemius, </persoonsnaam><datum datum='1622-xx-xx'>1622</datum>,</l>
+					<l><persoonsnaam>Blaeu</persoonsnaam>, stedeboek, <datum datum='1648-xx-xx'>1648</datum>, <persoonsnaam>Jonotanus</persoonsnaam>, Beschr.</l>
+					<l><datum datum='1664-xx-xx'>1664</datum>, Tegenwoordige staat van <locatie>Friesland</locatie>, </l>
+					<l>II <datum datum='1785-xx-xx'>1785 </datum>en <persoonsnaam>vd Aa</persoonsnaam>, Aardrijksk. Woordenb.</l>
+					<l>van Nederland de voornaamste.</l>
+					<l>Over <locatie>Dokkum </locatie>en zyne beroemde mannen</l>
+					<l>zyn goede berigten in de Leeuw. Couranten,</l>
+					<l>van <datum datum='1830-03-02'>2</datum> en <datum datum='1830-03-09'>9 Maart</datum> in <datum datum='1830-07-06'>6 July 1830.</datum></l>
+					<l>W. E. </l>
+				</lg>
+			</p>
+			<pb n='63'/>
+		</body>
+	</text>
+</TEI>

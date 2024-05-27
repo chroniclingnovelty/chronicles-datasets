@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1819_Binn_Kars - Dagboek van Jan Jansz. Karsten te Binnenwijzend 1783-1819</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l><datum datum='1783-xx-xx'>1783</datum> zyn Getrouwt <persoonsnaam>Jan Jansz</persoonsnaam> <persoonsnaam>Dieuwertje Klaasz</persoonsnaam></l>
+					<l>Den <datum datum='1783-02-09'>9 february</datum> Zondag Zavonts 5 uuren</l>
+					<l>in dit Jaar heb ik Myn koeyen zaterdags voor Palm Z=d</l>
+					<l>in de Wyde Gejaagt zynde Den <datum datum='1783-04-12'>12 Apri</datum>l van dit Jaar</l>
+					<l>hebben wy hier zoo Een Drooge Zoomer Gehadt als by Na</l>
+					<l>het mense Nooyt hebben beleeft Ja in 3 Maanden tydt byna</l>
+					<l>Geen regen hebben Gehadt En ik <locatie>hoorns</locatie> koe markt Nog meerd#</l>
+					<l>melk en kaas maakte als <persoonsnaam>S Jacob</persoonsnaam>:</l>
+					<l><datum datum='1784-xx-xx'>A<hi rend='superscript:true;'>o</hi>. 1784</datum> is Gebooren <persoonsnaam>trijntje Jansz</persoonsnaam> en Gestorven <datum datum='1874-01-24'>24 Januarij</datum></l>
+					<l>Den <datum datum='1784-01-21'>21 Dito</datum> is gestorven <persoonsnaam>Diewertye Klaas</persoonsnaam></l>
+					<l><datum datum='1785-xx-xx'><hi rend='underlined:true;'>1785</hi></datum> is <persoonsnaam>Jan Jansz</persoonsnaam> Wederom Getrouwt met <persoonsnaam>Antje Jans</persoonsnaam></l>
+					<l>Den <datum datum='1785-06-12'>12 Junij</datum> op Zondag middag om 13 Uuren</l>
+					<l><datum datum='1786-05-17'><hi rend='underlined:true;'>1786</hi> Den 17 May</datum> is <persoonsnaam>Jan Jansz</persoonsnaam> tot kerk meester verk</l>
+					<l>Van De Gantsche Gemeente Van <locatie>Binnewyzent</locatie></l>
+					<l>in dat Zelve Jaar hebben wy hier Zoo Een sleghte Zoomer</l>
+					<l>Van Sterke Droogte En Swaare Stort regens Gehad</l>
+					<l>En Een vroege Vorst Dat De Mostert daskers by my</l>
+					<l>kwaamen op schaaze te darzen Den <datum datum='1786-10-30'>30 october</datum></l>
+					<l>in Zoo Voort gevrooren Dat <locatie>hoorns</locatie> koe Markt de zee</l>
+					<l>Was digt Dat De koeyen Niet Waaren te verkoopen</l>
+					<l>En de kaas duur D Groote 19½ D klyne 16 d komm is 14¼</l>
+					<l><datum datum='1789-09-26'>1789</datum> <hi rend='strikethrough:true;'>is gebooren Den <datum datum='1789-09-26'>26 September</datum> Dinis dag vroeg 9 Uuren</hi></l>
+					<l><hi rend='strikethrough:true;'><persoonsnaam>tryntje Jansz Kausten</persoonsnaam> heeft haar Eerste Communie</hi></l>
+					<l><hi rend='strikethrough:true;'>Gedaen <datum datum='1799-05-31'>31 may 1799</datum></hi></l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1787-xx-xx'>1787</datum> hebben wy hier in Dut <locatie>Noordt holland </locatie></l>
+					<l>zoo een Duerte van hoey Gehadt, Dat een wagen</l>
+					<l>hoy worde verkogt voor 18 Gld in de maendt</l>
+					<l><datum datum='1787-04-xx'>april</datum> ook in dese maendt hebbe wy hier Ruyters</l>
+					<l>en Dragonders ontfange in Dese vier dorpen</l>
+					<l>waerdoor ons Lant Grootelyks beswaert is</l>
+					<l>Den <datum datum='1787-09-10'>10 September</datum> versonden na <locatie>hoorn</locatie></l>
+					<l>In dit Jaer <datum datum='1787-xx-xx'>1787</datum> hebbe wy hier in <locatie>Hollandt</locatie></l>
+					<l>zoo een droevige Somer en herfst Gehadt</l>
+					<l>van de medeteere Dat men nauwelijks was</l>
+					<l>betrouwt om by avondt te passieren</l>
+					<l>en by nagt te slaepen van Dragonders</l>
+					<l>en Soldaten en Ruyters van Steelen en Roven</l>
+					<l>waer Door men hier moest op De wagt by Nagt</l>
+					<l>met 6 en 8 man waerdoor verscheyen boere</l>
+					<l>schaede Gehadt hebben, want onse Staeten en Prins</l>
+					<l>tegen malkandere waren waer Door ook onse </l>
+					<l>burgers Den eene was prins en Den ander</l>
+					<l>was Staets of Patriots soo men lijdt</l>
+					<l>soo Dat de prins had uytert belegert en de Staet</l>
+					<l>of patriot.  Daen tegen maer so men lydt</l>
+					<l>is overgegaen aen De Prins door verradery</l>
+					<l>verders ook alle Steden in het <locatie>Noorderquart</locatie></l>
+					<l>als uytgenomen <locatie>amsterdam</locatie> Daer hebbe </l>
+					<l>sij malkender een slag gelevert maer</l>
+					<l>onbekendt wie dat heeft Gewonne of verlor</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><datum datum='1788-xx-xx'>1788</datum> Heeft <persoonsnaam>Jan Jansz</persoonsnaam> een Stuk landt Gehuurt van</l>
+					<l>Drie Morgen Groot voor 114 Gld het Morgen bedraegt 342</l>
+					<l><datum datum='1788-xx-xx'>1778</datum> ook een stuk Landt Gehuurt van 2½ morgen Groot</l>
+					<l>voor 110 Gld t morgen bedraegt 275 Gulden waerom</l>
+					<l>ik dese stukke Landt kan houden voor een Gelyke</l>
+					<l>buure Prys soo lang als ik en myn vrouwe Leven</l>
+					<l>het eerst van 275 is Gestelt op 90 het tweede van</l>
+					<l>342 is Gestelt op 100 Glden alzoo ik ofslag heb</l>
+					<l>Gekregen 427 Gulden alzoo ik Dat Landt om Die</l>
+					<l>Redene zoo Duur Moest Huuren het eerste jaer</l>
+					<l><datum datum='1788-xx-xx'>1788</datum> hebbe wij Hier een zeer Goede zomer Gehadt</l>
+					<l>en De kaes Heeft Gegouwen 14 15 13 12 11 10 9 8 7</l>
+					<l>Gulden waarop een Groote afslag is Gekomen</l>
+					<l>Den <datum datum='1788-11-28'>28 November</datum> is het hier begonnen te vriesen</l>
+					<l>En heeft Geduurt 8 weeken lang alzo Het zo</l>
+					<l>Sterk gevroren heeft als het Geen mensch kon Denke</l>
+					<l>want het Straffer is Geweest Dan het jaer van 40</l>
+					<l>Daer men veel van zeyd maer Geen Duure lijdt</l>
+					<l><datum datum='1789-xx-xx'>1789</datum></l>
+					<l><hi rend='strikethrough:true;'>Den <datum datum='1789-01-13'>13 IJannarij</datum> is Gebooren <persoonsnaam>Antje Jansz</persoonsnaam> Dingsdags</hi></l>
+					<l><hi rend='strikethrough:true;'>smorgens 9 uuren</hi></l>
+					<l><hi rend='strikethrough:true;'><datum datum='1790-02-03'>1790 Den 3 february</datum> is Gebooren <persoonsnaam>marytje jansz</persoonsnaam></hi></l>
+					<l><hi rend='strikethrough:true;'>woonsdag smorgens om 5 uuren</hi></l>
+					<l>van Dit jaer hebbe wy hier so een schoon gewas</l>
+					<l>en hoij en Gras Gehadt alzo het Bij mense Geheugen</l>
+					<l>zelden Gebuurt also Dat De mayers 4 en 5 en 6 Guld</l>
+					<l>van het morgen hebben Gehadt van dit jaar hebben</l>
+					<l>wij een Goede Gelding van de kaes Gehadt van De 10 Gld</l>
+					<l>tot D15 toe De kluytijes en de koeye ware Duur</l>
+					<l>van deese winter hebbe wy Geen Vriesen Gehad</l>
+					<l>So veel met als dat men over het ijs niet kon Loope</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>Van Deese winter hebben wy hier alzo Een Sware</l>
+					<l>Storm Gehadt alzo het water zo hoog is in zee Geweest</l>
+					<l>als in het jaer <datum datum='1775-xx-xx'>1775</datum> en <datum datum='1776-xx-xx'>1776</datum> maer niet so hoog Dan het </l>
+					<l>Jaer <datum datum='1717-xx-xx'>1717</datum> maer <datum datum='1790-xx-xx'>1790</datum> sryf ik nu van alsdat er zo veel</l>
+					<l>schade aen De Dyk is Gekoomen als Dat men hadde</l>
+					<l>Gedagt om te vergaen want het water over De Dyk</l>
+					<l>heene liep en tussen <locatie>eerswoudt</locatie> en <locatie>Lammerschaeg</locatie></l>
+					<l>zijn er Gaete Geborsten en verder en vreemde Lande</l>
+					<l>volgens srijven van kranten en brieven ook Groote</l>
+					<l>schaede is Geschiedt waer van Daer ook veele scheepe</l>
+					<l>zyn verongelukt van Dese winter hebbe wij hier zo</l>
+					<l>een Sware mist weer Gehadt alzo Dat in <locatie>amtserdam</locatie></l>
+					<l>veele mense in het Water zijn verdronken</l>
+					<l>Door de Donkerte en hier regeert een Siekte Die</l>
+					<l>wort Genaemt de Rooije Loop of Grauwe Loop</l>
+					<l>Den <datum datum='1790-04-17'>17 april</datum> heb ik mijn koren en goed Gras </l>
+					<l>wij hier een voor##########</l>
+					<l><datum datum='1791-xx-xx'>1791</datum></l>
+					<l>hebben wij hier een Schoon Gewas van hoij en Gras</l>
+					<l>Gehadt maer alles Goedt koop het hoij 4 en 5 Guld</l>
+					<l>De kaes 10 en 11 ook 12 Guld De boter 4 en 5 Stuyver</l>
+					<l>het Zaet 3 Guld Rog De Garst 2:5 ook 2:10</l>
+					<l>maer witte mostert van 15 en 16½ Guld</l>
+					<l>maer Koeije Gans Goedtkoop de beste wol</l>
+					<l>kon 7 Stuyvers in dit jaer is het Gebuurt</l>
+					<l>in de <locatie>Beemster</locatie> Dat een koe Beest van 51 weeke</l>
+					<l>heeft Gekalft waer van Dat kalf veschyde</l>
+					<l>weeke heeft Gemamt aen zijn moeder</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l><datum datum='1792-xx-xx'>1792</datum> hebben wy hier een Schraele en Natte zomer</l>
+					<l>Gehadt en de kaes en Boter wat Duurder en het Zaedt</l>
+					<l>een Guld Duurder De hoorns Zak en het hooij De helft</l>
+					<l>Gereesen waer de franse oorlog begonne is Dit jaer</l>
+					<l>met <locatie>hollandt</locatie> en <locatie>engelandt</locatie> keijser en <locatie>pruijsen</locatie> en <locatie>Spanye</locatie></l>
+					<l>waer van zij Dit jaer hebben vermoordt de <persoonsnaam>koning</persoonsnaam></l>
+					<l><persoonsnaam>van Vrankryk</persoonsnaam> in haer eijgen landt in de maendt</l>
+					<l><datum datum='1792-08-xx'>August</datum> onthoofdt</l>
+					<l><datum datum='1793-xx-xx'>1793</datum> is hier De oorlog zoo Door Gedronge Dat wy de</l>
+					<l>franse in ons Landt hebben Gehadt in <locatie>Breda</locatie> Gewonne</l>
+					<l>De <locatie>Willem Stadt</locatie> verplettert maer De heere Staete</l>
+					<l>van ons landt hebbe de 100 en 200 pennig Geeyst</l>
+					<l>waer mede zy De franse hebbe uijtgekogt en te rug</l>
+					<l>Geweken zijn maer hebbe Den <datum datum='1793-08-21'>21 august</datum> de konigin</l>
+					<l>ook het hooft afgehouwen, want De franse kwamen</l>
+					<l>voor hunne vrijheijdt uyt waer voor zy hebben</l>
+					<l>haer volk Gevraegt en veel mense verlooren</l>
+					<l>en hebben zoo woodent Gevogten als men ooyt</l>
+					<l>heeft Gehoort en Dat tegen alle koninge en Prinse</l>
+					<l>dat men het nooydt zoo heeft Gehoort nog beleeft</l>
+					<l>D Kaes heeft Gegouwen van Dit ijaer De Groote 18 en 19</l>
+					<l>Gld De 10 lb kees  14 en 15 en 16½ Gld De kleijntjes 12 en 13 </l>
+					<l>en 14 en 15 Gld maer is Door De oorlog van De franse</l>
+					<l>na S megul zoo Sterk afgeloopen Dat mense haest</l>
+					<l>niet kon verkoopen maer de Groote kaes bleef Duur</l>
+					<l>Van Dit jaer <datum datum='1793-xx-xx'>1793</datum> ende ook in het Begin van <datum datum='1794-xx-xx'>1794</datum></l>
+					<l>Hebben wij hier zoo een alderbeste herfst en winter Gehadt</l>
+					<l>van Regen en Storm en Windt en Vriesen als men laest</l>
+					<l>noydt heeft Beleeft want men begon urte en Boone</l>
+					<l>te zaeyen Vrouwendag maar egter een Duure tydt</l>
+					<l>Door de Swaere oorlog.</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>Dit jaer van <datum datum='1794-xx-xx'>1794</datum> hebbe wij hier zo een voorlijke</l>
+					<l>tijdt Gehadt Dat men heeft kruijse Baeye Gekookt</l>
+					<l>en Geeten Die Goedt ware in Die maandt van </l>
+					<l><datum datum='1794-04-xx'>april</datum>, Die koeijen jaegde men in de wijdt 2 en 3</l>
+					<l>weeke voor <datum datum='1794-05-xx'>maij</datum> in Goedt Gras De hooij kaes</l>
+					<l>Goude 12, en 14 en 15 Guldens en veel hooy Gewas</l>
+					<l>veroorsaekt heeft en zo Goedtkoop heeft Geweest Dat men</l>
+					<l>nog nauwert veel 2 Guld 3 Guld een Goede wagen hooy</l>
+					<l>heeft Gebeurt van Landt af maer na <datum datum='1794-06-01'>1 jun</datum> soo</l>
+					<l>Sterke Droogte en heete zomer hebbe Gehadt als bij</l>
+					<l>mense</l>
+					<l>geheuge </l>
+					<l>niet is Geweest waer van Dat veele mense</l>
+					<l>wierden ziek 2 en 3 in een huijs en veele Gestorven</l>
+					<l>tot <locatie>Hoorn</locatie> 6 en 7 en 8 mense Begraven wierden</l>
+					<l>op een Dag in het Boere landt was het zo erg</l>
+					<l>dat men zyn werk niet na behoore konde Doen</l>
+					<l>en De kaes is zo afgeloopen Door Den oorlog</l>
+					<l>in het Generael in De herfst van 15 op 10 en 9</l>
+					<l>en 8 Gulden maer het zaedt was heel Duur</l>
+					<l>De Garst De rees van 3 Guld op 4½. De Rog op</l>
+					<l>6 Guld, De Boone op 4 en 5 Guld De haver op 3½</l>
+					<l>Guld de tarw op 7½ Guld en De magere en vette</l>
+					<l>koeijen oneijndig Duur en vette Verkens 3½</l>
+					<l>Stuijver het Pondt Dat men Gaf magere bigge</l>
+					<l>voor 8 en 10 Guld Den <datum datum='1794-12-10'>10 Desember</datum> is het begonne</l>
+					<l>te vriesen en heeft geduurt aen Den <datum datum='1795-02-10'>10 februarij</datum></l>
+					<l>toe en Dat zo Sterk Dat mense van 70 jaer Getuyge</l>
+					<l>het zo niet hebbe beleeft. Datter veele mense</l>
+					<l>zijn Doot Gevrooren en hande en voeten en nuese</l>
+					<l>Gevrooren en veel Snee is gevalle nu Dan <datum datum='1795-xx-xx'>1795</datum></l>
+					<l>Begon te Dooyen <datum datum='1795-02-11'>11 febrarij</datum> zoo Sterk en</l>
+					<l>besonder Ziet na Boven.</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l><datum datum='1795-01-20'>1795 Den 20 Januhry</datum> zyn De franse uytert</l>
+					<l>In Getreeden zonder Slag of Stoot maar met</l>
+					<l>Groote triumfe Ingehaelt en <locatie>amsterdam</locatie> <datum datum='1795-01-22'>Den 22</datum></l>
+					<l>Zoo Dat onse 5 provinse hebbe De franse en patriot</l>
+					<l>met een Groote  triumpfe ingehaelt en De vlaggen</l>
+					<l>op de toorns zijn Geset en De boome van vrijhijt</l>
+					<l>Zijn Geplant Zoo Dat Den <datum datum='1795-02-09'>9 februarij</datum> De placaete</l>
+					<l>Van vryhyt en Regte Der ingeseetene zyn</l>
+					<l>afgeleesen met Luijen van klokke en trom</l>
+					<l>Geslag en trompette Gespuel te oosterblokker</l>
+					<l>in De Groote kerk tot aen hoor Van alle De</l>
+					<l>ingeseetene Borgers Waer mede De Rooms</l>
+					<l>Gesintheden zijn mede veel bevoordeelt in haer</l>
+					<l>Rechte maer echter wij in Gesetene Zyn Gelastigt</l>
+					<l>met meedetere franse en Dragonders</l>
+					<l>Zoo Steede als Dorpen hier aen <locatie>De Straetweg</locatie></l>
+					<l>ook <locatie>Binnewysent</locatie> omse De kost te Geeven</l>
+					<l>Den <datum datum='1795-02-22'>22 february</datum> is De Regeering <datum datum='1795-xx-xx'>1795</datum></l>
+					<l>Door 2 Commissarisse Verandert</l>
+					<l>Waer Door ik als Representant</l>
+					<l>Verkoose Ben en Den <datum datum='1795-02-27'>27 Dito</datum> het</l>
+					<l>Stadhuys De intreed heb Gedaan</l>
+					<l>En dus Voor dat Jaar tot Scheepen Voor de regtbank</l>
+					<l>Zyn Verkoozen Den <datum datum='1796-12-29'>29 december 1796</datum> ben ik tot</l>
+					<l><persoonsnaam>prezedent Van binnewyzent</persoonsnaam> Verkoozen</l>
+					<l>En dus tot Schout Civiel voor de 4 dorpen</l>
+					<l>Den <datum datum='1797-01-24'>24 Januarij 1797</datum> heb ik als schout de eerste</l>
+					<l>Regtdag op het Stadshuijs geinployeert</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>Dit Jaar van <datum datum='1795-xx-xx'>1795</datum> hebbe Wij Hier Zo Een Duure tyt</l>
+					<l>Gehadt als Dat oude mense Daar Geen Heugenschip Van</l>
+					<l>hebbe Want Een Broot Van 12 lb. kosten 28 Stuyv:</l>
+					<l>een hoornszak rog koste 11½ Guld: een Dito Zak tarw</l>
+					<l>13 Guld dito Urte 17 Guld. Dito Garst 6 Guld. Dito Boone 6½ Gld.</l>
+					<l>Dito haver 4 Guld. een Zakje Grutte meel 21 G een taak Gort 54 St.</l>
+					<l>een ton vreese Aardappele 5½ Guld. De Boter een half kop 12 St.</l>
+					<l>De Stroop 5 St. het lb. het Spek Levendege Varkens 5 Stuijv.</l>
+					<l>het vette vlys 6 Stuijv. maar De kaas Goedt koop want Die kon</l>
+					<l>niet Verzonden worden Door Den Oorlog</l>
+					<l>maar, is op een hersft Zo Duur nog Geworden Dat men se</l>
+					<l>Verkogt voor 15 en 16 Guld. Deeze zomer hebbe wy hier zoo een</l>
+					<l>Drooge zomer Gehadt als oude mense het zo niet hebbe beleeft</l>
+					<l>tot aan <datum datum='1796-xx-xx'>1796 </datum>toe maar toen wat water in De Sloote hebbe</l>
+					<l>Gekregen <datum datum='1796-xx-xx'>1796 </datum>hebbe Wy hier zoo een Gewenste Winter Gehadt</l>
+					<l>als Dat Verschijde Boere haar Jonge vee hebbe Laate Loopen</l>
+					<l>De Gantsche winter Die hooy kaas wort hier tans verkogt</l>
+					<l>voor 16 en 19 Guld de burger Wapen handel is hier begonne</l>
+					<l>in Deze 4 Dorpen Den <datum datum='1796-04-07'>7 april </datum>Wy hebben Van deze Zomer</l>
+					<l>hier Zo Een Gewenste Zomer Gehadt van hooy en Gras</l>
+					<l>En Zaat Gewas als men Zelden hebben beleeft</l>
+					<l>en Dus kaas en Boter heel Duur NB De kaas</l>
+					<l>is Gerezen tot 20 Guld De Groote en 19 klyne kaase</l>
+					<l>Dit Jaar is aan de roomse Vry Gelaaten De verponding</l>
+					<l>Van haar kerke</l>
+					<l>het Zaat is Zoo Gedaalt Dat men de rogge kogt</l>
+					<l>Voor 3½ Guld. de garst 2½ Guld: de haver 1½ de boone 3@</l>
+					<l>De tarw 5½ Guld. de urte 7 Guld: De aardappellen 1½</l>
+					<l>maar boter 8 Stuyv het half kop maar de kaas</l>
+					<l>blijft duur.</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><datum datum='1797-xx-xx'>1797 </datum>hebben wy hier in ons noort holland Een</l>
+					<l>Gewenste Zoomer van Gewas En verders Gelding van</l>
+					<l>De kaas Gehadt maar in het najaar Wat Gedaalt,</l>
+					<l>Zij heeft gegouwen 15-16 -17 ,, 18-19 Guld maar 18 Gedaalt</l>
+					<l>op 14 - 13 en 12 Guld: my koeyen hebben Van dit Jaar</l>
+					<l>Gegeven aan Zuiver kaas 499 lb., dus hebben 22 koeye</l>
+					<l>in zijn Geheel montant bedraagende Ƒ 5988</l>
+					<l>Waar Van de prys is Geweest het hondert lb.</l>
+					<l>15 Guld. ende 15 Stuyvers bedraagende 943-4 t stuk 78-12-4</l>
+					<l>item het Zaat is Goede koop en Onruyeus</l>
+					<l>Van Prys Dit Jaar is daar Geen bezonderheeden</l>
+					<l>Voorgevallen is het alsoo in de Oude Stant gebleve</l>
+					<l><datum datum='1798-xx-xx'>1798</datum></l>
+					<l>Dito Dit Jaar heb ik wel twee ryze Na <locatie>den</locatie></l>
+					<l><locatie>haage</locatie> Gedaan en teffens ook na <locatie>rotterdam</locatie></l>
+					<l>Geweest - met verponding Voor het Dorpe van</l>
+					<l><locatie>B Wyzent</locatie> - <locatie>oosterblokker </locatie>en <locatie>Westerblokker</locatie></l>
+					<l>terwyl heb ik ook het vreugde feest mede</l>
+					<l>in <locatie>den haage</locatie> by Gewoont over het aan neemen</l>
+					<l>Van de Consituie En is Geweest Den <datum datum='1797-05-19'>19 May</datum></l>
+					<l>Dezes Jaars Wy hebben van dit Jaar Zomtyds</l>
+					<l>in <locatie>den haag</locatie> wel Eens eenen omwenteling</l>
+					<l>van Die bestuurders Gehadt Welke is de</l>
+					<l>Eerst Geweest <datum datum='1797-01-22'>22 January</datum> En de tweede</l>
+					<l><datum datum='1797-06-12'>12 Juny</datum> Laast Leden heden werkt men Sterk</l>
+					<l>over de kerk over De Goedere maar nog niets</l>
+					<l>Gevordert Was! Volgens De Staatsregeling De meerderhyt</l>
+					<l>Der Zielen Die voorkeus hebben moesten</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>Men hebben Van deze Zomer Een Zeer vrugtbaar</l>
+					<l>Jaar Gehad En de kaas heeft ordentelijk Gegouwen</l>
+					<l>maar de koeyen En Schaapen En Varkens Goedekoop</l>
+					<l><datum datum='1798-xx-xx'>1798 </datum>het is Van dit Jaar <datum datum='1798-12-06'>Den 6 December</datum> begonnen te vriese</l>
+					<l><datum datum='1799-xx-xx'>1799</datum> </l>
+					<l>En dat Zoo Stren als mense het haast zo Niet hebben</l>
+					<l>beleeft, Want in de karsdaagen het Zo kout Was</l>
+					<l>Dat Daar reyzende Zoldaten op Schildwagt Doot</l>
+					<l>Gevrooren Zynd en arme mense op haar bed doot</l>
+					<l>Gevonden Zyn En men ook Sterk over het ys reed</l>
+					<l>met Schaaze en Narrezleeden. En dus daar verschyde</l>
+					<l>Silvere Sweepe zyn@ Gehaald Ya men Zag de Luyde</l>
+					<l>Ryden met hooy En Stro Waagens over het ys</l>
+					<l>Ja Zelfs heeft den <persoonsnaam>burger klaas</persoonsnaam> Es Zyn twee</l>
+					<l>mis scharns over het ys uytgereeden</l>
+					<l>Woonende tot <locatie>oosterblokker </locatie>En ik met myn </l>
+					<l>Eygen oogen hebben Gezien En wy hebben dus</l>
+					<l>ook in de maandt <datum datum='1799-02-xx'>february </datum>En maart veel Sneeuw</l>
+					<l>Gehad Den <datum datum='1799-03-10'>10 Maart</datum> is het begonnen de dooyen</l>
+					<l>En hebben Dus heel Gelukkig wiest met het ys van</l>
+					<l>Dyken En dammen maar aan de rynkant van de</l>
+					<l>overstrooming Der rivieren Namentlyk <locatie>Gelderland</locatie></l>
+					<l>Daar is Een onnoemlyk Schade Geschied in vee</l>
+					<l>En huyzing En byna 1000 mensche verdronken</l>
+					<l>Zoo Dat in ons <locatie>holland </locatie>of by na in alle de Provincien</l>
+					<l>is Gekollecteert tot onderstand van de armoede</l>
+					<l>Den<datum datum='1799-03-28'> 28 maart</datum> is het wederom begonnen te vriezen</l>
+					<l>En dat Zoo Stark als dat de Jaagschuyten En veer</l>
+					<l>Scheepen moesten blyven Leggen Ende ik Zelfs in</l>
+					<l>Eygen Perzoon Den<datum datum='1799-04-06'> 6 april</datum> De houter vaart ben</l>
+					<l>op Schaaze Langs Gereden, Waar door Een groote</l>
+					<l>Schaarste En duurte in hooy En Stro kwam</l>
+					<l>met myn Eygen oogen Gezien hebbende Dat tot <locatie>hoorn</locatie></l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>Een Duyzend lb. Hooy Den <datum datum='1799-05-01'>1. may</datum> verkogt voor 36 guld</l>
+					<l>Ende Een Waagen Stro voor 18 Guld. koomende</l>
+					<l>byde Gaader uyt <locatie>vriesland </locatie>zy hebben Gezegt</l>
+					<l>Dat het verkogt is op het Laast voor 40 en 50 Guld.</l>
+					<l>also Dat het Door de Schraalte hiel Schaars</l>
+					<l>Wordende, Van dit Jaar heb ik myn koeyen</l>
+					<l>Den<datum datum='1799-05-22'> 22 May </datum>in het Lant Gezet en dat Nog in het</l>
+					<l>hooyland En <persoonsnaam>dirk Stam</persoonsnaam> den <datum datum='1799-05-31'>31 dito</datum> En dus die</l>
+					<l>was die Laaste in ons dorp van <locatie>B Wijzent</locatie></l>
+					<l>Van dit Jaar was myn Winter Zaat allemaal</l>
+					<l>Weg Gevrooren en van het Waater verdronken</l>
+					<l>Zoo dat ik Nog den <datum datum='1799-05-04'>4 May</datum> heb boone Gezaayt</l>
+					<l>En den <datum datum='1799-06-11'>11 Juny</datum> Nog Zoomer koorn hebbe gezaayt</l>
+					<l>het is heeden <datum datum='1799-06-31'>31 Juny</datum> En men kan</l>
+					<l>Nog Geen Zints maayen Want veel koeyen</l>
+					<l>hebben Nog het hooyland van nooden</l>
+					<l>Den <datum datum='1799-06-18'>18 Juny </datum>heb ik Voor de Eerste maal met kaas</l>
+					<l>Na <locatie>hoorn </locatie>Gewe Weest 15 3/4</l>
+					<l>Guld.</l>
+					<l>790 lb. - 12 b - 1.</l>
+					<l>Den <datum datum='1799-08-14'>14 August </datum>voor d twed</l>
+					<l>keer na <locatie>inckhuyzen </locatie></l>
+					<l>13½  553 lb. - 75 - 14</l>
+					<l><datum datum='1799-09-05'>5 Zeptember</datum> na <locatie>hoorn</locatie></l>
+					<l>13 5/8  645 lb. - 84 - 18</l>
+					<l><datum datum='1799-09-26'>26 dito </datum>Na <locatie>hoorn</locatie>.</l>
+					<l>12 - 10 - 440 lb. - 55  @</l>
+					<l><datum datum='1799-10-03'>3 october </datum>Na <locatie>hoorn</locatie></l>
+					<l>11 - 10 - 450 lb.  </l>
+					<l><datum datum='1799-10-24'>24 Dito</datum> N <locatie>hoorn</locatie></l>
+					<l>54 - 11</l>
+					<l>2848 lb.  396 - 4</l>
+					<l><datum datum='1799-11-22'>22 November</datum> Na <locatie>enkhuyzen</locatie></l>
+					<l>465 lb.</l>
+					<l>60 -</l>
+					<l>530 lb.</l>
+					<l>73 - 0</l>
+					<l><datum datum='1799-xx-xx'>1799 </datum>Na de merckt aan kaas verk</l>
+					<l>3843 lb. - 529 - </l>
+					<l>4</l>
+					<l>Dus van 12 koeyen Ƒ 2320</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>De <persoonsnaam>Commedant Deish</persoonsnaam> Der bataafsche Vloot </l>
+					<l>Gecommuniceert hebbende aan het uytvoerende bewindt</l>
+					<l>alsdat hy Gezien hadden tussen 340 en 350 Zoo twee als drie</l>
+					<l>Masten Engelsche vyandelyke Scheepen en dat door dezelve</l>
+					<l>Commedant van de Engelche vloot <persoonsnaam>admeraal duncan</persoonsnaam></l>
+					<l>Was Gesommeerd om hem als admiraal over te Geven</l>
+					<l>En daar door hum Zelve aan den dag te Leggen hun Wittig</l>
+					<l><persoonsnaam>Zouveryn frans Willem De vyfde</persoonsnaam> onder pretekst</l>
+					<l>Dat Daar anders Een Landing met ruym 20000 Duyzent</l>
+					<l>man op <locatie>De helder</locatie> Zoud Geëflueerdt Zyn.</l>
+					<l>En dus Van de hollanders is Gewygert</l>
+					<l>alzo op den <datum datum='1799-08-27'>27 august </datum>ten half 4 uuren D Engelche</l>
+					<l>begonnen te Schieten onder Een hevig Vuur bij <locatie>calantsoog</locatie></l>
+					<l>tussen D&apos;Groote En Klyne hieten Geland Zyn.</l>
+					<l>Dog </l>
+					<l>De hollanders mit een hart Gevegt Zig op <locatie>de helder</locatie></l>
+					<l>hebben Gekeert En dus volgens schryven van de krant</l>
+					<l>De hollanders hebben verlooren 1100 man En 200 Gekwe###</l>
+					<l>maar Van de Engelsche vind men in de krant Nog niet</l>
+					<l>heeden <datum datum='1799-09-19'>19 Zeptember </datum>is de Stad hoorn van 8000 man</l>
+					<l>zo men zyt</l>
+					<l>Engelsche troepen bezet aankoomende by de<locatie> noorder</locatie></l>
+					<l><locatie>poort</locatie> En dus De Stad hebben opgeyst En wy maar</l>
+					<l>150 man in de onze Stad hadden en alzo is beslooten</l>
+					<l>met de raad der Gemeenten en de Commedant haar niet</l>
+					<l>konde verdedigen die stad over te Geven. </l>
+					<l>maar door vrees van de franse troepen den <datum datum='1799-09-20'>20 deezer</datum></l>
+					<l>Wederom zyn geruytereerd En binnen De <locatie>noorderpoort</locatie></l>
+					<l>Wederom gemaszeert Niet Weder Gekeert En Waar gebleve</l>
+					<l>en Wy in <locatie>B Wyzent</locatie> En <locatie>West Woud</locatie> Zyn geprest met 20 Wagen</l>
+					<l>om broot En Jan Ever te vervoeren maar ook Niet</l>
+					<l>Wetende waar na toe. En dus myn beste Paard is mede</l>
+					<l>Gegaan waardoor verschyden burgers door Schade</l>
+					<l>hebben Geleden<persoonsnaam> Jan Jansz K@@@@s</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>Wy hebben hier zo Even tyding Gekregen door het ophouden</l>
+					<l>Der kranten van <datum datum='1799-09-10'>10 Zeptember</datum> Een Zlag geweest van 749 gekwets##</l>
+					<l>En 97 dooden En eenige offizieren Gekwest en 375 vermist</l>
+					<l>En dus Wederom in den oude tryn Zyn gebleven</l>
+					<l>heden <datum datum='1799-09-29'>29 Zeptember</datum> wederom Gevogten en volgens de krante</l>
+					<l>Een Groote overwinning hebben behaalt Want den generaal</l>
+					<l>Daandels Schryft om 70 Paarden om die over wonnen</l>
+					<l>Stukken kanon na haarlem te vervoeren en dito</l>
+					<l>70 Waagens bespannen met 2 paarden heden 2000.</l>
+					<l>op het Slag veld veroverd en dito 2000 dooden altemaal</l>
+					<l>russische troepen, op den 22 dezer hebbense tot </l>
+					<l><locatie>inckhuyzen</locatie> De Engelsche troepen van de Schepen</l>
+					<l>ingehaalt maar de Engelsche dorste haar van </l>
+					<l>De Schepen met attaqueeren door de franse die op</l>
+					<l>komst Waaren Want Zy hielden Wagt op de <locatie>Zuyderdyk</locatie></l>
+					<l>het is heeden hier heel onrustig en onvylig</l>
+					<l>Door het orange Party</l>
+					<l>Nota beene <datum datum='1799-10-06'>6 october</datum> Wy hebben heden weder om Een</l>
+					<l>Swaaren Een Gevegt Zo als men zydt - Zo als men het</l>
+					<l>haast Noyt beleeft. Zo dat de franse <locatie>alkmaar </locatie>hebben</l>
+					<l>verlaaten En die vlaggen wederom Zyn op die toorns</l>
+					<l>Gekoomen. <datum datum='1799-10-08'>8 october</datum> wederom Weder vegregt</l>
+					<l>ik moet volgens myn Eygen Gehoor Srjven</l>
+					<l>als dat Zy alle daagen gedurig binnen aan</l>
+					<l>het vegten met Swaar kanon En dus wy op den</l>
+					<l><datum datum='1799-10-08'>8 october</datum> wederom Voor die tweede keer na</l>
+					<l><locatie>hoorn </locatie>met Waagen En paarden Zyn Van de Engelsch</l>
+					<l><hi rend='strikethrough:true;'>zyn</hi> Geprest En niet Wetende Waar Na toe En ik de</l>
+					<l>Eerste Was in die Stad En dus bevond dat de Engelsch</l>
+					<l>Waaren vertrokken ik de Waagen omkeerde na huys</l>
+					<l>en die andere Wederom stuurde En Waaren voor die hier vry</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>heden <datum datum='1799-10-18'>18 october 1799</datum> is de Capitulatie geslooten</l>
+					<l>tot <locatie>alkmaar</locatie> = <persoonsnaam>rostoland. generaal </persoonsnaam>de brigade</l>
+					<l>Knox <persoonsnaam>Generaal Mayor = frederik hertog van Jork</persoonsnaam></l>
+					<l>Gecombineerde arme van zyne britsche mayestiet</l>
+					<l>En den keyzer Van <locatie>rusland</locatie> als gevolmagtigt Getekent</l>
+					<l>Verder Stondt Geapprobeerd door den generaal En Chef</l>
+					<l>Der fransche En bataafsche armeen</l>
+					<l>Getekent <locatie>Brune </locatie>voor Copie Conform het orgenele</l>
+					<l>Den <datum datum='1799-12-22'>22 December</datum> heb ik Van dit Jaar Nog</l>
+					<l>maayen en Sweelen Gezien tussen <locatie>Eerswoud </locatie>En</l>
+					<l>Klorsen Want ik toen by dyk om Na <locatie>Schaagen</locatie></l>
+					<l>hebben Geweest om onse agter gebleven rytuygen</l>
+					<l>Want met dien requizietie van Engelsche en bataase</l>
+					<l>Wy van B.W. in Eenen Schuld Van 1600 Guld:</l>
+					<l>zyn Gedompelt Door weggebleven rytuygen</l>
+					<l>En Paarden En Voerlieden Daar aan betaalt.</l>
+					<l>NB Van <datum datum='1799-xx-xx'>dit Jaar</datum> hebben wy hier Zoo Een Schraale</l>
+					<l>Zoomer Gehad Dat my maar half hooy Gewas</l>
+					<l>hebben Geteelt En dus Van de herfst de koeyen</l>
+					<l>Niet Waaren te verkoopen. En veel beesten zyn doot geslage</l>
+					<l>Ja ik heb zelf de Waagen Stroo verkogt Van dit Jaar</l>
+					<l>Voor 30 Guld. het Welk Zyn oorspronk door de</l>
+					<l>Schaarte Van Voragie veroorzaakte</l>
+					<l>En Eetbaar Waare Zynde heel Duur het 6 lb. broot</l>
+					<l>Gelde <hi rend='strikethrough:true;'>Een</hi> ½ Guld. Een half kop boter 12 Stuijvers</l>
+					<l>Een Zak aardappelen gou 36 Stuyv. Een Zakye</l>
+					<l>Grutten meel gou 52 Stuyv. Een taak Gort gou</l>
+					<l>2 Guld. - Dus Wy hier by ons Een Groote Schaade</l>
+					<l>Door den oorlog hebben geleden maar daar Zy aan</l>
+					<l>Den Slag hebben Geweest is de Schaade nog Wat grooter</l>
+					<l>in geestmer ambagt - En <locatie>Schaagen </locatie><locatie>Niedorp </locatie><locatie>Coggen</locatie></l>
+					<l>Die plaatze heb ik mit myn Eygen oogen bezien</l>
+					<l>maar met betruurde tonsel des gesigst</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>ik En kan Niet Na laaten om hier Nog iets Van</l>
+					<l>te Schryven het Welk myn Eygen oogen hebben gezien</l>
+					<l>Die Geheelen duyn kant: van <locatie>kalansoog </locatie>tot aan <locatie>alkmaar</locatie></l>
+					<l>is haast vernieldt <locatie>Crabbendam </locatie>is geheel verbrant</l>
+					<l><locatie>Schoorl </locatie><locatie>Bergen</locatie> ook Wat verbrant <locatie>Langedyk </locatie>En de</l>
+					<l><locatie>Beemster </locatie>Ja Zelfs hebben De Engelsche hier En Elders</l>
+					<l>Nog Brant Gestigt toen Zy Zaagen Dat Zy moesten</l>
+					<l>Ruyterieren En hebben dat Schoone Nieuwe magazyn</l>
+					<l>met veele goederen daar om tot <locatie>medemblik </locatie>verbrant</l>
+					<l>het Wek aan Schaade op Een milioen wierd begroot</l>
+					<l>alzo tot <locatie>Enckhuyzen </locatie>ook op verscheyde Plaatze is</l>
+					<l>ondernomen maar Door Gods Zegen haar niet is</l>
+					<l>Gelukt.</l>
+					<l>Dan kan ik Schryven Van die dorpen Van <locatie>Purmerend</locatie></l>
+					<l>af tot aan <locatie>de helder</locatie> toe Voor Eeerst heb ik de</l>
+					<l>Waart onder Waater Zien Staan En <locatie>de Zyp</locatie> ook by</l>
+					<l>Na Doorgestooken maar die huyzen in <locatie>de Zyp</locatie> Zyn</l>
+					<l>Deerlyk Mishandelt En die burgers uytgeplundert</l>
+					<l><locatie>Schagen </locatie>En Slik van dezelve Daar heb ik den <datum datum='1799-12-23'>23 decembe#</datum></l>
+					<l>Nog Zaat Zien tuys haalen Ja ik moet Zeggen ik heb</l>
+					<l>Daar<datum datum='1799-12-01'> Den Eersten december</datum> ook Geweest</l>
+					<l>En toen Daar Nog beezig aan zaatgewas Waaren doend</l>
+					<l>Even En al Eens of het in den oogst Van maayen Wierd</l>
+					<l>tot <locatie>S Maarten</locatie> en<locatie> S Maarten Breg</locatie> heb ik het ook bezien</l>
+					<l>Waar Van die huyzen Wel haast Zyn Geruinneert En met</l>
+					<l>koogels door geschooten En ook Eenige verbrant.</l>
+					<l>Dan heb ik Geweest tot <locatie>Bergen </locatie>Daar heb ik het</l>
+					<l>zeer Droevig bevonden De roomsche kerk verplettert</l>
+					<l>ik meenden Daar by de Castelyn te Lozeeren maar</l>
+					<l>moeste Zavonts Nog by donker Na <locatie>alkmaar </locatie>om rede#</l>
+					<l>Dat ik moest des andere daags ook misse hooren</l>
+					<l>Waar Van ik Zavonts met de kastelyn Zyn Zoon</l>
+					<l>zyn <locatie>bergen </locatie>uytgeloopen En ik Nog over Een been</l>
+					<l>Van Een rusman zyn gevallen Dien nog boven de aarde</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>hier zet ik myn kinderen by malkanderen</l>
+					<l>Dien ik hebbe over Wonnen met myn n vrouw</l>
+					<l><persoonsnaam>Antye Yansz koedooder</persoonsnaam></l>
+					<l>Den <datum datum='1786-09-26'>26 September 1786</datum> is gebooren <persoonsnaam>Tryntje Jansz Karsten</persoonsnaam></l>
+					<l>op donderdag Smorgens 5 uren. En heeft haar Eerste</l>
+					<l>Communie Gedaan by <persoonsnaam>Jacobus Coeleman</persoonsnaam> tot <locatie>Westwoudt</locatie></l>
+					<l>Den <datum datum='1799-05-31'>31 Maij 1799</datum> En is Getrouwt <datum datum='1804-04-22'>22 april 1804</datum></l>
+					<l>Den<datum datum='1790-02-03'> 3 februarij 1790</datum> is gebooren<persoonsnaam> Marytje Jansz Karsten</persoonsnaam></l>
+					<l>op Woensdag Smorgens om 5 Uuren. En heeft haar Eerste</l>
+					<l>Communie Gedaan bij <persoonsnaam>Jacobus Coeleman</persoonsnaam> tot <locatie>Westwoudt</locatie></l>
+					<l>2 weeke voor pysile is marytje ge Den<datum datum='1803-04-17'> 17 april 1803</datum> belooke paa@</l>
+					<l>op den <datum datum='1791-07-29'>29 July 1791</datum></l>
+					<l>trouwt</l>
+					<l>is gebooren <persoonsnaam>Jannetje Jansz Karsten</persoonsnaam></l>
+					<l>op vrydag smorgens, om 2 Uuren. En heeft haar eerste</l>
+					<l>Communie Gedaan by<persoonsnaam> Jacobus Coeleman</persoonsnaam> <datum datum='1805-04-21'>21 April 1805</datum></l>
+					<l>belooke paas</l>
+					<l>en is Getrouwt <datum datum='1815-04-22'>22 april 1815</datum></l>
+					<l>Den <datum datum='1793-08-30'>30 August 1793</datum> is Gebooren <persoonsnaam>Jan Jansz Karsten</persoonsnaam></l>
+					<l>op vrydag smorgens om 6 Uuren. En heeft zyn Eersten</l>
+					<l>Communie Gedaan by <persoonsnaam>Jacobus Coeleman</persoonsnaam> <datum datum='1807-04-05'>5 april 1807</datum></l>
+					<l>Den <datum datum='1807-02-06'>6 february 1807</datum> is hy getrout@ belooken paasche</l>
+					<l>Den <datum datum='1795-12-29'>29 December 1795</datum> is gebooren <persoonsnaam>Ziemon Jansz Karsten</persoonsnaam></l>
+					<l>Op dingsdag Smorgens om 2 Uuren En heeft zyn Eerste</l>
+					<l>Communi Gedaan by <persoonsnaam>Jan Van Der Stoot</persoonsnaam> op<datum datum='1808-05-22'> zondag Den 22 m@#</datum></l>
+					<l><datum datum='1808-05-22'>anno 1808 </datum>in De kerk te <locatie>blokker</locatie>.</l>
+					<l>Den <datum datum='1797-06-08'>8 Juny 1797</datum> is Gebooren <persoonsnaam>Pieter Jansz Karsten</persoonsnaam></l>
+					<l>op donderdag Smorgens om 5 uuren En heeft zyn eerste</l>
+					<l>commune Gedaan bij<persoonsnaam> Jacobes Coeleman</persoonsnaam> <datum datum='1809-04-21'>21 april 1809</datum></l>
+					<l>belooken paas</l>
+					<l>Den <datum datum='1799-10-24'>24 october 1799</datum> is gebooren<persoonsnaam> Jacob Jansz Karsten</persoonsnaam></l>
+					<l>op donderdag smorgens om 3 uuren</l>
+					<l>En heeft zyn<datum datum='1814-05-01'> Eerste</datum></l>
+					<l><datum datum='1814-05-01'>mei 1814</datum></l>
+					<l>@ weke voor</l>
+					<l>karstyt</l>
+					<l>Communi gedaan</l>
+					<l>Den <datum datum='xxxx-12-18'>18 December</datum> is Gebooren <persoonsnaam>Dirk Jansz Karsten</persoonsnaam></l>
+					<l>op Sondag Savonts 7 uuren En 6 uuren Daarna Gestorv## </l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>In het jaar <datum datum='1808-xx-xx'>1808 </datum>heb ik myn vaader verlooren</l>
+					<l>die<datum datum='1808-03-02'> 2 maart</datum> tussen zaater en zundags snags </l>
+					<l>om elf uure 14 daage had hy omklaar geweest</l>
+					<l>in een harde koors stieken bleeven...</l>
+					<l><hi rend='strikethrough:true;'>Jantje</hi></l>
+					<l><hi rend='strikethrough:true;'>Janst</hi></l>
+					<l><hi rend='strikethrough:true;'>in het jaar 1809 is</hi></l>
+					<l><persoonsnaam>Jantye</persoonsnaam></l>
+					<l><persoonsnaam>Jans Kasten </persoonsnaam>is ooverleeden den<datum datum='1819-11-25'> 25 noovemb##</datum></l>
+					<l><datum datum='1819-11-25'>out 28</datum></l>
+					<l><datum datum='1819-11-25'>Jaare / in het Jaar 1819.</datum></l>
+					<l>in het Jaar  onse heere heb ik myn Vader 3</l>
+					<l>Verlooren <datum datum='1808-xx-xx'>1808 </datum>en heeft dertien daagen ziek</l>
+					<l>geleegen en is in een swaare koors gebleeven.</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>

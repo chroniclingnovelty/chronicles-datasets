@@ -1,0 +1,1418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1721_Antw_Anon - Antwerpsche Kronijk, 1685-1721</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>Gekocht in de veiling<persoonsnaam> v. d. Straelen-Moons van Lerius</persoonsnaam></l>
+					<l>voor fr. 8,00</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1685-xx-xx'><hi rend='underlined:true;'>1685</hi></datum></l>
+					<l><datum datum='1685-03-17' when='1685-03-17'>17 Meert</datum> is <persoonsnaam>Peeter Vortstocken </persoonsnaam>overleden</l>
+					<l><datum datum='1685-06-01' when='1685-06-01'>1 junij </datum>is <persoonsnaam>Jan Lichielsens</persoonsnaam> gestorven</l>
+					<l><datum datum='1686-02-12' when='1686-02-12'><hi rend='underlined:true;'>1686</hi></datum></l>
+					<l><datum datum='1686-02-12' when='1686-02-12'>12 Februarij </datum>is <persoonsnaam>Jan Carel Soolmaekers brouwer </persoonsnaam>ge¬</l>
+					<l>worden in de Belle</l>
+					<l><datum datum='1686-07-03' when='1686-07-03'>3 julij </datum>is <persoonsnaam>Peeter Schyvers </persoonsnaam>overleden.</l>
+					<l><datum datum='1687-04-10' when='1687-04-10'><hi rend='underlined:true;'>1687</hi></datum></l>
+					<l><datum datum='1687-04-10' when='1687-04-10'>10 April</datum> is <persoonsnaam>Francisco Du Prè brouwer </persoonsnaam>geworden</l>
+					<l>in<locatie> &apos;t Claverenblad</locatie></l>
+					<l><datum datum='1687-08-09' when='1687-08-09'>9 augusti</datum> is <persoonsnaam>Carel de Wilde brouwer</persoonsnaam> geworden in <locatie>&apos;t</locatie></l>
+					<l><locatie>Sweert.</locatie></l>
+					<l><datum datum='1689-xx-xx'><hi rend='underlined:true;'>1689</hi></datum></l>
+					<l>is <persoonsnaam>Niclaes Willemsens Segelaer</persoonsnaam> geworden.</l>
+					<l><datum datum='1689-06-11' when='1689-06-11'>11 junij </datum>is <persoonsnaam>Mattheus Promme brouwer</persoonsnaam> geworden uiy</l>
+					<l>Cruys</l>
+					<l><datum datum='1695-08-xx' when='1695-08-xx'><hi rend='underlined:true;'>1695</hi></datum></l>
+					<l><datum datum='1695-08-xx' when='1695-08-xx'>in augusti</datum> is <locatie>Naemen</locatie> overgegaen aenden <persoonsnaam>Hertogh</persoonsnaam></l>
+					<l><persoonsnaam>van Beyeren</persoonsnaam>.</l>
+					<l><datum datum='1695-08-02' when='1695-08-02'>2 ditto</datum> is<persoonsnaam> jan eduwaert vander Meiren brouwer</persoonsnaam></l>
+					<l>geworden in de Clock.</l>
+					<l><datum datum='1695-08-15' when='1695-08-15'>15 ditto </datum>is de stad <locatie>brussel </locatie>gebombardeert</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l><pagenumber>2</pagenumber></l>
+					<l><datum datum='1695-xx-xx'>1695</datum></l>
+					<l>in <datum datum='1695-12-xx' when='1695-12-xx'>December</datum> heeft heer<persoonsnaam> gregorius Cuylen</persoonsnaam> possessie</l>
+					<l>genomen als collecteur.</l>
+					<l><datum datum='1696-xx-xx'><hi rend='underlined:true;'>1696.</hi></datum></l>
+					<l>in <datum datum='1696-04-xx' when='1696-04-xx'>April</datum> is <persoonsnaam>Peeter Clusinx  brouwer </persoonsnaam>geworden in<locatie> S<hi rend='superscript:true;'>t</hi> jan.</locatie></l>
+					<l><datum datum='1696-08-02' when='1696-08-02'>2 augusti</datum> is <persoonsnaam>cosmas Gillot brouwer</persoonsnaam> geworden in<locatie>de Snoeken</locatie></l>
+					<l><datum datum='1697-03-21' when='1697-03-21'><hi rend='underlined:true;'>1697</hi></datum></l>
+					<l><datum datum='1697-03-21' when='1697-03-21'>den 21 Meert</datum> is<persoonsnaam> Jan Wittebol brouwer </persoonsnaam>geworden in <locatie>de</locatie></l>
+					<l><locatie>borrie</locatie></l>
+					<l><datum datum='1698-02-11' when='1698-02-11'><hi rend='underlined:true;'>1698</hi></datum></l>
+					<l><datum datum='1698-02-11' when='1698-02-11'>11 february</datum> is <persoonsnaam>Francisco Pisijn brouwer</persoonsnaam> in<locatie>de Sonne</locatie></l>
+					<l>geworden</l>
+					<l><datum datum='1701-05-27' when='1701-05-27'><hi rend='underlined:true;'>1701</hi></datum></l>
+					<l><datum datum='1701-05-27' when='1701-05-27'>27 Meij</datum> heeft heer <persoonsnaam>Ferminus Bertryn </persoonsnaam>possessie</l>
+					<l>genomen als boekhouder van de bier accyse</l>
+					<l><datum datum='1701-11-14' when='1701-11-14'>14 9bris</datum> heeft men alhier opt comtoir gegonst te</l>
+					<l>collecteren den Schelline a 7 Strs excepte den</l>
+					<l>impost.</l>
+					<l><datum datum='1702-06-09' when='1702-06-09'><hi rend='underlined:true;'>1702</hi></datum></l>
+					<l><datum datum='1702-06-09' when='1702-06-09'>9 junij</datum> heeft men alhier ten Comtoir begonst te</l>
+					<l>collecteren den impost vande buyte bieren gesleten</l>
+					<l>wordende binnen <locatie>brabant</locatie></l>
+					<l>alsook den impost der uytgaende bieren in</l>
+					<l><locatie>Brabant</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1703-06-30' when='1703-06-30'><hi rend='underlined:true;'>1703</hi></datum></l>
+					<l><datum datum='1703-06-30' when='1703-06-30'>den 30 junii</datum> eynde Hollanders geslagen tot <locatie>Eekeren</locatie></l>
+					<l>doorde Spaensche en fransche.</l>
+					<l><datum datum='1704-06-01' when='1704-06-01'><hi rend='underlined:true;'>1704</hi></datum></l>
+					<l><datum datum='1704-06-01' when='1704-06-01'>1 junij</datum> heeft men ten comptoire vande bieraccyse be¬</l>
+					<l>gonst te collecteren den Schellinck a 6½</l>
+					<l><datum datum='1704-06-18' when='1704-06-18'>18 ditto </datum>heeft men wederom den Schellinck tot 7 Ster</l>
+					<l>gecollecteert en d&apos;andere Specien naer advenant</l>
+					<l><datum datum='1704-11-11' when='1704-11-11'>11 9bris </datum>is <persoonsnaam>Melchior More assistent der collecteurs vant</persoonsnaam></l>
+					<l><persoonsnaam>bier accyse</persoonsnaam> gestorven enden Selven daegen heeft <persoonsnaam>Nicolaus</persoonsnaam></l>
+					<l><persoonsnaam>Willemsens in zyne plaetse possessie genomen.</persoonsnaam></l>
+					<l><datum datum='1705-04-25' when='1705-04-25'>1705</datum></l>
+					<l><datum datum='1705-04-25' when='1705-04-25'>25 april</datum> is <persoonsnaam>gaspar van Ysendyk brouwer</persoonsnaam> geworden</l>
+					<l>in<locatie> de Sterre.</locatie></l>
+					<l><datum datum='1706-03-27' when='1706-03-27'>1706</datum></l>
+					<l><datum datum='1706-03-27' when='1706-03-27'>27 Martiiis</datum> Heer <persoonsnaam>Cornelis joseph kuyff collecteur</persoonsnaam></l>
+					<l>der bier accyse overleden</l>
+					<l><datum datum='1706-04-15' when='1706-04-15'>15 april </datum>heeft d&apos; heer<persoonsnaam> joannes baptista Brems </persoonsnaam>in</l>
+					<l><persoonsnaam>heer kuyfs</persoonsnaam> plaetse possessie genomen</l>
+					<l><datum datum='1706-06-07'>7 junij</datum> hebben de geallieerde deser Stad <locatie>antwerpen</locatie></l>
+					<l>possessie genomen en is met eene bataille het land</l>
+					<l>verloren</l>
+					<l><datum datum='1706-12-02'>2 December </datum>is <persoonsnaam>zyne hoogweerdigheyd Reginaldus</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l><persoonsnaam>cools Bisschop van <locatie>Antwerpen</persoonsnaam> </locatie>overleden</l>
+					<l><datum when='1706-04-12'>12 april</datum> is<persoonsnaam> joos Suel brouwer</persoonsnaam> geworden in<locatie> S<hi rend='superscript:true;'>t</hi> jan</locatie></l>
+					<l><datum when='1706-06-30'>30 juny</datum> is <persoonsnaam>jacobus Vanden Bemden collecteur der</persoonsnaam></l>
+					<l><persoonsnaam>bieraccyse </persoonsnaam>geworden</l>
+					<l><datum datum='1707-xx-xx'><hi rend='underlined:true;'>1707</hi></datum></l>
+					<l><datum when='1707-02-21'>21 feb.</datum> is<persoonsnaam> jan baptista cornelissens den jongsten brouwer</persoonsnaam></l>
+					<l>geworden</l>
+					<l><datum when='1707-06-01'>1 junij </datum>is comen te cesseren den ontfanck vande subsidie</l>
+					<l>a 25 Sts de uytgaende bieren</l>
+					<l><datum when='1707-09-27'>27 7ber</datum> is <persoonsnaam>joncker jan Carel de Cordes tresorier generael</persoonsnaam></l>
+					<l>geworden</l>
+					<l><datum datum='1708-xx-xx'><hi rend='underlined:true;'>1708</hi></datum></l>
+					<l><datum when='1708-12-20'>den 20 xbris</datum> is<persoonsnaam> joncker Francisco Paulo Bacheler</persoonsnaam></l>
+					<l><persoonsnaam>zynde billet schryver ophet bieraccyse</persoonsnaam> overleden</l>
+					<l><datum datum='1709-xx-xx'><hi rend='underlined:true;'>1709</hi></datum></l>
+					<l><datum when='1709-01-01'>1 jan<hi rend='superscript:true;'>ry</hi> </datum>is het bier accyse voor de eerste ryse ten</l>
+					<l>9 uren opengedaen</l>
+					<l><datum when='1709-11-25'>25 9bris</datum> is <persoonsnaam>Simon Franciscus Damare brou¬</persoonsnaam></l>
+					<l><persoonsnaam>wer geworden</persoonsnaam> in <locatie>Croonenborgh</locatie>.</l>
+					<l><datum datum='1710-xx-xx'><hi rend='underlined:true;'>1710</hi></datum></l>
+					<l><datum when='1710-02-20'>20 februarij </datum>is heer<persoonsnaam> judocus van Beveren </persoonsnaam>gekomen</l>
+					<l>inde plaetse van <persoonsnaam>joncker Caulo Bacheler,</persoonsnaam> ende</l>
+					<l>gestorven <datum when='1713-11-08'>8 novembris 1713.</datum></l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>Zerk op&apos;t minderbroeders Kerkhof</l>
+					<l>D. D. M.</l>
+					<l><persoonsnaam>Jan Baptista Gillis</persoonsnaam></l>
+					<l><persoonsnaam>Jonghman ende Constigen Beeldtsneyder</persoonsnaam></l>
+					<l>stirf <datum when='1752-03-10'>10 meert 1752</datum></l>
+					<l>R.I.P.</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>Besnydenis Capel op der altaer</l>
+					<l>S P Q A onder de papen</l>
+					<l>lager</l>
+					<l>Deo Homini Circumciso </l>
+					<l>_</l>
+					<l>Erectum <datum when='1721-xx-xx'>1721</datum></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum when='1710-07-19'>19 julij</datum> is <persoonsnaam>Monsieur Petrus Valckx</persoonsnaam> gestorven zynde</l>
+					<l>knaep van de casse</l>
+					<l><datum when='1710-08-13'>13 augusti</datum> heeft <persoonsnaam>Antoni Rottiers </persoonsnaam>possessie genomen</l>
+					<l><datum when='1711-07-14'>1711.</datum></l>
+					<l><datum when='1711-07-14'>14 julij </datum>is <persoonsnaam>Jean Willem friso prince van Nassau dietz</persoonsnaam></l>
+					<l><persoonsnaam>en orangie</persoonsnaam> by <locatie>Moerdyck </locatie>verdronken.</l>
+					<l><datum when='1711-08-07'>7 augustus</datum> heeft <persoonsnaam>Van der Velden</persoonsnaam> <locatie>de brouwery de Croon </locatie>gekogt</l>
+					<l><datum when='1711-09-18'>tusschen 18</datum> en<datum when='1711-09-19'> 19 Sept</datum>. heeft het gebrand Smorgens ten</l>
+					<l>3 uren in de <locatie>Schipstraat </locatie>tot den backer in <locatie>het hofken </locatie></l>
+					<l><locatie>des heeren</locatie></l>
+					<l><datum when='1711-10-03'>den 3 8bris</datum> heeft den heere choordeken depossessie ge¬</l>
+					<l>nomen in de plaetse van den toekomenden bisschop </l>
+					<l>onder het geluyde der groote klock</l>
+					<l><datum when='1711-12-01'>primo december</datum> is <persoonsnaam>Dominicus van Voorn brou¬</persoonsnaam></l>
+					<l><persoonsnaam>wer</persoonsnaam> geworden in<locatie> de Zwaen</locatie></l>
+					<l><datum when='1711-12-10'>10 Xbris</datum> heeft het zeer Sterk gewaeyt dat er veel</l>
+					<l>Schade is geschiet</l>
+					<l><datum when='1711-12-14'>14 dito</datum> is den Eerw: heer <persoonsnaam>Petrus Jos. Franken-</persoonsnaam></l>
+					<l><persoonsnaam>Sierdor</persoonsnaam>f binnen <locatie>Antwerpen </locatie>gekomen</l>
+					<l><datum when='1711-12-17'>17 dito</datum> heeft hy Synen intré gedaan als bisschop</l>
+					<l>Van <locatie>Antwerpen </locatie>waar over men seer treffelyk vierde</l>
+					<l><datum when='1712-03-21'>1712.</datum></l>
+					<l><datum when='1712-03-21'>21 Meert </datum>lagh den Sneeuw op sommige plaets tot de</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l><datum datum='1712-xx-xx'>1712</datum></l>
+					<l>knie dik en het wywater vat in<locatie> S<hi rend='superscript:true;'>t</hi> jacobs kerke</locatie></l>
+					<l>is tot den grond toe uytgevrosen</l>
+					<l><datum datum='1712-07-18' when='1712-07-18'>18 julij </datum>is den eersten steen gelyt van<locatie>de kerk</locatie></l>
+					<l><locatie>van austruweel</locatie> door den Eerw: Heer <persoonsnaam>Baron Van</persoonsnaam></l>
+					<l><persoonsnaam>Wemmel choordeken van Onse Lieve Vrouwe</persoonsnaam></l>
+					<l><persoonsnaam>kerke beneffens de heeren Mynheer Cononick</persoonsnaam></l>
+					<l><persoonsnaam>Vits</persoonsnaam> en den heere <persoonsnaam>Pastor Van Austruweel</persoonsnaam></l>
+					<l>ende den Gouverneur Van de zelve</l>
+					<l>Citadelle</l>
+					<l><datum when='1712-07-15'>15 ditto</datum> is den Lesten broeder gestorven van de</l>
+					<l><locatie>Abdye van S<hi rend='superscript:true;'>t.</hi> Michiels</locatie>. tweten <persoonsnaam>F Judocus Janssens</persoonsnaam>.</l>
+					<l><datum datum='1712-08-01' when='1712-08-01'>1 augusti </datum>is heer <persoonsnaam>jacobus Reyniers</persoonsnaam> dese weireld</l>
+					<l>overleden zynde assistent der heere Boekhouders</l>
+					<l>veurt bier accyse</l>
+					<l><datum datum='1712-08-07' when='1712-08-07'>7 ditto </datum>is den ommeganck van Borgerhout nief</l>
+					<l>gemaekt zynde voor den eersten keer gegaen</l>
+					<l><datum datum='1712-09-25' when='1712-09-25'>25 7bris</datum> hebben de E:E: P:P: Capucienen met</l>
+					<l>eene uytstekende magnificentie geviert de canon¬</l>
+					<l>nizatie van den H: <persoonsnaam>Broeder Felix Van Cantalice</persoonsnaam></l>
+					<l><persoonsnaam>Capucien</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>&apos;S morgens ontrent elf uren geschiede in <locatie>de</locatie></l>
+					<l><locatie>kerke der Voorn Patres</locatie> eene Solemnele misse</l>
+					<l>uit musiek door den doorlugtigsten ende Eerw.</l>
+					<l>Heere <persoonsnaam>Petrus Josephus de Franken Sierdorf</persoonsnaam></l>
+					<l><persoonsnaam>Bisschop Van Antwerpen</persoonsnaam> den Welken voor de</l>
+					<l>eerste reyse het alderheijligste in de processie</l>
+					<l>droeg. &apos;S avonts heeft men ontrent het Clootter</l>
+					<l>seer treffelyk geviert.</l>
+					<l>den <datum datum='1712-10-09' when='1712-10-09'>9 october</datum> hebben de E:E: P:P: Predikheeren</l>
+					<l>met ene uytmuntende magnificentie geviert ende</l>
+					<l>geopent de octave der Canonizatie van den <persoonsnaam>H:</persoonsnaam></l>
+					<l><persoonsnaam>Pius V Paus van <locatie>Roomen</locatie></persoonsnaam> en religieus der ordre</l>
+					<l>van den H: dominicus. de kerke was uyter¬</l>
+					<l>maeten konstig en kostelyk verciert</l>
+					<l>S&apos; avonts heeft men voor het klooster den</l>
+					<l>vuer vogel geschoten en seer treffelyk ge¬</l>
+					<l>viert.</l>
+					<l><datum datum='1712-10-16' when='1712-10-16'>16 8bris</datum> hebben de E:E: P:P: Minderbroeders met</l>
+					<l>groote Solemniteyt geviert de Canonizatie van de H:</l>
+					<l><persoonsnaam>Catharina Van Bononieu</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>knie dik en het wijwater vat in <locatie>St. Jacobs kerke</locatie></l>
+					<l>is tot den grond toe uijtgevrosen</l>
+					<l><datum datum='1712-07-18' when='1712-07-18'>18 julij</datum> is den eersten Steen gelijt van de kerk</l>
+					<l>van <locatie>antruweel</locatie> door den eerw, Heer <persoonsnaam>Baron van</persoonsnaam></l>
+					<l><persoonsnaam>Wemmel</persoonsnaam> choordeken van <locatie>onse Lieve Vrouwe</locatie></l>
+					<l><locatie>kerke</locatie> beneffens de heeren Mijnheer <persoonsnaam>Coroniek</persoonsnaam></l>
+					<l><persoonsnaam>Vils</persoonsnaam> en den heere Pastor van Antruweel</l>
+					<l>ende den Gouverneur van de zelve</l>
+					<l>citadelle</l>
+					<l><datum datum='1712-07-18' when='1712-07-18'>18 ditto</datum> is den lesten broeder gestorven van de</l>
+					<l><locatie>Abdije van S<hi rend='superscript:true;'>t</hi> Michiels</locatie>. teweten <persoonsnaam>F Judocus Janssens</persoonsnaam>.</l>
+					<l><datum datum='1712-08-01' when='1712-08-01'>1 augusti </datum>is heer<persoonsnaam> jacobus Reyniers</persoonsnaam> dese wereld</l>
+					<l>overleden zijnde assistent der heere Boekhouders</l>
+					<l>van &apos;t bier accyse</l>
+					<l><datum datum='1712-08-07' when='1712-08-07'>7 ditto</datum> is den ommeganck van <locatie>Borgerhout</locatie> niet</l>
+					<l>gemaekt zijnde voor den eersten keer gegaan</l>
+					<l><datum datum='1712-09-25' when='1712-09-25'>25 7bris</datum> hebben de E.E. P:P: Capucienen met</l>
+					<l>eene uytstekende magnificentie geviert de canon</l>
+					<l>in Latie van der H: Broeder <persoonsnaam>Felix Van Cantalice</persoonsnaam></l>
+					<l><persoonsnaam>Capuciea</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>&apos;S morgens ontrent elf uren geschiede in de</l>
+					<l>kerke der Voorn Patres eene Solemnele misse</l>
+					<l>met musiek door den doorlugtigsten en de Eerw.</l>
+					<l><persoonsnaam>Heer Petrus Josephus de Franken Sierdorf</persoonsnaam></l>
+					<l><persoonsnaam>Bisschop van Antwerpen</persoonsnaam> den welke voor de</l>
+					<l>eerste reyse het alderheijligste in de processie,</l>
+					<l>droeg. &apos;S avonts heeft men ontrent het Clooster</l>
+					<l>seer treffelyk geviert.</l>
+					<l>den <datum datum='1712-10-09' when='1712-10-09'>9 october</datum> hebben de E: E: P: P: Predikheeren</l>
+					<l>met eene uytmuntende magnificcatie geviert en de </l>
+					<l>geopent de octave der Canonizatie van den H:</l>
+					<l><persoonsnaam>pius V Paus van<locatie> Roomen</persoonsnaam> </locatie>en religieus der ordre</l>
+					<l>van den H: dominucus. de kerk was uyter¬</l>
+					<l>maeten konstig en kostelijk versiert.</l>
+					<l>S&apos; avonts heeft men voor het klooster den </l>
+					<l>vuer vogel geschoten en seer treffelyk ge¬</l>
+					<l>viert.</l>
+					<l><datum datum='1712-10-16' when='1712-10-16'>16 8bris</datum> hebbende E: E: P: P: Minderbroeders met</l>
+					<l>groote Solemniteyt geviert de Canonizatie van <persoonsnaam>de H.</persoonsnaam></l>
+					<l><persoonsnaam>Catharina van Bononien.</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><datum datum='1712-xx-xx'>1712</datum></l>
+					<l><datum datum='1712-11-28' when='1712-11-28'>28 Nov.</datum> is het Beurtschip van <locatie>Dort</locatie> Smorgens</l>
+					<l>ten thien uren by <locatie>Lauwereys fort</locatie> verdronken met</l>
+					<l>20 Menschen waer van 9 behouden en 11 ver¬</l>
+					<l>ongelukt zyn</l>
+					<l><datum datum='1712-12-16' when='1712-12-16'>16 Decembris </datum>zyn &apos;er opde <locatie>vischmerckt </locatie>500</l>
+					<l>creften geweest.</l>
+					<l><datum datum='1713-xx-xx'>1713</datum>.</l>
+					<l><datum datum='1713-02-02' when='1713-02-02'>2 feb<hi rend='superscript:true;'>rij</hi></datum> Den heere Choordeken der cathedrale</l>
+					<l>dezer stad <persoonsnaam>Baron van <locatie>Wemmel</locatie></persoonsnaam> overleden</l>
+					<l>en begraven tot <locatie>Wemmel</locatie>.</l>
+					<l><datum datum='1713-03-06' when='1713-03-06'>6 Meert </datum>is het hoey Magezyn in brand gesteken</l>
+					<l>en heeft gebrand tot den <datum datum='1713-03-10' when='1713-03-10'>10 Meert</datum></l>
+					<l><datum datum='1713-03-26' when='1713-03-26'>26. ditto</datum> is de eerste misse gedaen in de capel van</l>
+					<l><locatie>het buegtiens huys</locatie> door <persoonsnaam>Petrus jos. Bisschop</persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>Antwerpen</locatie>.</persoonsnaam></l>
+					<l><datum datum='1713-03-26' when='1713-03-26'>26 ditto</datum> is er eenen boodt omgeslaegen met</l>
+					<l>8 Menschen waeronder vier soldaeten met daeronder den</l>
+					<l>adjudant <hi rend='strikethrough:true;'>die</hi> vier 1000 pistolen by sig</l>
+					<l>hebbende verdronken en vier behouden syn.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1713-xx-xx'>1713</datum></l>
+					<l><datum datum='1713-05-04' when='1713-05-04'>4 meij opsinxendag</datum> is<locatie> in OLV.kerke </locatie>gezegt het sanctua¬</l>
+					<l>rium door <persoonsnaam>zyne hoogw Pet: jos:</persoonsnaam> Savonds naer</l>
+					<l>het Lof onder het luyden der groote klok</l>
+					<l><datum datum='1713-05-25' when='1713-05-25'>25 ditto</datum> is het beld van OLV. op de Pompe op de</l>
+					<l><locatie>Vischmerckt </locatie>gewydt door den<persoonsnaam> Pastor Vande Borgt</persoonsnaam></l>
+					<l>waer over men daer ontrent seer vierde.</l>
+					<l><datum datum='1713-07-16' when='1713-07-16'>16 julij </datum>heeft het seer geregent zoodat de Processie van</l>
+					<l>S<hi rend='superscript:true;'>t</hi> Norbertus heeft Moeten Schuylen en ons</l>
+					<l>heer heeft geschuylt inden Bodt in de Render</l>
+					<l>Straet</l>
+					<l><datum datum='1713-08-13' when='1713-08-13'>13 Augusti </datum>is Den<persoonsnaam> Borgemeester Van den Cruyce</persoonsnaam></l>
+					<l>overleden en begraven tot <locatie>Aertselaer</locatie></l>
+					<l><datum datum='1713-08-13' when='1713-08-13'>13 ditto</datum> is&apos;er Eenen Biddag in gesteld voor dry daegen</l>
+					<l>voor de vrugten der aerden want het zeer regende</l>
+					<l>en allede Parochien moesten den eersten dag Comen</l>
+					<l>bidden in OLV. kerke ider een ure en de andere</l>
+					<l>twee dagen de Cloosters Naer advenant</l>
+					<l><datum datum='1713-08-20' when='1713-08-20'>20 Augusti </datum>gong de processie van devotie in plaetse</l>
+					<l>vanden ommegang zijne hoogweerdigheyd het</l>
+					<l>alderheyligste draegende uyt oorsaek van den regen</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l></l>
+					<l><datum datum='1713-xx-xx'>1713</datum></l>
+					<l><datum datum='1713-08-18' when='1713-08-18'>18 augusti</datum> heeft het coren tot <locatie>Antwerpen</locatie> gegeld</l>
+					<l>5:6  Stv destaelen gestaen ende vrydag daer naer heeft</l>
+					<l>het gegeld 3:16 St. en &apos;s maendags daer naer is het</l>
+					<l>brood vyf vierendeelen gegroot opeen brood van Vieren</l>
+					<l>het geen in 50 jaer niet is geschiet.</l>
+					<l><datum datum='1713-09-03' when='1713-09-03'>3 Sept.</datum> is de <locatie>kerke Van Austruweel</locatie> gewyt door <persoonsnaam>sijne</persoonsnaam></l>
+					<l><persoonsnaam>hoogweerdigheyd Pet. jos</persoonsnaam>. onder het Lossen van het</l>
+					<l>Canon van de <locatie>forte van Austruweel</locatie> &amp;c, &amp;c,</l>
+					<l><datum datum='1713-09-08' when='1713-09-08'>8 September</datum> op OLV: geborte dag hebben de Lorettanen</l>
+					<l>eene Solemnele processie gehouden en geviert</l>
+					<l>het ses honderste jaer alswanneer het <locatie>godshuys</locatie></l>
+					<l><locatie>van S<hi rend='superscript:true;'>t</hi> juliaen</locatie> gefondeert is voor arme en eerlyke</l>
+					<l>passanten &apos;s avonts heeft men ontrent het gods</l>
+					<l>huys en Langs de Straeten daer de processie gegaen</l>
+					<l>hadde seer Schoon geviert</l>
+					<l><datum datum='1713-09-11' when='1713-09-11'>11 ditto</datum> isden Niewen wyser om elfuren op <locatie>Sint</locatie></l>
+					<l><locatie>Joris toren</locatie> gesteld naerden kant van de Poort,</l>
+					<l>zynde gemaekt van roodt koper en 12 voet en</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l><datum datum='1713-xx-xx'>1713</datum></l>
+					<l>half in &apos;t Cruys</l>
+					<l><datum datum='1713-09-28' when='1713-09-28'>28 ditto</datum> is den anderen Wyser op den toren gestelt</l>
+					<l>naerden kant van &apos;t casteel zynde ook van koper</l>
+					<l>en van de zelve groote.</l>
+					<l><datum datum='1713-10-01' when='1713-10-01'>1 8<hi rend='superscript:true;'>bris</hi></datum> hebben de PP: Predikheeren met groote</l>
+					<l>magnificentie geviert het 500ste jaer vanden</l>
+					<l>Roosen krans. &apos;S morgens ten 10 uren wierd de Solem¬</l>
+					<l>nele misse gezongen door den <persoonsnaam>Eerw: heere Prelaet</persoonsnaam></l>
+					<l><persoonsnaam>van S. Salvator</persoonsnaam> waer naer volgde de Processie</l>
+					<l>het alderheyligste door den voorn prelaet gedrae¬</l>
+					<l>gen wordende &apos;S avons Vierde men seer treffelyk</l>
+					<l>ontrent de kerke</l>
+					<l><datum datum='1713-10-01' when='1713-10-01'>1 8<hi rend='superscript:true;'>bris</hi></datum> heeft de<persoonsnaam> hertoginne van <locatie>Malbourgh</locatie> </persoonsnaam>een</l>
+					<l>handbraselet Verloren van diamanten weerdig Zynde</l>
+					<l>40000 guldens Waer over sy eenen van heur knegten</l>
+					<l>deden Vast zetten <locatie>op &apos;tsteen</locatie> onnoosel zynde</l>
+					<l><datum datum='1713-10-13' when='1713-10-13'>13 ditto</datum> is de handbraselet vande <persoonsnaam>Hertoghin</persoonsnaam></l>
+					<l><persoonsnaam>van <locatie>Malbourgh</persoonsnaam> </locatie>gevonden in de koets van den</l>
+					<l>Gouverneur tusschen de Schabelle dien tyde</l>
+					<l>overwinterde den <persoonsnaam>hertog van <locatie>malbourg</locatie></persoonsnaam> met</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l></l>
+					<l><datum datum='1713-xx-xx'><hi rend='underlined:true;'>1713</hi></datum></l>
+					<l>Zyn hertoghin inde refugie der <locatie>Abdye van</locatie></l>
+					<l><locatie>Tongerloo.</locatie></l>
+					<l><datum datum='1713-12-19' when='1713-12-19'>19 10<hi rend='superscript:true;'>bris</hi></datum> &apos;S morgens ten 10 uren zyn de vendels</l>
+					<l>van het <locatie>Spaenschs </locatie>regiment doen tertyd liggende</l>
+					<l>op het <locatie>Oostershuys </locatie>in O:L:V: kerke gewyt door</l>
+					<l><persoonsnaam>Zyne hoogweerdigheyd Petrus Josephus</persoonsnaam> onder</l>
+					<l>het Luyden van de groote klok Waervan</l>
+					<l>peter was den <persoonsnaam>Marquis De Terracena gouverneur</persoonsnaam></l>
+					<l>van het <locatie>Casteel van Antwerpen</locatie> en <persoonsnaam>den heer</persoonsnaam></l>
+					<l><persoonsnaam>de Cordes oudtborgemeester</persoonsnaam> deser Stad.</l>
+					<l>Den Vendrick die een Vendel gekregen had</l>
+					<l>2. a</l>
+					<l>is 3. dagen daer naer dood gesteken</l>
+					<l><datum datum='1713-12-31' when='1713-12-31'>31 ditto</datum> is den Communie kop by de E:E:P:P:</l>
+					<l>Augustynen om gevallen met de H:H: Hostien</l>
+					<l><datum datum='1714-xx-xx'><hi rend='underlined:true;'>1714</hi></datum>.</l>
+					<l><datum datum='1714-01-12' when='1714-01-12'>12 januarij</datum> is&apos;er<locatie> in OLV. kerke</locatie> eenen Steenen</l>
+					<l>Engel gevallen van den Autaer van de</l>
+					<l>Schoen Maekers</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l><datum datum='1714-xx-xx'><hi rend='underlined:true;'>1714</hi></datum></l>
+					<l>tusschen<datum datum='1714-02-26' when='1714-02-26'> 26</datum> en <datum datum='1714-02-27' when='1714-02-27'>27 februarij</datum> heeft het seersterk</l>
+					<l>gewaeyt en &apos;Smorgens ten half vier heeft het</l>
+					<l>seer sterk <hi rend='strikethrough:true;'>gewaeyt</hi> vloet geweest en het water</l>
+					<l>seer hoog gestaen soo dat alle de kelders ontrent</l>
+					<l>het water <hi rend='strikethrough:true;'>ond</hi> tot boventoe vol Stonden daer is</l>
+					<l>toen vele Schade geschiet aen huysen en kerken</l>
+					<l>daer Zyn ook Veele boomen uyt gewaeyt</l>
+					<l>en den <locatie>Callooschen molen</locatie> is om vergewaeyt</l>
+					<l><datum datum='1714-03-02' when='1714-03-02'>2 Meert</datum> heeft <hi rend='strikethrough:true;'>heeft</hi> het Savons om 5 uren</l>
+					<l>Wederom seer grooten vloet geweest dat het water</l>
+					<l>tot aen <locatie>den Brunnen</locatie> baert by <locatie>het bier hooft </locatie>heeft</l>
+					<l>gestaen &amp;c. &amp;c.</l>
+					<l><datum datum='1714-03-07' when='1714-03-07'>7 Meert</datum> het wederom seer sterk gevloeyt</l>
+					<l>soo dat het water eenen voet hooger heeft gestaen</l>
+					<l>als de twee voorgaende reysen en maar eenen halven</l>
+					<l>voet leeger als int jaer <datum datum='1682-xx-xx' when='1682-xx-xx'>1682</datum>.</l>
+					<l><datum datum='1714-03-07' when='1714-03-07'>7 ditto</datum> is&apos;er eenen biddag ingestelt voor dry dagen</l>
+					<l>ingesteld voor den vloet van het water en den biscop</l>
+					<l>heeft Savons het Lof gedaen</l>
+					<l><datum datum='1714-03-31' when='1714-03-31'>31 ditto</datum> wesende paeschavond heeft het wederom</l>
+					<l>vloet geweest</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l><pagenumber>22</pagenumber></l>
+					<l><datum datum='1714-xx-xx'>1714</datum></l>
+					<l>tusschen <datum datum='1714-04-15' when='1714-04-15'>15 </datum>en<datum datum='1714-04-16' when='1714-04-16'> 16 april &apos;</datum>Snachs ten 12 uren is de wip</l>
+					<l>van het <locatie>lovens </locatie>bier met de kaey ingevallen</l>
+					<l><datum datum='1714-04-19' when='1714-04-19'>19 April</datum> is het <locatie>Lovens </locatie>bier gelost met de wip opde</l>
+					<l>Werf ende op <datum datum='1714-05-11' when='1714-05-11'>11 Mey</datum> het <locatie>Luyks </locatie>bier</l>
+					<l><datum datum='1714-05-17' when='1714-05-17'>17 Maij </datum>is <persoonsnaam>de Bridt brouwer</persoonsnaam> geworden in<locatie>de</locatie></l>
+					<l><locatie>Roote</locatie></l>
+					<l><datum datum='1714-05-21' when='1714-05-21'>21 Mey </datum>soo is den Vogel geschoten op het <locatie>Casteel</locatie></l>
+					<l><locatie>pleyn</locatie> het Welk in 16 jaeren niet geschiet was</l>
+					<l>3 allen Zynde huysen verkogt<locatie> op de groote</locatie></l>
+					<l><locatie>Merkt voor het stadhuys</locatie> op Conditien als</l>
+					<l>volgt:</l>
+					<l>1. De koop Somme is wisselgeldt den Schellinck</l>
+					<l>tot Ses Stuyvers het Stuck</l>
+					<l>2. den kooper moet borghe Stellen ende eerde huysen</l>
+					<l>afgebroocken worden moet de koopsomme betaelt</l>
+					<l>syn in handen van de oude kleerkoopers oppene</l>
+					<l>van reele ende parate executie</l>
+					<l>3. de koopers en mogen hunne gekochte huysen</l>
+					<l>niet eerder afbreken als naer primo julij</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>23</pagenumber></l>
+					<l><datum datum='1714-xx-xx'>1714 </datum>En moeten de materialen vanden pant Syn</l>
+					<l>den 15 dagh vande Selve maent</l>
+					<l>4. een ieder moet Zijn welfzels van de kelders ende Secreten ge¬</l>
+					<l>heel insmijten en de Zelve benevens de regenbakken en</l>
+					<l>borneputten vullen en met gruijs egael aen de Straet.</l>
+					<l>5. den Kooper moet de materialen bewaeren en gadeslaen</l>
+					<l>na zijn goeddunken alzoo die naer datum van Deeze ver¬</l>
+					<l>koopinge zullen Zijn en Staen tot Zijnen Last en</l>
+					<l>Perykel zonder goeddoening.</l>
+					<l>6. de Mueren en Fondamenten tegens de vrije en mogen</l>
+					<l>niet afgebroken worden als nefvens de kassye van</l>
+					<l>de <locatie>Martstraet</locatie></l>
+					<l>7. eenieder mag niet voorder afbreken als gelijk Zijn</l>
+					<l>huijs hem verkogt word en gedesigneerd Zal Zijn.</l>
+					<l>8. de Pompe die hij bevind in Zijn gekogt huijs en Zal</l>
+					<l>hij niet voorder mogen afbreken als op Zijn erve.</l>
+					<l><datum datum='1714-06-28' when='1714-06-28'>28. junij</datum> zijn 13. huysen verkogt op de groote Merkt</l>
+					<l>op Conditie als vooren.</l>
+					<l><datum datum='1714-07-07' when='1714-07-07'>7. julij</datum> is mijn <persoonsnaam>Heer Jan Carel de Cordes</persoonsnaam> deeze weereld</l>
+					<l>overleeden, geweest hebbende Tresorier generael en buijten</l>
+					<l>borgermeester deezer Stad.</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l></l>
+					<l><datum datum='1714-xx-xx'>1714</datum>.</l>
+					<l><datum datum='1714-07-10' when='1714-07-10'>10. julij</datum> isser eenen Biddag ingesteld voor 3 dagen voor</l>
+					<l>de droogte der aerde:</l>
+					<l><datum datum='1714-07-16' when='1714-07-16'>16. ditto</datum> hebben de Eerw: <persoonsnaam>Paters Predikheeren</persoonsnaam> met</l>
+					<l>groote Magnificentie gevierd de Beatificatie van</l>
+					<l><persoonsnaam>den zaligen Ceslaus</persoonsnaam> Religieus van &apos;t Zelve order</l>
+					<l><datum datum='1714-08-01' when='1714-08-01'>1. Augusti</datum> zijn de 25. H afgegaen op &apos;t platte</l>
+					<l>Land.</l>
+					<l><datum datum='1714-08-07' when='1714-08-07'>7. ditto</datum> zijn vier huyzen verkogt op de <locatie>Groote</locatie></l>
+					<l><locatie>Merkt </locatie>op conditie als vooren, en zyn de leste.</l>
+					<l><datum datum='1714-07-27' when='1714-07-27'>27. julij </datum>is <persoonsnaam>den Hertog van Malbourgh</persoonsnaam> van <locatie>Brussel</locatie></l>
+					<l>hier vertrokken na <locatie>Engeland</locatie> onder het lossen</l>
+					<l>van &apos;t Kanon.</l>
+					<l><datum datum='1714-08-15' when='1714-08-15'>15. Augustus</datum> heeft men hier eenen Biddag be¬</l>
+					<l>gonst voor zes weeken, om den goddelijken</l>
+					<l>bystand te verzoeken tegens de Sterfte van&apos;t</l>
+					<l>vee, en den zelven dag is er naer het Lof</l>
+					<l>eene Processie gehoude langs den <locatie>klynen</locatie></l>
+					<l><locatie>Toor </locatie>en zijne Hoogw: droeg het Alderheylig¬</l>
+					<l>ste.</l>
+					<l><datum datum='1714-08-25' when='1714-08-25'>25. ditto</datum> is het laetste huys op de <locatie>groote Merk</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l><datum datum='1714-xx-xx'>1714</datum>.</l>
+					<l>afgebroken.</l>
+					<l><datum datum='1714-08-31' when='1714-08-31'>31 ditto</datum> is de wip op &apos;t <locatie>Lovens-bier-hooft </locatie>gesteld.</l>
+					<l><datum datum='1714-09-14' when='1714-09-14'>14. 7ber</datum> &apos;S avonds ontrent 6. ueren arriveerde alhier</l>
+					<l>van <locatie>Brussel</locatie> den <persoonsnaam>Heer generael Grave van Koning den</persoonsnaam></l>
+					<l><persoonsnaam>Minister van Zyne Keyzerlyke en Koninglyke Majes¬</persoonsnaam></l>
+					<l><persoonsnaam>teijt</persoonsnaam>, onder het drij mael Lossen van &apos;t kanon en</l>
+					<l>nam zyn logement in de Refugie der <locatie>Abdije te</locatie></l>
+					<l><locatie>Tongeloo</locatie>: alwaer Zyn Excellentie nog diën Avond</l>
+					<l>gecomplimenteerd wird door den <persoonsnaam>Marquis de Tarracene</persoonsnaam></l>
+					<l><persoonsnaam>gouverneur dezer Citadelle</persoonsnaam> en door verscheijde andere</l>
+					<l>generaels en opperofficiers, en den volgenden Dag verwel¬</l>
+					<l>lekoomt door de Heeren van &apos;t Magistraet en gerege¬</l>
+					<l>leert den wijn van Eere.</l>
+					<l>Den <datum datum='1714-10-01' when='1714-10-01'>p<hi rend='superscript:true;'>mo</hi> 8b</datum> is gevierd den geboorten van <persoonsnaam>Zijne Keyzerlij¬</persoonsnaam></l>
+					<l><persoonsnaam>ke en koninglijk Majesteijt Karolus den 6. </persoonsnaam>die aldan</l>
+					<l>getreden is in &apos;t 30. jaer van Zynen ouderdom:</l>
+					<l>Smorgen ten 11 ueren geschiede in de Hooftkerke eene</l>
+					<l>Solemnele Misse gecelebreert door den Heere Bisschop</l>
+					<l>van deeze Stad ten byweezen van zijne Excel. den <persoonsnaam>Grave</persoonsnaam></l>
+					<l><persoonsnaam>van Koningsberg, den H<hi rend='superscript:true;'>r</hi>. Marquis de Taracena</persoonsnaam>, en de</l>
+					<l>Heeren van ons Magistraet &amp;c.</l>
+					<l>in deezen Zomer is <locatie>den nieuwen Steenweg </locatie>van <locatie>Antwer¬</locatie></l>
+					<l><locatie>pen </locatie>tot <locatie>Lier</locatie> gemaekt beginnende aen <locatie>den ouden Godt</locatie></l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l><datum datum='1714-05-30'>woondag</datum></l>
+					<l><datum datum='1714-05-30'>wird</datum></l>
+					<l><datum datum='1714-05-30'>op 30. Mey 1714</datum> ten 3. ueren na noen <hi rend='strikethrough:true;'>waren</hi> met Consent der leden</l>
+					<l>deser Stad<locatie> Antwerpen</locatie>, en het Octroij van Keyzerlyke en Koninglyke</l>
+					<l>Majesteijt daer op gevolgd, door <persoonsnaam>de oude kleerkoopers Jaspar</persoonsnaam></l>
+					<l><persoonsnaam>vander Hagen en Guilielmus Willemssens</persoonsnaam> de Verkooping</l>
+					<l>Der materialen van de na volgende huijsen dew. moesten</l>
+					<l>afgebroken worden, te weten:</l>
+					<l><locatie>Het Huijs genaemt de Roode Zee </locatie>op <locatie>de Groote merk</locatie> alhier,</l>
+					<l>ledig Staende.</l>
+					<l>Item het <locatie>huijs de Colve</locatie> ook ledig Staende, voor deezen ge</l>
+					<l>bruijkt, by den <persoonsnaam>Timmerman van Hove</persoonsnaam>.</l>
+					<l>Item drije huijsen in<locatie>de Mautstraete</locatie>, wesende de agter</l>
+					<l>huijsen vande voors. <persoonsnaam> Colve</persoonsnaam>.</l>
+					<l>Item <locatie>het Huijs genaemt het Cruijsken </locatie>in<locatie>de Mautstraet</locatie></l>
+					<l>ook ledig staende.</l>
+					<l>op <datum datum='1714-06-28'>Donderdag Smorgens 9 uuren 28. junij 1714</datum>. doorde zelve Roepers:</l>
+					<l>Het <locatie>Huijs genaemt het wit Peerdeken, </locatie>gebruijkt bijden</l>
+					<l><persoonsnaam>Silversmit le Pise</persoonsnaam>.</l>
+					<l>Item een <locatie>Huijs genaemt den ketsbal</locatie>, gebruijkt byden kleer¬</l>
+					<l>maeker op <locatie>de Merkt</locatie>.</l>
+					<l>Item een <locatie>huijs genaemt den Draek,</locatie> gebruikt byden Hoey¬</l>
+					<l>maeker op<locatie> de Merkt</locatie>.</l>
+					<l>Item het Hoeksken genaemt den Sleutel op <locatie>de Merkt</locatie>.</l>
+					<l>Item het <locatie>huijs genoemt den wapen van Engeland, </locatie>Staende</l>
+					<l>tusschen den hoek en <locatie>het huijs genaemt de Exter.</locatie></l>
+					<l>Item <locatie>het Huijs genaemt de Exter,</locatie> bewoond by<persoonsnaam>den Laken</persoonsnaam></l>
+					<l><persoonsnaam>Verkooper Michielsens</persoonsnaam>.</l>
+					<l>Item een <locatie>Groot Huijs genaemt het Gulden Vlies of Strend</locatie> , ge¬</l>
+					<l>staen inde zelve <locatie>Mautstraete</locatie>.</l>
+					<l>Item <locatie>een Huijs genaemt den H. Geest </locatie>in<locatie>de Mautstraete</locatie>, we¬</l>
+					<l>zende het winkeltien nevensden Hoek.</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>Item het Hoekhuijs vande <locatie>Maelderije straet</locatie> en <locatie>maatstraet</locatie>,</l>
+					<l>bewoont bij den <persoonsnaam>bakker Geeraert Corthout</persoonsnaam>.</l>
+					<l>Item het <locatie>Huijs genaemt de Goudblom</locatie>, wezende de hesp¬</l>
+					<l>winkel inde <locatie>Maelderyestraet</locatie>.</l>
+					<l>Item het <locatie>Huijs genaemt het Maelslot</locatie> in de <locatie>Maelderije</locatie></l>
+					<l><locatie>staet</locatie>, gebruykt by den Schoenmaeker.</l>
+					<l>Item het <locatie>Huijs genaemt den heerssnutter</locatie>, gebruijkt by de</l>
+					<l><persoonsnaam>wed<hi rend='superscript:true;'>e</hi>. Martens Silversmit.</persoonsnaam></l>
+					<l>Alle welke huijsen solutelyk moesten gedemolieert</l>
+					<l>worden <datum datum='1714-07-02' when='1714-07-02'>den. 2 julij.</datum></l>
+					<l>Op <datum datum='1714-08-07' when='1714-08-07'>Dynsdag 7. Augusti 1714</datum>. Smorgens ten 10. ueren door</l>
+					<l>de Zelve Oude kleerkoopers, <hi rend='strikethrough:true;'>te weten</hi></l>
+					<l>de vestovene</l>
+					<l>huijsen, te weten:</l>
+					<l>Het <locatie>Huijs genaemt den Sprinkhaen</locatie>, gebruijkt bij den</l>
+					<l><persoonsnaam>Leer verkooper Janssens</persoonsnaam>.</l>
+					<l>Item het <locatie>Huys genaemt den H. Geest</locatie>, gebruykt by de</l>
+					<l><persoonsnaam>wed<hi rend='superscript:true;'>e</hi> Gijnindus.</persoonsnaam></l>
+					<l>Item het <locatie>Huijs Genaemt het Verken</locatie>, gebruijkt bij</l>
+					<l><persoonsnaam>Rijckaert</persoonsnaam>, gestaen in de <locatie>Mautstraete</locatie>.</l>
+					<l>Item het <hi rend='strikethrough:true;'>Huijs</hi> laetsten <locatie>Huijs neffens het Zonneken</locatie>,</l>
+					<l>nu ledigstaende ook inde zelve <locatie>Mautstraete</locatie>.</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>Sijnem@ Judicia</l>
+					<l>M.D.C. Advocale ex Redemptori XCIII</l>
+					<l><persoonsnaam>J. P. Q. A. Posuit</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l><datum datum='1715-xx-xx'>1715</datum>.</l>
+					<l><datum datum='1715-03-03' when='1715-03-03'>3 Meert</datum> is door den ongemeene noord-westen Storm¬</l>
+					<l>wind het water ontrent ontrent 3 ueren zeer hoog</l>
+					<l>geweest, zoodat het eenen halven voet hooger</l>
+					<l>is geweest als in &apos;t jaer <datum datum='1682-xx-xx' when='1682-xx-xx'>1682</datum>. Zeer veele Schade</l>
+					<l>geschiet &amp;c.</l>
+					<l><datum datum='1715-05-03' when='1715-05-03'>3. Meij</datum> ister eenen Eclips gezien aen de Zon Smorgen</l>
+					<l>van 8. tot 10. uwer, Zoo donker wordende dat men</l>
+					<l>de Sterren in de Logt kon zien. </l>
+					<l><datum datum='1715-07-21' when='1715-07-21'>21 julij </datum>is eenen Biddag ingesteld voor den Regen</l>
+					<l>die 5. dagen duerde. </l>
+					<l><datum datum='1715-08-07' when='1715-08-07'>7 Augusti</datum> Zijn nog 2. <locatie>huijzen verkogt nevens het</locatie></l>
+					<l><locatie>Zonneken</locatie> op den hoek van de<locatie> Groote Markt,</locatie></l>
+					<l>teweeten: <locatie>de Blouwgeyt </locatie>en<locatie>de Venster</locatie> op conditie</l>
+					<l>als vooren.</l>
+					<l><datum when='1715-10-10'>10. 8ber</datum> is de wip op de<locatie> kasteel plijn</locatie> nieuw gesteld</l>
+					<l>voor den ouden Hand-boog en op den <datum datum='1715-10-14' when='1715-10-14'>14 ditto</datum> heb¬</l>
+					<l>ben zij drij prijz vogels geschooten. </l>
+					<l><datum datum='1715-11-15' when='1715-11-15'>vrijdag 15. 9ber</datum> weesende den bestemden dag tot</l>
+					<l>het afdoen en termineren van het werk van</l>
+					<l>de Barrieren; &apos;S avonds tusschen 6. en 9. ueren</l>
+					<l>kwamen de Heeren <hi rend='strikethrough:true;'>######</hi>  gevolmagtigde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1715-xx-xx'>1715</datum>.</l>
+					<l>van den Keijzer en van de Heeren Staeten Gene¬</l>
+					<l>rael op het Stadhuijs, en hielden de 48ste conferentie</l>
+					<l>in de welke de artikelen der gemelde Barriere ge¬</l>
+					<l>lezen zijnde, wird ontrent alf elf het tractaet, hetgeen</l>
+					<l>op den <datum datum='1714-10-04' when='1714-10-04'>4. 8ber 1714</datum>. begonst was, geslooten, en ondertee¬</l>
+					<l>kend, hetwelk door het Luijden van de Triomph klok,</l>
+					<l>door eene drijmalige Salve van &apos;t kanon en door</l>
+					<l>&apos;t geschal van Trompetten en keteltrommels wird</l>
+					<l>bekent gemaekt aen &apos;t publiek. Vervolgens wirde alle</l>
+					<l>Deeze heeren gevolmagtigde benevens veele heeren</l>
+					<l>van Distinctie door de Heeren van &apos;t Magistraet ten</l>
+					<l>Avond onthaeld, geduerend hetwelk onder het ander</l>
+					<l>mael luijden der groote klok en onder verschyde</l>
+					<l>losbrandinge van &apos;t geschut de gezondheden wirden</l>
+					<l>gedronken van haere Keyzerlyke en Catholike</l>
+					<l>Majesteijten van den Koning van <locatie>Groot Brittanien</locatie></l>
+					<l>en van de Heeren Staeten generael, voor het</l>
+					<l>Stadhuijs hetw. met witte flambeeuwen geillu¬</l>
+					<l>mineert was, wierden onder eenen grooten toeloop</l>
+					<l>van volk veele konstvuuren afgestooken de</l>
+					<l>vrolykheijd duurden tot in den Nagt</l>
+					<l><datum datum='1716-xx-xx'>1716</datum></l>
+					<l><datum datum='1716-01-16' when='1716-01-16'>16. januar.</datum> &apos;S morgen ten 8. ueren lag de <locatie>Schelde</locatie> toe Waer</l>
+					<l>op veele tenten stonden met bier en wijn; lag toe tot <datum datum='1716-02-23' when='1716-02-23'>23.</datum></l>
+					<l><datum datum='1716-02-23' when='1716-02-23'>februar.</datum></l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><datum datum='1716-01-20' when='1716-01-20'><hi rend='underlined:true;'>1716.</hi></datum></l>
+					<l><datum datum='1716-01-20' when='1716-01-20'>20. ditto jannuari </datum>is zijne <persoonsnaam>Doorl. Hoogw. Petrus jos. Franc¬</persoonsnaam></l>
+					<l><persoonsnaam>ken Sierstorf Bisschop van <locatie>Antwerpen</locatie> met den Grave</persoonsnaam></l>
+					<l><persoonsnaam>van ursel</persoonsnaam> en den buyten <persoonsnaam>Borgermeester del Campo</persoonsnaam></l>
+					<l>van hier vertrokken na <locatie>Weenen</locatie> om met zijn Key¬</l>
+					<l>zerlyke Majesteijt te spreeken over het tractaet</l>
+					<l>der Barrieren: den zelven tijd zijnder van <locatie>Gend</locatie></l>
+					<l>en andere steden ook gedeputeerde gegaen na</l>
+					<l>den Keijzer over de zelve Affairens.</l>
+					<l><datum datum='1716-02-03' when='1716-02-03'>3. feb</datum>. is den Knegt vanden <persoonsnaam>Auditeur Coen verwe¬</persoonsnaam></l>
+					<l><persoonsnaam>zen</persoonsnaam> en op den 4. koomende onder de Galge om</l>
+					<l>gehangen te worden is weg geraekt en gaen loo¬</l>
+					<l>pen.</l>
+					<l><datum datum='1716-02-15' when='1716-02-15'>15. ditto</datum> is zijne Doorl. Hoogh. enden Heere Buyten</l>
+					<l>borgermeester ontrent den noen gelukkig tot <locatie>Weenen</locatie> gearriveerd.</l>
+					<l>in <datum datum='1716-03-xx' when='1716-03-xx'>Meert </datum>is hier gearriveerd eenen grieksen Abt</l>
+					<l>met twee griekse moniken dew. hier kwamen om</l>
+					<l>een Aelmoes om hun ander moniken te verlos¬</l>
+					<l>sen die gevangen waeren van de turken, den</l>
+					<l>Abt heeft dikwils Misse gedaen in de jesuiten</l>
+					<l>kerk op een vremde manier Zy waren gelogeerd in</l>
+					<l><locatie>S. juliaens gasthuijs</locatie>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1716-05-03' when='1716-05-03'><hi rend='underlined:true;'>1716.</hi></datum></l>
+					<l><datum datum='1716-05-03' when='1716-05-03'>3. Meij</datum> is binnen <locatie>Antwerpen</locatie> smorgens ten alf elf</l>
+					<l>gezongen eene Misse in <locatie>de Hooft Kerk</locatie> waer na</l>
+					<l>den te Deum wird geintoneerd door den <persoonsnaam>Eerw. Heer</persoonsnaam></l>
+					<l><persoonsnaam>Andreas Franciscus Del Marmol Choordeken</persoonsnaam>, &apos;savond zag men</l>
+					<l>veele vreugde vueren en pekstaeken voor ons stadthuijs,</l>
+					<l>enden toren verciert met</l>
+					<l>Brandende</l>
+					<l>lanteernen: men zag voor</l>
+					<l>de Bezonderste Heeren van Deeze stadt staeken ge¬</l>
+					<l>regt met brandende pektonnen en voor de huijzen</l>
+					<l>van de Heeren Schepenen twelf brandende witte flam¬</l>
+					<l>beeuwen met meer andere vrolijk heijdt voorden jongen</l>
+					<l>Artshertog.</l>
+					<l><datum datum='1716-06-10' when='1716-06-10'>10. junij &apos;</datum>s morgens ten alf 9. is <persoonsnaam>zijn Doorl. Hoogw. den</persoonsnaam></l>
+					<l><persoonsnaam>Heer Bisschop van <locatie>Weenen</locatie></persoonsnaam>, alhier gearriveerd en &apos;s avonds</l>
+					<l>den Heere Borgermeester; zijn Hoogw. was van zijne Keij¬</l>
+					<l>zerlijke Majesteijt vereerd met een goude kruijs om¬</l>
+					<l>zet met Diamanten enden Heere Borgermeester</l>
+					<l>met het Portrait van Zijne Majesteijt ook omzet met</l>
+					<l>Diamanten.</l>
+					<l><datum datum='1716-06-28' when='1716-06-28'>28. junij</datum> weezende den Avond van den H.H. Petrus en</l>
+					<l>Paulus zoo zijn in <locatie>S. joris kerk</locatie> verheft de gebeenderen der</l>
+					<l>voors. Heijlige: men zag om 3. ueren de Processie</l>
+					<l>waer in het Alderheijligste wird gedraegen door den</l>
+					<l>Pastor der zelve Parochie ook wierden gedraegen</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><pagenumber>30</pagenumber></l>
+					<l><datum datum='1716-xx-xx'>1716</datum>.</l>
+					<l>de H. Reliquiën; de Straeten daer de Processie langs</l>
+					<l>gong waren zeer schoon verciert, men zag eenige</l>
+					<l>Arken. op den Feestdag van de voors H.H. Apostelen</l>
+					<l>&apos;S morgens ten alf elf wierter eene Solemnele Misse</l>
+					<l>gedaen door zyne Doorl. Hoogw..</l>
+					<l><datum datum='1716-07-27' when='1716-07-27'>27. julij </datum>is de Brouwers Buijs aenbesteed, om eene nieu¬</l>
+					<l>we te maeken voor 24500. guldens; te weeten: een</l>
+					<l>nieuw vaert te graeven beginnende van de <locatie>Heren¬</locatie></l>
+					<l><locatie>talsche vaert</locatie> tot aen het<locatie> keijzers bolwerk </locatie>en</l>
+					<l>dan voorts eene Steene Buijs tot in den houder bij</l>
+					<l><locatie>De Roode Poort</locatie>.</l>
+					<l><datum datum='1716-08-26' when='1716-08-26'>26. Aug.</datum> is den Engel van<locatie> St. Michiels toren</locatie> afgedaen</l>
+					<l>ende Schaliën Peêr nieuw gemaekt, alsdan is den</l>
+					<l>Engel nieuw verguld.</l>
+					<l><datum datum='1716-09-06' when='1716-09-06'>6. 7ber</datum> geschiede &apos;Smorgens ten elf ueren in <locatie>de Hooft</locatie></l>
+					<l><locatie>kerke </locatie>door zyne Doorl. Hoogh. onder het Luyden</l>
+					<l>der triomph klok eene solemneele Misse om den</l>
+					<l>Almogenden Godt te bedanken overde uijtmuntende</l>
+					<l>overwinninge op den <datum datum='1716-08-05' when='1716-08-05'>5. der voorl. maend </datum>op de <locatie>tur¬</locatie></l>
+					<l><locatie>ken,</locatie> waer in tegenwoordig was den<persoonsnaam> Prince de</persoonsnaam></l>
+					<l><persoonsnaam>Esquilache Gouverneur der Citadelle</persoonsnaam>, ende Heeren</l>
+					<l>van &apos;t Magistraet in Corpora &apos;S avonds ten 7 ueren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>31</pagenumber></l>
+					<l><datum datum='1716-xx-xx'>1716</datum>.</l>
+					<l>zag men het Stad-huijs zeer uytmuntend verciert en</l>
+					<l>met vele witte flambeeuwen verligt.</l>
+					<l><datum datum='1716-10-01' when='1716-10-01'>1. 8<hi rend='superscript:true;'>ber</hi></datum> hebben de Brouwers water gekreegen door</l>
+					<l>de nieuwe Buijs.</l>
+					<l><datum datum='1716-11-14' when='1716-11-14'>14. 9ber</datum> &apos;savonds arriveerde</l>
+					<l>alhier</l>
+					<l>uijt <locatie>den haege</locatie> den <persoonsnaam>Heer</persoonsnaam></l>
+					<l><persoonsnaam>Maquis de Prié </persoonsnaam>onder het drijmael lossen van &apos;t kanon</l>
+					<l>logeerde in &apos;t <locatie>Bisschoplijk Palleijs.</locatie> is op <datum datum='1716-11-16' when='1716-11-16'>16. 9ber </datum>van</l>
+					<l>hier ontrent den middag onder het drijmael lossen</l>
+					<l>van &apos;t kanon voorgereijst na <locatie>Brussel</locatie>.</l>
+					<l><datum datum='1716-12-29' when='1716-12-29'>29. x<hi rend='superscript:true;'>ber</hi></datum> is</l>
+					<l><persoonsnaam>den Heer</persoonsnaam></l>
+					<l><persoonsnaam>joannes Bapta Vermaelen Abt van <locatie>S. Michiels</locatie></persoonsnaam></l>
+					<l>geinstalleert. op den zelven tijd den <persoonsnaam>Heer Cornelis</persoonsnaam></l>
+					<l><persoonsnaam>Adriaenssens Abt van <locatie>S. Bernaerts</locatie>. ook den Heer</persoonsnaam></l>
+					<l><persoonsnaam>Jacobus hache als Abt van <locatie>Villers</locatie></persoonsnaam>.</l>
+					<l><datum datum='1717-xx-xx'>1717</datum>.</l>
+					<l><datum datum='1717-01-06' when='1717-01-06'>6. anni</datum> zijn alhier in &apos;t Bisdom gemeijterd den <persoonsnaam>Eerw</persoonsnaam></l>
+					<l><persoonsnaam>Heer Jac. Haché Abt van <locatie>Villers </locatie>en den Eerw<hi rend='superscript:true;'>sten</hi> Heer Corn.</persoonsnaam></l>
+					<l><persoonsnaam>Adrianssens van <locatie>S. Bernaerts</locatie>.</persoonsnaam></l>
+					<l><datum datum='1717-01-10' when='1717-01-10'>10. ditto</datum> is alhier<locatie> in de Capelle van Biscoplyk</locatie></l>
+					<l><locatie>Palleijs </locatie>door zijne Doorl. Hoogw. den Heere Bisschop</l>
+					<l>geassisteerd zijnde doorde Heeren Abten van <locatie>Tonger¬</locatie></l>
+					<l><locatie>loo</locatie> en <locatie>Everbode </locatie>geweijd en gemeyterd den Eerw. <persoonsnaam>Heere</persoonsnaam></l>
+					<l><persoonsnaam>Joes Bapta Vermaelen als Abt van <locatie>S. Michiels.</locatie></persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'><datum datum='1717-xx-xx'>1717</datum>.</hi></l>
+					<l><datum datum='1717-01-xx'>in januario</datum> is de Choor der eerw<hi rend='superscript:true;'>ge</hi> Pater Augustijnen</l>
+					<l>geleemplakt was aldan volmaekt.</l>
+					<l>den selven tijd zijn de 12. Apostels gesteld tot de</l>
+					<l>P.P. Predikheeren in <locatie>de kerk aende Pilaeren</locatie>.</l>
+					<l><datum datum='1717-04-11'>11 April </datum>naer middag ontrent alf 4. is <persoonsnaam>den Czar van</persoonsnaam></l>
+					<l><persoonsnaam>groot Rusland</persoonsnaam>, onder het drijmael lossen van &apos;t Ka¬</l>
+					<l>non vandeeze stad en van <locatie>&apos;t kasteel</locatie> en omliggende</l>
+					<l>forten, in een Yagt der Heeren Staeten van <locatie>Holland</locatie>,</l>
+					<l>gearriveerd voor Deeze stad; blijvende eenigen tyd op</l>
+					<l>de rivier, en ontrent den 7. ueren aen Land gekoo¬</l>
+					<l>men zijnde, wierd hij ontfangen, en verwollekomt</l>
+					<l>en gekomplimenteerd door <persoonsnaam>den Hertog van Holstein¬</persoonsnaam></l>
+					<l><persoonsnaam>ploen, en den Prince de la Tour, comissarissen ge¬</persoonsnaam></l>
+					<l><persoonsnaam>denomineert door zijne Excel. den Marquis de Prié</persoonsnaam></l>
+					<l>van Wegens zijne K. en K. M., om dien vorst te ver¬</l>
+					<l>gezellen over al, en zoo lang hij zijn verblijf</l>
+					<l>zal houden in dit Land: vervolgens wierd diën</l>
+					<l>monarch met eenen grooten trijn van koetzen</l>
+					<l>geconduiseert na <locatie>de Abdije van S. Michiel</locatie>, en</l>
+					<l>ontfing aldaar de complimenten van d&apos; Heeren van</l>
+					<l>&apos;t Magistraet, dewelke hem Presenteerde den wijn</l>
+					<l>van Eere. op <datum datum='1717-04-12'>12. April </datum>wird hij gecomplimenteert</l>
+					<l></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1717-xx-xx'><hi rend='underlined:true;'>1717</hi></datum></l>
+					<l>door zijne Doorl. Hoogw. den Heere Bischop vandeeze</l>
+					<l>stad, en door den <persoonsnaam>Prins d&apos; Esquilache gouverneur der</persoonsnaam></l>
+					<l><persoonsnaam>Citadelle &amp;c.</persoonsnaam></l>
+					<l><datum datum='1717-04-13'>13. ditto</datum> na noen ten 3 ueren is <persoonsnaam>zijne Czarsche Majes¬</persoonsnaam></l>
+					<l><persoonsnaam>teijt</persoonsnaam> vertrokken te water na <locatie>Brussel</locatie>.</l>
+					<l><datum datum='1717-05-28'>28. Meij </datum>is den <persoonsnaam>Borgermeester Del Campo </persoonsnaam>overleden</l>
+					<l>en is begraeven in <locatie>S. Andries Kerk</locatie>, en geweest Borger¬</l>
+					<l>meester van &apos;t jaer <hi rend='underlined:true;'><datum datum='1713-xx-xx'>1713</datum>.</hi> tot <datum datum='1717-xx-xx'> <hi rend='underlined:true;'>1717</datum>.</hi> en weynigere tijd te</l>
+					<l>vooren geworden<persoonsnaam> vicomte de la Camera.</persoonsnaam></l>
+					<l><datum datum='1717-06-20'>20. junij</datum> is het Beurt schip van<locatie> Dort, </locatie>op anker liggende</l>
+					<l>voor <locatie>Bergen op Zoom </locatie>door een orcaen omgeslaegen;</l>
+					<l>waer op waeren 6. passagiers die gelukkig gered zijn.</l>
+					<l><datum datum='1717-xx-08'>8 7ber</datum>, weezende den Verordineerden Dag om den Almo¬</l>
+					<l>genden Godt ende Heer der heirkragten te bedanken</l>
+					<l>voor de triomphante overwinninge, dewelke het Keijzerlijk</l>
+					<l>Leger onder de Bestieringe van<persoonsnaam> Prins Eugenius van Savoeijen</persoonsnaam></l>
+					<l>op den <datum datum='1717-08-16'>16. August</datum>i bij <locatie>Belgrado</locatie> op de <locatie>Turken</locatie> heeft bevog¬</l>
+					<l>ten, smorgens ten elf ueren geschiede in <locatie>de Cathedrale</locatie></l>
+					<l><locatie>Kerke </locatie>door den Heere Bisschop onder het luijden der triomphe</l>
+					<l>klok en grooten toe loop van volk een solemnele Misse</l>
+					<l>in de welke tegenwoordig waren den<persoonsnaam> Prins d&apos; Esquilache</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'><datum datum='1717-xx-xx'>1717</datum>.</hi></l>
+					<l>gouverneur der Citadelle, ende Heeren van t&apos; Magis¬</l>
+					<l>straet in corpora benevens veele andere Personen</l>
+					<l>van Rang.</l>
+					<l>na der Misse intoneerde zijne voorgemelde Hoogh.</l>
+					<l>den <hi rend='underlined:true;'>Te Deum Laudamus</hi> den welken gezongen</l>
+					<l>wierd onder eene drij malige losbranding van &apos;t</l>
+					<l>kanon der Stad en <locatie>Citadelle</locatie> en forten &amp;c.</l>
+					<l>&apos;Savond was<locatie> &apos;t stadhuijs</locatie> zeer uijtmuntend verciert,</l>
+					<l>en met menige witte flambeeuwen verligt, voor</l>
+					<l>&apos;t zelve was onder een zeer kostelyk verheemeldzel</l>
+					<l>gesteld het Portrait van zijne keijz. Majesteijt.</l>
+					<l>tusschen 7. en 8. ueren terwylen de Gilde kamers</l>
+					<l>ook met fakkels verligt waren, wirden wederom</l>
+					<l>onder het luijder der groote klok, het speelen der Beij¬</l>
+					<l>aerts en het geschal van Schalmeijen, trompetten en</l>
+					<l>keteltrommels verscheij @avo geschooten door &apos;t grof</l>
+					<l>geschut en mousqi@tterije van &apos;t garnizoen.</l>
+					<l><locatie>het Opperste van den toren der hooftkerk</locatie> was</l>
+					<l>door een groot getal van lanternen, die een keijzers</l>
+					<l>kroon verbeelden cierlyk verligt.</l>
+					<l>ten alf 10. wird voor het stadhijs een schoon vuur¬</l>
+					<l>werk afgestooken, en door de meeste straeten van</l>
+					<l>de stad zag men </l>
+					<l>ontallike</l>
+					<l>vreugde vueren.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'><datum datum='1717-xx-xx'>1717</datum>.</hi></l>
+					<l><datum datum='1717-10-11'>11. 8ber</datum> is zijne Keijzerl. Majesteijt tot<locatie> Brussel </locatie>geha@</l>
+					<l>als <persoonsnaam>Hertog van Brabandt</persoonsnaam>.</l>
+					<l><datum datum='1717-10-18'>18. d10itto</datum> tot<locatie> Gend</locatie> als <persoonsnaam>graev van Vlaenderen.</persoonsnaam></l>
+					<l><datum datum='1717-11-18'>18. 9ber </datum>na middag wierd hier zeer pragtig ingehaeld</l>
+					<l><persoonsnaam>Ludovicus josephus Cambier</persoonsnaam> als primus van <locatie>Loven</locatie>:</l>
+					<l>de Eerw.<hi rend='superscript:true;'>ge</hi> P.P. Augustijnen (bij dew. hij alle zijne latijn</l>
+					<l>sche schoolen benevens ook den Dialectica heeft</l>
+					<l>gehoort) eijn deezen hunnen Campioen ontrent</l>
+					<l>eene mijle buyten de stad te gemoet gegaen met</l>
+					<l>een dobbel cavalcade uijt de jonkheijd hunner col¬</l>
+					<l>legie, onder &apos;t geschal van timballen en trompetten,</l>
+					<l>en geacompagneert door de koetsen met 6. peerden</l>
+					<l>van zijne Doorl. Hoogw: en van zijne Excel. den <persoonsnaam>Prins</persoonsnaam></l>
+					<l><persoonsnaam>d&apos; Esquilache</persoonsnaam>, en verscheijde andere koetsen en</l>
+					<l>wird alzoo onder het luijden der groote klok gebrogt</l>
+					<l>binnen deeze stad, alwaer ook stond een triomphwagen</l>
+					<l>verciert met Pallas, als ook met eenige vrije konsten,</l>
+					<l>Deugden &amp;c. en alzoo voortrydende tot aen zijn collegie,</l>
+					<l>geschiede hem eene korte gelukwensching vervolgens trad</l>
+					<l>hij in <locatie>de kerk der Eerw. P.P. Augustijnen</locatie> alwaer men</l>
+					<l>den Almogenden Godt bedankte, door het zingen van</l>
+					<l>eenen musicalen te Deum onder het lossen van &apos;t kanon</l>
+					<l>der <locatie>Citadelle</locatie>. daer na begaf hij zig na <locatie>het Palleijs </locatie>van</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'><datum datum='1717-xx-xx'>1717</datum>.</hi></l>
+					<l>van <persoonsnaam>Zijne Doorl. Hoogh. den Heere Bisschop, vandeun.</persoonsnaam></l>
+					<l>in <locatie>de kapell des palleijs</locatie> de Benedictie ontfangen heb¬</l>
+					<l>bende, reed hij na <locatie>het Stadhuijs</locatie>; hier wird den Heer</l>
+					<l>primus door de Heere van &apos;t Magistraet zeer jonstiglijk</l>
+					<l>ontfangen, en door den Heer pensionaris gecomplimen¬</l>
+					<l>teert zijnde, geleijd in de Staeten kamer, en begiftigd</l>
+					<l>met een Zeer treffelijk present, waer over eene ootmoedige</l>
+					<l>dankbaarheijd getoont hebbende, vervolgde hij met den</l>
+					<l>gansschen Trijn onder eenen grooten toeloop van</l>
+					<l>volk; Zijnen Weg na het huijs van Zyne agt¬</l>
+					<l>baere moeder, hetgene Zeer uijtmuntende verciert</l>
+					<l>was, voor hetw., gelyk ook in de nabuerschap opge¬</l>
+					<l>regt waeren verscheijde Staeken met pektonnen,</l>
+					<l>hebbende deeze vrolijkheijd geduert tot diep in den</l>
+					<l>nagt.</l>
+					<l><datum datum='1717-10-25'>25. 10ber</datum> heeft het Smorgens ten 11. ueren Zeer hoogen</l>
+					<l>vloet geweest.</l>
+					<l><hi rend='underlined:true;'><datum datum='1718-xx-xx'>1718</datum>.</hi></l>
+					<l><datum datum='1718-01-23'>23. anni </datum>&apos;S morgens ten 9. ueren is op<locatie> den hoek van</locatie></l>
+					<l><locatie>de winkelstraet en onze merkt</locatie> een huijs ingeval¬</l>
+					<l>len waer in waeren vier menschen, doch alle</l>
+					<l>vier gered zonder ongeluk.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'><datum datum='1718-xx-xx'>1718</datum>.</hi></l>
+					<l><datum datum='1717-02-14'>14. en </datum><datum datum='1717-02-15'>15. feb</datum>. is er eenen oploop geweest van de Zeijde</l>
+					<l>Stofwerkers om de Zeijde Stoffen die aengekoomen</l>
+					<l>zijn tot <locatie>Ostende</locatie> men een Schip uijt <locatie>oostindiën</locatie>;</l>
+					<l>zij hebben een bael vouw Zeijde gehaeld uijt het huijs</l>
+					<l>van de <persoonsnaam>Wed<hi rend='superscript:true;'>e</hi> praet</persoonsnaam> in <locatie>de Cammerstraet</locatie> nu getrouwdt</l>
+					<l>met Zekeren <persoonsnaam>ouden hoven</persoonsnaam>, welke Zeijde Zij verbrand</l>
+					<l>hebben op <locatie>de groote merkt</locatie>, als ook eenige Zeijde</l>
+					<l>Stoffen die zij hadden gehaeld uyt verscheijde</l>
+					<l>huijsen. de gilden en wijken waeren alsdan op</l>
+					<l>de been om den oploop te Stutten.</l>
+					<l><datum datum='1717-07-04'>4. julij</datum> is een kruijs gestelt op <locatie>S. Andries kerk</locatie> aen de</l>
+					<l>zijde vanden toren.</l>
+					<l><datum datum='1717-06-30'>30. junij </datum>&apos;S nags ten elf ueren is hier binnen <locatie>Antwerpen</locatie></l>
+					<l>naer eene lange en pijnelijke Ziekte in den ouderdom</l>
+					<l>van 53 jaeren overleden <persoonsnaam>monseigneur Don Louis</persoonsnaam></l>
+					<l><persoonsnaam>de Borja ij Antillas Marquis van tarazena, en</persoonsnaam></l>
+					<l><persoonsnaam>van S. Damien Prins van Esquilache, hertog van</persoonsnaam></l>
+					<l><persoonsnaam>Ciudadreal, grave van aramaijona, vicomte van</persoonsnaam></l>
+					<l><persoonsnaam>Zantaneva, Ridder van &apos;t order van S. Jacob, comman</persoonsnaam></l>
+					<l><persoonsnaam>deur van Sargat en genet heere van de Stad en landen</persoonsnaam></l>
+					<l><persoonsnaam>van jodoigne, mestre de Camp generael, en velt</persoonsnaam></l>
+					<l><persoonsnaam>maerschal generael van de Legers van zijne</persoonsnaam></l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l><datum datum='1718-xx-xx'>1718</datum></l>
+					<l>Keyzerlijke en Katholike Majesteijt en van zijnen</l>
+					<l>raed van oorlog, grande van <locatie>Spagnien</locatie> van de</l>
+					<l>eerste klasse, en gouverneur vande Citadelle van</l>
+					<l><locatie>Antwerpen</locatie> &amp;c..</l>
+					<l>desselfs lighaem <hi rend='strikethrough:true;'>is overleden</hi> wird saterdag<datum datum='1718-07-02' when='1718-07-02'> 2. julij </datum>&apos;s avonds</l>
+					<l>tot dat de solemnele Lijkdiensten daer over zullen</l>
+					<l>gedaen worden met weijnige Ceremonien bygezet<locatie> in</locatie></l>
+					<l><locatie>kerke van &apos;t kasteel.</locatie></l>
+					<l><datum datum='1718-07-16' when='1718-07-16'>16 julij</datum>  weezende eenen maendag ontrent den middag</l>
+					<l>was alhier een schroomelijk onweder van donder en</l>
+					<l>blixem en regen, waerdoor onder andere onge¬</l>
+					<l>lukken <locatie>de uytter maten schoone en vermaerde</locatie></l>
+					<l><locatie>kerke van &apos;t Proffessie huijs der Eerw. P.P. jesui¬</locatie></l>
+					<l><locatie>ten, </locatie>altemael van ma@hoor, aen het dak in</l>
+					<l>den brant geraekte, en in twee ueren tyd is, niet</l>
+					<l>tegenstaende alle mogelijke tegenweêr, met alle de</l>
+					<l>kostelijke schildereijen doorde woedende en schrikkelij¬</l>
+					<l>ke vlammen ellendig tot eenen puijn hoop wierd geleijd.</l>
+					<l><datum datum='1718-07-20' when='1718-07-20'>20 julij </datum>smorgens om tien ueren geschiede inde kerk</l>
+					<l>van &apos;t kasteel van<locatie> Antwerpen</locatie> eenen solemnelen Lijkdienst</l>
+					<l>voor de ziele vanden Doolugtigen <persoonsnaam>prins van Van Esqui¬</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><persoonsnaam><hi rend='underlined:true;'>1718.</hi></persoonsnaam></l>
+					<l><persoonsnaam>lache</persoonsnaam> gouverneur van &apos;t kasteel die den <datum datum='1718-06-30' when='1718-06-30'>30. junij </datum>was over¬</l>
+					<l>leden: de misse wird gecelebreert door zijne doorl.</l>
+					<l><persoonsnaam>Hoogw. Petrus jos. Bisschop </persoonsnaam>deezer stad ten byweezen</l>
+					<l>van de Eerw. Heeren Abten van S. Michiel en S. Salva¬</l>
+					<l>tor, van de Overste van alle Kloosters, van de Edele</l>
+					<l>Heeren van &apos;t Magistraet, van alle gouverneurs</l>
+					<l>der forten, d&apos; Officiers van &apos;t garnizoen van veele</l>
+					<l>andere treffelyke persoonen.</l>
+					<l>de kerk was rondom behangen met zwerten baij,</l>
+					<l>verciert met de wapens van zijne overledene Excel¬</l>
+					<l>lentie, en in &apos;t midden der zelve was opgeregt een</l>
+					<l>hoog-verheven Chapelle ardente omringt met meer</l>
+					<l>als hondert witte flambeuwen en voorzien met</l>
+					<l>de zelve wapens, en aen den voet vandewelke</l>
+					<l>door vijf dood beklaegende figueren verbeeld stonden:</l>
+					<l>de ydelheijd des werelds, de Glorie, de kortheyd van &apos;t</l>
+					<l>menschen leeven, ende zekerheijd van de Dood.</l>
+					<l>de misse, dewelke gezongen wird door de fameustte mu¬</l>
+					<l>siekanten deezer stad, en onder het koninglyk geluy</l>
+					<l>hetgeene drij weeken duerde, geeyndigd zijnde, begon</l>
+					<l>den<persoonsnaam> Eerw. Pater Lancier Corecctor</persoonsnaam> van de Eerw. paters mi¬</l>
+					<l>nimen, en predikkun van zyne keijzerlyke en Catholike</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l><datum datum='1718-xx-xx'>1718</datum></l>
+					<l>majesteijt het Lijk-Sermoon, vervattende de door¬</l>
+					<l>lugtige afkoomst van Zijne Excellentie, zijne</l>
+					<l>manhaftige daeden, Zijne getrouwe diensten voor</l>
+					<l>het doorlugtig huijs van <locatie>Oostenryk</locatie> en zijne</l>
+					<l>andere deugden met dew. hij Zijn Leeven roemweer¬</l>
+					<l>dig heeft geeyndigt &amp;c.,</l>
+					<l><datum when='1718-11-24'>24. 9ber</datum> is<locatie> op kroonenborg kaij</locatie> een klok scheep ge</l>
+					<l>daen voor de Stad <locatie>brugge </locatie>Weegende 21. duijzend</l>
+					<l>ponden gegooten door <persoonsnaam>guilliam Witlockx</persoonsnaam>.</l>
+					<l><datum datum='1719-xx-xx'>1719</datum></l>
+					<l><datum when='1719-01-20'>20, anni</datum> Zijn de Spagniaerts van het Kasteel van</l>
+					<l><locatie>Antwerpen</locatie> vertrokken, en de Duytsche in plaets</l>
+					<l>gekoomen die gedient hadden in <locatie>Hungarien</locatie>.</l>
+					<l><datum datum='1719-03-09' when='1719-03-09'>9. meert </datum>&apos;Smorgens ten 11. ueren is den eersten</l>
+					<l>Steen geleijd, van<locatie> de Afgebrande Kerk van</locatie></l>
+					<l><locatie>de P.P. jesuiten,</locatie> door Zijne <persoonsnaam>Hoogw. Petrus jos</persoonsnaam>.</l>
+					<l>en den tweeden, door door de Edele Heeren <persoonsnaam>Alex. Jos. van</persoonsnaam></l>
+					<l><persoonsnaam>Halmak</persoonsnaam> en <persoonsnaam>Jois Carel van Hove Borgermeesters</persoonsnaam>, re¬</l>
+					<l>presenteerende het geheel Corps van &apos;t Magistraet,</l>
+					<l>den derden is geleyd door <persoonsnaam>Joes Carl. van Hove</persoonsnaam> <hi rend='strikethrough:true;'>van Halmale</hi> voornoemt</l>
+					<l>den 4den door <persoonsnaam>A.J. van Halmale</persoonsnaam> voors. ider met zyn</l>
+					<l>wapen daer op.</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l><datum datum='1719-xx-xx'>1719</datum>.</l>
+					<l>op <datum datum='1719-03-26' when='1719-03-26'>26. meet</datum> isser eene Groote Confusie</l>
+					<l>geschiet i<locatie>nde Solaliteyt van de PP.</locatie></l>
+					<l><locatie>Jesuiten,</locatie> te weeten: eenen ouden</l>
+					<l>man ontrent 50 jaeren is komen</l>
+					<l>knielen op den Communie</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1719-xx-xx'>1719</datum></l>
+					<l>die 4. Steenen liggen onder de 4. eerste pilaeren</l>
+					<l>naest den hoogen Autaer.</l>
+					<l><datum datum='1719-06-18' when='1719-06-18'>18. junij</datum> wird eenen Biddag ingesteld voor 8. dagen voor de</l>
+					<l>Droogte des Lands, en &apos;Savonds na het Lof ging de</l>
+					<l>Processie de kleijnen toer. item 25. ditto wederom</l>
+					<l>vernieuwd voor 8 dagen.</l>
+					<l>den Zelven Dag hebben de Conticteurs met groote</l>
+					<l>magnificentie verheft de Reliquien van den Zaligen</l>
+					<l><persoonsnaam>Aloyisius Gonzaga</persoonsnaam>.</l>
+					<l><datum datum='1719-05-26' when='1719-05-26'>26. Mei</datum>j is van hier afgevaeren een State yacht van</l>
+					<l><locatie>Holland</locatie>, en is den Zelven Dag op anker Liggende</l>
+					<l>tusschen <locatie>het Eyland Schouwen</locatie> en de <locatie>Willemstad</locatie></l>
+					<l>door een furieus orcaen omgeslaegen en gezonken,</l>
+					<l>waer in waren <persoonsnaam>M<hi rend='superscript:true;'>r</hi> Vos Comies </persoonsnaam>van de finantie van</l>
+					<l><locatie>Holland</locatie>, <persoonsnaam>M<hi rend='superscript:true;'>r</hi> vanden cragt eersten comies</persoonsnaam> van &apos;t Comp¬</l>
+					<l>toir generael van Holland, <persoonsnaam>M<hi rend='superscript:true;'>r</hi>. Wevering </persoonsnaam>oudsten zoon</l>
+					<l>van <persoonsnaam>M<hi rend='superscript:true;'>r</hi> van holij</persoonsnaam> met Zijnen Zoon en knegt, en</l>
+					<l>vier bootsgezellen dew. Zyn verdronken. <persoonsnaam>M<hi rend='superscript:true;'>r</hi> van</persoonsnaam></l>
+					<l><persoonsnaam>holij</persoonsnaam> en <persoonsnaam>Valkenborg</persoonsnaam> hebben Zig met groote moeijte door</l>
+					<l>het zwemmen gesalveert.</l>
+					<l><datum datum='1719-07-09'>9. julij</datum> is den voorgen. biddag voor de Droogte der Aerde</l>
+					<l>geslooten.</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l><datum datum='1719-xx-xx'>1719</datum></l>
+					<l><datum datum='1719-07-01' when='1719-07-01'>primo julij </datum>hebbenze begonst <locatie>St. Michiels bolwerk</locatie></l>
+					<l>de boomen uijt te doen om de mueren te hermae</l>
+					<l>ken die zeer gescheurt waren.</l>
+					<l><datum datum='1719-07-30' when='1719-07-30'>30. ditto</datum> isser eenen Biddag ingesteld voor drij dagen voor</l>
+					<l>de droogte der aerde; den Biddag duerde 3 dagen</l>
+					<l>en alle de Parochien met hunne Confrerie moesten</l>
+					<l>in<locatie> O.L.V. Kerke </locatie>koomen bidden ieder een uere,</l>
+					<l>als ook alle de kloosters met hunne Confrerie na </l>
+					<l>advenant. Savonds tusschen het Lof wird er eene solem¬</l>
+					<l>neele Processie gehouden Langs den <locatie>Grooten toer </locatie>met</l>
+					<l>alle de Ambagten en Gilden als ook met de Geestelyk¬</l>
+					<l>heijd.</l>
+					<l><datum datum='1719-08-22' when='1719-08-22'>22. Augusti</datum> is voor den Eersten reijze in O.L.V. dispuet</l>
+					<l>geweest door die van&apos;t Seminarium van den <persoonsnaam>Bisschop</persoonsnaam></l>
+					<l><persoonsnaam>Petrus Jos</persoonsnaam>. die het dispuet Defendeerde.</l>
+					<l><datum datum='1719-09-04' when='1719-09-04'>4. 7ber</datum> is den Poeder molen by het <locatie>Dwinghuijs</locatie> in brand</l>
+					<l>geraekt en gesprongen, dog geene werkelyke schade</l>
+					<l>geschiet, dan allenelyk aen de pannen van&apos;t dak en het</l>
+					<l>houte Schutzel, en het Peerd wat verbrand.</l>
+					<l>additio *</l>
+					<l><datum datum='1720-xx-xx'>1720</datum>.</l>
+					<l><datum datum='1720-03-27' when='1720-03-27'>27. meert</datum> na noen is&apos;t zeer hoogen vloet geweest,</l>
+					<l>zoo dat <locatie>de schipstraet</locatie> onder water stond, als ook</l>
+					<l>de peerde markt enden appelen dijk doorgespoeld,</l>
+					<l>als ook over andere dijken over geloopen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1720-xx-xx'>1720</datum></l>
+					<l><datum datum='1720-05-03' when='1720-05-03'>3. mey</datum> hebben de Eerw: P.P. minderbroeders verheft de Reli¬</l>
+					<l>quien van &apos;t Heijlig kruijs, onder het luyden der Groote</l>
+					<l>klok.</l>
+					<l><datum datum='1720-07-01' when='1720-07-01'>1. julij</datum> zyn de 25 @ opgegaen ten platte Lande.</l>
+					<l>*<datum datum='1720-09-14' when='1720-09-14'> 14. 7be</datum>r naar dat</l>
+					<l>Eene Zeer groote do</l>
+					<l>beeken en gragten</l>
+					<l>het eyndelyk aen</l>
+					<l>gewenschten regen</l>
+					<l><datum when='1720-11-01'>1. 9ber</datum> Smorgens tus</l>
+					<l>Den <persoonsnaam>Heer Marquis</persoonsnaam></l>
+					<l>kasteel aan Auta.</l>
+					<l>langs de Poort van</l>
+					<l>neurs huys wierden</l>
+					<l>voorders ging hij na</l>
+					<l>wird gezongen &amp;</l>
+					<l><datum datum='1720-11-06' when='1720-11-06'>6. november</datum> is de</l>
+					<l>pend en in de zeke</l>
+					<l>tot loop van volk</l>
+					<l>Door zijne Doorl</l>
+					<l>Lof wird dien te</l>
+					<l><datum when='1720-12-25'>25. 10 be</datum>r is mijn heer</l>
+					<l>vis in plaets van D</l>
+					<l>op <datum when='1719-12-25'>25 xber. 1719</datum>.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1719-03-29' when='1719-03-29'>29. meert 1719</datum>. viel er veel quad vuer</l>
+					<l>uyt de logt, waer door het zoo ligt</l>
+					<l>was alof het dag was. dit duer</l>
+					<l>de weijnig tyds.</l>
+					<l><datum datum='1719-08-04' when='1719-08-04'>4. aug 1719</datum>. was alhier een schromelyk</l>
+					<l>onweder van donder en Blixem,</l>
+					<l>en grooten regen, begons ontrent</l>
+					<l>5. ueren na noen en duerde tot 9.</l>
+					<l>ueren &apos;Savonds, (maer godt lof) geene</l>
+					<l>merkelijke schade is ergeschiet, als</l>
+					<l>daer onder andere sloeg den <hi rend='strikethrough:true;'>donder</hi></l>
+					<l>Blixem op <locatie>de peerde markt </locatie>in eenen</l>
+					<l>kelder twee vaetjens met Smout in</l>
+					<l>in den brand, maer wierd @@@@ ge¬</l>
+					<l>blust.</l>
+					<l>op <datum datum='1719-09-14' when='1719-09-14'>14. 7ber 1719</datum>. na dat men dezen geheelen</l>
+					<l>somer had gesweet een onbeschrijftelyke</l>
+					<l>droogte, waervoor alle klyne rivieren,</l>
+					<l>beeken, gragten en vijvers byna teene</l>
+					<l>mael uijtgedroogt waeren, heeft het</l>
+					<l>eyndelyk belieft aen den Almogenden</l>
+					<l>Godt den gewenschten en lang ver¬</l>
+					<l>zogten reegen te verleenen.</l>
+					<l><datum datum='1719-09-19' when='1719-09-19'>19. September 1719</datum>. is <persoonsnaam>Anneessens</persoonsnaam> tot <locatie>Brussel</locatie></l>
+					<l>onthoofd.</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l>zeer veele schade geschiet aen den</l>
+					<l><locatie>Dyk vant Hobooksbroek </locatie>denw[elke]. door</l>
+					<l>gespoelt is, als ook de <locatie>Appelendijk</locatie></l>
+					<l>waar mede de geheele vlayleij onder</l>
+					<l>water stond, en de blykhoven daer</l>
+					<l>ontrent met de laeke zaem.</l>
+					<l>Door den zelven vloed zijn ook door</l>
+					<l>gebroken de volgende Polders: het</l>
+					<l><locatie>Basels-Broek</locatie> en <locatie>Cruybeek-Broek</locatie></l>
+					<l>de <locatie>Peerde-Schoor</locatie> <locatie>Sinte Anna Cetenis</locatie></l>
+					<l><locatie>den Luijspolder</locatie> boven den <locatie>Doel</locatie></l>
+					<l>den <locatie>Noordpolder</locatie>, <locatie>de klink</locatie>, kaldreysche</l>
+					<l>borgerweist polder van <locatie>nuemen </locatie>de</l>
+					<l>poorten van <locatie>Hulst </locatie>wirden door</l>
+					<l>het water weggespoelt. <locatie>Speelmans</locatie></l>
+					<l><locatie>polder</locatie>, <locatie>middel polder</locatie> den <locatie>perkpolder</locatie></l>
+					<l>en meer andere</l>
+					<l><datum datum='1718-09-21' when='1718-09-21'>21 7ber 1718</datum> is <locatie>de kerk der karthuysers tot</locatie></l>
+					<l><locatie>Lier </locatie>geweyd door zyn Hoog@@ <persoonsnaam>Pet.</persoonsnaam></l>
+					<l><persoonsnaam>JvS Bisschop </persoonsnaam>van <locatie>Antwerpen</locatie>. </l>
+					<l><datum datum='1720-09-18' when='1720-09-18'>18 7ber 1720</datum> is <persoonsnaam>Jasper Schreynmaec¬</persoonsnaam></l>
+					<l><persoonsnaam>kers</persoonsnaam> werdyn vande munt overleeden.</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l><datum datum='1719-xx-xx'>1719</datum></l>
+					<l><datum datum='1719-07-01' when='1719-07-01'>primo julij </datum>hebbenze  begonst S<locatie>t. michiels bolwerk</locatie></l>
+					<l>de boomen uijt te doen over de mueren te hermae¬</l>
+					<l>ken die zeer gescheurt waren.</l>
+					<l><datum when='1719-07-30'>30 ditto</datum> isser eenen Biddag ingesteld voor drij dagen voor</l>
+					<l>de Droogte der aerde, den Biddag duerde 3  dagen</l>
+					<l>en alle de Parochien met hunne Confrerie moesten</l>
+					<l>in <locatie>O.L.V. Kerke </locatie>koomen bidden ieder een uere,</l>
+					<l>als ook alle de kloosters met hunne Confrerie na</l>
+					<l>advenant. Savonds tusschen het Lof wird er eene solem¬</l>
+					<l>neele Processie gehouden langs den<locatie> Grooten toer</locatie> met</l>
+					<l>alle de Ambagten en Gilden als ook met de Geestelyk¬</l>
+					<l>heijd.</l>
+					<l><datum datum='1719-08-22' when='1719-08-22'>22. Augusti</datum> is voor den Lesten reijze in O.L.V. dispuet</l>
+					<l>geweest door die van&apos;t Seminarium van den <persoonsnaam>Bisschop</persoonsnaam></l>
+					<l><persoonsnaam>Petrus Jos</persoonsnaam>. die het dispuet Defendeerde.</l>
+					<l><datum datum='1719-09-04' when='1719-09-04'>4 7ber</datum> is den <locatie>Poeder molen</locatie> by het <locatie>Dwinghuijs</locatie> in brandt</l>
+					<l>geraekt en gesprongen dog geene merkelyke Schade</l>
+					<l>geschiet, dan allenelyk de pannen van&apos;tdak en het</l>
+					<l>houte Schutzel, en het Peerd wat verbrand.</l>
+					<l>additio *</l>
+					<l><datum datum='1720-xx-xx'>1720</datum>.</l>
+					<l><datum datum='1720-03-27' when='1720-03-27'>27 meert</datum> na noen is &apos;t zeer hoogen vloet geweest,</l>
+					<l>Zoo dat de <locatie>Schipstraet</locatie> onder water stond, als ook,</l>
+					<l>de <locatie>peerde markt </locatie>enden <locatie>appelen Dijk </locatie>doorgespoeld,</l>
+					<l>als ook over ander dijken over geloopen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1720-xx-xx'>1720</datum></l>
+					<l><datum datum='1720-05-03' when='1720-05-03'>3 meij</datum> hebben de Eerw P.P. minderbroeders Verheft de Reli¬</l>
+					<l>quien van &apos;t Heijlig Kruijs, onder het luyden der Groote</l>
+					<l>klok.</l>
+					<l><datum datum='1720-07-01' when='1720-07-01'>1 julij </datum>zijn de 25 opgegaen ten platte Lande.</l>
+					<l><datum datum='1719-xx-xx'>1719</datum></l>
+					<l><datum datum='1719-09-14' when='1719-09-14'>14. 7ber</datum> naer dat het den geheelen Zomer had geweest</l>
+					<l>Eene zZeer groote droogte, waer door de klijne revieren,</l>
+					<l>beeken en gragten byna uytgedroogt waren, heeft</l>
+					<l>het eyndelyk aen den Almogenden belieft den lang</l>
+					<l>gewenschten regen te verleenen.</l>
+					<l><datum when='1719-11-01'>1. 9ber </datum>smorgens tusschen 12. en 1. uer heeft Zijne Excel.</l>
+					<l>den Heer <persoonsnaam>Marquis de Rubie </persoonsnaam>Zynen intrée gedaen op&apos;t</l>
+					<l>kasteel van <locatie>Antw.</locatie> als gouverneur. Zyn Excel. kwam</l>
+					<l>langs de <locatie>Poort van Secours</locatie>, koomende aen &apos;t Gouver¬</l>
+					<l>neurs huys wierden hem daer de Sleutels gepresenteerd;</l>
+					<l>voorders ging hij na de Kerk alwaer den te Deum</l>
+					<l>wird gezongen &amp;c.</l>
+					<l><datum datum='1719-11-06' when='1719-11-06'>6. november</datum> is de kerke vande Eerw: P.P. Jesuiten geo¬</l>
+					<l>pend en in de zelve ten elf ueren onder eenen grooten</l>
+					<l>toeloop van volk eene solemnele Misse gecelebreert</l>
+					<l>Door zijne Doorl. Hoogw. ontrent den Avond na &apos;t</l>
+					<l>Lof wird den te Deum gezongen &amp;c.</l>
+					<l><datum when='1710-12-28'>28. 10ber</datum> is mijn <persoonsnaam>heer den tresorier van Hove</persoonsnaam> gekoosen pensiona¬</l>
+					<l>ris in plaets van <persoonsnaam>Dheer Loun</persoonsnaam> die tot <locatie>Brussel</locatie> gestorven was</l>
+					<l>op <datum when='1719-12-25'>25 xber. 1719</datum>.</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l><datum datum='1720-xx-xx'>1720</datum></l>
+					<l><datum datum='1720-07-04' when='1720-07-04'>4. july</datum>. na noen ontrent 6. ueren zijn hier aen</l>
+					<l><locatie>S. Joris Poort</locatie>, door het Cappittel van S. Jacobs, als</l>
+					<l>ook door de Confrerie vande H. Drijvuldigheijd, met</l>
+					<l>grooten toeloop van volk, ingehaeld 30 verloste</l>
+					<l>Christene Slaeven.</l>
+					<l>van de poort wirden zy gelijd door eenige Engelen</l>
+					<l>na de <locatie>kerke van S. jacobs </locatie>alwaer den te Deum</l>
+					<l>wird gezongen.</l>
+					<l>op <datum when='1720-07-05'>5. ditto </datum>wird er &apos;smorgens ten 10. ueren gezongen</l>
+					<l>eene Solemnele misse, waer naer eene Solemnele</l>
+					<l>Processie wird gehouden met de voors Slaeven</l>
+					<l>en Engelen langs den <locatie>Grooten toer</locatie>.</l>
+					<l>tussen <datum when='1720-07-30'>30</datum>. en <datum datum='1720-07-31'>31. julij </datum>is hier Snags een schroome¬</l>
+					<l>lyk onweder geweest zoo dat er veel schade is</l>
+					<l>geschiet aen O.L.V. toren aen &apos;t<locatie> Steenwerk</locatie>.</l>
+					<l><datum when='1720-08-15'>15. Aug</datum>. Smorgens ten 3. ueren is den ouden <persoonsnaam>Pensio¬</persoonsnaam></l>
+					<l><persoonsnaam>naris Louns</persoonsnaam> overleden.</l>
+					<l><datum when='1720-10-19'>19. 8ber</datum> isser Smorgens ten 7. ueren eenen grooten</l>
+					<l>water vloed geweest, ende Sluijs agter het tugt¬</l>
+					<l>huijs gebroken, zoo dat <locatie>Ferdinandus Polder</locatie></l>
+					<l>onder geloopen was.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1720-xx-xx'>1720</datum></l>
+					<l><datum when='1720-11-17'>17. 9be</datum>r isser eenen biddag ingesteld voor 6. weeken</l>
+					<l>om den Almogenden Godt te verzoeken dat hij deeze</l>
+					<l>Stad wilde bevrijden van de Peste die als dan binnen</l>
+					<l>Marcelien was en in de omliggende Landen.</l>
+					<l>Smorgens ten 9. uren geschiede in<locatie> O.L.V. kerk</locatie></l>
+					<l>eene Solemnele Misse door zijne Doorl. <persoonsnaam>Hoogw. Petrus</persoonsnaam></l>
+					<l><persoonsnaam>Jos.</persoonsnaam> waer naer volgde een procesie met de Ambagten</l>
+					<l>en Gilden &amp;c. gelijk ook geschiede in de andere</l>
+					<l>Parochien.</l>
+					<l><datum when='1720-12-01'>1. xber</datum> isser met eenen Zuijden wind eenen grooten</l>
+					<l>water vloed geweest, zoo dat er eene groote Schaede</l>
+					<l>is geschiet en voor het veêr een Schip is gezonken</l>
+					<l>gelaeden met kassije Steenen.</l>
+					<l><datum when='1720-12-31'>31. ditto</datum> isser &apos;S avond wederom grooten water</l>
+					<l>vloed geweest. zoo dat er wederom groote Schade</l>
+					<l>is geschiet.</l>
+					<l><datum datum='1721-xx-xx'>1721</datum></l>
+					<l><datum datum='1721-02-27' when='1721-02-27'>27. feb</datum> heeft het Smorgens ten 5. ueren gebrand</l>
+					<l>in het<locatie> Seminarium</locatie> genaemt de Roose waer viele</l>
+					<l>Schade is geschiet.</l>
+					<l><datum datum='1721-04-13' when='1721-04-13'>13. april</datum> weezende Paesschen isser naer noen een groot</l>
+					<l>onweder geweest, Zoo dat dat er veele Schade is geschiet</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l><datum datum='1721-xx-xx'>1721</datum></l>
+					<l>aen twee molens, en op <locatie>de Kasteel plijn </locatie>onder den</l>
+					<l><locatie>molen genaemt het Ourt</locatie> eenen soldaet dood ge¬</l>
+					<l>slaegen die daer zat en schuijlde, en den anderen</l>
+					<l>stond op <locatie>stuijvenberg</locatie> alwaer ook veele schade was </l>
+					<l>geschied.</l>
+					<l>Lijste der Heeren Treseriers.</l>
+					<l><persoonsnaam>Dheer Bastin</persoonsnaam>.</l>
+					<l><persoonsnaam>de Cordes.</persoonsnaam></l>
+					<l><persoonsnaam>Vande Walle</persoonsnaam>.</l>
+					<l><persoonsnaam>de man.</persoonsnaam></l>
+					<l><persoonsnaam>La flier</persoonsnaam>.</l>
+					<l><persoonsnaam>Anselmo</persoonsnaam>.</l>
+					<l><datum datum='1674-xx-xx'>1674</datum>.</l>
+					<l><persoonsnaam>Vanden Cruijce</persoonsnaam>.</l>
+					<l><datum datum='1677-xx-xx'>1677</datum>.</l>
+					<l><persoonsnaam>vande Herve</persoonsnaam>.</l>
+					<l><datum datum='1680-xx-xx'>1680</datum>.</l>
+					<l><persoonsnaam>Altuna</persoonsnaam>.</l>
+					<l><datum datum='1683-xx-xx'>1683</datum>.</l>
+					<l><persoonsnaam>Van Halmale</persoonsnaam>.</l>
+					<l><datum datum='1686-xx-xx'>1686</datum>.</l>
+					<l><persoonsnaam>Van Hove</persoonsnaam>.</l>
+					<l><datum datum='1689-xx-xx'>1689</datum>.</l>
+					<l><persoonsnaam>Lescornet</persoonsnaam>.</l>
+					<l><datum datum='1692-xx-xx'>1692</datum>.</l>
+					<l><persoonsnaam>vander Heijden</persoonsnaam>.</l>
+					<l><datum datum='1695-xx-xx'>1695</datum>.</l>
+					<l><persoonsnaam>Engelgrave.</persoonsnaam></l>
+					<l><datum datum='1698-xx-xx'>1698</datum>.</l>
+					<l><persoonsnaam>Terninck</persoonsnaam>.</l>
+					<l><datum datum='1701-xx-xx'>1701</datum>.</l>
+					<l><persoonsnaam>vander Aa</persoonsnaam>.</l>
+					<l><datum datum='1704-xx-xx'>1704</datum>.</l>
+					<l><persoonsnaam>vande Werve</persoonsnaam>.</l>
+					<l><datum datum='1707-xx-xx'>1707</datum></l>
+					<l><persoonsnaam>de Cordes.</persoonsnaam></l>
+					<l><datum datum='1710-xx-xx'>1710</datum></l>
+					<l><persoonsnaam>de uitlegas</persoonsnaam>.</l>
+					<l><datum datum='1713-xx-xx'> 1713 </datum>    <persoonsnaam>van Hove</persoonsnaam></l>
+					<l>2 mael na volgende</l>
+					<l><datum datum='1719-xx-xx'>1719</datum>.</l>
+					<l><persoonsnaam>vanden Cruijce</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<pb n='34'/>
+		</body>
+	</text>
+</TEI>

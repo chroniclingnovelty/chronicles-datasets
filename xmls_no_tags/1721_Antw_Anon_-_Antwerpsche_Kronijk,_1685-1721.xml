@@ -1,0 +1,1418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1721_Antw_Anon - Antwerpsche Kronijk, 1685-1721</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>Gekocht in de veiling v. d. Straelen-Moons van Lerius</l>
+					<l>voor fr. 8,00</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1685</hi></l>
+					<l>17 Meert is Peeter Vortstocken overleden</l>
+					<l>1 junij is Jan Lichielsens gestorven</l>
+					<l><hi rend='underlined:true;'>1686</hi></l>
+					<l>12 Februarij is Jan Carel Soolmaekers brouwer ge¬</l>
+					<l>worden in de Belle</l>
+					<l>3 julij is Peeter Schyvers overleden.</l>
+					<l><hi rend='underlined:true;'>1687</hi></l>
+					<l>10 April is Francisco Du Prè brouwer geworden</l>
+					<l>in &apos;t Claverenblad</l>
+					<l>9 augusti is Carel de Wilde brouwer geworden in &apos;t</l>
+					<l>Sweert.</l>
+					<l><hi rend='underlined:true;'>1689</hi></l>
+					<l>is Niclaes Willemsens Segelaer geworden.</l>
+					<l>11 junij is Mattheus Promme brouwer geworden uiy</l>
+					<l>Cruys</l>
+					<l><hi rend='underlined:true;'>1695</hi></l>
+					<l>in augusti is Naemen overgegaen aenden Hertogh</l>
+					<l>van Beyeren.</l>
+					<l>2 ditto is jan eduwaert vander Meiren brouwer</l>
+					<l>geworden in de Clock.</l>
+					<l>15 ditto is de stad brussel gebombardeert</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>2</l>
+					<l>1695</l>
+					<l>in December heeft heer gregorius Cuylen possessie</l>
+					<l>genomen als collecteur.</l>
+					<l><hi rend='underlined:true;'>1696.</hi></l>
+					<l>in April is Peeter Clusinx  brouwer geworden in S<hi rend='superscript:true;'>t</hi> jan.</l>
+					<l>2 augusti is cosmas Gillot brouwer geworden inde Snoeken</l>
+					<l><hi rend='underlined:true;'>1697</hi></l>
+					<l>den 21 Meert is Jan Wittebol brouwer geworden in de</l>
+					<l>borrie</l>
+					<l><hi rend='underlined:true;'>1698</hi></l>
+					<l>11 february is Francisco Pisijn brouwer inde Sonne</l>
+					<l>geworden</l>
+					<l><hi rend='underlined:true;'>1701</hi></l>
+					<l>27 Meij heeft heer Ferminus Bertryn possessie</l>
+					<l>genomen als boekhouder van de bier accyse</l>
+					<l>14 9bris heeft men alhier opt comtoir gegonst te</l>
+					<l>collecteren den Schelline a 7 Strs excepte den</l>
+					<l>impost.</l>
+					<l><hi rend='underlined:true;'>1702</hi></l>
+					<l>9 junij heeft men alhier ten Comtoir begonst te</l>
+					<l>collecteren den impost vande buyte bieren gesleten</l>
+					<l>wordende binnen brabant</l>
+					<l>alsook den impost der uytgaende bieren in</l>
+					<l>Brabant</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1703</hi></l>
+					<l>den 30 junii eynde Hollanders geslagen tot Eekeren</l>
+					<l>doorde Spaensche en fransche.</l>
+					<l><hi rend='underlined:true;'>1704</hi></l>
+					<l>1 junij heeft men ten comptoire vande bieraccyse be¬</l>
+					<l>gonst te collecteren den Schellinck a 6½</l>
+					<l>18 ditto heeft men wederom den Schellinck tot 7 Ster</l>
+					<l>gecollecteert en d&apos;andere Specien naer advenant</l>
+					<l>11 9bris is Melchior More assistent der collecteurs vant</l>
+					<l>bier accyse gestorven enden Selven daegen heeft Nicolaus</l>
+					<l>Willemsens in zyne plaetse possessie genomen.</l>
+					<l>1705</l>
+					<l>25 april is gaspar van Ysendyk brouwer geworden</l>
+					<l>in de Sterre.</l>
+					<l>1706</l>
+					<l>27 Martiiis Heer Cornelis joseph kuyff collecteur</l>
+					<l>der bier accyse overleden</l>
+					<l>15 april heeft d&apos; heer joannes baptista Brems in</l>
+					<l>heer kuyfs plaetse possessie genomen</l>
+					<l>7 junij hebben de geallieerde deser Stad antwerpen</l>
+					<l>possessie genomen en is met eene bataille het land</l>
+					<l>verloren</l>
+					<l>2 December is zyne hoogweerdigheyd Reginaldus</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>cools Bisschop van Antwerpen overleden</l>
+					<l>12 april is joos Suel brouwer geworden in S<hi rend='superscript:true;'>t</hi> jan</l>
+					<l>30 juny is jacobus Vanden Bemden collecteur der</l>
+					<l>bieraccyse geworden</l>
+					<l><hi rend='underlined:true;'>1707</hi></l>
+					<l>21 feb. is jan baptista cornelissens den jongsten brouwer</l>
+					<l>geworden</l>
+					<l>1 junij is comen te cesseren den ontfanck vande subsidie</l>
+					<l>a 25 Sts de uytgaende bieren</l>
+					<l>27 7ber is joncker jan Carel de Cordes tresorier generael</l>
+					<l>geworden</l>
+					<l><hi rend='underlined:true;'>1708</hi></l>
+					<l>den 20 xbris is joncker Francisco Paulo Bacheler</l>
+					<l>zynde billet schryver ophet bieraccyse overleden</l>
+					<l><hi rend='underlined:true;'>1709</hi></l>
+					<l>1 jan<hi rend='superscript:true;'>ry</hi> is het bier accyse voor de eerste ryse ten</l>
+					<l>9 uren opengedaen</l>
+					<l>25 9bris is Simon Franciscus Damare brou¬</l>
+					<l>wer geworden in Croonenborgh.</l>
+					<l><hi rend='underlined:true;'>1710</hi></l>
+					<l>20 februarij is heer judocus van Beveren gekomen</l>
+					<l>inde plaetse van joncker Caulo Bacheler, ende</l>
+					<l>gestorven 8 novembris 1713.</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>Zerk op&apos;t minderbroeders Kerkhof</l>
+					<l>D. D. M.</l>
+					<l>Jan Baptista Gillis</l>
+					<l>Jonghman ende Constigen Beeldtsneyder</l>
+					<l>stirf 10 meert 1752</l>
+					<l>R.I.P.</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>Besnydenis Capel op der altaer</l>
+					<l>S P Q A onder de papen</l>
+					<l>lager</l>
+					<l>Deo Homini Circumciso </l>
+					<l>_</l>
+					<l>Erectum 1721</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>19 julij is Monsieur Petrus Valckx gestorven zynde</l>
+					<l>knaep van de casse</l>
+					<l>13 augusti heeft Antoni Rottiers possessie genomen</l>
+					<l>1711.</l>
+					<l>14 julij is Jean Willem friso prince van Nassau dietz</l>
+					<l>en orangie by Moerdyck verdronken.</l>
+					<l>7 augustus heeft Van der Velden de brouwery de Croon gekogt</l>
+					<l>tusschen 18 en 19 Sept. heeft het gebrand Smorgens ten</l>
+					<l>3 uren in de Schipstraat tot den backer in het hofken </l>
+					<l>des heeren</l>
+					<l>den 3 8bris heeft den heere choordeken depossessie ge¬</l>
+					<l>nomen in de plaetse van den toekomenden bisschop </l>
+					<l>onder het geluyde der groote klock</l>
+					<l>primo december is Dominicus van Voorn brou¬</l>
+					<l>wer geworden in de Zwaen</l>
+					<l>10 Xbris heeft het zeer Sterk gewaeyt dat er veel</l>
+					<l>Schade is geschiet</l>
+					<l>14 dito is den Eerw: heer Petrus Jos. Franken-</l>
+					<l>Sierdorf binnen Antwerpen gekomen</l>
+					<l>17 dito heeft hy Synen intré gedaan als bisschop</l>
+					<l>Van Antwerpen waar over men seer treffelyk vierde</l>
+					<l>1712.</l>
+					<l>21 Meert lagh den Sneeuw op sommige plaets tot de</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>1712</l>
+					<l>knie dik en het wywater vat in S<hi rend='superscript:true;'>t</hi> jacobs kerke</l>
+					<l>is tot den grond toe uytgevrosen</l>
+					<l>18 julij is den eersten steen gelyt vande kerk</l>
+					<l>van austruweel door den Eerw: Heer Baron Van</l>
+					<l>Wemmel choordeken van Onse Lieve Vrouwe</l>
+					<l>kerke beneffens de heeren Mynheer Cononick</l>
+					<l>Vits en den heere Pastor Van Austruweel</l>
+					<l>ende den Gouverneur Van de zelve</l>
+					<l>Citadelle</l>
+					<l>15 ditto is den Lesten broeder gestorven van de</l>
+					<l>Abdye van S<hi rend='superscript:true;'>t.</hi> Michiels. tweten F Judocus Janssens.</l>
+					<l>1 augusti is heer jacobus Reyniers dese weireld</l>
+					<l>overleden zynde assistent der heere Boekhouders</l>
+					<l>veurt bier accyse</l>
+					<l>7 ditto is den ommeganck van Borgerhout nief</l>
+					<l>gemaekt zynde voor den eersten keer gegaen</l>
+					<l>25 7bris hebben de E:E: P:P: Capucienen met</l>
+					<l>eene uytstekende magnificentie geviert de canon¬</l>
+					<l>nizatie van den H: Broeder Felix Van Cantalice</l>
+					<l>Capucien.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>&apos;S morgens ontrent elf uren geschiede in de</l>
+					<l>kerke der Voorn Patres eene Solemnele misse</l>
+					<l>uit musiek door den doorlugtigsten ende Eerw.</l>
+					<l>Heere Petrus Josephus de Franken Sierdorf</l>
+					<l>Bisschop Van Antwerpen den Welken voor de</l>
+					<l>eerste reyse het alderheijligste in de processie</l>
+					<l>droeg. &apos;S avonts heeft men ontrent het Clootter</l>
+					<l>seer treffelyk geviert.</l>
+					<l>den 9 october hebben de E:E: P:P: Predikheeren</l>
+					<l>met ene uytmuntende magnificentie geviert ende</l>
+					<l>geopent de octave der Canonizatie van den H:</l>
+					<l>Pius V Paus van Roomen en religieus der ordre</l>
+					<l>van den H: dominicus. de kerke was uyter¬</l>
+					<l>maeten konstig en kostelyk verciert</l>
+					<l>S&apos; avonts heeft men voor het klooster den</l>
+					<l>vuer vogel geschoten en seer treffelyk ge¬</l>
+					<l>viert.</l>
+					<l>16 8bris hebben de E:E: P:P: Minderbroeders met</l>
+					<l>groote Solemniteyt geviert de Canonizatie van de H:</l>
+					<l>Catharina Van Bononieu.</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>knie dik en het wijwater vat in St. Jacobs kerke</l>
+					<l>is tot den grond toe uijtgevrosen</l>
+					<l>18 julij is den eersten Steen gelijt van de kerk</l>
+					<l>van antruweel door den eerw, Heer Baron van</l>
+					<l>Wemmel choordeken van onse Lieve Vrouwe</l>
+					<l>kerke beneffens de heeren Mijnheer Coroniek</l>
+					<l>Vils en den heere Pastor van Antruweel</l>
+					<l>ende den Gouverneur van de zelve</l>
+					<l>citadelle</l>
+					<l>18 ditto is den lesten broeder gestorven van de</l>
+					<l>Abdije van S<hi rend='superscript:true;'>t</hi> Michiels. teweten F Judocus Janssens.</l>
+					<l>1 augusti is heer jacobus Reyniers dese wereld</l>
+					<l>overleden zijnde assistent der heere Boekhouders</l>
+					<l>van &apos;t bier accyse</l>
+					<l>7 ditto is den ommeganck van Borgerhout niet</l>
+					<l>gemaekt zijnde voor den eersten keer gegaan</l>
+					<l>25 7bris hebben de E.E. P:P: Capucienen met</l>
+					<l>eene uytstekende magnificentie geviert de canon</l>
+					<l>in Latie van der H: Broeder Felix Van Cantalice</l>
+					<l>Capuciea.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>&apos;S morgens ontrent elf uren geschiede in de</l>
+					<l>kerke der Voorn Patres eene Solemnele misse</l>
+					<l>met musiek door den doorlugtigsten en de Eerw.</l>
+					<l>Heer Petrus Josephus de Franken Sierdorf</l>
+					<l>Bisschop van Antwerpen den welke voor de</l>
+					<l>eerste reyse het alderheijligste in de processie,</l>
+					<l>droeg. &apos;S avonts heeft men ontrent het Clooster</l>
+					<l>seer treffelyk geviert.</l>
+					<l>den 9 october hebben de E: E: P: P: Predikheeren</l>
+					<l>met eene uytmuntende magnificcatie geviert en de </l>
+					<l>geopent de octave der Canonizatie van den H:</l>
+					<l>pius V Paus van Roomen en religieus der ordre</l>
+					<l>van den H: dominucus. de kerk was uyter¬</l>
+					<l>maeten konstig en kostelijk versiert.</l>
+					<l>S&apos; avonts heeft men voor het klooster den </l>
+					<l>vuer vogel geschoten en seer treffelyk ge¬</l>
+					<l>viert.</l>
+					<l>16 8bris hebbende E: E: P: P: Minderbroeders met</l>
+					<l>groote Solemniteyt geviert de Canonizatie van de H.</l>
+					<l>Catharina van Bononien.</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>1712</l>
+					<l>28 Nov. is het Beurtschip van Dort Smorgens</l>
+					<l>ten thien uren by Lauwereys fort verdronken met</l>
+					<l>20 Menschen waer van 9 behouden en 11 ver¬</l>
+					<l>ongelukt zyn</l>
+					<l>16 Decembris zyn &apos;er opde vischmerckt 500</l>
+					<l>creften geweest.</l>
+					<l>1713.</l>
+					<l>2 feb<hi rend='superscript:true;'>rij</hi> Den heere Choordeken der cathedrale</l>
+					<l>dezer stad Baron van Wemmel overleden</l>
+					<l>en begraven tot Wemmel.</l>
+					<l>6 Meert is het hoey Magezyn in brand gesteken</l>
+					<l>en heeft gebrand tot den 10 Meert</l>
+					<l>26. ditto is de eerste misse gedaen in de capel van</l>
+					<l>het buegtiens huys door Petrus jos. Bisschop</l>
+					<l>van Antwerpen.</l>
+					<l>26 ditto is er eenen boodt omgeslaegen met</l>
+					<l>8 Menschen waeronder vier soldaeten met daeronder den</l>
+					<l>adjudant <hi rend='strikethrough:true;'>die</hi> vier 1000 pistolen by sig</l>
+					<l>hebbende verdronken en vier behouden syn.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1713</l>
+					<l>4 meij opsinxendag is in OLV.kerke gezegt het sanctua¬</l>
+					<l>rium door zyne hoogw Pet: jos: Savonds naer</l>
+					<l>het Lof onder het luyden der groote klok</l>
+					<l>25 ditto is het beld van OLV. op de Pompe op de</l>
+					<l>Vischmerckt gewydt door den Pastor Vande Borgt</l>
+					<l>waer over men daer ontrent seer vierde.</l>
+					<l>16 julij heeft het seer geregent zoodat de Processie van</l>
+					<l>S<hi rend='superscript:true;'>t</hi> Norbertus heeft Moeten Schuylen en ons</l>
+					<l>heer heeft geschuylt inden Bodt in de Render</l>
+					<l>Straet</l>
+					<l>13 Augusti is Den Borgemeester Van den Cruyce</l>
+					<l>overleden en begraven tot Aertselaer</l>
+					<l>13 ditto is&apos;er Eenen Biddag in gesteld voor dry daegen</l>
+					<l>voor de vrugten der aerden want het zeer regende</l>
+					<l>en allede Parochien moesten den eersten dag Comen</l>
+					<l>bidden in OLV. kerke ider een ure en de andere</l>
+					<l>twee dagen de Cloosters Naer advenant</l>
+					<l>20 Augusti gong de processie van devotie in plaetse</l>
+					<l>vanden ommegang zijne hoogweerdigheyd het</l>
+					<l>alderheyligste draegende uyt oorsaek van den regen</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>1713</l>
+					<l>18 augusti heeft het coren tot Antwerpen gegeld</l>
+					<l>5:6  Stv destaelen gestaen ende vrydag daer naer heeft</l>
+					<l>het gegeld 3:16 St. en &apos;s maendags daer naer is het</l>
+					<l>brood vyf vierendeelen gegroot opeen brood van Vieren</l>
+					<l>het geen in 50 jaer niet is geschiet.</l>
+					<l>3 Sept. is de kerke Van Austruweel gewyt door sijne</l>
+					<l>hoogweerdigheyd Pet. jos. onder het Lossen van het</l>
+					<l>Canon van de forte van Austruweel &amp;c, &amp;c,</l>
+					<l>8 September op OLV: geborte dag hebben de Lorettanen</l>
+					<l>eene Solemnele processie gehouden en geviert</l>
+					<l>het ses honderste jaer alswanneer het godshuys</l>
+					<l>van S<hi rend='superscript:true;'>t</hi> juliaen gefondeert is voor arme en eerlyke</l>
+					<l>passanten &apos;s avonts heeft men ontrent het gods</l>
+					<l>huys en Langs de Straeten daer de processie gegaen</l>
+					<l>hadde seer Schoon geviert</l>
+					<l>11 ditto isden Niewen wyser om elfuren op Sint</l>
+					<l>Joris toren gesteld naerden kant van de Poort,</l>
+					<l>zynde gemaekt van roodt koper en 12 voet en</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l>1713</l>
+					<l>half in &apos;t Cruys</l>
+					<l>28 ditto is den anderen Wyser op den toren gestelt</l>
+					<l>naerden kant van &apos;t casteel zynde ook van koper</l>
+					<l>en van de zelve groote.</l>
+					<l>1 8<hi rend='superscript:true;'>bris</hi> hebben de PP: Predikheeren met groote</l>
+					<l>magnificentie geviert het 500ste jaer vanden</l>
+					<l>Roosen krans. &apos;S morgens ten 10 uren wierd de Solem¬</l>
+					<l>nele misse gezongen door den Eerw: heere Prelaet</l>
+					<l>van S. Salvator waer naer volgde de Processie</l>
+					<l>het alderheyligste door den voorn prelaet gedrae¬</l>
+					<l>gen wordende &apos;S avons Vierde men seer treffelyk</l>
+					<l>ontrent de kerke</l>
+					<l>1 8<hi rend='superscript:true;'>bris</hi> heeft de hertoginne van Malbourgh een</l>
+					<l>handbraselet Verloren van diamanten weerdig Zynde</l>
+					<l>40000 guldens Waer over sy eenen van heur knegten</l>
+					<l>deden Vast zetten op &apos;tsteen onnoosel zynde</l>
+					<l>13 ditto is de handbraselet vande Hertoghin</l>
+					<l>van Malbourgh gevonden in de koets van den</l>
+					<l>Gouverneur tusschen de Schabelle dien tyde</l>
+					<l>overwinterde den hertog van malbourg met</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l></l>
+					<l><hi rend='underlined:true;'>1713</hi></l>
+					<l>Zyn hertoghin inde refugie der Abdye van</l>
+					<l>Tongerloo.</l>
+					<l>19 10<hi rend='superscript:true;'>bris</hi> &apos;S morgens ten 10 uren zyn de vendels</l>
+					<l>van het Spaenschs regiment doen tertyd liggende</l>
+					<l>op het Oostershuys in O:L:V: kerke gewyt door</l>
+					<l>Zyne hoogweerdigheyd Petrus Josephus onder</l>
+					<l>het Luyden van de groote klok Waervan</l>
+					<l>peter was den Marquis De Terracena gouverneur</l>
+					<l>van het Casteel van Antwerpen en den heer</l>
+					<l>de Cordes oudtborgemeester deser Stad.</l>
+					<l>Den Vendrick die een Vendel gekregen had</l>
+					<l>2. a</l>
+					<l>is 3. dagen daer naer dood gesteken</l>
+					<l>31 ditto is den Communie kop by de E:E:P:P:</l>
+					<l>Augustynen om gevallen met de H:H: Hostien</l>
+					<l><hi rend='underlined:true;'>1714</hi>.</l>
+					<l>12 januarij is&apos;er in OLV. kerke eenen Steenen</l>
+					<l>Engel gevallen van den Autaer van de</l>
+					<l>Schoen Maekers</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l><hi rend='underlined:true;'>1714</hi></l>
+					<l>tusschen 26 en 27 februarij heeft het seersterk</l>
+					<l>gewaeyt en &apos;Smorgens ten half vier heeft het</l>
+					<l>seer sterk <hi rend='strikethrough:true;'>gewaeyt</hi> vloet geweest en het water</l>
+					<l>seer hoog gestaen soo dat alle de kelders ontrent</l>
+					<l>het water <hi rend='strikethrough:true;'>ond</hi> tot boventoe vol Stonden daer is</l>
+					<l>toen vele Schade geschiet aen huysen en kerken</l>
+					<l>daer Zyn ook Veele boomen uyt gewaeyt</l>
+					<l>en den Callooschen molen is om vergewaeyt</l>
+					<l>2 Meert heeft <hi rend='strikethrough:true;'>heeft</hi> het Savons om 5 uren</l>
+					<l>Wederom seer grooten vloet geweest dat het water</l>
+					<l>tot aen den Brunnen baert by het bier hooft heeft</l>
+					<l>gestaen &amp;c. &amp;c.</l>
+					<l>7 Meert het wederom seer sterk gevloeyt</l>
+					<l>soo dat het water eenen voet hooger heeft gestaen</l>
+					<l>als de twee voorgaende reysen en maar eenen halven</l>
+					<l>voet leeger als int jaer 1682.</l>
+					<l>7 ditto is&apos;er eenen biddag ingestelt voor dry dagen</l>
+					<l>ingesteld voor den vloet van het water en den biscop</l>
+					<l>heeft Savons het Lof gedaen</l>
+					<l>31 ditto wesende paeschavond heeft het wederom</l>
+					<l>vloet geweest</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>22</l>
+					<l>1714</l>
+					<l>tusschen 15 en 16 april &apos;Snachs ten 12 uren is de wip</l>
+					<l>van het lovens bier met de kaey ingevallen</l>
+					<l>19 April is het Lovens bier gelost met de wip opde</l>
+					<l>Werf ende op 11 Mey het Luyks bier</l>
+					<l>17 Maij is de Bridt brouwer geworden inde</l>
+					<l>Roote</l>
+					<l>21 Mey soo is den Vogel geschoten op het Casteel</l>
+					<l>pleyn het Welk in 16 jaeren niet geschiet was</l>
+					<l>3 allen Zynde huysen verkogt op de groote</l>
+					<l>Merkt voor het stadhuys op Conditien als</l>
+					<l>volgt:</l>
+					<l>1. De koop Somme is wisselgeldt den Schellinck</l>
+					<l>tot Ses Stuyvers het Stuck</l>
+					<l>2. den kooper moet borghe Stellen ende eerde huysen</l>
+					<l>afgebroocken worden moet de koopsomme betaelt</l>
+					<l>syn in handen van de oude kleerkoopers oppene</l>
+					<l>van reele ende parate executie</l>
+					<l>3. de koopers en mogen hunne gekochte huysen</l>
+					<l>niet eerder afbreken als naer primo julij</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>23</l>
+					<l>1714 En moeten de materialen vanden pant Syn</l>
+					<l>den 15 dagh vande Selve maent</l>
+					<l>4. een ieder moet Zijn welfzels van de kelders ende Secreten ge¬</l>
+					<l>heel insmijten en de Zelve benevens de regenbakken en</l>
+					<l>borneputten vullen en met gruijs egael aen de Straet.</l>
+					<l>5. den Kooper moet de materialen bewaeren en gadeslaen</l>
+					<l>na zijn goeddunken alzoo die naer datum van Deeze ver¬</l>
+					<l>koopinge zullen Zijn en Staen tot Zijnen Last en</l>
+					<l>Perykel zonder goeddoening.</l>
+					<l>6. de Mueren en Fondamenten tegens de vrije en mogen</l>
+					<l>niet afgebroken worden als nefvens de kassye van</l>
+					<l>de Martstraet</l>
+					<l>7. eenieder mag niet voorder afbreken als gelijk Zijn</l>
+					<l>huijs hem verkogt word en gedesigneerd Zal Zijn.</l>
+					<l>8. de Pompe die hij bevind in Zijn gekogt huijs en Zal</l>
+					<l>hij niet voorder mogen afbreken als op Zijn erve.</l>
+					<l>28. junij zijn 13. huysen verkogt op de groote Merkt</l>
+					<l>op Conditie als vooren.</l>
+					<l>7. julij is mijn Heer Jan Carel de Cordes deeze weereld</l>
+					<l>overleeden, geweest hebbende Tresorier generael en buijten</l>
+					<l>borgermeester deezer Stad.</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l></l>
+					<l>1714.</l>
+					<l>10. julij isser eenen Biddag ingesteld voor 3 dagen voor</l>
+					<l>de droogte der aerde:</l>
+					<l>16. ditto hebben de Eerw: Paters Predikheeren met</l>
+					<l>groote Magnificentie gevierd de Beatificatie van</l>
+					<l>den zaligen Ceslaus Religieus van &apos;t Zelve order</l>
+					<l>1. Augusti zijn de 25. H afgegaen op &apos;t platte</l>
+					<l>Land.</l>
+					<l>7. ditto zijn vier huyzen verkogt op de Groote</l>
+					<l>Merkt op conditie als vooren, en zyn de leste.</l>
+					<l>27. julij is den Hertog van Malbourgh van Brussel</l>
+					<l>hier vertrokken na Engeland onder het lossen</l>
+					<l>van &apos;t Kanon.</l>
+					<l>15. Augustus heeft men hier eenen Biddag be¬</l>
+					<l>gonst voor zes weeken, om den goddelijken</l>
+					<l>bystand te verzoeken tegens de Sterfte van&apos;t</l>
+					<l>vee, en den zelven dag is er naer het Lof</l>
+					<l>eene Processie gehoude langs den klynen</l>
+					<l>Toor en zijne Hoogw: droeg het Alderheylig¬</l>
+					<l>ste.</l>
+					<l>25. ditto is het laetste huys op de groote Merk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+					<l>1714.</l>
+					<l>afgebroken.</l>
+					<l>31 ditto is de wip op &apos;t Lovens-bier-hooft gesteld.</l>
+					<l>14. 7ber &apos;S avonds ontrent 6. ueren arriveerde alhier</l>
+					<l>van Brussel den Heer generael Grave van Koning den</l>
+					<l>Minister van Zyne Keyzerlyke en Koninglyke Majes¬</l>
+					<l>teijt, onder het drij mael Lossen van &apos;t kanon en</l>
+					<l>nam zyn logement in de Refugie der Abdije te</l>
+					<l>Tongeloo: alwaer Zyn Excellentie nog diën Avond</l>
+					<l>gecomplimenteerd wird door den Marquis de Tarracene</l>
+					<l>gouverneur dezer Citadelle en door verscheijde andere</l>
+					<l>generaels en opperofficiers, en den volgenden Dag verwel¬</l>
+					<l>lekoomt door de Heeren van &apos;t Magistraet en gerege¬</l>
+					<l>leert den wijn van Eere.</l>
+					<l>Den p<hi rend='superscript:true;'>mo</hi> 8b is gevierd den geboorten van Zijne Keyzerlij¬</l>
+					<l>ke en koninglijk Majesteijt Karolus den 6. die aldan</l>
+					<l>getreden is in &apos;t 30. jaer van Zynen ouderdom:</l>
+					<l>Smorgen ten 11 ueren geschiede in de Hooftkerke eene</l>
+					<l>Solemnele Misse gecelebreert door den Heere Bisschop</l>
+					<l>van deeze Stad ten byweezen van zijne Excel. den Grave</l>
+					<l>van Koningsberg, den H<hi rend='superscript:true;'>r</hi>. Marquis de Taracena, en de</l>
+					<l>Heeren van ons Magistraet &amp;c.</l>
+					<l>in deezen Zomer is den nieuwen Steenweg van Antwer¬</l>
+					<l>pen tot Lier gemaekt beginnende aen den ouden Godt</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>woondag</l>
+					<l>wird</l>
+					<l>op 30. Mey 1714 ten 3. ueren na noen <hi rend='strikethrough:true;'>waren</hi> met Consent der leden</l>
+					<l>deser Stad Antwerpen, en het Octroij van Keyzerlyke en Koninglyke</l>
+					<l>Majesteijt daer op gevolgd, door de oude kleerkoopers Jaspar</l>
+					<l>vander Hagen en Guilielmus Willemssens de Verkooping</l>
+					<l>Der materialen van de na volgende huijsen dew. moesten</l>
+					<l>afgebroken worden, te weten:</l>
+					<l>Het Huijs genaemt de Roode Zee op de Groote merk alhier,</l>
+					<l>ledig Staende.</l>
+					<l>Item het huijs de Colve ook ledig Staende, voor deezen ge</l>
+					<l>bruijkt, by den Timmerman van Hove.</l>
+					<l>Item drije huijsen inde Mautstraete, wesende de agter</l>
+					<l>huijsen vande voors.  Colve.</l>
+					<l>Item het Huijs genaemt het Cruijsken inde Mautstraet</l>
+					<l>ook ledig staende.</l>
+					<l>op Donderdag Smorgens 9 uuren 28. junij 1714. doorde zelve Roepers:</l>
+					<l>Het Huijs genaemt het wit Peerdeken, gebruijkt bijden</l>
+					<l>Silversmit le Pise.</l>
+					<l>Item een Huijs genaemt den ketsbal, gebruijkt byden kleer¬</l>
+					<l>maeker op de Merkt.</l>
+					<l>Item een huijs genaemt den Draek, gebruikt byden Hoey¬</l>
+					<l>maeker op de Merkt.</l>
+					<l>Item het Hoeksken genaemt den Sleutel op de Merkt.</l>
+					<l>Item het huijs genoemt den wapen van Engeland, Staende</l>
+					<l>tusschen den hoek en het huijs genaemt de Exter.</l>
+					<l>Item het Huijs genaemt de Exter, bewoond byden Laken</l>
+					<l>Verkooper Michielsens.</l>
+					<l>Item een Groot Huijs genaemt het Gulden Vlies of Strend , ge¬</l>
+					<l>staen inde zelve Mautstraete.</l>
+					<l>Item een Huijs genaemt den H. Geest inde Mautstraete, we¬</l>
+					<l>zende het winkeltien nevensden Hoek.</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>Item het Hoekhuijs vande Maelderije straet en maatstraet,</l>
+					<l>bewoont bij den bakker Geeraert Corthout.</l>
+					<l>Item het Huijs genaemt de Goudblom, wezende de hesp¬</l>
+					<l>winkel inde Maelderyestraet.</l>
+					<l>Item het Huijs genaemt het Maelslot in de Maelderije</l>
+					<l>staet, gebruykt by den Schoenmaeker.</l>
+					<l>Item het Huijs genaemt den heerssnutter, gebruijkt by de</l>
+					<l>wed<hi rend='superscript:true;'>e</hi>. Martens Silversmit.</l>
+					<l>Alle welke huijsen solutelyk moesten gedemolieert</l>
+					<l>worden den. 2 julij.</l>
+					<l>Op Dynsdag 7. Augusti 1714. Smorgens ten 10. ueren door</l>
+					<l>de Zelve Oude kleerkoopers, <hi rend='strikethrough:true;'>te weten</hi></l>
+					<l>de vestovene</l>
+					<l>huijsen, te weten:</l>
+					<l>Het Huijs genaemt den Sprinkhaen, gebruijkt bij den</l>
+					<l>Leer verkooper Janssens.</l>
+					<l>Item het Huys genaemt den H. Geest, gebruykt by de</l>
+					<l>wed<hi rend='superscript:true;'>e</hi> Gijnindus.</l>
+					<l>Item het Huijs Genaemt het Verken, gebruijkt bij</l>
+					<l>Rijckaert, gestaen in de Mautstraete.</l>
+					<l>Item het <hi rend='strikethrough:true;'>Huijs</hi> laetsten Huijs neffens het Zonneken,</l>
+					<l>nu ledigstaende ook inde zelve Mautstraete.</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>Sijnem@ Judicia</l>
+					<l>M.D.C. Advocale ex Redemptori XCIII</l>
+					<l>J. P. Q. A. Posuit</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>1715.</l>
+					<l>3 Meert is door den ongemeene noord-westen Storm¬</l>
+					<l>wind het water ontrent ontrent 3 ueren zeer hoog</l>
+					<l>geweest, zoodat het eenen halven voet hooger</l>
+					<l>is geweest als in &apos;t jaer 1682. Zeer veele Schade</l>
+					<l>geschiet &amp;c.</l>
+					<l>3. Meij ister eenen Eclips gezien aen de Zon Smorgen</l>
+					<l>van 8. tot 10. uwer, Zoo donker wordende dat men</l>
+					<l>de Sterren in de Logt kon zien. </l>
+					<l>21 julij is eenen Biddag ingesteld voor den Regen</l>
+					<l>die 5. dagen duerde. </l>
+					<l>7 Augusti Zijn nog 2. huijzen verkogt nevens het</l>
+					<l>Zonneken op den hoek van de Groote Markt,</l>
+					<l>teweeten: de Blouwgeyt ende Venster op conditie</l>
+					<l>als vooren.</l>
+					<l>10. 8ber is de wip op de kasteel plijn nieuw gesteld</l>
+					<l>voor den ouden Hand-boog en op den 14 ditto heb¬</l>
+					<l>ben zij drij prijz vogels geschooten. </l>
+					<l>vrijdag 15. 9ber weesende den bestemden dag tot</l>
+					<l>het afdoen en termineren van het werk van</l>
+					<l>de Barrieren; &apos;S avonds tusschen 6. en 9. ueren</l>
+					<l>kwamen de Heeren <hi rend='strikethrough:true;'>######</hi>  gevolmagtigde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1715.</l>
+					<l>van den Keijzer en van de Heeren Staeten Gene¬</l>
+					<l>rael op het Stadhuijs, en hielden de 48ste conferentie</l>
+					<l>in de welke de artikelen der gemelde Barriere ge¬</l>
+					<l>lezen zijnde, wird ontrent alf elf het tractaet, hetgeen</l>
+					<l>op den 4. 8ber 1714. begonst was, geslooten, en ondertee¬</l>
+					<l>kend, hetwelk door het Luijden van de Triomph klok,</l>
+					<l>door eene drijmalige Salve van &apos;t kanon en door</l>
+					<l>&apos;t geschal van Trompetten en keteltrommels wird</l>
+					<l>bekent gemaekt aen &apos;t publiek. Vervolgens wirde alle</l>
+					<l>Deeze heeren gevolmagtigde benevens veele heeren</l>
+					<l>van Distinctie door de Heeren van &apos;t Magistraet ten</l>
+					<l>Avond onthaeld, geduerend hetwelk onder het ander</l>
+					<l>mael luijden der groote klok en onder verschyde</l>
+					<l>losbrandinge van &apos;t geschut de gezondheden wirden</l>
+					<l>gedronken van haere Keyzerlyke en Catholike</l>
+					<l>Majesteijten van den Koning van Groot Brittanien</l>
+					<l>en van de Heeren Staeten generael, voor het</l>
+					<l>Stadhuijs hetw. met witte flambeeuwen geillu¬</l>
+					<l>mineert was, wierden onder eenen grooten toeloop</l>
+					<l>van volk veele konstvuuren afgestooken de</l>
+					<l>vrolykheijd duurden tot in den Nagt</l>
+					<l>1716</l>
+					<l>16. januar. &apos;S morgen ten 8. ueren lag de Schelde toe Waer</l>
+					<l>op veele tenten stonden met bier en wijn; lag toe tot 23.</l>
+					<l>februar.</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1716.</hi></l>
+					<l>20. ditto jannuari is zijne Doorl. Hoogw. Petrus jos. Franc¬</l>
+					<l>ken Sierstorf Bisschop van Antwerpen met den Grave</l>
+					<l>van ursel en den buyten Borgermeester del Campo</l>
+					<l>van hier vertrokken na Weenen om met zijn Key¬</l>
+					<l>zerlyke Majesteijt te spreeken over het tractaet</l>
+					<l>der Barrieren: den zelven tijd zijnder van Gend</l>
+					<l>en andere steden ook gedeputeerde gegaen na</l>
+					<l>den Keijzer over de zelve Affairens.</l>
+					<l>3. feb. is den Knegt vanden Auditeur Coen verwe¬</l>
+					<l>zen en op den 4. koomende onder de Galge om</l>
+					<l>gehangen te worden is weg geraekt en gaen loo¬</l>
+					<l>pen.</l>
+					<l>15. ditto is zijne Doorl. Hoogh. enden Heere Buyten</l>
+					<l>borgermeester ontrent den noen gelukkig tot Weenen gearriveerd.</l>
+					<l>in Meert is hier gearriveerd eenen grieksen Abt</l>
+					<l>met twee griekse moniken dew. hier kwamen om</l>
+					<l>een Aelmoes om hun ander moniken te verlos¬</l>
+					<l>sen die gevangen waeren van de turken, den</l>
+					<l>Abt heeft dikwils Misse gedaen in de jesuiten</l>
+					<l>kerk op een vremde manier Zy waren gelogeerd in</l>
+					<l>S. juliaens gasthuijs.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1716.</hi></l>
+					<l>3. Meij is binnen Antwerpen smorgens ten alf elf</l>
+					<l>gezongen eene Misse in de Hooft Kerk waer na</l>
+					<l>den te Deum wird geintoneerd door den Eerw. Heer</l>
+					<l>Andreas Franciscus Del Marmol Choordeken, &apos;savond zag men</l>
+					<l>veele vreugde vueren en pekstaeken voor ons stadthuijs,</l>
+					<l>enden toren verciert met</l>
+					<l>Brandende</l>
+					<l>lanteernen: men zag voor</l>
+					<l>de Bezonderste Heeren van Deeze stadt staeken ge¬</l>
+					<l>regt met brandende pektonnen en voor de huijzen</l>
+					<l>van de Heeren Schepenen twelf brandende witte flam¬</l>
+					<l>beeuwen met meer andere vrolijk heijdt voorden jongen</l>
+					<l>Artshertog.</l>
+					<l>10. junij &apos;s morgens ten alf 9. is zijn Doorl. Hoogw. den</l>
+					<l>Heer Bisschop van Weenen, alhier gearriveerd en &apos;s avonds</l>
+					<l>den Heere Borgermeester; zijn Hoogw. was van zijne Keij¬</l>
+					<l>zerlijke Majesteijt vereerd met een goude kruijs om¬</l>
+					<l>zet met Diamanten enden Heere Borgermeester</l>
+					<l>met het Portrait van Zijne Majesteijt ook omzet met</l>
+					<l>Diamanten.</l>
+					<l>28. junij weezende den Avond van den H.H. Petrus en</l>
+					<l>Paulus zoo zijn in S. joris kerk verheft de gebeenderen der</l>
+					<l>voors. Heijlige: men zag om 3. ueren de Processie</l>
+					<l>waer in het Alderheijligste wird gedraegen door den</l>
+					<l>Pastor der zelve Parochie ook wierden gedraegen</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l>30</l>
+					<l>1716.</l>
+					<l>de H. Reliquiën; de Straeten daer de Processie langs</l>
+					<l>gong waren zeer schoon verciert, men zag eenige</l>
+					<l>Arken. op den Feestdag van de voors H.H. Apostelen</l>
+					<l>&apos;S morgens ten alf elf wierter eene Solemnele Misse</l>
+					<l>gedaen door zyne Doorl. Hoogw..</l>
+					<l>27. julij is de Brouwers Buijs aenbesteed, om eene nieu¬</l>
+					<l>we te maeken voor 24500. guldens; te weeten: een</l>
+					<l>nieuw vaert te graeven beginnende van de Heren¬</l>
+					<l>talsche vaert tot aen het keijzers bolwerk en</l>
+					<l>dan voorts eene Steene Buijs tot in den houder bij</l>
+					<l>De Roode Poort.</l>
+					<l>26. Aug. is den Engel van St. Michiels toren afgedaen</l>
+					<l>ende Schaliën Peêr nieuw gemaekt, alsdan is den</l>
+					<l>Engel nieuw verguld.</l>
+					<l>6. 7ber geschiede &apos;Smorgens ten elf ueren in de Hooft</l>
+					<l>kerke door zyne Doorl. Hoogh. onder het Luyden</l>
+					<l>der triomph klok eene solemneele Misse om den</l>
+					<l>Almogenden Godt te bedanken overde uijtmuntende</l>
+					<l>overwinninge op den 5. der voorl. maend op de tur¬</l>
+					<l>ken, waer in tegenwoordig was den Prince de</l>
+					<l>Esquilache Gouverneur der Citadelle, ende Heeren</l>
+					<l>van &apos;t Magistraet in Corpora &apos;S avonds ten 7 ueren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>31</l>
+					<l>1716.</l>
+					<l>zag men het Stad-huijs zeer uytmuntend verciert en</l>
+					<l>met vele witte flambeeuwen verligt.</l>
+					<l>1. 8<hi rend='superscript:true;'>ber</hi> hebben de Brouwers water gekreegen door</l>
+					<l>de nieuwe Buijs.</l>
+					<l>14. 9ber &apos;savonds arriveerde</l>
+					<l>alhier</l>
+					<l>uijt den haege den Heer</l>
+					<l>Maquis de Prié onder het drijmael lossen van &apos;t kanon</l>
+					<l>logeerde in &apos;t Bisschoplijk Palleijs. is op 16. 9ber van</l>
+					<l>hier ontrent den middag onder het drijmael lossen</l>
+					<l>van &apos;t kanon voorgereijst na Brussel.</l>
+					<l>29. x<hi rend='superscript:true;'>ber</hi> is</l>
+					<l>den Heer</l>
+					<l>joannes Bapta Vermaelen Abt van S. Michiels</l>
+					<l>geinstalleert. op den zelven tijd den Heer Cornelis</l>
+					<l>Adriaenssens Abt van S. Bernaerts. ook den Heer</l>
+					<l>Jacobus hache als Abt van Villers.</l>
+					<l>1717.</l>
+					<l>6. anni zijn alhier in &apos;t Bisdom gemeijterd den Eerw</l>
+					<l>Heer Jac. Haché Abt van Villers en den Eerw<hi rend='superscript:true;'>sten</hi> Heer Corn.</l>
+					<l>Adrianssens van S. Bernaerts.</l>
+					<l>10. ditto is alhier in de Capelle van Biscoplyk</l>
+					<l>Palleijs door zijne Doorl. Hoogw. den Heere Bisschop</l>
+					<l>geassisteerd zijnde doorde Heeren Abten van Tonger¬</l>
+					<l>loo en Everbode geweijd en gemeyterd den Eerw. Heere</l>
+					<l>Joes Bapta Vermaelen als Abt van S. Michiels.</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1717.</hi></l>
+					<l>in januario is de Choor der eerw<hi rend='superscript:true;'>ge</hi> Pater Augustijnen</l>
+					<l>geleemplakt was aldan volmaekt.</l>
+					<l>den selven tijd zijn de 12. Apostels gesteld tot de</l>
+					<l>P.P. Predikheeren in de kerk aende Pilaeren.</l>
+					<l>11 April naer middag ontrent alf 4. is den Czar van</l>
+					<l>groot Rusland, onder het drijmael lossen van &apos;t Ka¬</l>
+					<l>non vandeeze stad en van &apos;t kasteel en omliggende</l>
+					<l>forten, in een Yagt der Heeren Staeten van Holland,</l>
+					<l>gearriveerd voor Deeze stad; blijvende eenigen tyd op</l>
+					<l>de rivier, en ontrent den 7. ueren aen Land gekoo¬</l>
+					<l>men zijnde, wierd hij ontfangen, en verwollekomt</l>
+					<l>en gekomplimenteerd door den Hertog van Holstein¬</l>
+					<l>ploen, en den Prince de la Tour, comissarissen ge¬</l>
+					<l>denomineert door zijne Excel. den Marquis de Prié</l>
+					<l>van Wegens zijne K. en K. M., om dien vorst te ver¬</l>
+					<l>gezellen over al, en zoo lang hij zijn verblijf</l>
+					<l>zal houden in dit Land: vervolgens wierd diën</l>
+					<l>monarch met eenen grooten trijn van koetzen</l>
+					<l>geconduiseert na de Abdije van S. Michiel, en</l>
+					<l>ontfing aldaar de complimenten van d&apos; Heeren van</l>
+					<l>&apos;t Magistraet, dewelke hem Presenteerde den wijn</l>
+					<l>van Eere. op 12. April wird hij gecomplimenteert</l>
+					<l></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1717</hi></l>
+					<l>door zijne Doorl. Hoogw. den Heere Bischop vandeeze</l>
+					<l>stad, en door den Prins d&apos; Esquilache gouverneur der</l>
+					<l>Citadelle &amp;c.</l>
+					<l>13. ditto na noen ten 3 ueren is zijne Czarsche Majes¬</l>
+					<l>teijt vertrokken te water na Brussel.</l>
+					<l>28. Meij is den Borgermeester Del Campo overleden</l>
+					<l>en is begraeven in S. Andries Kerk, en geweest Borger¬</l>
+					<l>meester van &apos;t jaer <hi rend='underlined:true;'>1713.</hi> tot  <hi rend='underlined:true;'>1717.</hi> en weynigere tijd te</l>
+					<l>vooren geworden vicomte de la Camera.</l>
+					<l>20. junij is het Beurt schip van Dort, op anker liggende</l>
+					<l>voor Bergen op Zoom door een orcaen omgeslaegen;</l>
+					<l>waer op waeren 6. passagiers die gelukkig gered zijn.</l>
+					<l>8 7ber, weezende den Verordineerden Dag om den Almo¬</l>
+					<l>genden Godt ende Heer der heirkragten te bedanken</l>
+					<l>voor de triomphante overwinninge, dewelke het Keijzerlijk</l>
+					<l>Leger onder de Bestieringe van Prins Eugenius van Savoeijen</l>
+					<l>op den 16. Augusti bij Belgrado op de Turken heeft bevog¬</l>
+					<l>ten, smorgens ten elf ueren geschiede in de Cathedrale</l>
+					<l>Kerke door den Heere Bisschop onder het luijden der triomphe</l>
+					<l>klok en grooten toe loop van volk een solemnele Misse</l>
+					<l>in de welke tegenwoordig waren den Prins d&apos; Esquilache</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1717.</hi></l>
+					<l>gouverneur der Citadelle, ende Heeren van t&apos; Magis¬</l>
+					<l>straet in corpora benevens veele andere Personen</l>
+					<l>van Rang.</l>
+					<l>na der Misse intoneerde zijne voorgemelde Hoogh.</l>
+					<l>den <hi rend='underlined:true;'>Te Deum Laudamus</hi> den welken gezongen</l>
+					<l>wierd onder eene drij malige losbranding van &apos;t</l>
+					<l>kanon der Stad en Citadelle en forten &amp;c.</l>
+					<l>&apos;Savond was &apos;t stadhuijs zeer uijtmuntend verciert,</l>
+					<l>en met menige witte flambeeuwen verligt, voor</l>
+					<l>&apos;t zelve was onder een zeer kostelyk verheemeldzel</l>
+					<l>gesteld het Portrait van zijne keijz. Majesteijt.</l>
+					<l>tusschen 7. en 8. ueren terwylen de Gilde kamers</l>
+					<l>ook met fakkels verligt waren, wirden wederom</l>
+					<l>onder het luijder der groote klok, het speelen der Beij¬</l>
+					<l>aerts en het geschal van Schalmeijen, trompetten en</l>
+					<l>keteltrommels verscheij @avo geschooten door &apos;t grof</l>
+					<l>geschut en mousqi@tterije van &apos;t garnizoen.</l>
+					<l>het Opperste van den toren der hooftkerk was</l>
+					<l>door een groot getal van lanternen, die een keijzers</l>
+					<l>kroon verbeelden cierlyk verligt.</l>
+					<l>ten alf 10. wird voor het stadhijs een schoon vuur¬</l>
+					<l>werk afgestooken, en door de meeste straeten van</l>
+					<l>de stad zag men </l>
+					<l>ontallike</l>
+					<l>vreugde vueren.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1717.</hi></l>
+					<l>11. 8ber is zijne Keijzerl. Majesteijt tot Brussel geha@</l>
+					<l>als Hertog van Brabandt.</l>
+					<l>18. d10itto tot Gend als graev van Vlaenderen.</l>
+					<l>18. 9ber na middag wierd hier zeer pragtig ingehaeld</l>
+					<l>Ludovicus josephus Cambier als primus van Loven:</l>
+					<l>de Eerw.<hi rend='superscript:true;'>ge</hi> P.P. Augustijnen (bij dew. hij alle zijne latijn</l>
+					<l>sche schoolen benevens ook den Dialectica heeft</l>
+					<l>gehoort) eijn deezen hunnen Campioen ontrent</l>
+					<l>eene mijle buyten de stad te gemoet gegaen met</l>
+					<l>een dobbel cavalcade uijt de jonkheijd hunner col¬</l>
+					<l>legie, onder &apos;t geschal van timballen en trompetten,</l>
+					<l>en geacompagneert door de koetsen met 6. peerden</l>
+					<l>van zijne Doorl. Hoogw: en van zijne Excel. den Prins</l>
+					<l>d&apos; Esquilache, en verscheijde andere koetsen en</l>
+					<l>wird alzoo onder het luijden der groote klok gebrogt</l>
+					<l>binnen deeze stad, alwaer ook stond een triomphwagen</l>
+					<l>verciert met Pallas, als ook met eenige vrije konsten,</l>
+					<l>Deugden &amp;c. en alzoo voortrydende tot aen zijn collegie,</l>
+					<l>geschiede hem eene korte gelukwensching vervolgens trad</l>
+					<l>hij in de kerk der Eerw. P.P. Augustijnen alwaer men</l>
+					<l>den Almogenden Godt bedankte, door het zingen van</l>
+					<l>eenen musicalen te Deum onder het lossen van &apos;t kanon</l>
+					<l>der Citadelle. daer na begaf hij zig na het Palleijs van</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1717.</hi></l>
+					<l>van Zijne Doorl. Hoogh. den Heere Bisschop, vandeun.</l>
+					<l>in de kapell des palleijs de Benedictie ontfangen heb¬</l>
+					<l>bende, reed hij na het Stadhuijs; hier wird den Heer</l>
+					<l>primus door de Heere van &apos;t Magistraet zeer jonstiglijk</l>
+					<l>ontfangen, en door den Heer pensionaris gecomplimen¬</l>
+					<l>teert zijnde, geleijd in de Staeten kamer, en begiftigd</l>
+					<l>met een Zeer treffelijk present, waer over eene ootmoedige</l>
+					<l>dankbaarheijd getoont hebbende, vervolgde hij met den</l>
+					<l>gansschen Trijn onder eenen grooten toeloop van</l>
+					<l>volk; Zijnen Weg na het huijs van Zyne agt¬</l>
+					<l>baere moeder, hetgene Zeer uijtmuntende verciert</l>
+					<l>was, voor hetw., gelyk ook in de nabuerschap opge¬</l>
+					<l>regt waeren verscheijde Staeken met pektonnen,</l>
+					<l>hebbende deeze vrolijkheijd geduert tot diep in den</l>
+					<l>nagt.</l>
+					<l>25. 10ber heeft het Smorgens ten 11. ueren Zeer hoogen</l>
+					<l>vloet geweest.</l>
+					<l><hi rend='underlined:true;'>1718.</hi></l>
+					<l>23. anni &apos;S morgens ten 9. ueren is op den hoek van</l>
+					<l>de winkelstraet en onze merkt een huijs ingeval¬</l>
+					<l>len waer in waeren vier menschen, doch alle</l>
+					<l>vier gered zonder ongeluk.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1718.</hi></l>
+					<l>14. en 15. feb. is er eenen oploop geweest van de Zeijde</l>
+					<l>Stofwerkers om de Zeijde Stoffen die aengekoomen</l>
+					<l>zijn tot Ostende men een Schip uijt oostindiën;</l>
+					<l>zij hebben een bael vouw Zeijde gehaeld uijt het huijs</l>
+					<l>van de Wed<hi rend='superscript:true;'>e</hi> praet in de Cammerstraet nu getrouwdt</l>
+					<l>met Zekeren ouden hoven, welke Zeijde Zij verbrand</l>
+					<l>hebben op de groote merkt, als ook eenige Zeijde</l>
+					<l>Stoffen die zij hadden gehaeld uyt verscheijde</l>
+					<l>huijsen. de gilden en wijken waeren alsdan op</l>
+					<l>de been om den oploop te Stutten.</l>
+					<l>4. julij is een kruijs gestelt op S. Andries kerk aen de</l>
+					<l>zijde vanden toren.</l>
+					<l>30. junij &apos;S nags ten elf ueren is hier binnen Antwerpen</l>
+					<l>naer eene lange en pijnelijke Ziekte in den ouderdom</l>
+					<l>van 53 jaeren overleden monseigneur Don Louis</l>
+					<l>de Borja ij Antillas Marquis van tarazena, en</l>
+					<l>van S. Damien Prins van Esquilache, hertog van</l>
+					<l>Ciudadreal, grave van aramaijona, vicomte van</l>
+					<l>Zantaneva, Ridder van &apos;t order van S. Jacob, comman</l>
+					<l>deur van Sargat en genet heere van de Stad en landen</l>
+					<l>van jodoigne, mestre de Camp generael, en velt</l>
+					<l>maerschal generael van de Legers van zijne</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l>1718</l>
+					<l>Keyzerlijke en Katholike Majesteijt en van zijnen</l>
+					<l>raed van oorlog, grande van Spagnien van de</l>
+					<l>eerste klasse, en gouverneur vande Citadelle van</l>
+					<l>Antwerpen &amp;c..</l>
+					<l>desselfs lighaem <hi rend='strikethrough:true;'>is overleden</hi> wird saterdag 2. julij &apos;s avonds</l>
+					<l>tot dat de solemnele Lijkdiensten daer over zullen</l>
+					<l>gedaen worden met weijnige Ceremonien bygezet in</l>
+					<l>kerke van &apos;t kasteel.</l>
+					<l>16 julij  weezende eenen maendag ontrent den middag</l>
+					<l>was alhier een schroomelijk onweder van donder en</l>
+					<l>blixem en regen, waerdoor onder andere onge¬</l>
+					<l>lukken de uytter maten schoone en vermaerde</l>
+					<l>kerke van &apos;t Proffessie huijs der Eerw. P.P. jesui¬</l>
+					<l>ten, altemael van ma@hoor, aen het dak in</l>
+					<l>den brant geraekte, en in twee ueren tyd is, niet</l>
+					<l>tegenstaende alle mogelijke tegenweêr, met alle de</l>
+					<l>kostelijke schildereijen doorde woedende en schrikkelij¬</l>
+					<l>ke vlammen ellendig tot eenen puijn hoop wierd geleijd.</l>
+					<l>20 julij smorgens om tien ueren geschiede inde kerk</l>
+					<l>van &apos;t kasteel van Antwerpen eenen solemnelen Lijkdienst</l>
+					<l>voor de ziele vanden Doolugtigen prins van Van Esqui¬</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><hi rend='underlined:true;'>1718.</hi></l>
+					<l>lache gouverneur van &apos;t kasteel die den 30. junij was over¬</l>
+					<l>leden: de misse wird gecelebreert door zijne doorl.</l>
+					<l>Hoogw. Petrus jos. Bisschop deezer stad ten byweezen</l>
+					<l>van de Eerw. Heeren Abten van S. Michiel en S. Salva¬</l>
+					<l>tor, van de Overste van alle Kloosters, van de Edele</l>
+					<l>Heeren van &apos;t Magistraet, van alle gouverneurs</l>
+					<l>der forten, d&apos; Officiers van &apos;t garnizoen van veele</l>
+					<l>andere treffelyke persoonen.</l>
+					<l>de kerk was rondom behangen met zwerten baij,</l>
+					<l>verciert met de wapens van zijne overledene Excel¬</l>
+					<l>lentie, en in &apos;t midden der zelve was opgeregt een</l>
+					<l>hoog-verheven Chapelle ardente omringt met meer</l>
+					<l>als hondert witte flambeuwen en voorzien met</l>
+					<l>de zelve wapens, en aen den voet vandewelke</l>
+					<l>door vijf dood beklaegende figueren verbeeld stonden:</l>
+					<l>de ydelheijd des werelds, de Glorie, de kortheyd van &apos;t</l>
+					<l>menschen leeven, ende zekerheijd van de Dood.</l>
+					<l>de misse, dewelke gezongen wird door de fameustte mu¬</l>
+					<l>siekanten deezer stad, en onder het koninglyk geluy</l>
+					<l>hetgeene drij weeken duerde, geeyndigd zijnde, begon</l>
+					<l>den Eerw. Pater Lancier Corecctor van de Eerw. paters mi¬</l>
+					<l>nimen, en predikkun van zyne keijzerlyke en Catholike</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l>1718</l>
+					<l>majesteijt het Lijk-Sermoon, vervattende de door¬</l>
+					<l>lugtige afkoomst van Zijne Excellentie, zijne</l>
+					<l>manhaftige daeden, Zijne getrouwe diensten voor</l>
+					<l>het doorlugtig huijs van Oostenryk en zijne</l>
+					<l>andere deugden met dew. hij Zijn Leeven roemweer¬</l>
+					<l>dig heeft geeyndigt &amp;c.,</l>
+					<l>24. 9ber is op kroonenborg kaij een klok scheep ge</l>
+					<l>daen voor de Stad brugge Weegende 21. duijzend</l>
+					<l>ponden gegooten door guilliam Witlockx.</l>
+					<l>1719</l>
+					<l>20, anni Zijn de Spagniaerts van het Kasteel van</l>
+					<l>Antwerpen vertrokken, en de Duytsche in plaets</l>
+					<l>gekoomen die gedient hadden in Hungarien.</l>
+					<l>9. meert &apos;Smorgens ten 11. ueren is den eersten</l>
+					<l>Steen geleijd, van de Afgebrande Kerk van</l>
+					<l>de P.P. jesuiten, door Zijne Hoogw. Petrus jos.</l>
+					<l>en den tweeden, door door de Edele Heeren Alex. Jos. van</l>
+					<l>Halmak en Jois Carel van Hove Borgermeesters, re¬</l>
+					<l>presenteerende het geheel Corps van &apos;t Magistraet,</l>
+					<l>den derden is geleyd door Joes Carl. van Hove <hi rend='strikethrough:true;'>van Halmale</hi> voornoemt</l>
+					<l>den 4den door A.J. van Halmale voors. ider met zyn</l>
+					<l>wapen daer op.</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l>1719.</l>
+					<l>op 26. meet isser eene Groote Confusie</l>
+					<l>geschiet inde Solaliteyt van de PP.</l>
+					<l>Jesuiten, te weeten: eenen ouden</l>
+					<l>man ontrent 50 jaeren is komen</l>
+					<l>knielen op den Communie</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1719</l>
+					<l>die 4. Steenen liggen onder de 4. eerste pilaeren</l>
+					<l>naest den hoogen Autaer.</l>
+					<l>18. junij wird eenen Biddag ingesteld voor 8. dagen voor de</l>
+					<l>Droogte des Lands, en &apos;Savonds na het Lof ging de</l>
+					<l>Processie de kleijnen toer. item 25. ditto wederom</l>
+					<l>vernieuwd voor 8 dagen.</l>
+					<l>den Zelven Dag hebben de Conticteurs met groote</l>
+					<l>magnificentie verheft de Reliquien van den Zaligen</l>
+					<l>Aloyisius Gonzaga.</l>
+					<l>26. Meij is van hier afgevaeren een State yacht van</l>
+					<l>Holland, en is den Zelven Dag op anker Liggende</l>
+					<l>tusschen het Eyland Schouwen en de Willemstad</l>
+					<l>door een furieus orcaen omgeslaegen en gezonken,</l>
+					<l>waer in waren M<hi rend='superscript:true;'>r</hi> Vos Comies van de finantie van</l>
+					<l>Holland, M<hi rend='superscript:true;'>r</hi> vanden cragt eersten comies van &apos;t Comp¬</l>
+					<l>toir generael van Holland, M<hi rend='superscript:true;'>r</hi>. Wevering oudsten zoon</l>
+					<l>van M<hi rend='superscript:true;'>r</hi> van holij met Zijnen Zoon en knegt, en</l>
+					<l>vier bootsgezellen dew. Zyn verdronken. M<hi rend='superscript:true;'>r</hi> van</l>
+					<l>holij en Valkenborg hebben Zig met groote moeijte door</l>
+					<l>het zwemmen gesalveert.</l>
+					<l>9. julij is den voorgen. biddag voor de Droogte der Aerde</l>
+					<l>geslooten.</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l>1719</l>
+					<l>primo julij hebbenze begonst St. Michiels bolwerk</l>
+					<l>de boomen uijt te doen om de mueren te hermae</l>
+					<l>ken die zeer gescheurt waren.</l>
+					<l>30. ditto isser eenen Biddag ingesteld voor drij dagen voor</l>
+					<l>de droogte der aerde; den Biddag duerde 3 dagen</l>
+					<l>en alle de Parochien met hunne Confrerie moesten</l>
+					<l>in O.L.V. Kerke koomen bidden ieder een uere,</l>
+					<l>als ook alle de kloosters met hunne Confrerie na </l>
+					<l>advenant. Savonds tusschen het Lof wird er eene solem¬</l>
+					<l>neele Processie gehouden Langs den Grooten toer met</l>
+					<l>alle de Ambagten en Gilden als ook met de Geestelyk¬</l>
+					<l>heijd.</l>
+					<l>22. Augusti is voor den Eersten reijze in O.L.V. dispuet</l>
+					<l>geweest door die van&apos;t Seminarium van den Bisschop</l>
+					<l>Petrus Jos. die het dispuet Defendeerde.</l>
+					<l>4. 7ber is den Poeder molen by het Dwinghuijs in brand</l>
+					<l>geraekt en gesprongen, dog geene werkelyke schade</l>
+					<l>geschiet, dan allenelyk aen de pannen van&apos;t dak en het</l>
+					<l>houte Schutzel, en het Peerd wat verbrand.</l>
+					<l>additio *</l>
+					<l>1720.</l>
+					<l>27. meert na noen is&apos;t zeer hoogen vloet geweest,</l>
+					<l>zoo dat de schipstraet onder water stond, als ook</l>
+					<l>de peerde markt enden appelen dijk doorgespoeld,</l>
+					<l>als ook over andere dijken over geloopen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1720</l>
+					<l>3. mey hebben de Eerw: P.P. minderbroeders verheft de Reli¬</l>
+					<l>quien van &apos;t Heijlig kruijs, onder het luyden der Groote</l>
+					<l>klok.</l>
+					<l>1. julij zyn de 25 @ opgegaen ten platte Lande.</l>
+					<l>* 14. 7ber naar dat</l>
+					<l>Eene Zeer groote do</l>
+					<l>beeken en gragten</l>
+					<l>het eyndelyk aen</l>
+					<l>gewenschten regen</l>
+					<l>1. 9ber Smorgens tus</l>
+					<l>Den Heer Marquis</l>
+					<l>kasteel aan Auta.</l>
+					<l>langs de Poort van</l>
+					<l>neurs huys wierden</l>
+					<l>voorders ging hij na</l>
+					<l>wird gezongen &amp;</l>
+					<l>6. november is de</l>
+					<l>pend en in de zeke</l>
+					<l>tot loop van volk</l>
+					<l>Door zijne Doorl</l>
+					<l>Lof wird dien te</l>
+					<l>25. 10 ber is mijn heer</l>
+					<l>vis in plaets van D</l>
+					<l>op 25 xber. 1719.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>29. meert 1719. viel er veel quad vuer</l>
+					<l>uyt de logt, waer door het zoo ligt</l>
+					<l>was alof het dag was. dit duer</l>
+					<l>de weijnig tyds.</l>
+					<l>4. aug 1719. was alhier een schromelyk</l>
+					<l>onweder van donder en Blixem,</l>
+					<l>en grooten regen, begons ontrent</l>
+					<l>5. ueren na noen en duerde tot 9.</l>
+					<l>ueren &apos;Savonds, (maer godt lof) geene</l>
+					<l>merkelijke schade is ergeschiet, als</l>
+					<l>daer onder andere sloeg den <hi rend='strikethrough:true;'>donder</hi></l>
+					<l>Blixem op de peerde markt in eenen</l>
+					<l>kelder twee vaetjens met Smout in</l>
+					<l>in den brand, maer wierd @@@@ ge¬</l>
+					<l>blust.</l>
+					<l>op 14. 7ber 1719. na dat men dezen geheelen</l>
+					<l>somer had gesweet een onbeschrijftelyke</l>
+					<l>droogte, waervoor alle klyne rivieren,</l>
+					<l>beeken, gragten en vijvers byna teene</l>
+					<l>mael uijtgedroogt waeren, heeft het</l>
+					<l>eyndelyk belieft aen den Almogenden</l>
+					<l>Godt den gewenschten en lang ver¬</l>
+					<l>zogten reegen te verleenen.</l>
+					<l>19. September 1719. is Anneessens tot Brussel</l>
+					<l>onthoofd.</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l>zeer veele schade geschiet aen den</l>
+					<l>Dyk vant Hobooksbroek denw[elke]. door</l>
+					<l>gespoelt is, als ook de Appelendijk</l>
+					<l>waar mede de geheele vlayleij onder</l>
+					<l>water stond, en de blykhoven daer</l>
+					<l>ontrent met de laeke zaem.</l>
+					<l>Door den zelven vloed zijn ook door</l>
+					<l>gebroken de volgende Polders: het</l>
+					<l>Basels-Broek en Cruybeek-Broek</l>
+					<l>de Peerde-Schoor Sinte Anna Cetenis</l>
+					<l>den Luijspolder boven den Doel</l>
+					<l>den Noordpolder, de klink, kaldreysche</l>
+					<l>borgerweist polder van nuemen de</l>
+					<l>poorten van Hulst wirden door</l>
+					<l>het water weggespoelt. Speelmans</l>
+					<l>polder, middel polder den perkpolder</l>
+					<l>en meer andere</l>
+					<l>21 7ber 1718 is de kerk der karthuysers tot</l>
+					<l>Lier geweyd door zyn Hoog@@ Pet.</l>
+					<l>JvS Bisschop van Antwerpen. </l>
+					<l>18 7ber 1720 is Jasper Schreynmaec¬</l>
+					<l>kers werdyn vande munt overleeden.</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l>1719</l>
+					<l>primo julij hebbenze  begonst St. michiels bolwerk</l>
+					<l>de boomen uijt te doen over de mueren te hermae¬</l>
+					<l>ken die zeer gescheurt waren.</l>
+					<l>30 ditto isser eenen Biddag ingesteld voor drij dagen voor</l>
+					<l>de Droogte der aerde, den Biddag duerde 3  dagen</l>
+					<l>en alle de Parochien met hunne Confrerie moesten</l>
+					<l>in O.L.V. Kerke koomen bidden ieder een uere,</l>
+					<l>als ook alle de kloosters met hunne Confrerie na</l>
+					<l>advenant. Savonds tusschen het Lof wird er eene solem¬</l>
+					<l>neele Processie gehouden langs den Grooten toer met</l>
+					<l>alle de Ambagten en Gilden als ook met de Geestelyk¬</l>
+					<l>heijd.</l>
+					<l>22. Augusti is voor den Lesten reijze in O.L.V. dispuet</l>
+					<l>geweest door die van&apos;t Seminarium van den Bisschop</l>
+					<l>Petrus Jos. die het dispuet Defendeerde.</l>
+					<l>4 7ber is den Poeder molen by het Dwinghuijs in brandt</l>
+					<l>geraekt en gesprongen dog geene merkelyke Schade</l>
+					<l>geschiet, dan allenelyk de pannen van&apos;tdak en het</l>
+					<l>houte Schutzel, en het Peerd wat verbrand.</l>
+					<l>additio *</l>
+					<l>1720.</l>
+					<l>27 meert na noen is &apos;t zeer hoogen vloet geweest,</l>
+					<l>Zoo dat de Schipstraet onder water stond, als ook,</l>
+					<l>de peerde markt enden appelen Dijk doorgespoeld,</l>
+					<l>als ook over ander dijken over geloopen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1720</l>
+					<l>3 meij hebben de Eerw P.P. minderbroeders Verheft de Reli¬</l>
+					<l>quien van &apos;t Heijlig Kruijs, onder het luyden der Groote</l>
+					<l>klok.</l>
+					<l>1 julij zijn de 25 opgegaen ten platte Lande.</l>
+					<l>1719</l>
+					<l>14. 7ber naer dat het den geheelen Zomer had geweest</l>
+					<l>Eene zZeer groote droogte, waer door de klijne revieren,</l>
+					<l>beeken en gragten byna uytgedroogt waren, heeft</l>
+					<l>het eyndelyk aen den Almogenden belieft den lang</l>
+					<l>gewenschten regen te verleenen.</l>
+					<l>1. 9ber smorgens tusschen 12. en 1. uer heeft Zijne Excel.</l>
+					<l>den Heer Marquis de Rubie Zynen intrée gedaen op&apos;t</l>
+					<l>kasteel van Antw. als gouverneur. Zyn Excel. kwam</l>
+					<l>langs de Poort van Secours, koomende aen &apos;t Gouver¬</l>
+					<l>neurs huys wierden hem daer de Sleutels gepresenteerd;</l>
+					<l>voorders ging hij na de Kerk alwaer den te Deum</l>
+					<l>wird gezongen &amp;c.</l>
+					<l>6. november is de kerke vande Eerw: P.P. Jesuiten geo¬</l>
+					<l>pend en in de zelve ten elf ueren onder eenen grooten</l>
+					<l>toeloop van volk eene solemnele Misse gecelebreert</l>
+					<l>Door zijne Doorl. Hoogw. ontrent den Avond na &apos;t</l>
+					<l>Lof wird den te Deum gezongen &amp;c.</l>
+					<l>28. 10ber is mijn heer den tresorier van Hove gekoosen pensiona¬</l>
+					<l>ris in plaets van Dheer Loun die tot Brussel gestorven was</l>
+					<l>op 25 xber. 1719.</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l>1720</l>
+					<l>4. july. na noen ontrent 6. ueren zijn hier aen</l>
+					<l>S. Joris Poort, door het Cappittel van S. Jacobs, als</l>
+					<l>ook door de Confrerie vande H. Drijvuldigheijd, met</l>
+					<l>grooten toeloop van volk, ingehaeld 30 verloste</l>
+					<l>Christene Slaeven.</l>
+					<l>van de poort wirden zy gelijd door eenige Engelen</l>
+					<l>na de kerke van S. jacobs alwaer den te Deum</l>
+					<l>wird gezongen.</l>
+					<l>op 5. ditto wird er &apos;smorgens ten 10. ueren gezongen</l>
+					<l>eene Solemnele misse, waer naer eene Solemnele</l>
+					<l>Processie wird gehouden met de voors Slaeven</l>
+					<l>en Engelen langs den Grooten toer.</l>
+					<l>tussen 30. en 31. julij is hier Snags een schroome¬</l>
+					<l>lyk onweder geweest zoo dat er veel schade is</l>
+					<l>geschiet aen O.L.V. toren aen &apos;t Steenwerk.</l>
+					<l>15. Aug. Smorgens ten 3. ueren is den ouden Pensio¬</l>
+					<l>naris Louns overleden.</l>
+					<l>19. 8ber isser Smorgens ten 7. ueren eenen grooten</l>
+					<l>water vloed geweest, ende Sluijs agter het tugt¬</l>
+					<l>huijs gebroken, zoo dat Ferdinandus Polder</l>
+					<l>onder geloopen was.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1720</l>
+					<l>17. 9ber isser eenen biddag ingesteld voor 6. weeken</l>
+					<l>om den Almogenden Godt te verzoeken dat hij deeze</l>
+					<l>Stad wilde bevrijden van de Peste die als dan binnen</l>
+					<l>Marcelien was en in de omliggende Landen.</l>
+					<l>Smorgens ten 9. uren geschiede in O.L.V. kerk</l>
+					<l>eene Solemnele Misse door zijne Doorl. Hoogw. Petrus</l>
+					<l>Jos. waer naer volgde een procesie met de Ambagten</l>
+					<l>en Gilden &amp;c. gelijk ook geschiede in de andere</l>
+					<l>Parochien.</l>
+					<l>1. xber isser met eenen Zuijden wind eenen grooten</l>
+					<l>water vloed geweest, zoo dat er eene groote Schaede</l>
+					<l>is geschiet en voor het veêr een Schip is gezonken</l>
+					<l>gelaeden met kassije Steenen.</l>
+					<l>31. ditto isser &apos;S avond wederom grooten water</l>
+					<l>vloed geweest. zoo dat er wederom groote Schade</l>
+					<l>is geschiet.</l>
+					<l>1721</l>
+					<l>27. feb heeft het Smorgens ten 5. ueren gebrand</l>
+					<l>in het Seminarium genaemt de Roose waer viele</l>
+					<l>Schade is geschiet.</l>
+					<l>13. april weezende Paesschen isser naer noen een groot</l>
+					<l>onweder geweest, Zoo dat dat er veele Schade is geschiet</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l>1721</l>
+					<l>aen twee molens, en op de Kasteel plijn onder den</l>
+					<l>molen genaemt het Ourt eenen soldaet dood ge¬</l>
+					<l>slaegen die daer zat en schuijlde, en den anderen</l>
+					<l>stond op stuijvenberg alwaer ook veele schade was </l>
+					<l>geschied.</l>
+					<l>Lijste der Heeren Treseriers.</l>
+					<l>Dheer Bastin.</l>
+					<l>de Cordes.</l>
+					<l>Vande Walle.</l>
+					<l>de man.</l>
+					<l>La flier.</l>
+					<l>Anselmo.</l>
+					<l>1674.</l>
+					<l>Vanden Cruijce.</l>
+					<l>1677.</l>
+					<l>vande Herve.</l>
+					<l>1680.</l>
+					<l>Altuna.</l>
+					<l>1683.</l>
+					<l>Van Halmale.</l>
+					<l>1686.</l>
+					<l>Van Hove.</l>
+					<l>1689.</l>
+					<l>Lescornet.</l>
+					<l>1692.</l>
+					<l>vander Heijden.</l>
+					<l>1695.</l>
+					<l>Engelgrave.</l>
+					<l>1698.</l>
+					<l>Terninck.</l>
+					<l>1701.</l>
+					<l>vander Aa.</l>
+					<l>1704.</l>
+					<l>vande Werve.</l>
+					<l>1707</l>
+					<l>de Cordes.</l>
+					<l>1710</l>
+					<l>de uitlegas.</l>
+					<l> 1713     van Hove</l>
+					<l>2 mael na volgende</l>
+					<l>1719.</l>
+					<l>vanden Cruijce.</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<pb n='34'/>
+		</body>
+	</text>
+</TEI>

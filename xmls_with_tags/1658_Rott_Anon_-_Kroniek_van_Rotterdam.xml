@@ -1,0 +1,2626 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1658_Rott_Anon - Kroniek van Rotterdam</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: erika.kuijpers@vu.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>HANDSCHRIFTEN</l>
+					<l>VERZAMELING</l>
+					<l>ROTTERDAM</l>
+					<l><datum datum='1553-xx-xx'>1553</datum></l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>Afd:</l>
+					<l>N<hi rend='superscript:true;'>o</hi> 2</l>
+					<l>DER</l>
+					<l>BIBLIOTHEEK</l>
+					<l>VAN</l>
+					<l><locatie>Rotterdam</locatie>.</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>cro. van</l>
+					<l><locatie>hollant</locatie></l>
+					<l>foli 303</l>
+					<l>capittel 37</l>
+					<l>Anno <datum datum='1426-xx-xx'>1426</datum> werde verwoest dat huis te <locatie>hillegers berch</locatie></l>
+					<l><locatie>kralinghe</locatie> ende dat huis te <locatie>spanghe</locatie> in <locatie>schielant </locatie>dit</l>
+					<l>deden die van <locatie>Alckmar</locatie> die men kenners nomt</l>
+					<l><locatie>delft</locatie> foli</l>
+					<l>162</l>
+					<l>Capit 327</l>
+					<l>Anno <datum datum='1437-xx-xx'>1437</datum> sijn vergaert geweest een deel backers</l>
+					<l>binnen der stat <locatie>Rotterdam</locatie> ende hebben daer doen maecken</l>
+					<l>een outaer in <locatie>sit laurens kerck</locatie> ter eeren van onse</l>
+					<l>livrou soo sij meinden al hoe wel dese kerck op die tijt</l>
+					<l>noch gheen tooren noch koor en hadde naert behooren</l>
+					<l>dit voorsz outaer worde gewijt van <persoonsnaam>Roelof van diepenhout</persoonsnaam></l>
+					<l><persoonsnaam>de drieenvijftichste bisschop van <locatie>wtrecht</locatie></persoonsnaam> dit geschiede</l>
+					<l>saterdaechs voor <locatie>delfse</locatie> kermes datum als boven van die</l>
+					<l>tijt aen hebben de backers binnen <locatie>Rotterdam</locatie> haer ghilde</l>
+					<l>gehouden met mans ende vrouwen maer doorde onredelijck¬</l>
+					<l>heit van eenige ghildebroeders sijnde ghildesusters</l>
+					<l>apsent gebleven</l>
+					<l>croni. van</l>
+					<l><locatie>hollant</locatie></l>
+					<l>foli.321</l>
+					<l>Cap 8</l>
+					<l>Anno <datum datum='1438-xx-xx'>1438</datum> worde tot <locatie>Rotterdam</locatie> Oorlochschepen toe</l>
+					<l>gemaeckt doen de hollanders ende seelanders oorloch hadden</l>
+					<l>tegens die Oostersche steeden</l>
+					<l>Croni. van</l>
+					<l><locatie>hollant</locatie></l>
+					<l>fo-166</l>
+					<l>Anno <datum datum='1440-xx-xx'>1440</datum> wert die eedele profitelijcke konst vant</l>
+					<l>boeckdrucken eerst gevonden ende int licht gebrocht int</l>
+					<l>eerste Jaer van <persoonsnaam>keiser frederick de derde</persoonsnaam></l>
+					<l>Croni.</l>
+					<l>van<locatie> hollant</locatie></l>
+					<l>fo: <hi rend='strikethrough:true;'>166</hi></l>
+					<l>325</l>
+					<l>Anno <datum datum='1448-xx-xx'>1448</datum> ghaf <persoonsnaam>filpus van burgoenien</persoonsnaam> sijnen soon <persoonsnaam>Graef</persoonsnaam></l>
+					<l><persoonsnaam>karel van Saerloois</persoonsnaam> die <locatie>heerlijckheit van strien ende putten</locatie></l>
+					<l>ende maeckte inde bedijckingh van een stuck lants over</l>
+					<l><locatie>Rotterdam</locatie> een dorp dat hij naer sijnen naem noemde</l>
+					<l><locatie>saerloois</locatie> ende hiet noch alsoo dit was int Jaer <datum datum='1460-xx-xx'>1460</datum></l>
+					<l>Anno <datum datum='1449-xx-xx'>1449</datum> <datum datum='1449-11-06'>den eerdten dijnsdach naer alderheilighen</datum></l>
+					<l>werde den eersten steen geleit van <locatie>sinte laurens</locatie></l>
+					<l><locatie>kerck</locatie> binnen <locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1467-10-28'>1467 den 28 ocktober</datum> werde geboren <persoonsnaam>Erasmus van</persoonsnaam></l>
+					<l><persoonsnaam>rotterdam</persoonsnaam> inde <locatie>nieuwe kerckstraet</locatie> aen de west sijde</l>
+					<l><pagenumber>2</pagenumber></l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>Cronijck</l>
+					<l>van<locatie> hollant</locatie></l>
+					<l>fo. 418</l>
+					<l>Cap 23</l>
+					<l>Anno <datum datum='1479-xx-xx'>1479 </datum>is <persoonsnaam>den heer van der <locatie>veere</persoonsnaam> </locatie>stathouder van <locatie>hollant</locatie></l>
+					<l>wtten <locatie>haghe </locatie>gekomen binnen <locatie>Rotterdam </locatie>ende heeft aldaer</l>
+					<l>geordineert sijn hof van Rechten om dat hij aldaer te</l>
+					<l>vrijer soude moghen wesen maer sijn heeren van den </l>
+					<l>Raet en quamen niet bij hem niet om dat sij van der</l>
+					<l>Cabbeliauser partije waren ende een wijle binnen <locatie>Rotterdam</locatie></l>
+					<l>gelegen hebbende siende dat hij die twee pertijen niet</l>
+					<l>vereenigen konde heeft hij die stat van <locatie>Rotterdam </locatie><locatie>dordrecht</locatie></l>
+					<l>ende <locatie>dergoude </locatie>bevolen te bewaren aen <persoonsnaam>Jores die bastaert</persoonsnaam></l>
+					<l><persoonsnaam>van Breedenrode</persoonsnaam> ende is vertrocken met alle sijn huisgesin</l>
+					<l>naerder <locatie>veere</locatie> want hij was een sachtmoedich man</l>
+					<l>van harten die geen ongenucht en konde verdraghen</l>
+					<l>Anno <datum datum='1480-xx-xx'>1480 </datum>was <persoonsnaam>hartoch macximilijaen</persoonsnaam> binnen <locatie>dordrecht</locatie></l>
+					<l>ende Reisde naer <locatie>Rotterdam </locatie>daer wesende quam <persoonsnaam>Jores</persoonsnaam></l>
+					<l><persoonsnaam>die bastaert van Bredenrode</persoonsnaam> kapitein der stat ende</l>
+					<l>presenteerde<persoonsnaam> den prinse Macximilijaen</persoonsnaam> de sleutelen</l>
+					<l>van der stede maer den prinse bevalse hem weder ende</l>
+					<l>liet hem overste kapitein blijven maer korts hier naer</l>
+					<l>werden hem die sleutelen afgenomen deur valsche</l>
+					<l>aenclachten ende weder gegeven <persoonsnaam>heer flips de bastaert</persoonsnaam></l>
+					<l>van <persoonsnaam>hartoch Philips van brabant </persoonsnaam>ende die werde doen</l>
+					<l>overste kapitein van <locatie>Rotterdam </locatie>tegens <locatie>dordrecht </locatie>ende <locatie>der ghou</locatie></l>
+					<l>Croni.</l>
+					<l><locatie>hollant</locatie></l>
+					<l>fo. 423</l>
+					<l>cap. 30</l>
+					<l>Anno <datum datum='1481-04-06'>1481 den 6 April</datum> quam <persoonsnaam>heer Jan van Egmont</persoonsnaam></l>
+					<l>met weinich volck in overdeckte scheepen binnen</l>
+					<l><locatie>dordrecht </locatie>ende sloech sommighe vande Oouerste doot</l>
+					<l>ende verdrefer vele wtterstat ende ontboot vierhondert soldaten</l>
+					<l>van <locatie>Rotterdam </locatie>die hem de stat hielpen bewaren</l>
+					<l>Anno <datum datum='1488-xx-xx'>1488</datum> werden geheit de trantsen die aent hooch koor</l>
+					<l>gemaeckt souden worden van <locatie>Sinte Laurens kerck</locatie> tot</l>
+					<l><locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1488-11-18'>1488 den 18 dach van November</datum> op St Elijsebets</l>
+					<l>van hollant avont quam <persoonsnaam>Joncheer frans van bredenrode</persoonsnaam> voor <locatie>delfs  </locatie></l>
+					<l><locatie>haven</locatie> met een deel scheepen geladen met soldaten</l>
+					<l>kroniek van<locatie> Hollant</locatie> fo. 241 van 62 tot 68 toe</l>
+					<l>van <locatie>sluis </locatie>in <locatie>vlaenderen </locatie>ende dede een lantghang door <locatie>delfs</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><locatie>haven</locatie> naer <locatie>Rotterdam </locatie>ende nam die stat in sonder</l>
+					<l>slach ofte stoot sonder tegenweer te bieden daer op die</l>
+					<l>tijt een ghroot ghoet van alderlei koopmanschap</l>
+					<l>bevrosen lach ende sijn in deser manier de stat machtich</l>
+					<l>geworden ende langen tijd tegens dat geheele lant gehoude</l>
+					<l>ende deden veel quaets opte platte landen</l>
+					<l><datum datum='1488-12-xx'>Int beghin van december </datum>sijn die van <locatie>Rotterdam </locatie>scheep</l>
+					<l>geghaen met een menichte van voclk ende quamen</l>
+					<l>voor de stat <locatie>Schoonhoven </locatie>ende meende die inte nemen</l>
+					<l>maer die poorters weerden haer vromelijck ende sloeghen</l>
+					<l>haer van de mueren ende tooren dat sij daer veel dooden</l>
+					<l>lieten ende veel gequest ende ten lesten met schanden</l>
+					<l>wedergekeert achterlatende veel schepen overmits</l>
+					<l>het getij haer tegens was ende quamen soo weder</l>
+					<l>binnen <locatie>Rotteram</locatie> den <datum datum='1488-12-09'>9 december</datum> ghingen een deel</l>
+					<l>knechten wt <locatie>Rotterdam </locatie>ende verbranden <locatie>delfs haven</locatie></l>
+					<l>met sommige scheepen die voor in de haven laghen</l>
+					<l>Anno <datum datum='1489-02-xx'>1489 int beghin van feberwari</datum> quam binnen </l>
+					<l><locatie>Rotterdam </locatie><persoonsnaam>Jores de bastaert van bredenrode</persoonsnaam> de soon</l>
+					<l>van den domproost van <locatie>utrecht </locatie>daer wij vooren af</l>
+					<l>geseit hebben <persoonsnaam>dese Jores</persoonsnaam> als een van de overste</l>
+					<l>kapiteinen van <locatie>Rotterdam </locatie>met een ander kapitein</l>
+					<l>genaemt <persoonsnaam>lepeltack </persoonsnaam>met een deel van de knechten</l>
+					<l>sijn getoghen over<locatie> de maes </locatie>daer sij Roof ende brant stichten</l>
+					<l>pilgerende ende beroovende die lantlieden</l>
+					<l>Op dese tijt lach binnen de stat <locatie>schiedam</locatie> eenen</l>
+					<l><persoonsnaam>kapitein genaemt Wittenhorst</persoonsnaam> met een deel knechten</l>
+					<l>vant lants wegen van <locatie>hollant </locatie>dese knechten dit</l>
+					<l>vernemende door den brant die sij saghen toghen haer</l>
+					<l>na ende quamen aen malcanderen ende sloegen deen den</l>
+					<l>anderen veel volck af ende die van <locatie>schiedam </locatie>behielden</l>
+					<l>die ficktorie ende namen de andere gevanghen </l>
+					<l>ende brachtense binnen <locatie>Schiedam</locatie></l>
+					<l>korts naer desen quamen de poorteren vande</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>van de <locatie>steeden van hollant</locatie> als <locatie>leiden</locatie> <locatie>haerlem</locatie></l>
+					<l><locatie>amsterdam</locatie> ende <locatie>delft</locatie> met haere banieren binnen <locatie>schiedam</locatie></l>
+					<l>ende die van <locatie>dordrecht</locatie> met die van <locatie>der ghoude </locatie>laghen</l>
+					<l>te water om die stroomen te bevrijden ofte bewaren</l>
+					<l>dese banieren aldus binnen <locatie>schiedam</locatie> leghende elck</l>
+					<l>op sijn loghijs soo laeghen op die tijt noch veel</l>
+					<l>Ruiteren ende knechten binnen der stat die uittoghen</l>
+					<l>ende hadden veel schermutsinghen tegens die van</l>
+					<l><locatie>Rotterdam </locatie>ende sloeghen malkanderen veel volck af</l>
+					<l>soo deen dander te bovenghaende</l>
+					<l>Dese Ruiters hatende seer de hollanders noemdense</l>
+					<l>Ranghen honden ende langwambesen ende sloegen sommige</l>
+					<l>ende quetsense ter doot toe soo datter de hollanders</l>
+					<l>een mishagen in kregen alhoewel dat sij tsamen</l>
+					<l>dienen mosten ende haddent Gharen gesien dat ment</l>
+					<l>anders geordineert hadde maer diet bevolen was</l>
+					<l>te doen stonde de Ruiters voor ende lietent daer</l>
+					<l>niet heenen ghaen anders en quamper niet af</l>
+					<l>Anno <datum datum='1489-02-14'>1489 den 14 feberwari </datum>ist gebeurt dat die</l>
+					<l>knechten ende Ruiteren een aenslach ende verraet binnen</l>
+					<l><locatie>schiedam</locatie> opgestelt hadden want sij hadden heimelijck</l>
+					<l>sprake gehouden met die van <locatie>Rotterdam </locatie>om henluiden</l>
+					<l>die stat van <locatie>Schiedam </locatie>over te leveren met alle die</l>
+					<l>hollanders die daer binne waren ende sijn gekomen ontrent</l>
+					<l>ten acht ueren in den avont ten huise daervan die van</l>
+					<l><locatie>haerlem </locatie>gelogeert waren die sij eerste bevochten ende</l>
+					<l>maeckten wonderlijck gebaer van roepen ende krijten</l>
+					<l>ende schooten met Roers inde huise soo datter veel</l>
+					<l>gequest werden inde huisen eer dat sij terwere konde</l>
+					<l>koomen want sij boven opte solders ende kamers waren</l>
+					<l>want die andere schoten van onderen op dat hem</l>
+					<l>niemant porren dorste om af te komen want de</l>
+					<l>huisen beneden vol Ruiters waren die niet af en</l>
+					<l>lieten van schieten ende te Ropen algewonnen algewonnen</l>
+					<l>dese schermutsing aldus duierende en die ander poorters</l>
+					<l>van <locatie>haerlem</locatie> die bijder baniere niet gelogeert en waren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>3</pagenumber></l>
+					<l>maer daerontrent versamelt ende komende bij een om </l>
+					<l>dese knechten te wederstaen ende haer mede poorters</l>
+					<l>te ontsetten maeckende een gekrijt Ropende<locatie> hollant</locatie></l>
+					<l><locatie>hollant </locatie>alsoo dat sij een moet grepen ende schoten met</l>
+					<l>Roers soo vreeslijck op de Ruiters ende knechten dat sij</l>
+					<l>wijcken mosten ende drevense uitte huisen soo dat de</l>
+					<l>Ander van boven af quamen ende stonden malkander</l>
+					<l>manlijck bij ende die ander knechten weerden haer oock</l>
+					<l>vroomlijck ende drevense driemael te Rughe ten lesten</l>
+					<l>quam <persoonsnaam>heer Willem van borsthuise Ridder ende baeliu van</persoonsnaam></l>
+					<l><persoonsnaam>Rijnlant</persoonsnaam> met die van<locatie> leiden</locatie> ende de Rijnlanders ende</l>
+					<l>ontsette die van <locatie>haerlem </locatie>so dat die Ruiters de vlucht</l>
+					<l>namen ende staecken boskruit inde sloten vande stats</l>
+					<l>poorten ende dedense opspringhen ende liepen alsoo terpoorten</l>
+					<l>uit naer <locatie>Rotterdam </locatie>maer daer werdende veel inde stat</l>
+					<l>gequest ende dootgeschoten ende veel gevanghen maer die</l>
+					<l>vande stat hadden veel gequeste maer weinich dooden</l>
+					<l>aldus behielden die van de stat de fickorie ende die twee</l>
+					<l><persoonsnaam>kapiteinen als Jores de bastaert ende lepeltack</persoonsnaam> die binnen</l>
+					<l><locatie>schiedam</locatie> gevanghen laghen quamen met dit Remoer</l>
+					<l>uitterstat ende liepen in een schip daer sij uitgehaelt werden</l>
+					<l>ende weder binnen <locatie>schiedam </locatie>gevangen gebrocht ende veel</l>
+					<l>vande Ruiters ende knechten die sij gevanghen hadden</l>
+					<l>werden metten swaerde gerecht die van dit verraet</l>
+					<l>geweten hadden ende veel vande gequetste Ruiteren</l>
+					<l>storven inde <locatie>gasthuise </locatie>die van <locatie>haerlem </locatie>hadden seven</l>
+					<l>dooden daer de banierdrager een af was ende sij storven</l>
+					<l>alle met haer volle sakerment die andere steeden</l>
+					<l>hadden in als ses dooden op dese tijt was <persoonsnaam>kapitein</persoonsnaam></l>
+					<l><persoonsnaam>wittenhorst</persoonsnaam> binnen <locatie>dordrecht</locatie> bij den Roomschen koninck</l>
+					<l>maer dese nieuwe mare hoorende maeckte hem</l>
+					<l>wech maer wert achterhaelt ende gevanghen ende met</l>
+					<l><persoonsnaam>Jores de bastaert ende lepeltack</persoonsnaam> binnen <locatie>delft </locatie>gebrocht</l>
+					<l>dit was een groote ficktori want die Ruiters naert</l>
+					<l>opset dat sij gemaeckt hadden begonnen een vier te</l>
+					<l>vroech want die van <locatie>Rotterdam</locatie> op weech waren</l>
+					<l>meinende soo binnen <locatie>schiedam</locatie> te komen</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1489-03-06'>1489 den 6 maert</datum> hebben die knechten van</l>
+					<l><locatie>Rotterdam</locatie> dat dorp van <locatie>overschie</locatie> ingenomen want</l>
+					<l>daer lach vant tselve geselschap die te <locatie>schiedam</locatie> gelegen</l>
+					<l>hadden als <locatie>geldersche</locatie> <locatie>kleeffsche</locatie> ende andere die haerliede</l>
+					<l>niet wille opghaven ende die selfde Ruiters liepen</l>
+					<l>terstont in dat dorp van de ketel ende verbrande aldaer </l>
+					<l>veel schoone huisen ende woninghen daer die van<locatie> delft</locatie></l>
+					<l>groote schade van hadden die van <locatie>schiedam</locatie> hoorende</l>
+					<l>dat sij <locatie>ouderschie</locatie> quijt waren ende afgeloopen was sijn</l>
+					<l>terstont met alle hare knechten ende poorteren derwart</l>
+					<l>gekomen meenende dat weder af te loopen maer sij</l>
+					<l>bedreven niets</l>
+					<l>die van <locatie>delft</locatie> vernemende dat</l>
+					<l><locatie>ouderschie</locatie> ingenomen was ende meer quaets beduchtende</l>
+					<l>om dat sij haer soo nae bij quamen ende oock siende den</l>
+					<l>brant ende het verlies van dien soo is den schout van<locatie> delft</locatie></l>
+					<l>ter poorten uit geghaen met veel van de poorteren</l>
+					<l>sonder eenighe ordinantije te houden want sij meende</l>
+					<l>die van<locatie> schiedam</locatie> te ontsetten ende te hulp te komen tot</l>
+					<l><locatie>overschie </locatie>maer sij quamen te laet die knechten haer</l>
+					<l>siende hebbense wel bij laten koomen ende sijn haer teghen</l>
+					<l>geghaen soo dat die andere wijckende werden soo datte</l>
+					<l>wel vijftich verdroncken ende geslagen werden dit ghes</l>
+					<l>chiede<locatie> inde poldervaert </locatie>ende kreghen wel hondert ende</l>
+					<l>vijftich poorters gevanghen ende de schout quam in</l>
+					<l>schijn van een lantman wech maer een van sijne sonen</l>
+					<l>werde verslaghen de knechten dese ficktori hebbende</l>
+					<l>quamen terstont voorde <locatie>stat delft</locatie> ende brande aen die</l>
+					<l>eensijde alle die huise af tot de poort toe ende sijn</l>
+					<l>weder ongeschent naer <locatie>Rotterdam</locatie> gekeert ende deeden</l>
+					<l>voort Meerquaets in<locatie> delflant ende Maeslant</locatie> van</l>
+					<l>plonderen ende Rooven ende namen groote brantschattinge</l>
+					<l>van de dorpen daer ontrent ende die van<locatie> schravenhaghe</locatie></l>
+					<l>ende <locatie>haghen Ambacht </locatie>mosten mede brantschuttinghe</l>
+					<l>gheven ende saten langhen tijt in verdruckinge die van</l>
+					<l><locatie>delft</locatie> die gevangen waren hebben haer ten laetsten</l>
+					<l>moeten vrij koopen voor groot Ransoen ende daer werde op</l>
+					<l>die tijt sterck getrackteert van vrede tusschen <locatie>de steden</locatie></l>
+					<l><locatie>van hollant</locatie> ende <locatie>Rotterdam</locatie> maer daer quam niet Af</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1489-03-xx'>1489 int leste van maert</datum> is <persoonsnaam>heer Jan van</persoonsnaam></l>
+					<l><persoonsnaam>Naeltwijck</persoonsnaam> met een deel knechten uit <locatie>Rotterdam</locatie> gevaren</l>
+					<l>ende quamen voor de <locatie>stat van geertrudenberch</locatie> ende namense in</l>
+					<l>want de poorters haer niet seer afenlieerde ende hebbense</l>
+					<l>sterck gemaeckt in meeninge sijnde haer daer te onthouden</l>
+					<l>Die van <locatie>dordrecht</locatie> ende<locatie> Schiedam </locatie>dit vernemende maeckte</l>
+					<l>haer sterck om die knechten daerweder uitte slaen maer</l>
+					<l>sij en bedreven niet ende keerde weder sonder iets te doen</l>
+					<l>Anno <datum datum='1489-05-04'>1489 den 4 mei </datum>hadden die knechten van <locatie>Rotterdam</locatie></l>
+					<l>een schermutsinghe voor de <locatie>stat van schiedam</locatie> met die</l>
+					<l>knechten die daer binnen waren ende sloegen deen dander</l>
+					<l>veel volcx af korts daerna togen die van <locatie>Rotterdam</locatie></l>
+					<l>binnen den <locatie>dorpe van appenbroeck ende spilgeerdent</locatie> ende deden</l>
+					<l>veel schade van Rooven ende branden daerontrent</l>
+					<l>Anno<datum datum='1489-06-04'> 1489 den 4 Juini</datum> togen die van <locatie>Rotterdam</locatie> wuit</l>
+					<l>met macht te scheepe <locatie>de leck</locatie> op nemende met haer</l>
+					<l>veel poorters meenende dat sij om ficktaelie trecken</l>
+					<l>soude andere seiden dat sij een blockhuis op te leck</l>
+					<l>opslaen soude die van<locatie> dordrecht</locatie> ende vander <locatie>ghoude</locatie></l>
+					<l>van <locatie>Schoonhoven</locatie> en van <locatie>schiedam</locatie> dit vernemende sijn</l>
+					<l>haer snellijck naergevolcht met veel scheepen ende quamen</l>
+					<l>aen malkanderen ende daer wert seer gevochten maer ten</l>
+					<l>lesten behielden die vier steeden de overhant ende werden</l>
+					<l>ontrent driehondert ende vijftich gevanghen ende veel geslagen</l>
+					<l>ende noch meer verdroncken ende veel die opt lant quamen</l>
+					<l>liepen wech en die gevangens werden binnen <locatie>dordrecht</locatie></l>
+					<l>gebrocht ende die van <locatie>Rotterdam</locatie> verloren op die tijt</l>
+					<l>veertien barcken of scheepen drie buisen twee kerveelen</l>
+					<l>ende een Roeibaers vol volck werden inde gront geseilt</l>
+					<l>Op die selve tijt was de stathouder met veel scheepen</l>
+					<l>wuit getoghen voordat blockhuis dat die van <locatie>Rotterdam</locatie></l>
+					<l>opgeslagen hadden opte hoofden voorde stat maer haer</l>
+					<l>opset en verghing niet wel want sij verlooren</l>
+					<l>een kerveel met volck sonder iets anders</l>
+					<l>uitte Rechten</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>Dit oorloch van <locatie>Rotterdam</locatie> dus hangende is <persoonsnaam>heer Reijer</persoonsnaam></l>
+					<l><persoonsnaam>van Broeckhuisen Ridder</persoonsnaam> mede binnen <locatie>Rotterdam</locatie> gecomen</l>
+					<l>ende wert mede gemaeckt een van de overste kapiteinen</l>
+					<l>desen <persoonsnaam>heer Reijer</persoonsnaam> is op eenen tijt uitgetoghen met een</l>
+					<l>deel knechten ende quamen voor de <locatie>stat van der ghoude</locatie></l>
+					<l>ende branden daer veel huisen af die buiten die poort</l>
+					<l>stonden ende keerden weder naer <locatie>Rotterdam</locatie> sonder iets</l>
+					<l>meer wuit te rechten</l>
+					<l>Anno <datum datum='1489-06-17'>1489 den 17 Juini </datum>is <persoonsnaam>heer Jan van Naeltwijck</persoonsnaam></l>
+					<l><persoonsnaam>heindrick wits</persoonsnaam> met meer andere kapiteinen ende met</l>
+					<l>alle de knechten die sij te samen brenghen mochten wuit</l>
+					<l><locatie>Rotterdam</locatie> getogen om vicktaelien te haelen want die</l>
+					<l>ficktaelien beghon in de stat te minderen ende hadden</l>
+					<l>wel overde tachtich schuiten met cooren wijn ende</l>
+					<l>andere dinghen geladen de welcke sij in meeninghe</l>
+					<l>waren door de veenen ende heimelijcke wegen binnen</l>
+					<l><locatie>Rotterdam</locatie> te brenghen overmits daer veel scheepen</l>
+					<l>voor <locatie>Rotterdam</locatie> laghen dat sijt te water niet avent</l>
+					<l>uieren ende dorsten de stalmeester des Roomschen koninx</l>
+					<l>als kapitein van tlants weghen van<locatie> hollant </locatie>dit</l>
+					<l>vernemende ende op die tijt met veel volck int velt</l>
+					<l>lach ende wel vier of vijf daegen daerop gewacht</l>
+					<l>hadde want het het hem te kennen gegeven was soo</l>
+					<l>heeft hij sijn volck in ordere gestelt ende is haer tegemoet</l>
+					<l>geghaen ontrent dat <locatie>dorp van moort</locatie> ende heeftse scherp</l>
+					<l>aengevochten ende deander stelden haer vromelijlck te</l>
+					<l>weere maer int ende weecken die van <locatie>Rotterdam</locatie></l>
+					<l>ende daer sijnder boven driehondert verslaghen behalven</l>
+					<l>die inde veenen verdrocken ende daer werter veel ghev</l>
+					<l>anghen onder welcke dat oock was <persoonsnaam>heer Jan van Naelt</persoonsnaam></l>
+					<l><persoonsnaam>wijck Ridder</persoonsnaam> ende <persoonsnaam>heniderick van Wits</persoonsnaam> ende namen Alle de</l>
+					<l>schuiten met ficktaelien ende daer bleef een <persoonsnaam>kapitein</persoonsnaam></l>
+					<l><persoonsnaam>verslagen genaemt Cornelis van treslonge</persoonsnaam> op de selve</l>
+					<l>nacht hebben de Ruiters leghende<locatie> inde kerck van overschie</locatie></l>
+					<l>die sij sterck bebolwerckt hadden het selfde in brant gest</l>
+					<l>eecken ende Ruimde <locatie>Overschie</locatie> ende quamen binnen <locatie>Rotterdam</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>foli 243</l>
+					<l>Anno <datum datum='1489-06-22'>1489 den 22 Juini</datum> begost men sterck te track</l>
+					<l>cap. 67</l>
+					<l>teren Tusschen den stalmeester ende<persoonsnaam> Jonckheer frans</persoonsnaam></l>
+					<l><persoonsnaam>van breedenrode</persoonsnaam> ende daer wert een tracktaet gemackt</l>
+					<l>ende wert Openbaerlijck afgepupliseert vant<locatie> Raethuis</locatie></l>
+					<l>wie met den voorsz <persoonsnaam>Jonckheer frans</persoonsnaam> vuitterstat</l>
+					<l>trecken wilden die mocht dat vrij doen ende die blijven</l>
+					<l>wilde mochten vrij blijven Aldus is <persoonsnaam>Jonckeer frans</persoonsnaam></l>
+					<l>met sijne kapiteinen ende knechten vuit <locatie>Rotterdam</locatie></l>
+					<l>getrocken naer <locatie>Sluis in Vlaenderen</locatie> ende de stalmeester</l>
+					<l>quam daer binnen met een deel van sijne knechten</l>
+					<l>ende bleef daer een wijltijts leghen tot bewaringhe</l>
+					<l>vande stat die op die tijt kleinder gemackt</l>
+					<l>werde aende Noortsijde ontrent drie hondert</l>
+					<l>treeden aende wijte ende aen de leinte ontrent</l>
+					<l>duisent ende vijftich treeden ende dit werde gedaen</l>
+					<l>om dat die stat te wijt was beghreepen</l>
+					<l>ende weinich betimmert ende bewoont soo dat de</l>
+					<l>borgers de stat niet besetten noch bewaren</l>
+					<l>en konden want daer mosten Altijt knechten</l>
+					<l>binnen <locatie>Rotterdam</locatie> leghen vant lants wegen</l>
+					<l>om die stat te bewaren</l>
+					<l>Korts hiernaer werden twee kapiteinen van <persoonsnaam>Jonckheer</persoonsnaam></l>
+					<l>Croni</l>
+					<l><persoonsnaam>frans</persoonsnaam> binnen <locatie>delft </locatie>met den swaerde gerecht</l>
+					<l>van <locatie>hollant</locatie></l>
+					<l>f 1243</l>
+					<l>den eenen genaemt<persoonsnaam> lepeltack</persoonsnaam> ende dander <persoonsnaam>Roostach</persoonsnaam></l>
+					<l>Cap. 167</l>
+					<l>ende acht daegen daernaer wert <persoonsnaam>Jores de bastaert</persoonsnaam></l>
+					<l><persoonsnaam>van Bredenrode</persoonsnaam> oock Aldaer gerecht met meer</l>
+					<l>andere</l>
+					<l>Ende een wijl Tijts hiernaer quam<persoonsnaam> Jonckeer frans</persoonsnaam></l>
+					<l><persoonsnaam>van Bredenrode</persoonsnaam> met een deel scheepen weder in <locatie>hollant</locatie></l>
+					<l>Roovende ende Brandende daer sij best mochten dit <persoonsnaam>de</persoonsnaam></l>
+					<l><persoonsnaam>stathouder van hollant</persoonsnaam> vernmende vervolchde haer</l>
+					<l>met een deel volck van wapenen ende quamen aen</l>
+					<l>Cronij.</l>
+					<l>malkanderen ende daer wiert seer gevochten ende daer</l>
+					<l><locatie>van hollant</locatie></l>
+					<l>bleven veel dooden aen wedersijden maer int ende</l>
+					<l>foli 1244</l>
+					<l>wert <persoonsnaam>Jocker frans</persoonsnaam> seer gequest ende gevanghen binnen </l>
+					<l>Cap. 71</l>
+					<l><locatie>dordrecht</locatie> gebrocht ende daer sterf hij vande quetsuire</l>
+					<l>ende werde aldaer beghraven<locatie> inde Agustijne kerck</locatie></l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1490-xx-xx'>1490 </datum>worde geheit dat hoochkoor van <locatie>Sinte</locatie></l>
+					<l><locatie>Laurens kerck</locatie> binnen <locatie>Rotterdam </locatie>ende dit deden die borgers</l>
+					<l>uit liefden ende ghinck om bij beurten ende werden met den</l>
+					<l>trommel op het werck ende daer wederaf gebrocht, ende</l>
+					<l>die plaets daer dit hoochkoor opgetimmert is heeft</l>
+					<l>voortijts geweest een tuin vande <locatie>huisinghe vande</locatie></l>
+					<l><locatie>Spiegel</locatie> opte <locatie>hoochstraet</locatie></l>
+					<l>Anno <datum datum='1497-06-xx'>1497 In Juini</datum> werde <persoonsnaam>Philipus de tweede van</persoonsnaam></l>
+					<l><persoonsnaam>Burghoenien</persoonsnaam> binnen <locatie>Rotterdam </locatie>heerlijck ingehaelt ende</l>
+					<l>ontfangen ende gehult door haren graef ende Rechten</l>
+					<l>lants heer</l>
+					<l>Copie van eenen brief gesonden uitten <locatie>hove</locatie></l>
+					<l><locatie>van hollant</locatie> Aende stat <locatie>Rotterdam</locatie> den</l>
+					<l><datum datum='1506-12-11'>11 december Anno 1506</datum> ende luit als volcht</l>
+					<l>Op ten dach van huiden soo was bij den <locatie>hoove van hollant</locatie></l>
+					<l>geordineert alsoo sekere nieuwe maren ende brieven geco¬</l>
+					<l>men sijn wuit den ghrooten hoeck van eenighe eedele</l>
+					<l>ende groote personaghe dat de selve geatverteert sijn</l>
+					<l>dat opset gemaeckt is int <locatie>lant van gelder </locatie>om eenige</l>
+					<l>steden binnen desen <locatie>lande van hollant</locatie> in te nemen te</l>
+					<l>water ende bijsonder op <locatie>dordrecht </locatie>ende <locatie>Rotterdam </locatie>dat de</l>
+					<l>selfde vande stat <locatie>Rotterdam</locatie> tot koste van den <locatie>gemeene</locatie></l>
+					<l><locatie>landen van hollant ende vrieslant</locatie> terstont sullen moge</l>
+					<l>aennemen ende onderhouden vijfentwintich knechten</l>
+					<l>boven die ghene die sij selver onderhouden men sal</l>
+					<l>hem de selve vijfentwintich knechten doen betalen</l>
+					<l>gelijck andere capiteinen ende knechten tot kosten van den</l>
+					<l>lande legende ende betaelt werden bij den <persoonsnaam>Rentmeester</persoonsnaam></l>
+					<l><persoonsnaam>generael van Noorthollant Jacop Goovertse</persoonsnaam> als</l>
+					<l>ontfanck hebbende vande penninghen van den lande</l>
+					<l>ter kause van de onderhoudenisse vande seshondert</l>
+					<l>knechten ommegeslaghen welcke penninghen hem</l>
+					<l>gepasseert sullen werden int uitgeven van sijne</l>
+					<l>Rekeninghe mits overbrengende dese ordenansie</l>
+					<l>ende quitansie ende dat geduerende tot kenlijck werdersege</l>
+					<l>van den hoove Aldus gedaen in <locatie>den haghe</locatie> op den <datum datum='1506-12-11'>11</datum></l>
+					<l><datum datum='1506-12-11'>december Anno 1506</datum> Bij mijnen heer den <persoonsnaam>stathouder</persoonsnaam></l>
+					<l><persoonsnaam>Generael heer Philpus van Spanien Ridder</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><persoonsnaam>meester Jacop Ruisch</persoonsnaam>, <persoonsnaam>flores van Wingarde</persoonsnaam> Janse <pagenumber>6</pagenumber></l>
+					<l><persoonsnaam>flores van wingarden flores</persoonsnaam>, <persoonsnaam>Evert de veer</persoonsnaam>, <persoonsnaam>Jan</persoonsnaam></l>
+					<l><persoonsnaam>duinende</persoonsnaam>, <persoonsnaam>Reinier de Jonghe</persoonsnaam>, ende <persoonsnaam>Jacop bouwense</persoonsnaam></l>
+					<l>Raetsluiden van den hoove Mij tegenwoordich.</l>
+					<l>Ende was onderteickent <persoonsnaam>Bruins</persoonsnaam></l>
+					<l>Anno <datum datum='1510-xx-xx'>1510</datum>-<datum datum='1511-xx-xx'>11</datum>-<datum datum='1512-xx-xx'>12</datum> ende <datum datum='1513-xx-xx'>13</datum> werden de Glasen gemaeckt</l>
+					<l>ende ingeset aent hoochkoor van <locatie>Sint laurens kerck</locatie> tot</l>
+					<l><locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1536-07-03'>1536 den 3 Juili </datum>sterf den <persoonsnaam>geleerden ende wijt</persoonsnaam></l>
+					<l><persoonsnaam>vermaerden Erasmus van <locatie>Rotterdam</locatie></persoonsnaam>, inde stat van</l>
+					<l><locatie>Basel </locatie>in <locatie>Switserlant</locatie> ende werde aldaer beghraven sijnen</l>
+					<l>ouderdom was 68 Jaren 8 maenden ende 5 daghen</l>
+					<l>Anno <datum datum='1547-03-12'>1547 den 12 maert</datum> werde den eersten steen geleit</l>
+					<l>vant verhoogen van <locatie>Sinte lourens kercktooren</locatie> tot <locatie>Rotterdam</locatie></l>
+					<l>dat onderste hadde doen gestaen achtentnegentich Jaren</l>
+					<l>eerde verhooghing daerop geset werde</l>
+					<l>korts hier naer werde ghemaeckt de huibrugge van steen</l>
+					<l>ende hadde voor de tijt geweest een houte brughe</l>
+					<l>Ende ontrent die tijt werde mede gemaeckt dat</l>
+					<l>hooft aende oostsijde van de <locatie>leuven haven</locatie> van steenwerck</l>
+					<l>ende hadde voor die tijt geweest een Rijsen hooft</l>
+					<l>Anno <datum datum='1554-xx-xx'>1554 </datum>koft men binnen <locatie>Rotterdam </locatie>eenduisent metselsteen</l>
+					<l>om elf stuviers ende een hoet kalck om elf stuivers</l>
+					<l>Anno 155 a 56 a 57 werde geheit / gefondeert ende gemackt</l>
+					<l>de schoone heerlijcke steene brughe daer de mart op</l>
+					<l>gehouden wert tot <locatie>Rotterdam</locatie> op welcke brughe dat beelt</l>
+					<l>van Erasmus is staende tot een bewijs dat hij daer</l>
+					<l>geboren ende opgevoet is bij <locatie>Sinte laurens kerck</locatie> tot <locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1561-xx-xx'>1561 </datum>konde men binnen <locatie>Rotterdam </locatie>aen de <locatie>middeldam</locatie></l>
+					<l>dat op die tijt dat beste van de stat was, een Redelijck huis</l>
+					<l>huieren voor een Jaer voor ontrent vier pont vlaems maer</l>
+					<l>daernaer werdense dierder</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1563-07-10'>1563 Den 10 Juili</datum> wesende Saterdach ontrent twee</l>
+					<l>vieren naer middach beghon een ghrooten brant binnen</l>
+					<l><locatie>Rotterdam inde westmolestraet overde mart </locatie>ende daer</l>
+					<l>waeide een stercken droogen suitwesten wint soo dat</l>
+					<l>den brant niet te stutten ofte tehouden en was overmits</l>
+					<l>het veel Rietdack inde stat was ende daer verbrande <locatie>het</locatie></l>
+					<l><locatie>westnieulant / Den Rijstuin / de hooftsteech / den houtuin</locatie></l>
+					<l>ende <locatie>dat oostende vande hoochstraet</locatie> daer verbrande meer</l>
+					<l>dan tweehondert ende vijftich huisen ende <locatie>dat preker monneken</locatie></l>
+					<l><locatie>klooster / met dat manhuis / de hooftpoort ende de draei</locatie></l>
+					<l><locatie>brughe</locatie> ende wel sestich scheepen soo klein als groot daerde</l>
+					<l>sommige met goederen geladen waren soo datter een ghroot</l>
+					<l>ghoet verbranden vande Inwoonders De heeren Regheerders</l>
+					<l>van <locatie>Rotterdam</locatie> siende ende bemerkende dat de hooftstech veel</l>
+					<l>te naeu was / soo hebben sij afgekeurt alle de voorhuisen</l>
+					<l>aende oostsijde vande straet want de huisen lagen terneer</l>
+					<l>vanden brant soo dat de straet soo veel wijder gemackt wert</l>
+					<l>Anno <datum datum='1564-xx-xx'>1564</datum> werde de draeibruge weder gemaeckt ende geleit</l>
+					<l>binnen de twee toorens daerden boom vande haven op die</l>
+					<l>tijt aen sloot / want de draeibrughe hadde voordietyt</l>
+					<l>gelegen teen ende <locatie>opt westnieulant</locatie> ende tander ende inden</l>
+					<l><locatie>Rijstuin</locatie></l>
+					<l>Anno <datum datum='1571-xx-xx'>1571</datum> werde gemackt<locatie> dat blaeuwe steenwerck</locatie></l>
+					<l><locatie>daerde mandemakers brughe</locatie> op staet het hadde voor</l>
+					<l>die tijt geweest een onbequame brughe met vallen onder</l>
+					<l>Anno <datum datum='1572-04-01'>1572 den 1 Apri</datum>l wesende dijnsdach nam den <persoonsnaam>graef</persoonsnaam></l>
+					<l><persoonsnaam>van lumei </persoonsnaam>met weinich volck <locatie>den briel</locatie> in / de spaeniaers</l>
+					<l>vreesende ende beduchtende meer steden te verliesen soo komt</l>
+					<l><persoonsnaam>den Grave van bossu</persoonsnaam> met veel volck spaeniaerden / voor</l>
+					<l><locatie>de stat Rotterdam</locatie> begerende daer ingelaten te wesen</l>
+					<l>de burgers hebben hem sulx afgeslagen maer door veel</l>
+					<l>aenhouden / om doorde stat te mogen trecken soo ist hem</l>
+					<l>ten lesten geconsenteert dat sij soude doorpasseeren met</l>
+					<l>een Rot teffens maer hebben ondert decksel van dien</l>
+					<l>de borgers de poorten overweldicht ende veel vande borgers</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>vermoort ende omgebrocht dit geschiede opten <datum datum='1572-04-09'>9 April 7</datum></l>
+					<l><datum datum='1572-04-09'>op een wonsdach ende was den 4 dach van pasen anno 1572</datum></l>
+					<l>volgen de namen vande ghene die ongebrocht sijn</l>
+					<l>1 <persoonsnaam>Jan Jacopse de Roos burgemester</persoonsnaam></l>
+					<l><persoonsnaam>Merseles Clasen</persoonsnaam></l>
+					<l>van <locatie>Rotterdam</locatie></l>
+					<l><persoonsnaam>Pieter de Lapper</persoonsnaam></l>
+					<l>2 <persoonsnaam>Jores Baltense Brouwer</persoonsnaam></l>
+					<l><persoonsnaam>Teunis Reckhals</persoonsnaam></l>
+					<l><persoonsnaam>Heinderick Clasen</persoonsnaam></l>
+					<l>Den Broeder</l>
+					<l><persoonsnaam>Hobbe Janse Brouwer</persoonsnaam></l>
+					<l>de soon van Janne de vrou</l>
+					<l><persoonsnaam>Pieter Joresse</persoonsnaam></l>
+					<l><persoonsnaam>Huibert de Portier</persoonsnaam> vande</l>
+					<l><persoonsnaam>Corneles Jacopse</persoonsnaam></l>
+					<l>Schiedamse Poort ende sijn soon</l>
+					<l><persoonsnaam>Heinderick Sweerse</persoonsnaam></l>
+					<l><persoonsnaam>Dooue Jan</persoonsnaam></l>
+					<l><persoonsnaam>Claes Schouten</persoonsnaam></l>
+					<l><persoonsnaam>Jan Barentse</persoonsnaam></l>
+					<l><persoonsnaam>Jacop Franse Stierman</persoonsnaam></l>
+					<l><persoonsnaam>Claes Wouterse</persoonsnaam> opte meent</l>
+					<l><persoonsnaam>Corneles terts kievit</persoonsnaam></l>
+					<l><persoonsnaam>De soon van Maertien Huigen</persoonsnaam></l>
+					<l><persoonsnaam>Wilm Aeriense van Groenhout</persoonsnaam></l>
+					<l><persoonsnaam>Heindrick Aelbertse</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Slampanne</persoonsnaam></l>
+					<l><persoonsnaam>Govert de Smit</persoonsnaam></l>
+					<l><persoonsnaam>De vos trommelslager</persoonsnaam></l>
+					<l><persoonsnaam>Cuiper Tijs</persoonsnaam></l>
+					<l><persoonsnaam>Corneles Aeriense Minne</persoonsnaam></l>
+					<l><persoonsnaam>Meester Corneles door</persoonsnaam></l>
+					<l><persoonsnaam>Gores Roelantse van Sevenhusen</persoonsnaam></l>
+					<l><persoonsnaam>Wilm Cornelese Stierman</persoonsnaam></l>
+					<l><persoonsnaam>Den Witten heinderick</persoonsnaam></l>
+					<l><persoonsnaam>Aderijaen Corsen</persoonsnaam></l>
+					<l><persoonsnaam>Rijck de Smit</persoonsnaam></l>
+					<l><persoonsnaam>Pieter Clase Cuiper</persoonsnaam></l>
+					<l><persoonsnaam>Dirck Tijse Molenaer</persoonsnaam></l>
+					<l><persoonsnaam>Aerien Wilmse Goutsblom</persoonsnaam></l>
+					<l><persoonsnaam>Jacop de Smit</persoonsnaam></l>
+					<l>verdroncken</l>
+					<l><persoonsnaam>Jacop aecht schoenmaker</persoonsnaam></l>
+					<l>noch een opt kerckhof</l>
+					<l><persoonsnaam>frans Janse de Smit</persoonsnaam></l>
+					<l>ghebleven</l>
+					<l>Dese voorsz burgers werden vande Spaeniaers omgebracht</l>
+					<l>ende hielden voort de stat in ende trocken naer <locatie>delfs haven</locatie> ende</l>
+					<l>sloeghen daer veel volck doot ende beroofden <locatie>delfs haven</locatie> ende</l>
+					<l>deden voorts veel quaets inde stat ende opte dorpen ende naer</l>
+					<l>datse ontrent vijftien weecken binnen de stat gelegen</l>
+					<l>hadden sijnde vuit <locatie>Rotterdam</locatie> vertrocken / opten <datum datum='1572-07-22'>22 Julius</datum></l>
+					<l><datum datum='1572-07-22'>wesende op een dijnsdach des selven Jaers Ende als nu</datum></l>
+					<l>De Spaeniaers vuit <locatie>Rotterdam</locatie> vertrocken waren soo sijn</l>
+					<l>veel vroome burgers die Wuite stat vertrocken waren</l>
+					<l>weder binnen gekomen ende Men heeft van die tijt aen</l>
+					<l>de stat die seer swack ende vervallen was van vesten</l>
+					<l>beghinnen sterck te maecken met bolwercken</l>
+					<l>ende dit mosten de burgers vuit liefden doen ende daer toe</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>omden derden nacht Waecken &amp; dit duerde ontrent vijf</l>
+					<l>Jaren lang want die stat werde op die tijt aende Water</l>
+					<l>sijde ontrent hondert &amp; vijfentwintich treedes inde Breete</l>
+					<l>vergroot ende inde leinte van bijde oostport af tot bijde <locatie>oude</locatie></l>
+					<l><locatie>logiedamse poort</locatie> toe / dese vergrooting werde niet gedaen</l>
+					<l>om datter geen plaets inde stat was om te timmeren want</l>
+					<l>Daerwaren op die tijt veel onbetimmerde erven ende tuinen</l>
+					<l>inde stat maer twerde gedaen omde sterckte vande</l>
+					<l>stat ende omde scheepen binnen de stat te mogen berggen</l>
+					<l>want de <locatie>nieusanen</locatie> ende de <locatie>Blaeck</locatie> beide stats besten</l>
+					<l>waren ende werden twee binnehavens van gemaeckt / op</l>
+					<l>die tijt wert de meesten hooyhandel vant geheele Lant</l>
+					<l>binnen <locatie>Rotterdam</locatie> gedreven soo vande oostersche ende wester</l>
+					<l>sche vaert want <locatie>Amsterdam</locatie> op die tijt noch Rooms</l>
+					<l>katolijck was</l>
+					<l>Anno <datum datum='1576-xx-xx'>1576 </datum>werde geordineert ende gemaeckt het gasthuis</l>
+					<l><locatie>opt oostende vande hoochstraet aende noortsijde</locatie> / ende</l>
+					<l>hadde voor die tijt geweest aende<locatie> huibrughe</locatie></l>
+					<l>Anno <datum datum='1577-xx-xx'>1577 </datum>werde afgebroken de Vastmuer aende binne</l>
+					<l>sijde vande <locatie>nieuhav</locatie>e</l>
+					<l>Anno <datum datum='1578-xx-xx'>1578</datum> werde afgebroken</l>
+					<l>de hooftpoort genaemt <locatie>Sinte Laurens poort</locatie> ende placht te</l>
+					<l>staen opt suitende vande hooftsteech bijde draaibruge</l>
+					<l>Anno <datum datum='1579-xx-xx'>1579</datum> werde gemaeckt ende geleit de eerste ghapers</l>
+					<l>brughe</l>
+					<l>Anno<datum datum='1579-xx-xx'> 1579 </datum>tot het Jaer <datum datum='1583-xx-xx'>1583 </datum>toe heeft<locatie> Rotterdam</locatie>  / groote</l>
+					<l>onkosten gedaen aende stats wallen ende bolwercken</l>
+					<l>aende watersijde want int Jaer <datum datum='1584-xx-xx'>1584</datum> was de stat</l>
+					<l>van <locatie>Rotterdam</locatie> fraei van aerde wallen ende bolwercken</l>
+					<l>aende watersijde dat eerste bolwerck lach voorde <locatie>oost</locatie></l>
+					<l><locatie>poort</locatie> daerde <locatie>oude oostpoort</locatie> ingedamt was ende hadde</l>
+					<l>voortijts geweest een poort gelijck de <locatie>delfse poort</locatie></l>
+					<l>Dat tweede Bolwerck lach daer bij daerde Rinmolem</l>
+					<l>opgetimmert wert int Jaer <datum datum='1584-xx-xx'>1584</datum> die in korten tijt</l>
+					<l>wel sackte 24 voeten Dat derde bolwerck lach aende</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>8</l>
+					<l>binnesijde vant<locatie> haringvliet</locatie> voor <locatie>broer sieren straet</locatie></l>
+					<l>Dat vierde bolwerck lach aende binnesijde vant</l>
+					<l><locatie>haringvliet</locatie> voorde <locatie>Boogertstraet</locatie> Dat vijfde Bolwerck</l>
+					<l>lach bijde <locatie>hooftpoort</locatie> daer waer de beurs opgetimmert</l>
+					<l>werde dat Seste bolwerck lach bij dat <locatie>westersche hooft</locatie></l>
+					<l>ende was genaemt den Houtemans Dat sevenste bolwerck</l>
+					<l>lach een weinich beoosten engel booven steech ende was</l>
+					<l>genaemt de Rolwaghe dat achtste bolwerck lach </l>
+					<l>scheuins over de <locatie>oude schiedamse poort </locatie>ende was genaemt</l>
+					<l>luchtenburch daer int beghin des Jaers <datum datum='1584-xx-xx'>1584</datum> een wipm</l>
+					<l>ole opgetimmert wert die daer ontrent 26 Jaer stont</l>
+					<l>ende doen werdendse afgebroken om dat <locatie>de straet vande</locatie></l>
+					<l><locatie>evinier breghe</locatie> daer Recht op Roeide Ende tusschen alle</l>
+					<l>dese voorsz bolwercken lach een aerde Walle ende daeren</l>
+					<l>was geen poort aende Watersijde vande <locatie>oostpoort</locatie> af</l>
+					<l>tot de <locatie>oude schiedamse poort </locatie>toe Dan opte oostsijde</l>
+					<l>vant <locatie>oude hooft</locatie> daer was een Ghat inde aerde Wal</l>
+					<l>gemaeckt aen beide sijden met balcken beset ende planken</l>
+					<l>daer op gedeckt ende daer aerden op soo dat men onderde</l>
+					<l>Aarde ghing die opt hooft Wilde Wesen aldus was</l>
+					<l>de stat van <locatie>Rotterdam</locatie> aende Watersijde.</l>
+					<l>Maer aende lantsijde was de stat met steene mueren</l>
+					<l>ende torenen versien die seer vervallen waren ende op somm</l>
+					<l>igge plaetsen weder met aerde gestopt soo dat de</l>
+					<l>stat aende aende lantsijde int Jaer <datum datum='1584-xx-xx'>1584</datum> seer openlach</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>wiert gemaeckt van steenwerck dat</l>
+					<l><locatie>oude westersche hooft </locatie>voordie tijt geweest hebbende</l>
+					<l>een houten hooft dat seer vervallen was</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>en was buiten de <locatie>goutse poort</locatie> niet eenen</l>
+					<l>tuin noch bleickvelt vande <locatie>oostport</locatie> af tot de <locatie>Rotte</locatie></l>
+					<l>toe buiten omde stat maer dat was alles wei ende hoei</l>
+					<l>lant van de stats Vest af tot <locatie>Krooswijck </locatie>toe maer de</l>
+					<l>oude stats Vest sachmen noch hoe datse geweest</l>
+					<l>hadde van <locatie>pompenburch</locatie> af tot bijde <locatie>oostpoort</locatie> toe</l>
+					<l>alhoewel het ontrent vijfentnegentich Jaer geleden</l>
+					<l>was dat de stat kleinder gemaeckt werde</l>
+					<l>aende lantsijde leest foli <pagenumber>13 9</pagenumber></l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> en stont buitent <locatie>Hofpoortien</locatie> / niet een huis</l>
+					<l>ofte tuin met bleickvelt maer twas weilant</l>
+					<l>vande stat af tot de <locatie>Blommerdijckse mole</locatie> toe ende</l>
+					<l>daer stont aende <locatie>Rotte</locatie> vande stat af tot <locatie>duifhuis</locatie></l>
+					<l>toe maer een huis daer een <persoonsnaam>lantman in woonde</persoonsnaam></l>
+					<l><persoonsnaam>genaemt Jacop Leuwen</persoonsnaam></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>en stont buiten de <locatie>Delfsche poort </locatie>niet een</l>
+					<l>huis nochte tuijn noch koremole noch bleickvelt</l>
+					<l>vande stat af tot de <locatie>Koolse watermolens</locatie> toe</l>
+					<l>also wast mede buiten de oude <locatie>Schiedamse poort</locatie></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>stonden int beghin binnen <locatie>Rotterdam</locatie></l>
+					<l>niet meer dan<locatie> ses kore wintmolens</locatie> twee bide</l>
+					<l><locatie>oostpoort </locatie>twee <locatie>opt nort</locatie> ende vande <locatie>Lombart</locatie></l>
+					<l><locatie>straet een bijde Delfse poort ende een bijde oude</locatie></l>
+					<l><locatie>Schiedamse poort</locatie> ende daertoe noch vijf rosmolens</l>
+					<l>ende anders gheen maer int Jaer <datum datum='1612-xx-xx'>1612 </datum>maelden voorde</l>
+					<l>stat <locatie>Rotterdam </locatie>13 kore wintmolens ende 10 rosmolens</l>
+					<l>Nu sullen wij schrijven hoe dat de stat van <locatie>Rotterdam</locatie></l>
+					<l>was van straten / steeghen Huisen ende Gebouwen ende</l>
+					<l>sullen dit schrijven aen deelen ons te beterte onderscheiden</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>Eerst dat <locatie>Oostnieulant </locatie>ende is een eilant</l>
+					<l>ende hadde int voorsz Jaer elf straten ofte steeghen</l>
+					<l>maer int Jaer <datum datum='1607-xx-xx'>1607</datum> begreep dit eilant in hemselven</l>
+					<l>sestien straten ofte steegen die wij schrijven sullen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>ende stont aende <locatie>Noortsijde vande Nieuhaven</locatie></l>
+					<l>niet een woonhuis anders dan een packhuis toebehooren</l>
+					<l>de een <persoonsnaam>koopman genaemt Corneles Spiering</persoonsnaam> maer</l>
+					<l>twaren onbetimmerde erven ende tuinen die op die tijt</l>
+					<l>bevrijt waren met een sloot vande <locatie>Meulestraet</locatie> af</l>
+					<l>tot opt oostende vande <locatie>nieuhaven </locatie>toe ende dit hadde</l>
+					<l>voortijts geweest de <locatie>binne westsloot</locatie> die deurgaend</l>
+					<l>gedamt werde is daer op staen alle de voorgevels</l>
+					<l>vande huisen aende <locatie>noortsij vande nieuhaven</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>stonden inden <locatie>Groenendael </locatie>niet dan ses</l>
+					<l>afte seven huisen voort warent tuinen / daer waerden</l>
+					<l>voorsz tijt twee straten door gemaeckt werden</l>
+					<l>De eene ontrent het Jaer <datum datum='1590-xx-xx'>1590 </datum>ende werde genaemt</l>
+					<l><locatie>Hiemans steech</locatie> / om dat hij het eerste huis aende steech</l>
+					<l>timmerde hij was genaemt <persoonsnaam>Hieman Sijmense wesende</persoonsnaam></l>
+					<l><persoonsnaam>een kapitein van tlants werffen</persoonsnaam> / Vander ontrent Jaer <datum datum='1593-xx-xx'>1593</datum></l>
+					<l>ende werde genaemt<persoonsnaam> <locatie>Jaep Quaecks </persoonsnaam>steech</locatie> om dat de man</l>
+					<l>Anno die het eerste huis aende steech timmerde gena</l>
+					<l>emt was <persoonsnaam>Jacop Janse Quaeck ende was een schipper oversee</persoonsnaam></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>Oostmolestraet </locatie>weinich betimmert</l>
+					<l>ende int selfde Jaer werde gemaeckt ende geleit de</l>
+					<l>eerste <locatie>breghe overde nieuhaven</locatie> die opte <locatie>Molestrat roit</locatie></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> was <locatie>de suitsijde vande Houtuin straet </locatie>weinich</l>
+					<l>betimert met woonhuisen ende scheepmaeckers lootsen</l>
+					<l>voorstz warent onbetimmerde erven / et ende <locatie>noortsijde</locatie></l>
+					<l><locatie>vande Houtuin</locatie> straet warent scheeptimmerwerven ende</l>
+					<l>daerstont niet een huis vande <locatie>Valckebrughe</locatie> af</l>
+					<l>tot de <locatie>Mandemakers brughe</locatie> toe ende de <locatie>Sevenhuisstech</locatie></l>
+					<l>was alsdoen qualick half betimmert voortsz warent</l>
+					<l>onbetimmerde erven</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> was de <locatie>Hooftsteech </locatie>vol betimmert maer daer</l>
+					<l>maer sijnder sommige oude huisen afgebroken ende grooter</l>
+					<l>in plaats gemaeckt De selfde tijt was den <locatie>vijftuin</locatie></l>
+					<l>betimmert met sommige huisen ende voortsz warent</l>
+					<l>rijserven daer naer met schoone huisen ende packhuisen</l>
+					<l>betimmert om koopmans ghoet in te berghen / tusschen</l>
+					<l>de <locatie>draeibrughe ende de Roobrughe </locatie>sijn schedert Jaer <datum datum='1584-xx-xx'>1584</datum></l>
+					<l>sommige nieuwe huisen getimmert daer voordie tijt</l>
+					<l>geen huisen en stonden</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>ende stont aende<locatie> suitsijde vande nieuhaven</locatie></l>
+					<l>niet dan drie ofte vier huisen voortsz warent tuinen</l>
+					<l>ende onbetimmerde erven ende vande <locatie>Roobrughe </locatie>af</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>Tot daerde <locatie>Haringvlietse Brugge</locatie> leit ende stonden maer</l>
+					<l>seven ofte acht huisen / Ende int Jaer <datum datum='1595-xx-xx'>1595 </datum>werde</l>
+					<l>een erf deurgegraven / tusschen de <locatie>nieuhaven </locatie>ende dat</l>
+					<l><locatie>Haringvliet </locatie>soo dat beide havens tot malkander loopen</l>
+					<l>ende doen wast een <locatie>eilant tussen de nieuhaven ende dat</locatie></l>
+					<l><locatie>Haringvliety </locatie>daer int Jaer <datum datum='1605-xx-xx'>1605 </datum>acht welbetimmerde</l>
+					<l>straten ofte steegen in lagen</l>
+					<l>Nu sullen wij beghinnen vant <locatie>Westnieulant </locatie>dat</l>
+					<l>aende west zijde vande <locatie>oude haven</locatie> leit ende is een eilant</l>
+					<l>daerint Jaer <datum datum='1584-xx-xx'>1584 </datum>vijftien straten ofte steegen in</l>
+					<l>waren maer int Jaer <datum datum='1605-xx-xx'>1605 </datum>laegen in dit voorsz eilant</l>
+					<l>eentwintich straten ofte steeghen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>en stont aende noortsijde van <locatie>de Blaeck</locatie></l>
+					<l>niet een huis want die straet werde op die tijt</l>
+					<l>buiten de vestmuer uit het water opgehoocht want</l>
+					<l>alle die huisen die aende noortsij van <locatie>de Blaeck</locatie></l>
+					<l>getimmert staen / Staen mette voorgevels opte</l>
+					<l>oude vestmuer ende de eerste twee huisen die aende</l>
+					<l>straet staen wierden getimmert int Jaer <datum datum='1587-xx-xx'>1587 </datum>op de</l>
+					<l>westhoeck vande <locatie>Herte Schrijnwerckers stech</locatie></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>en was <locatie>de Blaeck</locatie> aen beide sijden niet gekaeit</l>
+					<l>want vande <locatie>Gapers Brughe</locatie> tot daerde <locatie>Evinier Brughe</locatie></l>
+					<l>leit ende stont aende suitsij van<locatie>de Blaeck</locatie> op die tijt</l>
+					<l>maer een scheepsmackers huis dat op een timmerwerf</l>
+					<l>stont voort wast rietvelt tusschen de voorsz breghen</l>
+					<l>daerde haringscheepen des swinters voor lagen aen</l>
+					<l>paelen die voor dat riet geheit waren ende aende</l>
+					<l>oostsijde vande <locatie>Gapers breghe</locatie> waren vijf ofte ses</l>
+					<l>scheeptimmerwerven daer op elck aen huis stont</l>
+					<l>met riet gedeckt maer stonden niet op een wij</l>
+					<l>maer gelijck de lantlieden timmeren een ijder</l>
+					<l>maer sijn gelegentheit</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>10</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was het <locatie>Vissers dijck</locatie> betimmert met een deel</l>
+					<l>slechte vissers huisen die meest al met riet gedeckt</l>
+					<l>waren ende voorts warent veel onbetimmerde erven</l>
+					<l>aen beide sijden</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de suitsijde vant <locatie>Hang</locatie> qualijck half</l>
+					<l>betimmert voort warent onbetimmerde erven ende aende</l>
+					<l>noortsijde warent kleine vissers huisen die met riet</l>
+					<l>gedeckt waren de <locatie>Stincksteech</locatie> en was alsdoen niet</l>
+					<l>half betimmert voorts warent lege erven / die twee</l>
+					<l>stegen int <locatie>Hang </locatie>/ bijde <locatie>Weesbrughe </locatie>sijn begonnen</l>
+					<l>ontrent het Jaer <datum datum='1591-xx-xx'>1591</datum></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>Schrijnwerckers steech </locatie>betimmert</l>
+					<l>met slechte huisies met riet gedeckt ende alsoo <locatie>vlas</locatie></l>
+					<l><locatie>mede de Meulestech</locatie> maer dese voorsz steghen sijn</l>
+					<l>naer die tijt veel verbetert met huisen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> lagen aende westsijde vande <locatie>Delfse Vaert</locatie></l>
+					<l>tot <locatie>de vest</locatie> toe ende vande <locatie>Delfse Poort </locatie>tot dat water</l>
+					<l>daerde steene brughe overleit inde <locatie>west Wagestraet</locatie></l>
+					<l>tien straten ofte steeghen daervan de <locatie>Wagestraet</locatie></l>
+					<l>de prinsepaelste van is ende int Jaer <datum datum='1613-xx-xx'>1613</datum> waren daer</l>
+					<l>in dat beghrip sesentwintich straten ofte steeghen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>Westwagestraet </locatie>betimmert met</l>
+					<l>slechte huisen die meest al met riet gedeckt</l>
+					<l>waren ende oock veel paerdestallen hooeischuieren ende</l>
+					<l>hooeibergen ende veel onbetimmerde erven die seer woest</l>
+					<l>laghen ende aende westsijde van dese straet was op die</l>
+					<l>tijt dat weeshuis</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was <locatie>het Rosant </locatie>betimmert met slechte</l>
+					<l>schamele borgers huisies met riet gedeckt ende alsoo</l>
+					<l>was mede de <locatie>Korte Vaert</locatie> ende de <locatie>Krattestech</locatie></l>
+					<l>de <locatie>Leuwestraet </locatie>was vooraen betimmert met</l>
+					<l>eenige huisen daer leeuwen opte ghevels stonden</l>
+					<l>daerde straet de naem van heeft</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> en stont vande <locatie>Raembrughe</locatie> af tot voorbij</l>
+					<l><locatie>Sint Jores doel</locatie> / niet een huis maer bijde <locatie>Delfse port</locatie></l>
+					<l><locatie>poort </locatie>stonden een deel huisen ende paerdestallen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>stont de <locatie>poort vande Ramen</locatie> recht ooverde</l>
+					<l><locatie>Raembrughe </locatie>daerde <locatie>Haemstraet </locatie>nu is ende daerde</l>
+					<l>ramen op die tijt stonden was half water ende half lant</l>
+					<l>want de aerde die uit de slooten opgeschoten was</l>
+					<l>daerstonden de <locatie>Ramen </locatie>op ende de sloot die buiten omde</l>
+					<l><locatie>Ramen </locatie>lach tot een bevridinge vande <locatie>Ramen </locatie>/ werde</l>
+					<l>int Jaer <datum datum='1585-xx-xx'>1585 </datum>schoone vis ingevanghen dat is nu de</l>
+					<l><locatie>Raemstraet</locatie> ende doen dese sloot gedamt werde was de</l>
+					<l>selve wel sestien voeten diep Ende daer nu de <locatie>Sant</locatie></l>
+					<l><locatie>straet</locatie> is wast op die tijt Moras ende sommige slooten</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>laegen tusschen de <locatie>Delfse vaert</locatie> ende de <locatie>Rotte</locatie></l>
+					<l>vant <locatie>Hofpoortien</locatie> af tot aent <locatie>Suitkerckhof </locatie>toe 17</l>
+					<l>straten ofte steeghen ende int Jaer <datum datum='1600-xx-xx'>1600</datum> waren daer 20</l>
+					<l>straten ofte steegen daerden <locatie>Oppert </locatie>de beste af is</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was den <locatie>Oppert </locatie>aent suitende vande straet</l>
+					<l>betimmert met ghroote oude huisen ende op dat noortent</l>
+					<l>vande straet wasse betimmert met veel slechte</l>
+					<l>burgers huisen met Riet gedeckt die naer afgebroken</l>
+					<l>sijn ende grooter in plaets getimmert</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> was de <locatie>delfse vaert</locatie> vol betimmert tot</l>
+					<l>de <locatie>Vaembrughe </locatie>toe maer daernaer sijnder veel vande</l>
+					<l>oude huisen afgebroken ende nieuwe weder in plaets</l>
+					<l>getimmert maer opt <locatie>noortende vande vaert over</locatie></l>
+					<l><locatie>Sint Jores doel</locatie> wast in die tijt heel slecht betimmert</l>
+					<l>voort warent onbetimmerde erven ende scheepmakers</l>
+					<l>werven De <locatie>Sintiacopstraet</locatie> was op die tijt met</l>
+					<l>veel slechte huiskens betimmert met Riet gedeckt</l>
+					<l>die eenige maer afgebroken sijn ende ghrooter huisen</l>
+					<l>getimmert ende alsoo was mede die <locatie>baghinestraet</locatie></l>
+					<l>waer de <locatie>sellebroer steech</locatie> ende kocken steech waren</l>
+					<l>betimmert met schamele borgers huisies</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>11</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> was een sloot vant <locatie>suitkerckhof</locatie> af tot</l>
+					<l>de <locatie>delfse vaert</locatie> maer aende noortsijde van dese</l>
+					<l>sloot stonden huisen ende daer was een straet tusschen</l>
+					<l>de sloot ende de huisen maer naer wert dese sloot</l>
+					<l>gedamt ende dat is nu de <locatie>toorenstraet</locatie></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>laghen tusschen de <locatie>Rotte </locatie>ende de <locatie>Buttersloot</locatie></l>
+					<l>vande <locatie>korte kipstraet</locatie> af tot aende <locatie>noortvest </locatie>14</l>
+					<l>straten ofte steeghen maer int Jaer <datum datum='1604-xx-xx'>1604 </datum>waren daer</l>
+					<l>seventien straten ofte steeghen daerde <locatie>lomberstraet</locatie></l>
+					<l>de voornaemste van is alsdoen was de <locatie>kortekipstraet</locatie></l>
+					<l>vol betimmert maer naer die verbetert met sommige</l>
+					<l>nieuwe huisen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>lombertstraet </locatie>tot de <locatie>lombertse</locatie></l>
+					<l><locatie>brughe</locatie> toe vol betimmert maer vande brughe tot</l>
+					<l>de vast toe laegen aen beide sijden veel onbetimm</l>
+					<l>erde erven ende aende westsijde stonden sommighe</l>
+					<l>hooeiberghen ende slechte huisies In dese tijt was de</l>
+					<l><locatie>doelstraet </locatie>noch de <locatie>kalverstraet </locatie>niet met steen</l>
+					<l>geleit maer waren beide opgehoocht ende waren</l>
+					<l>betimmert met een weinich slechte nieuwe</l>
+					<l>huisies want dese twee straten hadden voortijts</l>
+					<l>geweest <locatie>Sinte Bastijaens doelen</locatie> daer sommighe</l>
+					<l>slooten in geweest waren die gedamt wierden ende</l>
+					<l>aen erven verkost werden ontrent het Jaer <datum datum='1580-xx-xx'>1580</datum></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>ende stont aende <locatie>westsijde vande buttersloot</locatie></l>
+					<l>vande <locatie>brughe aende varcke mart</locatie> af tot de</l>
+					<l><locatie>vest </locatie>toe niet een huis maer eene turfschuer</l>
+					<l>voort warent ombetimmerde erven</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> was de <locatie>varckemart</locatie> ofte <locatie>meent</locatie></l>
+					<l>betimmert met veel slechte huisies met Riet</l>
+					<l>gedeckt die meest afgebroocken sijn ende nieuwe</l>
+					<l>ghroote huisen weder in plaets getimmert</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de westsijde vande <locatie>buttersloot</locatie></l>
+					<l>vande <locatie>korte kipstraet</locatie> af tot de brughe vande</l>
+					<l><locatie>varkemart</locatie> toe meest betimmert met leeghe</l>
+					<l>wijde slechte huisen al met riet gedeckt</l>
+					<l>voort warent ombetimmerde erven</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> laeghen aende Oostsijde vande <locatie>butter</locatie></l>
+					<l><locatie>sloot</locatie> tot de steene brughe toe bide<locatie> oostpoort </locatie>diemen</l>
+					<l>uitvaert naer <locatie>kralinghen </locatie>toe / ende vande <locatie>kipstraet</locatie></l>
+					<l>tot de<locatie> korte vest </locatie>toe / 10 straten ofte steeghen ende</l>
+					<l>Int Jaer <datum datum='1608-xx-xx'>1608</datum> waren in dat block 33 straten ofte</l>
+					<l>steeghen daerde <locatie>kipstraet</locatie> in die tijt de beste van</l>
+					<l>was maer de <locatie>kipstraet </locatie>was betimmert met Redelicke</l>
+					<l>burgers huisen maer op sommeghe plaetsen waren</l>
+					<l>noch ombetimmerde erven</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>buttersloot </locatie>aende oostsijde vant</l>
+					<l>oude gasthuis aende <locatie>huibrughe </locatie>af tot aent <locatie>prinsen</locatie></l>
+					<l><locatie>hof</locatie> roe onbetimmerde erven want dat hadde gewest</l>
+					<l>dat kerckhof vant voorsz ghasthuis / Ende vant</l>
+					<l><locatie>prinsen hof</locatie> noordewaert op tot de <locatie>heere straet</locatie> toe</l>
+					<l>stonden een deel oude huisen ende stallen</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>pannekoeckstraet </locatie>betimmert</l>
+					<l>met veel slechte leeghe burgers huisies veel met</l>
+					<l>Rietdack ende alsoo was mede betimmert de <locatie>vogelesang</locatie></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>was de <locatie>oostwagestraet </locatie>aende oostsijde</l>
+					<l>betimmert met een deel kleine leeghe huisies</l>
+					<l>maer aende westsijde stont niet een woonhuis</l>
+					<l>dan dicht bijde <locatie>Ghoutsche poort</locatie> stont een Rosmole</l>
+					<l>ende dat pesthuis voort wast onbetimmert ende moras</l>
+					<l>Ende achtert verbrande klooster wast mede slecht</l>
+					<l>betimmert ende vant ghasthuis af tot aende brughe</l>
+					<l>diemen uitvaert naer <locatie>kralinghen </locatie>toe ende wast</l>
+					<l>niet gestraet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>12</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Nu sullen wij schrijven vande <locatie>hoochstraet</locatie> met de</l>
+					<l>straten ende steeghen daeraen Responderende die leghen</l>
+					<l>vande<locatie> oude schiedamse poort</locatie> af tot die <locatie>oostpoort</locatie> toe</l>
+					<l>ende aent water soo buiten als binnens dijcke want de</l>
+					<l><locatie>hoochstraet </locatie>is den dijck ende de voornaemste straet vande</l>
+					<l>stat daeraen lagen int Jaer <datum datum='1584-xx-xx'>1584 </datum>vijfendertig straten</l>
+					<l>ofte steeghen maer int Jaer <datum datum='1613-xx-xx'>1613 </datum>laghen daeraen eenen</l>
+					<l>veertich straten ofte steeghen die wel betimmert waren</l>
+					<l>maer opt oostende vande <locatie>hoochstraet </locatie>laghen int Jaer <datum datum='1584-xx-xx'>1584</datum></l>
+					<l>noch veel ombetimmerde erven ende opt westende aende</l>
+					<l>westsijde vande <locatie>hoochstraet </locatie>stonden de huisen beneden</l>
+					<l>den dijck vande <locatie>oude schiedamse poort</locatie> af tot de kromte</l>
+					<l>van den dijck toe daer ghincmen met een operel af</l>
+					<l>Anno <datum datum='1584-xx-xx'>1584 </datum>en stont In <locatie>Jan Joressens steech</locatie> niet een huis</l>
+					<l>maer de eerste huisen werden daer getimmert int Jaer</l>
+					<l><datum datum='1587-xx-xx'>1587</datum></l>
+					<l>Anno <datum datum='1584-xx-xx'>1584</datum> en stont overde waech aende oostsijde vant</l>
+					<l>stathuis aende straet niet een huis maer de eerste</l>
+					<l>huisen werden daergetimmert int Jaer <datum datum='1589-xx-xx'>1589</datum></l>
+					<l>Anno <datum datum='1585-xx-xx'>1585 </datum>werde beghonne de <locatie>langhe lijnstraet</locatie> op die</l>
+					<l>tijt was aende westsijde vande straet een overdeckte</l>
+					<l>lijnbaen lanck sijnde vande <locatie>vestsloot </locatie>af tot bijna aende</l>
+					<l>huisen vande <locatie>kipstraet </locatie>dese voors lijnbaen werde aen</l>
+					<l>gedeelten verkost ende kleine huisies van gemaeckt / Maer</l>
+					<l>aende oostsijde wast een tuin vande <locatie>vestsloot </locatie>af tot</l>
+					<l>aende huisen vande <locatie>kipstraet </locatie>toe die aen erven verkost wert</l>
+					<l>Anno <datum datum='1586-xx-xx'>1586 </datum>werde beghonnen de nieuwe straet vant</l>
+					<l><locatie>vissers dijck</locatie> tot het <locatie>martvelt </locatie>want van <locatie>vissersdijck </locatie>tot</l>
+					<l>aende huisen die aende suitsij vande mart stonden warent</l>
+					<l>onbetimmerde erven ende aende mart werde een huis</l>
+					<l>afgebroken daerde starre uitging dat wast snoortende</l>
+					<l>vande straet maer aent suitsijde vant <locatie>vissersdijck </locatie>werde</l>
+					<l>een steenhouwers werckhuis afgebroken dat is het</l>
+					<l>suitende vande <locatie>nieustraet </locatie>komende opte <locatie>blaeck</locatie></l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1586-01-02'>1586 den 2 Janwari</datum> werde den <persoonsnaam>ghrave van</persoonsnaam></l>
+					<l><persoonsnaam>lijsester</persoonsnaam> binnen <locatie>Rotterdam</locatie> seer heerlijck ingehaelt vande</l>
+					<l>schutters die op die tijt drie vaendelen sterck waren</l>
+					<l><datum datum='1586-xx-xx'>In dat selfde Jaer</datum> werde afgekeurt alle dat Rietdack</l>
+					<l>binnen <locatie>Rotterdam</locatie> dit dede veele burgers hare huisen</l>
+					<l>vertimmeren want daerwaren op die tijt veel oude</l>
+					<l>laege slechte huisen met Rietdack die veel vertimmert</l>
+					<l>wierden van dese tijt aen heeft de stat seer toegenomen</l>
+					<l>int verbeteren van huisen soo noch te sien is</l>
+					<l>Anno <datum datum='1587-xx-xx'>1587</datum> werde gemaeckt ende geleit de eerste brughe</l>
+					<l>achter dat stathuis overde <locatie>kipsloot</locatie> want op die tijt</l>
+					<l>lach een houte brughetien opt noort ende vant <locatie>gasthuis</locatie></l>
+					<l><locatie>steech</locatie> daermen qualick met een geladen waghen</l>
+					<l>overmacht dit brughetien werde afgebroken ende wert</l>
+					<l>alsdoen soo breet gemaeckt alst stathuis is met beide</l>
+					<l>de straten</l>
+					<l>Anno <datum datum='1587-xx-xx'>1587 </datum>werde begonnen <locatie>Rombouten steech </locatie>diemen</l>
+					<l>nu de <locatie>wildeseestech</locatie> nomt tusschen de <locatie>lomberstraet</locatie></l>
+					<l>ende de <locatie>buttersloot </locatie>het waren tuinen ende lege erven</l>
+					<l>Anno <datum datum='1587-xx-xx'>1587 </datum>werde begonne de <locatie>heerestraat</locatie> het hadde</l>
+					<l>geweest een sloot die uitte <locatie>buttersloot </locatie>quam inde</l>
+					<l><locatie>vestsloot </locatie>ende werde gedamt ende daer werde de voorgevels</l>
+					<l>opgestelt vande huisen die aende noortsij vande <locatie>heere</locatie></l>
+					<l><locatie>straet</locatie> staen</l>
+					<l>Anno <datum datum='1588-xx-xx'>1588 </datum>ende <datum datum='1589-xx-xx'>89 </datum>werde overal binnen <locatie>Rotterdam</locatie></l>
+					<l>veel getimmert maer meest al kleine huisen</l>
+					<l>die doen seer gesocht werden want op die tijt wasser</l>
+					<l>veel uitgeweecken volck die kleine huisen huerden</l>
+					<l>Anno <datum datum='1591-xx-xx'>1591 </datum>werde gefondeert ende gemaeckt een nieuwe</l>
+					<l>muer vant <locatie>oude hooft</locatie> naden <locatie>kralincksen dijck</locatie> toe</l>
+					<l>daer <persoonsnaam>Wilm van Muilwijck</persoonsnaam> den eersten steen van leide</l>
+					<l>dese muer werde gemaeckt tot een beschutsel vande</l>
+					<l>aerde kaei ofte <locatie>singel</locatie> die op die tijt lach vant <locatie>oude</locatie></l>
+					<l><locatie>hooft</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>13</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>hooft tot aenden <locatie>hoogendijck </locatie>toe daer alle Jaers</l>
+					<l>groote kosten aengedaen werde om te onderhouden</l>
+					<l>de Regherende Heeren vande stat <locatie>Rotterdam </locatie>siende</l>
+					<l>ende bemerkende dat dese voors<hi rend='superscript:true;'>e</hi> muer niet genoech</l>
+					<l>uuitwaert geleit en was soo hebben sij de vest doen</l>
+					<l>droochmaken ende diepen ende die aerde die daer vuit quam</l>
+					<l>werde gebrocht overdese muer inde <locatie>maes </locatie>ende dat werde</l>
+					<l>doen aen erven verkost ende daerwerden afgemaeckt</l>
+					<l>ontrent sesentwintich duisent ghulden mitsdien mosten</l>
+					<l>de koopers vande voors erven tot haren laste nemen</l>
+					<l>te maecken beide de kaeien voor ende achter van steen</l>
+					<l>soose de heeren ordineren souden opte achterkaeien staen</l>
+					<l>de achtergevels op vande huisen opt <locatie>haringvliet </locatie>daert</l>
+					<l>maeswater tegens aen slaet de voorgevels vande</l>
+					<l>voorsz huisen staen opte muer daer wij eerst van geschreven</l>
+					<l>hebben de voorkaeien is de suitsijde vant <locatie>haringvliet</locatie></l>
+					<l>dit voorsz werck duerde ontrent ses Jaren vant stats</l>
+					<l>waghen</l>
+					<l>Anno <datum datum='1591-xx-xx'>1591 </datum>werde gegraven gediept ende gemaeckt <locatie>de wael</locatie></l>
+					<l>ofte docke achterde <locatie>Rinmeulen</locatie> daermen de haringschepen</l>
+					<l>des swinters in leit de aerde hier vuit werde gebrocht</l>
+					<l>aende wallen ten wedersijde vande <locatie>oostpoort </locatie>want de</l>
+					<l>haringschepen plegen swinters te leggen inde <locatie>blaeck</locatie></l>
+					<l>Anno <datum datum='1592-xx-xx'>1592 </datum>werde gegraven ende opgeschoten de sloot die</l>
+					<l>wesen soude tot bevridnghe vande Raemen buitent</l>
+					<l><locatie>hofpoortien</locatie> welcke Ramen gemaeckt ende bevrijt werden <datum datum='1593-xx-xx'>1593</datum></l>
+					<l>Anno <datum datum='1595-xx-xx'>1595</datum> werde gemaeckt dat steenwerck daerde <locatie>haringv¬</locatie></l>
+					<l><locatie>lietse brughe</locatie> op leit tselve Jaer werde getrocken de</l>
+					<l>loterij tot profijte vant weeshuis van <locatie>Rotterdam</locatie> Ende</l>
+					<l>int selfde Jaer werde geset dat eerste huis inde <locatie>prinsestrat</locatie></l>
+					<l>Anno <datum datum='1596-xx-xx'>1596 </datum>ende <datum datum='1597-xx-xx'>97</datum> werden gemaeckt de steene kaeien aen</l>
+					<l>beide sijden vant <locatie>haringvliet</locatie> oock de nieuwe haven</l>
+					<l>ende ander steenwercken meer</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1597-xx-xx'>1597</datum> werde geheit ende begonnen <locatie>de hooftpoort aende</locatie></l>
+					<l><locatie>oostsijde vande oude haven</locatie> <datum datum='1597-xx-xx'>tselve Jaer </datum>werde geleit</l>
+					<l>de eerste haringvliets breghe</l>
+					<l>Anno<datum datum='1597-xx-xx'> 1597</datum> werde de eerste steen geleit vande beurs</l>
+					<l>dat was voordie tijt geweest een aerden bolwerck</l>
+					<l>daerde beurs opgetimmert staet</l>
+					<l>Anno <datum datum='1597-xx-xx'>1597 </datum>werde gemaeckt dat<locatie> latijnsche school inde</locatie></l>
+					<l><locatie>Cellebroers steech </locatie>tot <locatie>Rotterdam</locatie></l>
+					<l>Anno<datum datum='1597-xx-xx'> 1597</datum> werde gedamt een sloot in quakernat ende ten</l>
+					<l>wedersijde vande sloot was een lijnbaen ende de eene</l>
+					<l>lijnbaen mette gedamde sloot werde aen erven verkoft</l>
+					<l>elck erf ontrent om hondert ghulden ende daerstaen de</l>
+					<l>huisen op aende westsijde van<locatie>de bancket straet </locatie>ende</l>
+					<l>sommeghe luiden die daerbij geerft waren moeilijck</l>
+					<l>sijnde seiden tegens den verkooper vande voorß erven</l>
+					<l>ghij behoort de heeren wel een banket te laten gereet</l>
+					<l>maecken om dat sij Jou dat werck hebben toegelaten</l>
+					<l>ende om deser schempreden heeft de straet de naem gekreghen</l>
+					<l>van<locatie>de bancketstraet</locatie></l>
+					<l>Ontrent dese tijt dese tijt werde deurgeroeit <locatie>de</locatie></l>
+					<l><locatie>baenstraet vande vestsloot tot inde kipstraet </locatie>maer</l>
+					<l>aen<locatie>de kipstraet</locatie> werde een huis afgebroken ende werde</l>
+					<l>alsdoen mede deurgerooit <locatie>de oostprinsestraet vande</locatie></l>
+					<l><locatie>baenstraet af tot de goutse wagestraet</locatie> ende dit waren</l>
+					<l>alle tuinen ende lijnbanen</l>
+					<l>Anno <datum datum='1598-xx-xx'>1598</datum> werde verkoft de erven <locatie>buiten de oude</locatie></l>
+					<l><locatie>schiedamse poort</locatie> ten wedersijden vanden dijck tot de</l>
+					<l>kromte toe de erven aenden binnesijde vanden dijck</l>
+					<l>waren breet 22 voeten ende lanck hondert ende vijftich</l>
+					<l>voeten ende werden verkoft stuck voor twehondert ende</l>
+					<l>sestich ghulden de eene wat meer dander wat min</l>
+					<l>naer dat sij gelegen waren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>14</pagenumber></l>
+					<l>Ende aende buitesijde vanden dijck waren de erven</l>
+					<l>opte selve breete van 22 Roe voeten maer waren</l>
+					<l>lanck hondert en sesentwintich gelijcke voeten ende</l>
+					<l>waren dubbelde erven om aenden dijck ende aen<locatie>de leuven</locatie></l>
+					<l><locatie>haven</locatie> te betimmeren dese dubbelde erven gouden</l>
+					<l>ontrent seshondert ghulden de eene wat meer ende de ander</l>
+					<l>wat min naerdatse hooch waren soo dat van alle</l>
+					<l>dese voorß erven gemaeckt werde ontrent 50 duisent</l>
+					<l>ghulden wesende al losrenten tegens den penningh</l>
+					<l>sestien ende noch op dese navolgende konditie Dat de</l>
+					<l>koopers vande voorß erven niet en sullen moghen</l>
+					<l>timmeren de derpels vande huisen dan op eene</l>
+					<l>hoochte twee voet boven den dijck Ende sullen</l>
+					<l>de mueren vande huisen moeten setten opt scheit</l>
+					<l>ende die maecken twee Jisel steenen dick ende sullen</l>
+					<l>de voorß erven niet mogen versmallen noch verkl¬</l>
+					<l>einen maer timmeren opte breete van 22 voeten</l>
+					<l>Doen dese voorß erven verkoft werden wast aende</l>
+					<l>binnesijde vanden dijck weilant bevrijt met een</l>
+					<l>dijcksloot tot bi<locatie>de oude schiedamse poort</locatie> toe</l>
+					<l>ende aende buitensijde vanden dijck was <locatie>een kreeck</locatie></l>
+					<l><locatie>genaemt de Leuven </locatie>maer was ondiep ende krom</l>
+					<l>aen beide sijden met biesen ende Riet maer wat</l>
+					<l>uitwaerts aen daer voortijts een steenplaets geweest</l>
+					<l>hadde daer wast hooch tussen den dijck ende<locatie> de leuven</locatie></l>
+					<l>Maer<locatie> aende oostsijde vande leuven</locatie> waeren vier</l>
+					<l>bleickerijen ende een deel lants dat bevrijt was met</l>
+					<l>een somerka daermen sommige beesten op weiden</l>
+					<l>ende aen dese kade stonden veel boomen die maer</l>
+					<l>afgehouden werden doen de leuven haven begonnen</l>
+					<l>werde</l>
+					<l>Anno<datum datum='1598-xx-xx'> 1598</datum> werde gegraven<locatie> de vest buiten de oude</locatie></l>
+					<l><locatie>schiedamse poort</locatie> naerden dijck toe ende <locatie>de leuven</locatie></l>
+					<l><locatie>haven</locatie> werde mede begonnen maer dat werck</l>
+					<l>bleef ses Jaer stille staen tot het Jaer <datum datum='1604-xx-xx'>1604.</datum></l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>Ontrent desen tijt van <datum datum='1598-xx-xx'>98 </datum>werde deurgeroeit de</l>
+					<l>straet aende <locatie>westsijde vande slickvaert </locatie>vande</l>
+					<l><locatie>Sint Jacops brughe</locatie> af tot de <locatie>groote kerck </locatie>toe wan</l>
+					<l>de erven vande <locatie>delfse vaert</locatie> plegen te komen tot de</l>
+					<l><locatie>slickvaert</locatie> toe daer dese voorsz straet van gemaeckt is</l>
+					<l>Anno <datum datum='1598-xx-xx'>1598 </datum>werde gemaeckt dat ammenijsi huis vande</l>
+					<l>vande heeren vande atmiraliteit ende daer dit huis</l>
+					<l>gefondeert wert werde weinich voor die tijt gevist</l>
+					<l>Anno <datum datum='1598-xx-xx'>1598 </datum>werde verkost dat <locatie>weeshuis</locatie> aende <locatie>westsijd</locatie></l>
+					<l><locatie>vande westwagestraet </locatie>ende daer werde een straet</l>
+					<l>doorgeroeit diemen noemde de <locatie>weese straet</locatie> ende</l>
+					<l>aende suitsijde vande straet stont de huisinghe vant</l>
+					<l>voorsz <locatie>weeshuis</locatie> dat werde aen deelen verkost om</l>
+					<l>woonhuisen van te maecken ende aende noortsijde</l>
+					<l>vande straet werden een deel erven verkost ende aende</l>
+					<l><locatie>santstraet </locatie>ende <locatie>wijngaert straet </locatie>ende aende <locatie>wagestraet</locatie></l>
+					<l>dat op die tijt almeest onbetimmert was ende dat</l>
+					<l>weeshuis werde gemaeckt inde <locatie>oostwagestraet</locatie></l>
+					<l>bijde <locatie>goutse poort</locatie> dat voordie tijt het <locatie>pesthuis</locatie></l>
+					<l>geweest was daer mach een groot deel aen getimmert</l>
+					<l>Anno <datum datum='1599-xx-xx'>1599 </datum>werde een nieut <locatie>pesthuis </locatie>gemaeckt aende</l>
+					<l><locatie>noortsijde vande hoochstraet</locatie> opt oostende ende daer</l>
+					<l>dit pesthuis gemaeckt werde was voordie tijt</l>
+					<l>een pottebackers tuin</l>
+					<l>Anno <datum datum='1599-xx-xx'>1599</datum> werde afgebroken de <locatie>oude lombersche brughe</locatie></l>
+					<l>ende lach seer leech ende int selve Jaer werde daer een</l>
+					<l>nieuwe brughe gemaeckt met Iisere lenen daerop</l>
+					<l>ende werde overstraet tselfde Jaer werde gemaeckt</l>
+					<l>de <locatie>Roo schiedamse poort</locatie> ende was van hout ende was de</l>
+					<l>eerste poort die daer geset werde opten dijck</l>
+					<l>ende was Root gevervt daer hij den naem van hat</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>15</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1599-xx-xx'>1599 </datum>werde gemaeckt het <locatie>stattimerhuis</locatie></l>
+					<l>opt <locatie>noortoostende vant haringvliet</locatie> op het</l>
+					<l><locatie>bolwerck</locatie> het <locatie>stattimmerhuis </locatie>hadde voor die tijt</l>
+					<l>gewest aende <locatie>westsijde vande wagestraet</locatie> bijna</l>
+					<l>aende <locatie>Raembrughe</locatie> daer naer van gemaeckt is</l>
+					<l>de <locatie>peperstraet</locatie></l>
+					<l>Anno <datum datum='1603-06-16'>1603 den 16 Juili</datum> werde geheit beide <locatie>de hoofden</locatie></l>
+					<l><locatie>aende leuven haven</locatie> ende gemetselt daer eeuwet</l>
+					<l>Eewitse den eersten steen aen leide ende dese hoofden</l>
+					<l>werden gemaeckt vande somerka af doorde biesen</l>
+					<l>ontrent tweehondert ende tachtich treeden inde <locatie>maes</locatie></l>
+					<l>Anno <datum datum='1601-xx-xx'>1601 </datum>werde getimmert het eerste huis aende</l>
+					<l><locatie>westsijde vande leuven haven </locatie>aende noorthock</l>
+					<l>vande sevenste straet buiten den dijck ende wert</l>
+					<l>getimmert voor <persoonsnaam>Niklaes Antonese</persoonsnaam></l>
+					<l>Anno <datum datum='1601-xx-xx'>1601</datum> werde het <locatie>bolwerck</locatie> benevens de <locatie>oostpoort</locatie></l>
+					<l>gemaeckt met steene mueren ende werde gemackt</l>
+					<l>dat men besijden dat <locatie>bolwerck </locatie>uit ende inde stat passeren</l>
+					<l>moest want daerden uit ende ingang nu is hadde</l>
+					<l>voordie tijt water geweest tot aent <locatie>bolwerck</locatie> toe</l>
+					<l>daer een langhe houte brughe overlach daer twee</l>
+					<l>valbrughen aen waren dese voors brughe was</l>
+					<l>gemaeckt Int Jaer <datum datum='1578-xx-xx'>1578</datum> ende werde afgebroken <datum datum='1601-xx-xx'>1601</datum></l>
+					<l>Anno <datum datum='1601-xx-xx'>1601</datum> werde de <locatie>Rotte </locatie>ten wedersijden met</l>
+					<l>steene kaeien gemaeckt voordie tijt geweest</l>
+					<l>hebbende houte kaeien</l>
+					<l>Anno <datum datum='1601-xx-xx'>1601 </datum>werde een huis verkost aende <locatie>noortsijde</locatie></l>
+					<l><locatie>vande hoochstraet</locatie> aende <locatie>middeldam </locatie>daer vuithackt</l>
+					<l>de kroon streckende vande <locatie>hoochstraet </locatie>tot aende</l>
+					<l><locatie>oude turfmart</locatie> voor sesendortich hondert ghulden</l>
+					<l>dit huis hadde mogen gelden van verscheide luiden</l>
+					<l>int Jaer <datum datum='1598-xx-xx'>1598</datum> seven duisent gulden alsoo waren</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>de huisen afgeslaghen in drie Jaren tijts om dat</l>
+					<l>de <locatie>westersche vaert</locatie> te niet was</l>
+					<l>Anno <datum datum='1602-xx-xx'>1602 </datum>werde gemaeckt de <locatie>baenstraet van stee</locatie></l>
+					<l>te voren hebbende geweest lijnbanen ten weder</l>
+					<l>sijden met slooten daer wilge boomen aen stonden</l>
+					<l>Anno <datum datum='1602-xx-xx'>1602</datum> werde geleit <locatie>de eerste brughe op het</locatie></l>
+					<l><locatie>noortoost ende vant haringvliet </locatie>bij de <locatie>Runmole</locatie></l>
+					<l>tselfde Jaer werde geleit de eerste brughe</l>
+					<l>tussen <locatie>haringvliet</locatie> ende de <locatie>nieuhaven </locatie>mede bijde in</l>
+					<l><locatie>Runmole </locatie>ende t water daer dese brughe overgeleit werde</l>
+					<l>hadde geweest den tuin toebehoorende <persoonsnaam>eewet den bout</persoonsnaam></l>
+					<l>Anno <datum datum='1602-xx-xx'>1602 </datum>werde gemaeckt de steene brughe bijde</l>
+					<l><locatie>oostpoort </locatie>daermen <locatie>vuitvaert </locatie>naer <locatie>kralinghen </locatie>toe</l>
+					<l>voordie tijt wesende een houte vervallen brughe</l>
+					<l>Anno <datum datum='1603-xx-xx'>1603 </datum>werde gediept ende met steene kaeien</l>
+					<l>gemaeckt de <locatie>buttersloot </locatie>ten wedersijden vande <locatie>hui</locatie></l>
+					<l><locatie>brughe</locatie> af tot de <locatie>vest</locatie> toe voordie tijt geweest</l>
+					<l>houte vervallen kaeien werde mede gemaeckt</l>
+					<l>de steene brughe aende <locatie>varckemart</locatie> voordie tijt</l>
+					<l>geweest een houte brughe ontrent dese tijt werde</l>
+					<l>mede gediept ende met steene kaeien gemaeckt de</l>
+					<l><locatie>kipsloot </locatie>vande steene breghe aende <locatie>oostwagestraet</locatie></l>
+					<l>af tot <locatie>stathuis </locatie>toe voordie tijt houte kaeien</l>
+					<l>Anno <datum datum='1603-xx-xx'>1603 </datum>werde binnen <locatie>Rotterdam </locatie>vant <locatie>stathuis</locatie> afghe</l>
+					<l>pupliseert dat de vrouwen niet meer terbegrafenis</l>
+					<l>mosten ghaen want in<datum datum='1603-xx-xx'>t selve Jaer </datum>storven veel men</l>
+					<l>schen vande heete sieckte binnen <locatie>Rotterdam </locatie>ende de vroue</l>
+					<l>hadden tot die tijt mede terbegrafenis geghaen ende</l>
+					<l>alst mardach is moet men naerde middach begraven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>16</pagenumber></l>
+					<l>Anno <datum datum='1604-xx-xx'>1604 </datum>werde drooghgemaeckt ende gediept de <locatie>leuven</locatie></l>
+					<l><locatie>haven</locatie> ende ten wedersijden met steenekaeien gemaeckt</l>
+					<l>dat fondament onderdese kaeien aende westsijde</l>
+					<l>waren boecken plancken ende dat fondement onderde</l>
+					<l>kaeien aende oostsijde waren elsepaelen besijden den</l>
+					<l>anderen geleit dwers ende daer ses greine balcken besijden</l>
+					<l>malkanderen langs overgeleit ende daer werde op gemet</l>
+					<l>selt de kaeien aende oostsijde ontrent 4 voeten hooch</l>
+					<l>ende int Jaer <datum datum='1609-xx-xx'>1609 </datum>werden dese voorsz kaeien opgemaeckt</l>
+					<l>Anno <datum datum='1604-xx-xx'>1604 </datum>werde mede gefundeert ende gemetselt beide</l>
+					<l>de ghaten van twee havens die gemaeckt souden</l>
+					<l>worden aende oostsij vande <locatie>leuven haven</locatie> het fondement</l>
+					<l>hiervan waren sware bocke sommers die wers over</l>
+					<l>dese gaten geleit werden daerstaet het muerwerck</l>
+					<l>opte endens</l>
+					<l>Anno <datum datum='1604-xx-xx'>1604 </datum>werde geheit / gefondeert / ende gemaeckt een</l>
+					<l>ghroot schoon huis aent <locatie>weeshuis</locatie> binnen <locatie>Rotterdam </locatie>inde</l>
+					<l><locatie>oostwagestraet </locatie>om dat het oude huis te klein was</l>
+					<l>Anno <datum datum='1605-xx-xx'>1605</datum> werde geheit de eerste palen daerden</l>
+					<l>eersten boom aen sluiten soude inde <locatie>leuven haven</locatie></l>
+					<l>tot <locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1605-xx-xx'>1605 </datum>werde gemaeckt <locatie>de steene brughe overde</locatie></l>
+					<l><locatie>schie</locatie> tusschen <locatie>beuckels </locatie>ende <locatie>blommersdijck</locatie> die genaemt</l>
+					<l>werde <locatie>de hooge heul</locatie> het hadde voordie tijt ghew</l>
+					<l>eest een houte brughe maer dese voorsz steene</l>
+					<l>brughe gemaeckt sijnde soo heet dat werck gheen</l>
+					<l>stant gehouden alhoewel dat het geheit was maer</l>
+					<l>de steene kruin werde afgebroken ende werden met</l>
+					<l>balcken overleit ende geplanckt ende Jaer over gestraet</l>
+					<l>ende Iisere leenen daerop gestaet int Jaer <datum datum='1611-xx-xx'>1611</datum></l>
+					<l>Anno <datum datum='1606-03-xx'>1606 int beghin van maert</datum> werde afgebroken</l>
+					<l>dat achterste vant <locatie>oude stathuis</locatie> binnen <locatie>Rotterdam</locatie></l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>ende werde achter geheit ende van onderen op vernieut met</l>
+					<l>verwulsde gevanghen huisen onder ende daerboven de</l>
+					<l>waers ende vleishal ende daerboven schoone kamers</l>
+					<l>Anno <datum datum='1606-xx-xx'>1606</datum> werde gemaeckt de eerste steene kaei aend</l>
+					<l>noortsijde van<locatie>de blaeck</locatie> vande <locatie>vismart </locatie>af tot de <locatie>evinier</locatie></l>
+					<l><locatie>breghe </locatie>toe ende dat doen de <locatie>vismart </locatie>was is naer de <locatie>beurs</locatie></l>
+					<l>Anno <datum datum='1607-xx-xx'>1607 </datum>werde dat voorste vant <locatie>stathuis</locatie> afgebroken</l>
+					<l>aende <locatie>hoochstraet</locatie> ende werde daer een nieuwe ghevel</l>
+					<l>aengemaeckt met arduin steene trappen tot den opgang</l>
+					<l>Anno <datum datum='1607-xx-xx'>1607</datum> werde gemaeckt de eerste straet aende west</l>
+					<l>sijde vande <locatie>leuven haven</locatie> van klinckert maer int Jaer</l>
+					<l><datum datum='1611-xx-xx'>1611 </datum>werde dese straet wederop gebroken ende wel drie</l>
+					<l>voeten gehoocht ende met straetsteen gemaeckt tselfde</l>
+					<l>Jaer werde mede gemaeckt de steene kaeien ten weder</l>
+					<l>sijde vande <locatie>slickvaert </locatie>vande verlaten af tot <locatie>groot kerckhof</locatie></l>
+					<l>toe voordie tijt geweest houte kaeien</l>
+					<l>Anno <datum datum='1607-xx-xx'>1607 </datum>werde gemaeckt de steene brughe opt noort</l>
+					<l>ende vande <locatie>buttersloot </locatie>aende <locatie>vest</locatie> te voren een houte brug</l>
+					<l>Anno <datum datum='1607-xx-xx'>1607 </datum>werde gemaeckt de <locatie>weesbrughe </locatie>met Iisere</l>
+					<l>leenen ende mede overstraet<datum datum='1607-11-10'> tselfde Jaer den 10 november</datum></l>
+					<l>heeft men begonnen te wercken aen een nieut vuirwerck</l>
+					<l>dat op <locatie>Sint laurens kerck toren</locatie> staet tot <locatie>Rotterdam </locatie>ende</l>
+					<l>int Jaer <datum datum='1613-03-xx'>1613 int beghin van maert</datum> werde dit vierwerck</l>
+					<l>voorghoet ende volmaeckt opgenomen</l>
+					<l>Anno <datum datum='1608-01-31'>1608 den 31 Jannewari </datum>wesende donderdach naerden</l>
+					<l>middach werde den <persoonsnaam>Marqijs Spinnola</persoonsnaam> met meer</l>
+					<l>andere heeren tot <locatie>Rotterdam </locatie>seer heerlijck ingehaelt ende</l>
+					<l>ontfangen vande heeren vande stat komende van</l>
+					<l><locatie>dordrecht </locatie>Overt Iis lanchs de <locatie>maes </locatie>met alle haer gerei</l>
+					<l>van ontrent veertich paerden negen muilen ende vier</l>
+					<l><hi rend='strikethrough:true;'>koets</hi>wagens ende ontrent hondert ende vijftich sleeden met ba</l>
+					<l>baghaeien</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>17</pagenumber></l>
+					<l>Dese heeren vernachten binnen <locatie>Rotterdam</locatie> ende ghinghen</l>
+					<l>sanderen daechs de heeren vande stat met den marquijs</l>
+					<l>de stat besichtighen ende vertrocken naerden middach</l>
+					<l>met sleeden naer <locatie>schravenhach </locatie>wesende<datum datum='1608-02-01'> frijdach den</datum></l>
+					<l><datum datum='1608-02-01'>eersten feberwarij </datum>om vanden paeis te sprecken</l>
+					<l>Op dese tijt stonden voor <locatie>Rotterdam</locatie> opte <locatie>maes</locatie> overde</l>
+					<l>veertich tenten daermen wijn / bier ende anderghoet verkost</l>
+					<l>want ten hadde in veertig Jaren soo hart niet</l>
+					<l>gevrosen want men mocht van bovenen af tot</l>
+					<l><locatie>delfshaven </locatie>toe met wagens ende paerden overde <locatie>maes</locatie></l>
+					<l>hijden</l>
+					<l>Anno <datum datum='1608-xx-xx'>1608</datum> werde afgebrocken de <locatie>oude leuven brughe</locatie></l>
+					<l>bijde <locatie>oude schiedamse poort </locatie>ende daer werde weder een</l>
+					<l>dubbelde valbrughe in plaets geleit ende wert naer</l>
+					<l>genaemt soeten breghe</l>
+					<l>Anno <datum datum='1608-06-01'>1608 den 1 Juini</datum> werde besteet opt stathuis tot</l>
+					<l><locatie>Rotterdam </locatie>de <locatie>langhe leuven brughe</locatie> lanck wesende</l>
+					<l>tweehondert ende 28 Roevoeten televeren alle dat hout</l>
+					<l>ende arbeits loon ende werde aengenomen van timmerluiden</l>
+					<l>van <locatie>Vitrecht </locatie>voor ontrent 10 duisent ghulden de helft</l>
+					<l>gereet ende dander helft alst werck vollevert ende volmaeckt</l>
+					<l>ende voorghoet opgenomen sal zijn twelck geschiede opten</l>
+					<l><datum datum='1609-05-20'>20 mai int Jaer 1609 </datum>ende heeft de naem gekreghen de</l>
+					<l><locatie>langhe leuven brughe</locatie> ende was de eerste breghe overdese</l>
+					<l>haven</l>
+					<l>Anno <datum datum='1608-xx-xx'>1608 </datum>werde gediept de <locatie>delfse vaert</locatie> ende werde ten</l>
+					<l>wedersijden met steene kaeien gemaeckt vant <locatie>speu</locatie></l>
+					<l>af tot de <locatie>Raembrughe </locatie>toe tevoren warent meest</l>
+					<l>houte kaeien tselfde Jaer werde mede gemaeckt</l>
+					<l>de wech om te mogen gaen ende rijden vande <locatie>binnewechse</locatie></l>
+					<l><locatie>poort</locatie> af tot den <locatie>hoogen dijck</locatie> toe buiten omde <locatie>nieuwe vest</locatie></l>
+					<l>Anno <datum datum='1608-xx-xx'>1608 </datum>werden twee huisen afgebroocken een aent</l>
+					<l>steiger ende een aende <locatie>hoochstraet </locatie>daer een klein stechien</l>
+					<l>besijden was daer werde een straet van gemaeckt</l>
+					<l>tusschen de <locatie>korte hooftsteech</locatie> ende de <locatie>kooremart</locatie></l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1608-xx-xx'>1608</datum> werde de kaei vier roevoeten hooger gemackt</l>
+					<l>van blaeuwe steenwerck vande <locatie>beurs </locatie>af tot de <locatie>roo</locatie></l>
+					<l><locatie>brughe</locatie> toe ende de straet wert mede soo veel gehoocht</l>
+					<l>Anno <datum datum='1608-xx-xx'>1608 </datum>hebben de heeren van den gerechte der stat</l>
+					<l><locatie>Rotterdam </locatie>verkoft de erven aen de <locatie>oostsijde van de leuve</locatie></l>
+					<l><locatie>haven tusschen de scheepmakers brughe ende de kleine wij</locatie></l>
+					<l><locatie>brughe</locatie> elck erf breet 22 roevoet ende lanck 200 gelijcke</l>
+					<l>voeten maert t souden wesen dubbelde erven ontrent</l>
+					<l>veertich int getal ijder erf geldende ontrent vijf honde</l>
+					<l>ghulden de koopers mosten den opslach hooghen ende de kaien</l>
+					<l>voort opmaken die ontrent vier voeten opgemetselt</l>
+					<l>waren ende mosten de erven niet versmallen ende op eene</l>
+					<l>muer timmeren twee steenen dick als den eenen</l>
+					<l>timmerde soo moet den anderen de muer terstont half</l>
+					<l>betalen ende dese voorsz erven mosten betimmert sijn</l>
+					<l>binnen den tijt van ses eerstkomende Jaren op peine van</l>
+					<l>ses hondert ghulden</l>
+					<l>Anno <datum datum='1608-11-04'>1608 den 4 november </datum>begonnen te maecken de</l>
+					<l><locatie>vlas ofte garemart </locatie>voor die tijt daer gestaen een <locatie>speuhuis</locatie></l>
+					<l>Tselve jaer most de stat <locatie>Rotterdam </locatie>onderhouden 068 brughen</l>
+					<l>Anno <datum datum='1608-xx-xx'>1608 </datum>werde gemaeckt binnen <locatie>Rotterdam </locatie>aen de</l>
+					<l>/ in <locatie>quakernaet</locatie></l>
+					<l><locatie>oostsijde van de buttersloot</locatie>/ een <locatie>predickhuis </locatie>voorde <persoonsnaam>martin</persoonsnaam></l>
+					<l><persoonsnaam>luiterse</persoonsnaam> breet sijnde 28 voevoeten ende lanck ontrent 60</l>
+					<l>gelijcke voeten ende hooch ontrent 12 voeten doen werde</l>
+					<l>dat werck verbooden van de gerechte der stat <locatie>Rotterdam</locatie></l>
+					<l>ende tmost werden afgebroken ende de fondamenten uitgeroe</l>
+					<l>om datten sonder konsent beghonnen was</l>
+					<l>Anno <datum datum='1608-11-27'>1608 den 27 november</datum> is goet gevonden bij den gerechte</l>
+					<l>der stat <locatie>Rotterdam </locatie>dat sij souden maecken een kerck om</l>
+					<l>in te prediken van de kerck staende aent <locatie>prinsen hof</locatie></l>
+					<l>dat voortijts geweest hadde een <locatie>kerck vant baghijne</locatie></l>
+					<l><locatie>klooster</locatie> dese kerck werde genaemt de <locatie>prinse kerck</locatie> ende</l>
+					<l><datum datum='1608-12-25'>25 december des selven Jaers</datum> werde daer de eerste</l>
+					<l>predicusi in gedaen weesende kersdach ende anno <datum datum='1612-xx-xx'>1612 </datum>is dese</l>
+					<l>kerck grooter gemaeckt ende verbetert</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>18</pagenumber></l>
+					<l>Anno <datum datum='1609-xx-xx'>1609 </datum>werde verkoft de <locatie>oude draeibrughe</locatie> de selve</l>
+					<l>en was niet overstraet daer midden een back op</l>
+					<l>stont die omdraeiden als de masten daerteghen quamen</l>
+					<l>van de schepen dieder doorvoeren ende heeft daervan den</l>
+					<l>naem behouden dese brughe hadde geleghen sedert dat</l>
+					<l>Jaer <datum datum='1564-01-13'>1564 den 13 Janwari</datum> begonnen de breghe weder</l>
+					<l>te maecken ende den <datum datum='1564-04-14'>14 april desselven Jaers</datum> is de brughe</l>
+					<l>gemaeckt geweest ende overstraet met Iisere lenen daer op</l>
+					<l>Anno <datum datum='1609-01-16'>1609 den 16 Janwari </datum>heeft men begonnen te</l>
+					<l>fonderen het eerste huis aende <locatie>oostsijde van de leuven</locatie></l>
+					<l><locatie>haven</locatie> ende <datum datum='1609-04-15'>den 15 april des selven Jaers</datum> was dit huis</l>
+					<l>gemaeckt toebehoorende <persoonsnaam>Cornelis leendertse scheep</persoonsnaam></l>
+					<l><persoonsnaam>timmerman</persoonsnaam> van <locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1609-02-xx'>1609 in feberwari</datum> werde verkoft de <locatie>oude</locatie></l>
+					<l><locatie>gapersburghe</locatie> voor 235 ghulden ende hadde gheleghen</l>
+					<l>sedert iaer <datum datum='1579-02-27'>1579 den 27 feberwari</datum> heeft men de </l>
+					<l>brughe begonnen te heijen ende den <datum datum='1609-06-15'>15 Juini is dese</datum></l>
+					<l><datum datum='1609-06-15'>1609</datum></l>
+					<l>nieuwe brughe gemaeckt geweest ende overstraet</l>
+					<l>Anno <datum datum='1609-04-24'>1609 den 24</datum> <datum datum='1609-04-25'>ende 25 April</datum> hebben de heeren van den</l>
+					<l>gerechte der stat <locatie>Rotterdam </locatie>verkoft aen de <locatie>suitsijde</locatie></l>
+					<l><locatie>vande wijnstraet </locatie>ontrent 64 dubbelde erven daer</l>
+					<l>van gemaeckt werde ontrent 11500 ghulden</l>
+					<l>mits dien dat de koopers van de erven moeten maken</l>
+					<l>de steene kaeien aen de aende <locatie>noortsijde van de</locatie></l>
+					<l><locatie>wijnhaven </locatie>ende mede de halve haven diepen ende den</l>
+					<l>opslach hooghen soot hem van de verkoopers geordineert</l>
+					<l>soude werden dese dubbelde erven waren breet 20</l>
+					<l>roevoeten ende de lanckste lanck stijf hondert ende twintich</l>
+					<l>gelijcke voeten ende de karste lanck wat meer dan 70 voet</l>
+					<l>dese erven mocht men niet versmallen ende moeten op</l>
+					<l>eenen muer timmeren van twee steen dick als den </l>
+					<l>eenen timmert moet den anderen den halven muer</l>
+					<l>bekostighen ende moeten alle betimmert wesen binnen</l>
+					<l>den tijt van negen eerstkomende iaren opte verbeurte</l>
+					<l>van ses hondert ghulden</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1609-05-26'>1609 den 26 mei</datum> wesende dijnsdach naer den mi</l>
+					<l>middach ontrent ten 2 vuieren werden gheleit</l>
+					<l>den eesrten steen aen de muer die gemaeckt soude</l>
+					<l>worden aen de <locatie>maeskant </locatie>door de biesen heen van de</l>
+					<l><locatie>oude haven</locatie> af tot de <locatie>leuvhaven</locatie> toe ende den <datum datum='1609-08-22'>22 aug.</datum></l>
+					<l>sijnde saterdach heeft men afgelaten te metselen</l>
+					<l>gemaeckt hebbende ontrent 90 roe muers dat</l>
+					<l>fondement van dese 90 roe was aldus aengeleit</l>
+					<l>eerst else boomen beneven malkander overdwers</l>
+					<l>ende daer lanckx opgeleit boecken schaelen vijf ofte</l>
+					<l>ses besijden den anderen van drie vuit een sommer</l>
+					<l>gesaecht ende daer werde dan opgemetselt</l>
+					<l>Anno <datum datum='1610-04-16'>1610 den 16 April</datum> wesende vrijdach ontrent te</l>
+					<l>twee ueren naer den middach heeft men weder</l>
+					<l>beghonnen te maecken aen dese muer ende den</l>
+					<l><datum datum='1610-06-16'>16 Juini des selven Jaers</datum> wast tleste vant</l>
+					<l>fondement geleit van dese voorsz muer ende was</l>
+					<l>aldus aengeleit eerst else ende andere boomen</l>
+					<l>overdwers aen malkander geleit ende daer greine</l>
+					<l>balcken lanckx opgeleit 12 a 13 beneven malcander</l>
+					<l>int verbant daer werde de muer opgemetselt den</l>
+					<l><datum datum='1610-10-13'>13 ocktober</datum> wesende woonsdach heeft men afgelaten</l>
+					<l>vande muer te maecken deurghaens sijnde een voet</l>
+					<l>hoogher dan het oude westersche hooft</l>
+					<l>Anno <datum datum='1611-05-05'>1611 den 5 mei</datum> heeft men weder aen de voorsz muer</l>
+					<l>beghinnen te bouwen ende <datum datum='1611-08-31'>den lesten aughustij des selven</datum></l>
+					<l><datum datum='1611-08-31'>Jaers</datum> afgelaten, deurghaens sijnde vier voet hooger</l>
+					<l>dan het oude westersche hooft dese voorsz muer is</l>
+					<l>ontrent lanck 1300 treeden ende werde gemaeckt sonder</l>
+					<l>afte dammen met leech water want alset hooch water</l>
+					<l>was vloeide de plaets daer de muer gemaeckt wert</l>
+					<l>wel vier voet onder met een gemeene vloet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>19</pagenumber></l>
+					<l>Anno <datum datum='1609-06-26'>1609 den 26 Juini</datum> heeft men beghinnen te heijen</l>
+					<l>dat staketsel in de <locatie>maes </locatie>vant oude hooft af achter</l>
+					<l>de huisen vant <locatie>harinvliet </locatie>henen tot tenden stats</l>
+					<l>timmerhuis ende den <datum datum='1609-08-15'>15 augusti des selven Jaers</datum> wast</l>
+					<l>werck gedaen ende kosten elf duisent ghulden</l>
+					<l>Anno <datum datum='1609-08-25'>1609 den 25 Augusti</datum> heeft men behinnen te leghen</l>
+					<l>de brugge over de <locatie>schie </locatie>buiten de <locatie>delfse poort</locatie> daer de</l>
+					<l>schuiten aenleghen ende was den <datum datum='1609-09-15'>15 september</datum> gemaeckt</l>
+					<l>beter ende hooger als de voorgaende was</l>
+					<l>Anno <datum datum='1609-09-01'>1609 den eersten september</datum> heeft men beghinnen</l>
+					<l>te maecken achtert pesthuis aende suitsijde vande </l>
+					<l><locatie>kipsloot </locatie>een groot huis om de ontsinnighe mense in te leghen</l>
+					<l>Anno <datum datum='1609-09-05'>1609 den 5 september</datum> heeft men beghinnen te maecken</l>
+					<l>aent kerckhof aende <locatie>Rotte </locatie>een plankier ende daer een wis</l>
+					<l>bij daer de martschuiten die op <locatie>haerlem </locatie>varen bequaem</l>
+					<l>konnen laen ende lossen voor die tijt gelegen hebbende</l>
+					<l>opte <locatie>delfse vaert</locatie></l>
+					<l>Anno <datum datum='1609-xx-xx'>1609 </datum>is gemaeckt de eerste steene straet inde</l>
+					<l><locatie>mostertsteech </locatie>aen de westsijde van de <locatie>west wagestraet</locatie></l>
+					<l>Anno <datum datum='1609-xx-xx'>1609 </datum>seide een burgemeester van <locatie>Rotterdam </locatie>teghens</l>
+					<l>sijn buerman <persoonsnaam>davit verdonck</persoonsnaam> dat binnen de stat <locatie>Rotterdam</locatie></l>
+					<l>achtien hondert huisen meer stonden dan binnen de stat</l>
+					<l><locatie>delft</locatie></l>
+					<l>Anno <datum datum='1609-xx-xx'>1609 </datum>werde gemaeckt de eerste straet tusschen</l>
+					<l>den dijck ende de <locatie>leuven haven</locatie> ende is de derde straet van de</l>
+					<l><locatie>oude schiedamse poort</locatie> af vuitwaert aen mede werde</l>
+					<l>gemaeckt de achtste straet voor die tijd onbestraet</l>
+					<l>Anno <datum datum='1609-xx-xx'>1609 </datum>werde opgebroken de straet in den oppert ende</l>
+					<l>wederom nieut gemaeckt vant een ent tot ander ende in</l>
+					<l>dese straet plecht men voortijts de beestemart te houden</l>
+					<l>die naer inde inde <locatie>prinsestraet </locatie>geordineert wert</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>Anno<datum datum='1610-xx-xx'> 1610</datum> hebben de heeren burgemeesteren van <locatie>Rotterdam</locatie></l>
+					<l>geordineert ende geconsenteert dat de <locatie>wipmole die stont</locatie></l>
+					<l><locatie>op luchtenburch </locatie>geset soude worden bijde <locatie>Roo poort </locatie>aend</l>
+					<l>suitsijde ende int <datum datum='1610-06-xx'>beghin van Juini des selven Jaers</datum> hebben</l>
+					<l>de meulders met haer versette mole beghinnen te mal</l>
+					<l>Anno <datum datum='1610-01-15'>1610 den 15 Janwari</datum> hebben de heeren der stat</l>
+					<l><locatie>Rotterdam</locatie> verkost <locatie>de brughe leghende overde nieuhave</locatie></l>
+					<l>om afgebroken te werden voor 80 ghulden hebbende</l>
+					<l>gheleghen sedert Jaer <datum datum='1584-02-01'>1584 den eersten feberwari</datum> heeft</l>
+					<l>beghinnen te leghen de tweede brughe ende den <datum datum='1610-04-08'>8 april 1610</datum></l>
+					<l>was dese brughe gemaeckt ende overstraet ende werde ghen</l>
+					<l>aemt kocke brughe maer van outs packen breghe</l>
+					<l>Anno <datum datum='1610-08-13'>1610 den 13 Aughusti </datum>hebben de heeren vanden gerecht</l>
+					<l>der stat <locatie>Rotterdam </locatie>geordineert ende goetgevonden dat de</l>
+					<l>derpels van alle de huisen die getimmert souden werden</l>
+					<l>aende <locatie>suitsijde vande wijnstraet </locatie>tweevoet hooger</l>
+					<l>geset souden werden met de bovekant dan de vloet die</l>
+					<l>geweest was den <datum datum='1610-01-22'>22 Janwari des selven Jaers</datum> ende dat</l>
+					<l>eerste huis werde alsoo geset den <datum datum='1610-08-14'>14 aughusti 1610</datum> aende</l>
+					<l><locatie>suitsijde vande wijnstraet </locatie>maer dese keur werde niet</l>
+					<l>onderhouden want dit voorsz huis was wel twee voet</l>
+					<l>gesackt eerst een Jaer gestaen hadde</l>
+					<l>Anno <datum datum='1610-08-14'>1610 den 14 Augusti </datum>heeft men beghinnen te maken</l>
+					<l>een houte poort opt <locatie>oude westertse hooft</locatie> ende werde</l>
+					<l>genaemt de <locatie>graeuwe hooft poort</locatie></l>
+					<l>Anno <datum datum='1610-xx-xx'>1610</datum> hebben de heeren vanden gerechte derstat <locatie>Rotterdam</locatie></l>
+					<l>teniet gemaeckt de twaelf vaendels burgers die met</l>
+					<l>malkander gewaeckt hebben sedert het Jaer <datum datum='1595-xx-xx'>1595 </datum>ende</l>
+					<l>hebben wederom aengenomen ses vaendels schutters</l>
+					<l>vuit de selve burghers naerde oude gewoonte</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>20</pagenumber></l>
+					<l>Anno <datum datum='1611-01-24'>1611 den 24 Janwari</datum> heeftmen beghinnen aftebreken</l>
+					<l><locatie>de steene baghijne breghe</locatie> om datse onbequaem was</l>
+					<l>om doortevaren ende om overtegaen ende werde met balcken</l>
+					<l>overleit ende daer plancken op ende werde overstraet ende</l>
+					<l>Iisere leenen daerop gestelt</l>
+					<l>Anno <datum datum='1611-03-25'>1611 den 25 maert </datum>heeftmen beghinnen te leghen</l>
+					<l>twee dammen een opt suitende vande <locatie>botersloot</locatie> ende een</l>
+					<l>voorde <locatie>klaverstech </locatie>ende werde tusschen dese dammen drooch</l>
+					<l>gemaeckt ende gediept ende daerwerde een fondement geleit</l>
+					<l>omde huibrughe langer te maecken tusschen de steene</l>
+					<l>kaeien in van greine balcken ontrent 62 besijden mal</l>
+					<l>kander ende daer langs balcken opgeleit drie breet voorde</l>
+					<l>steene kaeien heen ende daer werde tmuerwerck vande</l>
+					<l>brughe opgemetselt den eersten steen van dit werck</l>
+					<l>werde geleit opten <datum datum='1611-04-13'>13 April 1611</datum> wesende woonsdach</l>
+					<l>voorde middach ende den lasten steen den <datum datum='1611-05-26'>26 mai 1611</datum></l>
+					<l>Anno <datum datum='1611-02-12'>1611 den 12 feberwari</datum> is neergevallen een stuck</l>
+					<l>muers wuittet <locatie>bolwerck </locatie>aende <locatie>oostpoort </locatie>twelck</l>
+					<l>wedergemaeckt werde op een ander besteck met</l>
+					<l>een deel anckers daarin leghende die aenden <locatie>tooren</locatie></l>
+					<l><locatie>vande oude poort</locatie> vastgemaeckt werden die int</l>
+					<l><locatie>bolwerck </locatie>gedamt was</l>
+					<l>Anno <datum datum='1611-05-13'>1611 den 13 mei </datum>wesende vrijdach werde geleit den</l>
+					<l>eersten steen aende oostpoort maer den <datum datum='1611-07-01'>1 Juili int</datum></l>
+					<l><datum datum='1611-07-01'>selve Jae</datum>r ist werck blijven staen sonder aen te wercken</l>
+					<l>tot den <datum datum='1612-04-09'>9 april 1612</datum> doen heeft men weder aende nieuwe</l>
+					<l>poort beghinnen te wercken ende int Jaer 1613 volmackt</l>
+					<l>Anno <datum datum='1611-06-04'>1611 den 4 Juini</datum> wesende saterdach werde bijde</l>
+					<l>gerechte derstat <locatie>Rotterdam </locatie>afgepupliseert dat alle</l>
+					<l>de kaesverkoopers moeten staen des dijnsdaechs met</l>
+					<l>haerghoet opte <locatie>hoochstraet oostewaerts</locatie> aen vande</l>
+					<l><locatie>korte hooftsteech</locatie> ende alle de ghene die hoenderen</l>
+					<l>gansen duiven ender ende sulck ghoet verkosten sullen</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l>Des dijnsdaechs staen overde <locatie>mandemakers brughe</locatie></l>
+					<l>Aenden <locatie>houtuin </locatie>ende alle die ghene die met veelderlei</l>
+					<l>ghoet des saterdachs ende sondaechs plegen voortestaen</l>
+					<l>opten <locatie>middeldam </locatie>sullen moeten staen om haer goet</l>
+					<l>te verhoogen achtert <locatie>stathuis</locatie></l>
+					<l>Anno <datum datum='1611-06-18'>1611 den 18 Juini</datum> heeftmen beghinnen te maecken</l>
+					<l>een <locatie>waterpoort</locatie> inde vestmuer tende de <locatie>langesijnstr</locatie></l>
+					<l>omde gebueren vande straet schoon water te moghen</l>
+					<l>haelen vuitte vast twelck haer seer dienstich was</l>
+					<l>Anno <datum datum='1611-07-08'>1611 den 8 Juili </datum>werde binnen Rotterdam gebrocht een</l>
+					<l>boeierschip dat voor swartewael ontrent vijf maenden</l>
+					<l>onde gront had geleghen dat verongeluckt was doorde</l>
+					<l>Iisgang sijnde geladen met gerst ende ander waren ende dae</l>
+					<l>bij ontrent achtentwintich hondert ghulden aen ghoet</l>
+					<l>diemen den schipper te lastleide daer wuit gelicht te heb#</l>
+					<l>den schipper tot sijne onschult heeft belooft de helft vant</l>
+					<l>schip ende ghoet soo daeriemant waer diet schip daeruit</l>
+					<l>konden winden twelck aengenomen werden bij scheeptim</l>
+					<l>merluiden van <locatie>Dordrecht</locatie> diet selve vitwouden ende alt</l>
+					<l>ghoet ende ghelt werde int schip gevonden ende de gerst</l>
+					<l>werde verkost voor ontrent vier hondert ghulden aen</l>
+					<l>ghoet want sij al stinckende was</l>
+					<l>Anno <datum datum='1611-09-01'>1611 den 1 september</datum> heetmen beghinnen te maken</l>
+					<l>de eerste wachthuisen inde nieuwe stat een aende</l>
+					<l><locatie>westsijde vande leuven haven</locatie> bijde poort ende een besijde</l>
+					<l>de <locatie>Roo schiedamse poort</locatie> ende een bijde <locatie>delfhavense poort</locatie></l>
+					<l>ende den <datum datum='1612-01-04'>4 Janwarij 1612</datum> heeftmen in dese voorsz wacht</l>
+					<l>huisen eerst beghinnen te waken dach ende nacht</l>
+					<l>Anno <datum datum='1611-09-28'>1611 den 28 september </datum>heeftmen beghinnen te maken</l>
+					<l>een paerdestal voorde slepers opten hoeck vande <locatie>toren</locatie></l>
+					<l><locatie>straet</locatie> aent <locatie>kerckhof </locatie>ende<datum datum='1611-12-10'> den 10 december </datum>int selfde</l>
+					<l>Jaer hebben de slepers haerpaerden int voors stal</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>21</pagenumber></l>
+					<l>Moeten Brenghen ende betaelen voor elck paert twee</l>
+					<l>stuivers terweeck tot stalgoet het paerdestal</l>
+					<l>hadde voordietijt geweest aende huibrughe in</l>
+					<l><locatie>Sinte Lijsbets gasthuis</locatie></l>
+					<l>Anno <datum datum='1611-10-01'>1611 den 1 October</datum> werde verkost de twee</l>
+					<l>soutkeeten om afgebroken te werden deene voor 170</l>
+					<l>ghulden ende dander om 90 ghulden ende stonden buiten den</l>
+					<l>dijck bijde<locatie> Roo schiedamse poort</locatie></l>
+					<l>Anno<datum datum='1611-11-28'> 1611 den 28 november</datum> hebben de heeren vanden</l>
+					<l>gerechte derstat <locatie>Rotterdam </locatie>verkost een deel erven</l>
+					<l>aende <locatie>westsijde vande evinier brughe</locatie> ende opt <locatie>westende</locatie></l>
+					<l><locatie>vande wijnstraet ten wedersijden ende aende oostsijde</locatie></l>
+					<l><locatie>vande leuven haven ende aende noortsijde vande Wijn</locatie></l>
+					<l><locatie>haven </locatie>tesamen ontrent 42 erven daervan gemaeckt</l>
+					<l>werde ontrent achtien duisent ghulden tegens den</l>
+					<l>penninck sestien te lossen Opte naervolgende</l>
+					<l>kondijsien datde koopers vande voorsz erven sullen moeten</l>
+					<l>maecken de steene kaeien ende den opslach met de</l>
+					<l>straet hooghen dese erven waeren breet achtien</l>
+					<l>Roevoeten maer van geen leinten ende mochten niet</l>
+					<l>versmalt werden ende de mueren ten minsten dick</l>
+					<l>anderhalve steen ende als dan eenen timmert moet</l>
+					<l>dan anderen den muer half bekostighen ende moet</l>
+					<l>altemael betimmert wesen binnen den tijt van</l>
+					<l>ses eerstcomende Jaren op verbeurte van 600 gulde</l>
+					<l>Anno <datum datum='1612-04-19'>1612 den 19</datum> <datum datum='1612-04-20'>ende 20 April</datum> hebben de heeren vanden</l>
+					<l>gerechte derstat <locatie>Rotterdam</locatie> verkost een deel erven</l>
+					<l>aende <locatie>westsijde vande leuvenhaven</locatie> bijde <locatie>leuven</locatie></l>
+					<l><locatie>poort ende een deel tusschen den hoogendijck ende de leuven</locatie></l>
+					<l><locatie>haven aen een sijstraet ende een deel aende suitsijde</locatie></l>
+					<l><locatie>vanden hoogen dijck</locatie> voorbij de kromte daerde soutk</l>
+					<l>eeten plegen te staen ende een deel erven tussen de</l>
+					<l><locatie>maeskant</locatie> ende daerde keeten plegen te staen</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l>aen verscheide haventies die gemaeckt souden</l>
+					<l>worden doorde biesen heen ende souden wijt wesen</l>
+					<l>ontrent dortich Roevoeten / maer de koopers mosten</l>
+					<l>de voorsz havens diepen ende met steene kaeien ma##</l>
+					<l>ende dan opslach hooghen ende bestraten binnen twee eerst</l>
+					<l>komende Jaeren dese erven sijn breet achtien Roevoet</l>
+					<l>ende lanck tnegentich gelijcke voeten meestal ende</l>
+					<l>mosten alle betimmert wesen binnen ses eerst om</l>
+					<l>ende Jaeren op peine van ses hondert ghulden</l>
+					<l>gelijck vooren van ander erven verhaelt staet</l>
+					<l>Anno <datum datum='1612-08-31'>1612 den 31 Augusti</datum> werde den eersten steen</l>
+					<l>geleit van<locatie>de keisers brughe</locatie> maer een wijltijts</l>
+					<l>maerdesen ist werck van dese brughe bliven staen</l>
+					<l>tot den <datum datum='1613-05-21'>21 mei 1613</datum> doen heeft men weder een wijltijts</l>
+					<l>aen dese brughe gemetselt ende int beghin van <datum datum='1613-09-xx'>september</datum></l>
+					<l><datum datum='1613-09-xx'>1613 </datum>heeft men de brughe beghinnen te leghen daer op</l>
+					<l>gestelt werde <locatie>de keisers brughe</locatie> maer voortijts hadde</l>
+					<l>hier gelegen een langhe smalle brughe int Jaer <datum datum='1591-xx-xx'>1591</datum> ende</l>
+					<l>werde gemaemt<locatie> de evinier breghe</locatie> om datter soomen seiden</l>
+					<l>op <datum datum='1591-06-24'>sint Jans nacht</datum> desselven Jaers vrouwen quamen dansen</l>
+					<l>hant aen hant overdese brughe diemen seiden dat evinieren</l>
+					<l>konden dese evinierbrughe werde werde afgebroken int</l>
+					<l>Jaer <datum datum='1605-xx-xx'>1605</datum> om datter een ghrootschip doormost varen dat</l>
+					<l>aende suitsijde van<locatie>de blaack</locatie> gemaeckt was ende bleef</l>
+					<l>doen soo leghen ontrent echt Jaren</l>
+					<l>Anno <datum datum='1612-xx-xx'>1612</datum> werde van waghen de stat <locatie>Rotterdam</locatie> gekost ende</l>
+					<l>opgedaen ontrent achthondert duisent franse straetsteen</l>
+					<l>Iider duisent koste ontrent 9 ghulden ende werde doen mede</l>
+					<l>gekost een ghroote menichte van klinckert om straten</l>
+					<l>mede te maecken</l>
+					<l>Anno <datum datum='1613-01-11'>1613 den 11 Janwari </datum>wesende vrijdach werde binnen</l>
+					<l><locatie>Rotterdam</locatie> aende vismart een vierendeel van een</l>
+					<l>Cabbeliaeu verkost om dortich stuivers aen gelt het hadde</l>
+					<l>langen tijt gestormt ende gewaeit datter geen vis en quam</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>22</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1613-01-12'>1613 den 12 Janwari</datum> wesende saterdach wast een</l>
+					<l>ghrooten stormwint ende het vloeiden soohooch dat alle</l>
+					<l>straeten buiten dijcken meest ondervloeiden soo datter</l>
+					<l>groote schade geschiede binnen <locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1613-02-26'>1613 den 26 feberwari </datum>heeft men beghinnen te leghen</l>
+					<l>de drie dammen om de <locatie>Scheepmaeckers haven</locatie> ende <locatie>de</locatie></l>
+					<l><locatie>wijnhaven </locatie>te maecken welcke dammen gemaeckt</l>
+					<l>waren<datum datum='1613-04-xx'> half April int selfde Jaer</datum></l>
+					<l>Anno <datum datum='1613-03-11'>1613 den 11 Maert</datum> hebben de heeren vanden gerechte</l>
+					<l>derstat <locatie>Rotterdam</locatie> verkost de erven tusschen de <locatie>oude</locatie></l>
+					<l><locatie>schiedamse poort ende de straet besijde de brouwerij vande</locatie></l>
+					<l><locatie>witte leeu </locatie>buiten den dijck die met leechwater maer</l>
+					<l>boven quamen de koopers vande erven moeten haer</l>
+					<l>steene kaeien maecken ende den opslach hooghen binnen</l>
+					<l>twee erstcomende Jaren ende als den eenen komt te</l>
+					<l>timmeren moet den maest daeraen leghende de</l>
+					<l>muer half bekostigen ten eersten ende dese erven moeten</l>
+					<l>betimmert wesen binnen ses eerstcomende Jaren</l>
+					<l>opte verbeurte van seshondert ghulden ende dan noch te</l>
+					<l>moeten timmeren Ten selfden daeghe werde mede</l>
+					<l>verkost de <locatie>Oude schiedamse poort</locatie> om afgebrooken</l>
+					<l>te werden voor 350 ghulden gereet ghelt dese voorsz</l>
+					<l>poort stont boven opten dijck ende was vierkant opgemet</l>
+					<l>selt met dicke mueren met een verwulft ende boven</l>
+					<l>op een steene borstweringh sonderdack ende aende waterkant</l>
+					<l>stonteen toren daermen gevanghens in leide ende daerbuten</l>
+					<l>lei een groot Ruwijn van mueraghe</l>
+					<l>Anno <datum datum='1613-04-10'>1613 den 10 April</datum> heftmen <locatie>de eerste wijnstraet</locatie></l>
+					<l>beghinnen te maecken met straetsteen ende werde</l>
+					<l>seerhooch ende Ront geleit</l>
+					<l>Anno <datum datum='1613-04-22'>1613 den 22</datum> <datum datum='1613-04-23'>ende 23 April</datum> hebben de heeren vanden</l>
+					<l>gerechte derstat <locatie>Rotterdam</locatie> verkost de erven aende</l>
+					<l>suitsij van<locatie>de scheepmakers haven</locatie> wesende moras ende</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l>Kiesen dat opt hoochste wel twaelf voet opgehoocht</l>
+					<l>most wesen eermen daerop timmeren mocht dese erven</l>
+					<l>waren breet 20 Roevoeten ende lanck ontrent hondert en</l>
+					<l>tachtich gelijcke voeten ende waren int getal ontrent</l>
+					<l>hondert en veertich erven die altsamen gebruickt mosten</l>
+					<l>werden tot scheeptimmerwerven maer die een erf kost</l>
+					<l>die mocht noch drie erven inde selfde koop aennemen</l>
+					<l>maer nietmeer soo dat de koopers almeest vier erven</l>
+					<l>aen malkander kosten elck erf ontrent vier hondert</l>
+					<l>ghulden op dese naervolgende kondijsien datde koopers</l>
+					<l>boven hare beloofde kooppenninghen noch moeten</l>
+					<l>betaelen van Iider ghulden een blanck tot Ransoen ende</l>
+					<l>mede den tachtichsten penninck ende noch moeten diepen</l>
+					<l>elck voor sijn erven de helft vande haven ende die aerde</l>
+					<l>op haer gekoste erven mogen brenghen ende elck noch</l>
+					<l>te maecken een muer van twee steen dick soohooch</l>
+					<l>alsde verkoopers ordineren sullen opt suitende vande</l>
+					<l>voorsz erven sonder dat iemant buiten dese voorsz muer</l>
+					<l>eenich uitsteck ofte pothuis sal mogen hebben dan</l>
+					<l>een uitgang ende lichten ende niemant sal vermoghen drie</l>
+					<l>eenich schip ofte scheepen op stapel te setten nae / eerst</l>
+					<l>komende Jaeren dan alleen aende suitsijde vande scheep</l>
+					<l>makers haven opte verbeurte van drie hondert ghulden</l>
+					<l>maer de heeren vanderstat hebben aen haer gehouden</l>
+					<l>ontrent ses erven ten midden daersij van meeninghe</l>
+					<l>waeren een brughe te leghen overde <locatie>scheepmakers have#</locatie></l>
+					<l>Daerden eersten steen aengeleit wert den <datum datum='16xx-10-19'>19 ocktober 16</datum>##</l>
+					<l>ende werde soohooch gemetselt datmen daerbij soude</l>
+					<l>mogen koomen met laachwater</l>
+					<l>Noch werde verkost op dese voorsz daeghen een deel</l>
+					<l>erven aende westsijde vant <locatie>oude westersche hooft</locatie></l>
+					<l>alsmede aende <locatie>oostsijde vande leuven haven</locatie> bijde</l>
+					<l><locatie>scheepmakers poort</locatie> alles leghende aende <locatie>suitsijde</locatie></l>
+					<l><locatie>vande scheepmakers haven</locatie> die alleghaer betimmert</l>
+					<l>mosten wesen binnen ses eerstkomende Jaren opte</l>
+					<l>verbeurte van ses hondert ghulden Maer de koopers</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>23</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>mosten mede betaelen den tachtichsten penninck ende</l>
+					<l>noch van ijder ghulde een blanck tot ransoen ende mosten</l>
+					<l>mede den opslach ende straeten hooghen een Iider voor</l>
+					<l>sijn erf ende als deen komt te timmeren moet den anderen</l>
+					<l>daernaest aen geleghen de sijtmuer ten eersten half</l>
+					<l>bekostighen</l>
+					<l>Anno <datum datum='1613-04-27'>1613 den 27 April </datum>hebben de heere vanden gerechte</l>
+					<l>derstat <locatie>Rotterdam </locatie>verkost de erven tusschen de</l>
+					<l><locatie>wijngaerden </locatie>ende de <locatie>scheepmakers haven</locatie> elck erf breet</l>
+					<l>18 Roevoet maer van geen eene leinten de koopers</l>
+					<l>van dese erven moeten mede de kondijsijen in alles</l>
+					<l>voldaen ghelijck boven geschreven staet</l>
+					<l>Anno <datum datum='1612-xx-xx'>1612</datum> en <datum datum='1613-xx-xx'>13</datum> werde gestraet den <locatie>hooghen dijck </locatie>vande</l>
+					<l><locatie>oude stat</locatie> af tot de <locatie>Roopoort</locatie> toe ende is aende leinte</l>
+					<l>ontrent duisent ende vijftich ende inden selfden Jare</l>
+					<l></l>
+					<l>werden mede gestraet eenighe sijstraten ten weder</l>
+					<l>sijden vanden dijck als mede de <locatie>straet aende oost</locatie></l>
+					<l><locatie>sijde vande leuven haven</locatie></l>
+					<l>Anno <datum datum='1613-05-11'>1613 den 11 mei </datum>is <persoonsnaam>Federick Palsgraef vanden Rijn</persoonsnaam></l>
+					<l>deur <locatie>Rotterdam</locatie> gepasseert naer<locatie>den haech </locatie>latende</l>
+					<l>sijn huisvrou in <locatie>seelant </locatie>ende den <datum datum='1613-05-15'>15 derselver maent </datum>komt</l>
+					<l>sij weder uiten <locatie>haghe</locatie> binnen <locatie>Rotterdam</locatie> om Aldaer</l>
+					<l>sijn <persoonsnaam>huisvrou Elisabet Conincx dochter van Groot</persoonsnaam></l>
+					<l><persoonsnaam>bretanien</persoonsnaam> blijdelijck te ontfangen de welcke opte</l>
+					<l>selven dach met Noch veel andere ghroote heeren</l>
+					<l>binnen <locatie>Rotterdam </locatie>Cierlijck ingehaelt werden vande</l>
+					<l>heeren vande stat met ses vaendelen uitgelesen</l>
+					<l>burghers elck vaendel boven drie hondert man sterck</l>
+					<l>ende een vaendel fraeie Soldaten ende al dees heeren</l>
+					<l>vertrocken maerden middach maer<locatie>den haghe</locatie> sonder</l>
+					<l>tot <locatie>Rotterdam </locatie>te vernachten</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1613-xx-xx'>1613</datum> werde afgebroocken de booghen ende de vestmuer</l>
+					<l>met de huisies die daeraen getimmert waren</l>
+					<l>tusschen de <locatie>oude leuven brughe</locatie> ende de <locatie>keisers brughe</locatie></l>
+					<l>aent<locatie> kleine martveldeken</locatie></l>
+					<l>Anno <datum datum='1613-05-17'>1613 een 17 mei</datum> werde den eersten steen geleit</l>
+					<l>tot de kaeien aende <locatie>wijn haven</locatie> ende werde alle die</l>
+					<l>kaeien soo vande <locatie>wijnhaven </locatie>als vande <locatie>scheepmakers</locatie></l>
+					<l><locatie>haven</locatie> ende van seven brughen van stats weeghen</l>
+					<l>die soomer soo hooch gehaelt dat men daer met leech</l>
+					<l>water bij soude mogen koomen alsmede beide de</l>
+					<l>havens gediept</l>
+					<l>Coppije van de Puplicasi gedaen op ten</l>
+					<l><datum datum='1613-10-01'>eersten ocktober 1613</datum> binnen <locatie>Rotterdam</locatie></l>
+					<l>Alsoo nae de natuerlijcke Rechten geconfermeert</l>
+					<l>met verscheiden Sentensien alle ingesetenen van</l>
+					<l><locatie>suithollant /</locatie> vrijstaet haer gewas ende telinghe te brengh</l>
+					<l>inde steeden van <locatie>Rotterdam</locatie> <locatie>Gorkum </locatie>ende <locatie>Schoonhoven</locatie></l>
+					<l>sonder dat sij gesonden sijn de selve ergens anders ter</l>
+					<l>mart te brenghen ende evenwel schijnt dat bijde</l>
+					<l>Regheerders van <locatie>dordrecht </locatie>getracht wert ons met</l>
+					<l>verboden de dorpen in hare vrijheit ende de voorsz steden</l>
+					<l>in haere toevoer te verkorten Soo Ist dat burgom</l>
+					<l>eesters der voorsz steden van <locatie>Rotterdam</locatie> / <locatie>Gorcom</locatie> ende</l>
+					<l><locatie>schonhouden</locatie> alle ingesetenen van <locatie>suithollant</locatie> niemant</l>
+					<l>uitgesondert met desen openbaren klocken geslach</l>
+					<l>laten weten ende insinuweren dat sij met haer gewas</l>
+					<l>vruchten ende telinghe vrij vranck ende onverhindert</l>
+					<l>moghen komen ende voorsz drie steden ende haere</l>
+					<l>ghoederen aldaer ter mart brenghen ende verkoopen</l>
+					<l>sonder te obidieren aen eenighe geboden ofte verbode</l>
+					<l>dese Contrarierende ofte de selve goederen eerst tot</l>
+					<l>eenighe andere plaetsen gehouden sijn ter mart te</l>
+					<l>brenghen belovende de voorsz steede de voorsz inge</l>
+					<l>setenen van suithollant te indemneren ende datelijck</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>24</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>te bevrijden van alle schade ende verhinderinghe die</l>
+					<l>henluiden int gunt voorsz is eenichsins sonder mogen</l>
+					<l>werden aengedaen gepupliseert den <datum datum='1613-10-01'>1 Oktober</datum></l>
+					<l><datum datum='1613-10-01'>Anno 1613</datum> binnen <locatie>Rotterdam</locatie> onderstont deen secht</l>
+					<l>den Anderen voort</l>
+					<l>Anno <datum datum='1613-10-19'>1613 Den 19 Ocktober</datum> werde den eersten steen</l>
+					<l>geleit aende <locatie>brughe over de scheepmackers haven</locatie></l>
+					<l>die naergenoemt werde de <locatie>groote scheepmakers</locatie></l>
+					<l><locatie>brughe</locatie> ende fondement van dese brughe was aldus</l>
+					<l>eerst sware masten besijden den anderen geleit</l>
+					<l>diede voorseide haven overreickten van deene kaei</l>
+					<l>tot dandere ende jaer greine balcken dwars opgeleit</l>
+					<l>ende met Iiserwerck aen malkander gesloten wesende</l>
+					<l>een vlot leghende opt water ende daer worde opghe</l>
+					<l>metselt ende soo ist te samen gesoncken opte diepte</l>
+					<l>van ontrent vijf voet waters ende dit muerwerck</l>
+					<l>werde soo hoch gemetselt dat men daer met leech</l>
+					<l>water bij mocht</l>
+					<l>Anno <datum datum='1613-11-07'>1613 Den 7 November</datum> werde den eersten steen</l>
+					<l>geleit aende brughe onder de <locatie>wijnhaven</locatie> die naer</l>
+					<l>genaemt is de <locatie>groote wijnbrughe</locatie> ende fondement</l>
+					<l>van dese brughe was als vande<locatie> scheepmakers</locatie></l>
+					<l><locatie>brughe</locatie> ende werde mede soo opgemetselt</l>
+					<l>Anno <datum datum='1614-04-23'>1614 den 23 April </datum>doen heeft men weder aende</l>
+					<l>brughen beghinnen te wercken ende werde van</l>
+					<l>blaeuwe steenwerck gemaeckt boven de vloet</l>
+					<l>ende <locatie>de groote wijnbrughe</locatie> werde van den selfden</l>
+					<l>Jaere hoogergemaeckt van bentemersteen ende</l>
+					<l>daer werde een loose brughe overgeleit</l>
+					<l>Hieraen sal vervolgen de verbetering der straten</l>
+					<l>ofte steegen binnen <locatie>Rotterdam </locatie>inden tijt van</l>
+					<l>dartich Jaren soo de stat was int Jaer <datum datum='1584-xx-xx'>1584</datum></l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l>Int Jaer <datum datum='1613-xx-xx'>1613 </datum>was de stat <locatie>Rotterdam</locatie> binnens</l>
+					<l>dijckx verbetert 48 straten ofte steeghen ende buiten</l>
+					<l>den dijck 25 straten ofte steeghen sonder over <locatie>de</locatie></l>
+					<l><locatie>blaeck ende buiten de oude schiedamse poort ofte t haring</locatie></l>
+					<l><locatie>vliet</locatie> te bemoeien Alleen <locatie>de oude stat</locatie></l>
+					<l>Anno <datum datum='1614-03-18'>1614 Den 18 maert</datum> wert den eersten steen geleit</l>
+					<l>aent eerste huis dat gebout werde aende <locatie>noortsijde</locatie></l>
+					<l><locatie>vande wijnhaven aende westhoeck van de ghroote</locatie></l>
+					<l><locatie>wijnbrughe</locatie> Daer <persoonsnaam>stichter af was Pouwels Boutaen</persoonsnaam></l>
+					<l>Anno <datum datum='1614-xx-xx'>1614 </datum>werde begonnen het <locatie>Glashuis </locatie>tusschen de</l>
+					<l><locatie>wijnhaven </locatie>ende <locatie>scheepmakers haven</locatie> daer <persoonsnaam>prinsepaelste</persoonsnaam></l>
+					<l><persoonsnaam>stichter van was Lambert de Hooch</persoonsnaam></l>
+					<l>Anno <datum datum='1614-04-14'>1614 den 14 April</datum> hebben de heeren van den gerechte</l>
+					<l>der stat <locatie>Rotterdam </locatie>een deel erven verkost leghende tussen</l>
+					<l>de <locatie>wijnhaven</locatie> ende <locatie>scheepmaeckers haven</locatie> ten wedersijden</l>
+					<l>van de twee dwershavens op dese naervolgende kondisien</l>
+					<l>dat de koopers van de voorsz erven boven hare beloofde</l>
+					<l>kooppenningen noch moeten betaelen van Iider ghulde</l>
+					<l>een blanck van Ransoen alsmede den tachtichsten penninck</l>
+					<l>ende moeten de straten ende den opslach hooghen ende de erven</l>
+					<l>binnen drie eerstcomende Jaren betimmeren ende als den</l>
+					<l>eenen timmert moet den naest daeraen geleghen ten</l>
+					<l>eersten de sijtmuer half betaelen die geset sullen werden</l>
+					<l>opt scheit ende moet ten minsten wesen anderhalve steen</l>
+					<l>dick Dese erven sijn breet 18 Roe voet ende lanck ontrent</l>
+					<l>tseventich voet de kortste ende lanckste ontrent hondert</l>
+					<l>voet ende elck erf werde verkost ontrent twee hondert</l>
+					<l>ghulden de verkoopers sullen de kaeien maecken aen de</l>
+					<l>twee dwershavens</l>
+					<l>Anno <datum datum='1614-04-15'>1614 den 15 April </datum>hebben de heere van den gerechte</l>
+					<l>der stat <locatie>Rotterdam</locatie> verkost 20 erven leghende aen de</l>
+					<l>suitsijde van de <locatie>scheepmakers haven</locatie> ten wedersijden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>25</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>van de straet aen de<locatie> groote scheepmakers brughe</locatie></l>
+					<l>elck erf breet sijnde 15 Roevoeten ende lanck 24 gelijcke</l>
+					<l>voeten elck erf werde verkost ontrent hondert ende tsev</l>
+					<l>entich ghulde opte kondijsien als voren verhaelt</l>
+					<l>Anno <datum datum='1614-xx-xx'>1614 </datum>werde gemaeckt de steene kaeien aende <locatie>west</locatie></l>
+					<l><locatie>sijde van de delfse vaert</locatie> van de <locatie>Raembreghe</locatie> af tot</l>
+					<l>de <locatie>delfse poort </locatie>toe voor die tijt vervallen houte kaien</l>
+					<l>tselve Jaer werde mede gemaeckt eenige kaeien</l>
+					<l>leghende aen de <locatie>sloot van Sint Jores doel</locatie></l>
+					<l>Anno <datum datum='1614-06-21'>1614 den 21 Juini </datum>hebben de heeren van den gerechte</l>
+					<l>der stat <locatie>Rotterdam </locatie>verkost om afgebroocken te werden</l>
+					<l>de oude houte brughe leghende overde <locatie>Rotte</locatie> bijt</l>
+					<l><locatie>hofpoortien </locatie>voor tachtich ghulden ende werde in plaets</l>
+					<l>gemaeckt een steene brughe daerden eersten</l>
+					<l>steen aen geleit werde den <datum datum='1614-08-08'>8 Augustij des selven</datum></l>
+					<l><datum datum='1614-08-08'>Jaers </datum>ende den lesten steen den <datum datum='1615-10-03'>3 ocktober 1615</datum></l>
+					<l>Anno <datum datum='1614-07-11'>1614 den 11 Juli </datum>werde de stevens gerecht vant</l>
+					<l>eerste schip dat gemaeckt werde opte nieuwe</l>
+					<l>werven aende <locatie>suitsijde van de scheepmakers haven</locatie></l>
+					<l>ende den <datum datum='1614-07-25'>25 Juili des selven Jaers </datum>werde den eersten</l>
+					<l>steen geleit aent eerste scheepmaeckers huis dat</l>
+					<l>gemaeckt werde aende suitsij van de voorsz haven</l>
+					<l>Daer <persoonsnaam>stichter af was Wernaert Janse Gouwenaer</persoonsnaam></l>
+					<l>Anno <datum datum='1614-09-08'>1614 den 8 september </datum>heeft men beghinnen te</l>
+					<l>leghen de <locatie>eerste Cleine Wijnbrughe</locatie> daer den eersten</l>
+					<l>steen van geleit was int Jaer <datum datum='1604-xx-xx'>1604</datum> ende den lesten <datum datum='1615-xx-xx'>1615</datum></l>
+					<l>de <locatie>cleine scheepmakers breghe</locatie> werde beghonnen</l>
+					<l>den <datum datum='1614-12-01'>1 December 1614</datum> ende den lesten steen den <datum datum='1616-10-15'>15 ocktober</datum></l>
+					<l><datum datum='1616-10-15'>1616 </datum>soo wast werck tusschen tijt blijven leghen</l>
+					<l>met loose brughens</l>
+					<l>Anno <datum datum='1614-xx-xx'>1614 </datum>werde binnen <locatie>Rotterdam </locatie>getimmert vijf</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l>Nieuwe brouwerijen een aende oostsijde van <locatie>de delfse</locatie></l>
+					<l><locatie>vaert</locatie> daer stichter af was <persoonsnaam>Jan Cornelese</persoonsnaam> sijn teicken</l>
+					<l>was de Tooren de tweede werde getimmert aen de</l>
+					<l>suitsijde van <locatie>de hoochstraet</locatie> op oostende daer stichter</l>
+					<l>van was <persoonsnaam>Pieter van Wagenstuelt</persoonsnaam> sijn teicken was</l>
+					<l>de starre de derde werde getimmert aen de suitsijde</l>
+					<l>van <locatie>de blaeck achter de vismart</locatie> daer stichter van was</l>
+					<l><persoonsnaam>wilm wilmse nobel</persoonsnaam> sijn teicken was den haringh</l>
+					<l>mette kroon de vierde brouwerij werde getimmert</l>
+					<l>aen de oostsijde van <locatie>de leuven haven bij de leuven</locatie></l>
+					<l><locatie>brughe</locatie> daer stichter van was <persoonsnaam>Willem Dewitse</persoonsnaam></l>
+					<l>sijn teicken was de werrelt mette R de De vijfde</l>
+					<l>brouwerij werde getimmert aen de noortsijde</l>
+					<l>van <locatie>de hoochstraet ontrent de goutse waegestraet</locatie></l>
+					<l>daer stichter van was <persoonsnaam>Dimme Cornelese</persoonsnaam> sijn teicken</l>
+					<l>was de drie haeringhen</l>
+					<l><datum datum='1615-02-01'>Anno 1615 den 1 feberwari</datum> wesende sondach beghont</l>
+					<l>seer scherp te vriesen ende het sneeude in de maent soo</l>
+					<l>veel alst in vijftien Jaren niet gedaen en hadde</l>
+					<l>ende den <datum datum='1615-03-18'>18 maert</datum> wesende wonsdach begonnen weder</l>
+					<l>van <locatie>Rotterdam op dordrecht </locatie>te varen ende <datum datum='1615-03-19'>den 19 dito</datum></l>
+					<l>begonnen weder <locatie>van Rotterdam op delft </locatie>te varen</l>
+					<l><datum datum='1615-04-xx'>Anno 1615 int beghin van April</datum> heeft men beghonnen te</l>
+					<l>planten de linde boomen ende wilge pooten tusschen <locatie>de</locatie></l>
+					<l><locatie>leuven haven</locatie> ende dat oude hooft aen <locatie>de maeskant</locatie> heenen</l>
+					<l><datum datum='1615-xx-xx'>Anno 1615 </datum>werde de straet aen de westsijde van <locatie>de delfse</locatie></l>
+					<l><locatie>vaert</locatie> opgebroken ende ontrent twee roevoet gehoocht</l>
+					<l>van <locatie>de delfse poort</locatie> af tot <locatie>de Raembrughe</locatie> toe</l>
+					<l><datum datum='1618-07-16'>Anno 1618 den 16 Juili</datum> hebben de heeren van den gerechte</l>
+					<l>der stat <locatie>Rotterdam</locatie> sommige steene kaeien besteet</l>
+					<l>te maecken van <locatie>de ghapersburghe</locatie> af oostewaers</l>
+					<l>aen tot aent oostende van <locatie>de wijnstraet</locatie> toe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>26</pagenumber></l>
+					<l><datum datum='1618-07-17'> Anno 1618 den 17 Juili</datum> hebben de heeren van den gerechte</l>
+					<l>der stat <locatie>Rotterdam </locatie>besteet te maecken de vest</l>
+					<l>van <locatie>den hoogendijck</locatie> af tot aen <locatie>de maes</locatie> aen de suitside</l>
+					<l>vande van<locatie>de schiedamse poort </locatie></l>
+					<l><datum datum='1618-08-16'>Anno 1618 den 16 Augusti</datum> hebben de heeren van den gerechte</l>
+					<l>der stat <locatie>Rotterdam</locatie> afgepupliseert dat alle die vreem¬</l>
+					<l>de kramers komende in de kermis niet langher</l>
+					<l>sullen mogen voorstaen om haer goet te verkoopen</l>
+					<l>dan van vrijdach voor de kermes af tot saterdach tsavens</l>
+					<l>naer de kermes toe</l>
+					<l><datum datum='1618-08-16'>Anno 1618 den 16 Augusti</datum> wert mede afgepupliseert</l>
+					<l>van de begrafenis der dooden te weeten dat een oude</l>
+					<l>doode dat met vier ofte meer personen gedragen</l>
+					<l>wert sal moeten voor halftwaelven in de kerck</l>
+					<l>wesenopte boeten van ses ghulden ende naer den</l>
+					<l>middach voor drie vieren ende op martdaeghen</l>
+					<l>gelijcke boeten een kint met sijn tween gedragen</l>
+					<l>mede voor drien in de kerck opte boete van drie</l>
+					<l>ghulden ende een kint onder den arm gedragen drie gulden half</l>
+					<l>is een daelder Noch hebben de heere ten voorsz dage</l>
+					<l>afgepupliseert dat alle die dooden die voor de middach</l>
+					<l>opt kerckhof begraven worden moeten daer ter</l>
+					<l>plaetse wesen voor halftwaelven ende safternoens</l>
+					<l>voor drien op gelijcke boeten van ses ghulden</l>
+					<l><datum datum='1618-xx-xx'>Anno 1618</datum> wert een valbrughe gemaeckt buitent</l>
+					<l><locatie>hofpoortien</locatie> ende <locatie>hofpoortien</locatie> wert wat wijder gemaeckt</l>
+					<l>ende onder wat opgehoocht tselve Jaer wert mede</l>
+					<l>gemaeckt het muerwerck tusschen dat steene</l>
+					<l>bolwerck ende dat hooft aen de westsijde buiten</l>
+					<l><locatie>die leuven poort</locatie></l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l><datum datum='1618-10-29'>Anno 1618 den 29 dach in ocktober</datum> quam binnen <locatie>Rotterdam</locatie></l>
+					<l><persoonsnaam>de Prinse van Oraenien Maurijtsius</persoonsnaam> ende <datum datum='1618-10-30'>des daechs</datum></l>
+					<l><datum datum='1618-10-30'>hieraen</datum> heeft den prinse de wet ende de vroetschap</l>
+					<l>verandert de vroetschap bestont in die tijt in 24</l>
+					<l>personen maer daer wasser twee af doot soo dat sij</l>
+					<l>noch 22 Int getal waren daervan datter afgeset</l>
+					<l>werden 15 te weten</l>
+					<l><persoonsnaam>Pieter Aeriense van Walenburch</persoonsnaam> out burgemeester</l>
+					<l>die ontrent dertich Jaren vroetschap hat geweest</l>
+					<l><persoonsnaam>Jan Gillese van hal</persoonsnaam></l>
+					<l><persoonsnaam>Jan dirckse versijden</persoonsnaam></l>
+					<l><persoonsnaam>Adrijaen Crimpen</persoonsnaam></l>
+					<l><persoonsnaam>Dewet van Bijlwerf</persoonsnaam></l>
+					<l><persoonsnaam>Sijmon verhaven</persoonsnaam></l>
+					<l><persoonsnaam>Adrijaen keiser</persoonsnaam></l>
+					<l><persoonsnaam>Heinderick Jeronimusse</persoonsnaam></l>
+					<l><persoonsnaam>Gerret Janse Blanckert</persoonsnaam></l>
+					<l><persoonsnaam>Pieter dirckse de karre</persoonsnaam></l>
+					<l><persoonsnaam>Ghovert Dirckse thoen</persoonsnaam></l>
+					<l><persoonsnaam>Jonge Jan Janse Snaets</persoonsnaam></l>
+					<l><persoonsnaam>Ghieles Marijnese Groeninx</persoonsnaam></l>
+					<l>Ende <persoonsnaam>Cornelis Aeriense kievit</persoonsnaam></l>
+					<l>Ende <persoonsnaam>Corneles Pieterse vroesen</persoonsnaam> die Ontrent</l>
+					<l>veertich Jaeren vroetschap hadde gheweest</l>
+					<l>Daer bleef Inde vroetschap</l>
+					<l>1 <persoonsnaam>Corneles Cornelese Jongeneel</persoonsnaam></l>
+					<l>2 <persoonsnaam>Heinderick Willemse Nobel</persoonsnaam> Burgemeester af</l>
+					<l>3 <persoonsnaam>Boudewijn van Muilwijck </persoonsnaam>bleef Baeliui</l>
+					<l>4 <persoonsnaam>Docktoor Bonsius</persoonsnaam></l>
+					<l>5 <persoonsnaam>Aderijaen Reinbrantse</persoonsnaam></l>
+					<l>6 <persoonsnaam>Corneles Janse van hartichvelt</persoonsnaam></l>
+					<l>7 Ende<persoonsnaam> Corneles Clase van Driel</persoonsnaam></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>27</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><datum datum='1618-12-xx'>Anno 1618 in de maent van december</datum> werden weder</l>
+					<l>opgerecht uitte burgerij binnen <locatie>Rotterdam </locatie>twaelf</l>
+					<l>vaendels overset van den eet der schutters</l>
+					<l><datum datum='1619-xx-xx'>Anno 1619</datum> werde een pat gestraet van klinckert</l>
+					<l>voor de scheepmakers huisen heen van <locatie>de oude haven</locatie></l>
+					<l>af tot <locatie>de leuven haeven</locatie> toe ende was teerste pat</l>
+					<l><datum datum='1619-xx-xx'>Int selfde Jaer</datum> wert een verlaet gemaeckt besijden</l>
+					<l>den doel</l>
+					<l><datum datum='1619-xx-xx'>Int selfde Jaer</datum> werden de steene kaeien gemaeckt</l>
+					<l>van de brughe van <locatie>de westbagestraet </locatie>af tot <locatie>het hof</locatie></l>
+					<l><locatie>vant Roosant</locatie> toe</l>
+					<l><datum datum='1619-06-xx'>Anno 1619 den lesten Juini</datum> stonden de poorten geslooten</l>
+					<l>van smorgens af tot middach toe het Aventmael</l>
+					<l>wert alsdoen uitgedeelt</l>
+					<l><datum datum='1619-xx-xx'>Anno 1619 </datum>werden de steene kaeien volmaeckt tusschen</l>
+					<l><locatie>de gapersbrughe</locatie> ende <locatie>de keisers brughe</locatie> <datum datum='1619-xx-xx'>int selfde Jaer</datum></l>
+					<l>werden mede de steene kaeien gemaeckt ten wederwijden</l>
+					<l>achtert verbrande klooster van <locatie>de steene brughe</locatie> af</l>
+					<l>tot de vest toe</l>
+					<l><datum datum='1619-07-20'>Anno 1619 den 20 Juili</datum> wiert het plackaet tot <locatie>Rotterdam</locatie></l>
+					<l>afgepupliseert dat de Armijanen niet meer prediken</l>
+					<l>en souden het welck daechs daeraen begonnen wert maer</l>
+					<l>niet volbracht ende werden sommige gevangen</l>
+					<l><datum datum='1619-xx-xx'>Anno 1619</datum> heeft de stat <locatie>Rotterdam</locatie> moeten onderhouden</l>
+					<l>84 brughen te weten 32 brughens buitendijcx ende 52</l>
+					<l>brughens binnens dijckx comt tesamen 84 brughen </l>
+					<l><datum datum='1619-08-xx'>Anno 1619 int leste van Augusti</datum> heeft men beghinnen te</l>
+					<l>timmeren aent nieuwe spits ofte achtkant van</l>
+					<l><locatie>sinte laurens kercktooren tot Rotterdam</locatie></l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1619-xx-xx'>1619 </datum>waren de pruimen soo overvloedich gewasschen</l>
+					<l>dat men een hondert witte pruimen aen de mart koft om</l>
+					<l>een stuiver int <locatie>suitlant</locatie> sette de luiden haer boogaerden</l>
+					<l>open dat een Jegelijck mocht pruimen gaen eeten</l>
+					<l>voor niet diet geliefde maer daer bedorf veel goets</l>
+					<l>Anno <datum datum='1619-xx-xx'>1619</datum> wiert de wal gehoocht van de <locatie>delfshavense poort</locatie></l>
+					<l>af tot den dijck toe ontrent 4 voeten hooch ende dat<locatie> wacht</locatie></l>
+					<l><locatie>huis</locatie> ende <locatie>poortiers huis</locatie> werde opgeviselt ontrent vierdalve</l>
+					<l>voet hooch de <locatie>vestsloot </locatie>wert geurgaens 18 voet wijt gew.</l>
+					<l>Anno <datum datum='1619-10-20'>1619 den 20 ocktober</datum> predickten de Armijaenen achter de</l>
+					<l>kade van out <locatie>croeswijck</locatie> daer den <persoonsnaam>dijckgraef Jacop clase</persoonsnaam></l>
+					<l><persoonsnaam>duim </persoonsnaam>naetoe tooch met een deel soldaten daer een</l>
+					<l>geschooten wert daer hij af storf ende wert den <datum datum='1619-10-23'>23 dito</datum></l>
+					<l>begraven in de <locatie>Groote kerck</locatie> tot <locatie>Rotterdam </locatie>daermede</l>
+					<l>ter begrafenis ghinghen 572 mannen</l>
+					<l>Anno <datum datum='1619-11-22'>1619 den 22 november</datum> wert den eersten steen</l>
+					<l>geleit vant <locatie>boterhuis </locatie>ofte van de <locatie>vleishal </locatie>aen de <locatie>huibrug</locatie></l>
+					<l>Anno <datum datum='1619-12-22'>1619 den 22 december </datum>wesende sondach wert een</l>
+					<l>Jongman doot geschooten om dat hij buiten in de predic</l>
+					<l>asi wilde ghaen genaemt <persoonsnaam>Jan Aeriense </persoonsnaam>die begraven</l>
+					<l>wert den <datum datum='1618-12-27'>27 dito</datum> daer ontrent darthien hondert personen</l>
+					<l>mede te gebrafenis ghinghen</l>
+					<l>Anno <datum datum='1620-04-06'>1620 den 6 April</datum> heeft men begonnen de kap van de</l>
+					<l>tooren te ondecken ende vant selve Jaer werde daer opge</l>
+					<l>recht een Achtkant van veertich voet hoochte</l>
+					<l>Anno <datum datum='1620-04-27'>1620 den 27 April </datum>heeft men beghinnen te delven</l>
+					<l>in den dijck aen de <locatie>schiedamse poort</locatie> om een sluisien</l>
+					<l>te maecken door den dijck daer den lesten steen aen</l>
+					<l>geleit wert op ten <datum datum='1620-05-20'>20 mei des selven Jaers </datum>daer aen</l>
+					<l>vervrocht werde twehondert duisent steen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>28</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1620-05-01'>1620 den eersten mei</datum> hebben de heere van den</l>
+					<l>gerechte der stat <locatie>Rotterdam </locatie>tot laste van de selfde</l>
+					<l>stat genomen het <locatie>hof van bulgerstein</locatie> voor 330 gulden</l>
+					<l>siaers, tselve gekoft hebbende van de sasbouten van <locatie>delft</locatie></l>
+					<l>Anno <datum datum='1620-05-13'>1620 den 13 mei</datum> hebben de heeren van den gerechte</l>
+					<l>der stat <locatie>Rotterdam</locatie> de twaelf vaendels burgers gekassert</l>
+					<l>ende werde de selve gemaeckt op ses vaendels</l>
+					<l>Anno <datum datum='1620-05-20'>1620 den 20 mei </datum>werden de huisen verkoft om</l>
+					<l>afgebroocken te werden beneffens de vleishal voor</l>
+					<l>220 ghulden te weten aen de <locatie>oostsijde van de lombert</locatie></l>
+					<l><locatie>straet </locatie>ende aen de <locatie>westsijde van de huibrughe</locatie> ende binnen</l>
+					<l>ses daegen af te breecken</l>
+					<l>Anno <datum datum='1620-xx-xx'>1620</datum> wert de <locatie>groenendael </locatie>gediept ende ten wedersijde</l>
+					<l>met steen kaeien gemaeckt doen wert mede</l>
+					<l>gehoocht de singhel van de <locatie>delfse poort</locatie> af tot den dijck</l>
+					<l>toe Aen de buitekant van de <locatie>vest </locatie>doen wert mede</l>
+					<l>gemaeckt de <locatie>oostingese lijnbaen</locatie> met <locatie>baenhuis </locatie>ende</l>
+					<l>tgheen dat daeraen hoort</l>
+					<l>Anno <datum datum='1620-xx-xx'>1620 </datum>wert geordineert van de vroetschop binnen</l>
+					<l><locatie>Rotterdam </locatie>dat een Iider burger sal moeten onderhouden</l>
+					<l>sijn straeten van sant, steen, ende arbeitsloon</l>
+					<l>Tselve Jaer wert mede dat <locatie>sluisien bij de oostport</locatie></l>
+					<l>verleit ende vermaeckt wert doen mede gemaeckt</l>
+					<l>een paerdestal voor de karrepaerden bij de <locatie>delfshavense</locatie></l>
+					<l><locatie>poort</locatie></l>
+					<l>Anno <datum datum='1621-03-15'>1621 den 15 maert</datum> heeft men werder aen den toren</l>
+					<l>beghinnen te steigeren ende den <datum datum='1621-07-10'>10 Juili </datum>wert de mei geset</l>
+					<l>op ten <locatie>toren van Sint laurens kerck</locatie> sijnde doen t hoochste</l>
+					<l>gerecht vant houtwerck</l>
+					<l>Anno<datum datum='1621-04-13'> 1621 den 13 april </datum>wesende den derden paesdach quam</l>
+					<l><persoonsnaam>frederick Coninck van bohemen</persoonsnaam> binnen <locatie>Rotterdam</locatie></l>
+					<l>met sijn huisvrou</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1621-08-19'>1621 den 19 Augusti</datum> wiert het krius met de weerhaan</l>
+					<l>gestelt op den kercktooren tot <locatie>Rotterdam</locatie> Ende <datum datum='1621-08-24'>den</datum></l>
+					<l><datum datum='1621-08-24'>24 Augusti</datum> wesende dijnsdach opte kermes was een</l>
+					<l>Rumoer in de stat Doort vanghen Armijaens predikant</l>
+					<l>daerbleven vier burgers doot die bij nacht begraven most</l>
+					<l>werden om datse in t Rumoer geweest waren daernaer</l>
+					<l>werdender eenighe gevanghen van de Armijanen ende eenig</l>
+					<l>gebannen</l>
+					<l>Anno <datum datum='1621-09-07'>1621 den 7 september</datum> heeft men beghinnen te leghen</l>
+					<l>de eerste brughe Aent<locatie> oude westersche hooft</locatie> die</l>
+					<l>genaemt werde de<locatie> kleine scheepmakers brughe</locatie></l>
+					<l>Den <datum datum='1621-10-24'>24 Ocktober</datum> waeident een Snellen suitooste wint</l>
+					<l>ende dat water liep soo af dat de santplaet leghende voort</l>
+					<l><locatie>oude hooft</locatie> met hoochwater niet ondervloeiden ende de</l>
+					<l>sluisen binnen <locatie>Rotterdam </locatie>en ghingen in twee tijen niet to</l>
+					<l>daerop volchde een ghroot Onweder soo dat tlant in</l>
+					<l>twee Daegen ende nachten onderregende</l>
+					<l>Den <datum datum='1621-11-20'>20 November des selven Jaers</datum> wert de slachklock</l>
+					<l>uittet ghiethuis gebracht onder den tooren die de</l>
+					<l>Jonghens voorttrocken wegende 9417 pont</l>
+					<l>Den <datum datum='1621-12-10'>10 December </datum>hebben de heeren van den gerechte der stat</l>
+					<l>Rotterdam afgepupliseert dat de burgers niet vervorde</l>
+					<l>en souden eenich werck te doen op Jaersdach maer den</l>
+					<l>selven dach vieren die voor deses in de stat niet gevier</l>
+					<l>en werde</l>
+					<l>Anno <datum datum='1621-12-xx'>1621 int laetste van December </datum>begont te vriesen</l>
+					<l>ende vroor soo fel dattet in veel Jaren te vooren soo niet ghe</l>
+					<l>vrosen en hadde dat winterkoren vroos meest uit op veel</l>
+					<l>plaetsen den turf ghou 10 - 11 - 12 a 13 stuivers Maer puick van</l>
+					<l>turf ghou 14 - 15 - 16 a 17 de ton de schotse kolen werde verkoft</l>
+					<l>de hondert waech 96 ghulde binnen <locatie>Rotterdam </locatie>ende vroor soo</l>
+					<l>fel dat het ijs seer dick was</l>
+					<l>Anno <datum datum='1622-02-04'>1622 den 4 feberwari </datum>quam een voerman genaemt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>29</pagenumber></l>
+					<l><persoonsnaam>den aechter van Dordrecht</persoonsnaam> Rijden met een slee</l>
+					<l>vol volck ende Reet in een groot wrack ontrent den <locatie>noort</locatie></l>
+					<l>tsavons ontrent seven uieren sijnde heel doncker ende</l>
+					<l>verdroncken alleghaer de voerman met paert ende</l>
+					<l>alt volck soo datter niemant levent af en quam den voorsz</l>
+					<l>voerman werde gevonden ende begraven den <datum datum='1622-05-19'>19 mei 1622</datum></l>
+					<l>Anno <datum datum='1622-02-25'>1622 den 25 feberwari </datum>werde besteet een nieut</l>
+					<l>vrouwenhuis te maecken tussent schuthuis ende gasthuis</l>
+					<l>opt <locatie>oostende </locatie>daeraen te leveren hout / steen / kalck /</l>
+					<l>tras / Iser / glasen hartsteen ende aldatter aen behoort voor</l>
+					<l>ontrent tien duisent ghulden gereet ghelt</l>
+					<l>Anno <datum datum='1622-04-xx'>1622 den lesten April</datum> wiert dat Metalen beelt van</l>
+					<l>Erasmus gestelt opte steene bortwering aen de Mart</l>
+					<l>Anno <datum datum='1623-02-xx'>1623 in feberwari </datum>waeide buiten <locatie>Rotterdam </locatie>een</l>
+					<l>korewintmole om daerde molenaer op was ende doot bleef</l>
+					<l>Den <datum datum='1623-07-20'>20 Juili</datum> lagen binnen <locatie>Rotterdam</locatie> in <locatie>Sint Laurens kerck</locatie></l>
+					<l>ontrent negen hondert sercken</l>
+					<l>Anno <datum datum='1623-08-01'>1623 den 1 Augusti</datum> was tot <locatie>Rotterdam </locatie>aende <locatie>koremart</locatie></l>
+					<l>nieuwen taru die gewasschen was int <locatie>lant van schouwe</locatie></l>
+					<l>die verkost werde tvierendeel Brouwerhavense maet</l>
+					<l>voor dortich schellinge tvierendeel Den <datum datum='1623-08-08'>8 augusti</datum> quamen</l>
+					<l>de sackedragers in haer nieut huisien in den <locatie>houtuin</locatie></l>
+					<l>Anno <datum datum='1623-xx-xx'>1623</datum> hebben de heere van den gerechte der stat</l>
+					<l><locatie>Rotterdam</locatie> doen leghen een <locatie>greine brughe tot overschie</locatie></l>
+					<l>dewelcke die van <locatie>Rotterdam </locatie>onderhouden moeten</l>
+					<l>de heeren van <locatie>delft </locatie>verstaende dat daer een greine</l>
+					<l>brughe gemaeckt was soo hebben sij een eicken brughe</l>
+					<l>laten Reemaken ende sijn daermede indernacht tot <locatie>overschie</locatie></l>
+					<l>gekomen ende hebben die Rotterdamse Brughe aen stucken</l>
+					<l>gesmeten ende stucken geleit opte Rotterdamse gront ende</l>
+					<l>ende haer eicken brughe Daerin plaets geleit die van</l>
+					<l><locatie>Rotterdam</locatie> dit vernemende hebben haer hout van de</l>
+					<l>gebroocken brughe gehaelt ende hebbent laten berusten</l>
+					<l>Einde</l>
+					<l>Einde Den Auteur van dit voorstaende was <persoonsnaam>Jan</persoonsnaam></l>
+					<l><persoonsnaam>Gerretse </persoonsnaam>ende is gestorven Op ten <datum datum='1623-10-30'>30 Ocktober 1623</datum></l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1639-01-07'>1639 op driekoninghen</datum> avont savonts ende snachs waeident</l>
+					<l>een harden storm soo dat een ghroot oorlochschip voort nieue</l>
+					<l>hooft op anckerleghende snachs omwaeide daermen preseme</l>
+					<l>wel 40 menschen in verdroncken ende daer quamper maer</l>
+					<l>twee af die smorgens afgehaelt werden den selfden nacht</l>
+					<l>waeide dat spits af vande <locatie>toren van Rijerkerck</locatie></l>
+					<l>Int Jaer <datum datum='1641-xx-xx'>1641</datum> werde gemaeckt de scheefsche scheepmakers</l>
+					<l>breghe bij dat nieuwe hooft</l>
+					<l>Int Jaer <datum datum='1643-xx-xx'>1643</datum> hebben de heeren vande stat <locatie>Rotterdam</locatie></l>
+					<l>besteet dat arbeits loon van twee breghens te maecken</l>
+					<l>buitent <locatie>hofpoortie</locatie> om naerde <locatie>ghoutse poort</locatie> te komen</l>
+					<l>ghaen de singel lanck voor - 650 ghulden in november</l>
+					<l>Anno <datum datum='1643-12-xx'>1643 in december </datum>besteet dat arbeits loon vande</l>
+					<l>draeibrughe te vernieuwe aen <persoonsnaam>Pieter Heinderixe</persoonsnaam></l>
+					<l>voor 450 ghulde de oude breghe toe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>30</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Int Jaer <datum datum='1638-xx-xx'>1638</datum> int beghin is den dijck vande <locatie>leck</locatie> boven</l>
+					<l>de vaert doorgebroocken soo dattet alles onderwater</l>
+					<l>liep tot aende stat van <locatie>Rotterdam</locatie> toe ende werden veel</l>
+					<l>ghaten gemaeckt over <locatie>pompenburch</locatie> inde <locatie>stats</locatie></l>
+					<l><locatie>singhel</locatie> daert water weder uitliep als die sluisen</l>
+					<l>trocken ende werden dan weder met plancken afgeset</l>
+					<l>ende twater mocht noch al dree uittet lant dat die beesten</l>
+					<l>int <datum datum='1638-05-xx'>selfde Jaer int leste van mei</datum> noch inde wei mochten</l>
+					<l>Int Jaer <datum datum='1638-xx-xx'>1638</datum> is die <locatie>gapers breghe</locatie> vernieut bij <persoonsnaam>Aerien</persoonsnaam></l>
+					<l><persoonsnaam>Schravesande</persoonsnaam> doen sijnde stattimmerman van <locatie>Rotterdam</locatie></l>
+					<l>Anno <datum datum='1639-xx-xx'>1639</datum> is gemaeckt ende vernieut die <locatie>Roobreghe</locatie></l>
+					<l>Anno <datum datum='1639-xx-xx'>1639 op driekoninghen Aavont</datum> snachs waeident</l>
+					<l>eenen harden storm uitten noortwesten soo dat een ghroot</l>
+					<l>Oorlochschip leghende voort nieuwe hooft op Ancker des</l>
+					<l>nachs omwaeide daermen seide wel 40 menschen in</l>
+					<l>verdroncken ende daer quamper maer twee af die des</l>
+					<l>morgens noch met groot prijckel vande top vande stenghe</l>
+					<l>afgehaelt werden ende tschis is voorts inde ghront gewelt</l>
+					<l>doort traech vorderen om uit te winden</l>
+					<l>Anno <datum datum='1641-xx-xx'>1641</datum> werde gemaeckt die scheefsche scheepmakers</l>
+					<l>breghe bij dat nieuwe hooft</l>
+					<l>Anno <datum datum='1643-11-xx'>1643 in november </datum>hebben de heeren besteet dat</l>
+					<l>arbeits loon van twee nieuwe breghens te maecken</l>
+					<l>buitent <locatie>hofpoortien</locatie> om naerde <locatie>goutse poort</locatie> te konnen</l>
+					<l>ghaen de singel lanks voor 650 ghulde</l>
+					<l>Anno <datum datum='1643-12-xx'>1643 in december</datum> besteet dat arbeits loon vande</l>
+					<l>draeibreghe te vernieuwen aen <persoonsnaam>Pieter Heinderickse</persoonsnaam></l>
+					<l>voor 450 ghulde die oude breghe toe</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l>Int Jaer <datum datum='1638-xx-xx'>1638 </datum>is gemaeckt die nieuwe <locatie>ghapers</locatie></l>
+					<l><locatie>breghe</locatie> bij <persoonsnaam>Aerien schravesande alsdoen stattimmerman</persoonsnaam></l>
+					<l>Int Jaer <datum datum='1639-xx-xx'>1639 </datum>is gemaeckt ofte vernieut die <locatie>Roobreghe</locatie></l>
+					<l>Int Jaer <datum datum='1639-01-07'>1639 op drikoninghen Avont</datum> snachts waeident</l>
+					<l>een harden storm soo dat een ghroot Oorlochschip</l>
+					<l>voort nieuwe hooft op acker leghende des nachs</l>
+					<l>omwaeide daer men presemeert wel 40 menschen in</l>
+					<l>verdroncken ende daer quamper maer twee af die des</l>
+					<l>morgens noch met groot prijckel van de top van de</l>
+					<l>stenghe afgehaelt werden</l>
+					<l>Int jaer <datum datum='1641-xx-xx'>1641 </datum>werde gemaeckt die <locatie>scheefsche scheepmaker</locatie></l>
+					<l><locatie>breghe</locatie> bij dat <locatie>nieuwe hooft</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>31</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Anno <datum datum='1644-01-xx'>1644 in Janwari</datum> besteet dat arbeitsloon van de </l>
+					<l><locatie>leuven breghe</locatie> te vernieuwen aengenomen bij <persoonsnaam>anselmes</persoonsnaam></l>
+					<l><persoonsnaam>aeriense</persoonsnaam> voor 825 ghulde ende die oude breghe toe</l>
+					<l>Ten selfden daghe mede besteet dat arbeits loon van de</l>
+					<l>van de <locatie>kleine wijn breghe</locatie> bij <persoonsnaam>corneles verhanen</persoonsnaam> te vernieuwen</l>
+					<l>ende aengenomen bij <persoonsnaam>pieter heinderickse</persoonsnaam> voor 250 ghulde ende die</l>
+					<l>oude breghe toe Doen mede besteet de <locatie>duivels breghe</locatie></l>
+					<l>te vernieuwen dat arbeits loon ende aengenomen bij <persoonsnaam>Aerien</persoonsnaam></l>
+					<l><persoonsnaam>dammisse</persoonsnaam> voor 300 ghulde die oude breghe toe Ten selven</l>
+					<l>daghe mede besteet dat Arbeits loon van de <locatie>breghe</locatie></l>
+					<l><locatie>overt oude hooft</locatie> ende aengenomen bij <persoonsnaam>Anselmes Aeriense</persoonsnaam></l>
+					<l>voor 200 ghulde die oude breghe toe</l>
+					<l>Anno <datum datum='1645-xx-xx'>1645 </datum>den houten <locatie>toren van laurens kerck</locatie> weder afgebr¬</l>
+					<l>oken sijnde die int Jaer <datum datum='1621-xx-xx'>1621 </datum>volmaeckt was doort quade</l>
+					<l>hout dat daeraen vervrocht was heeft men desen toren weder</l>
+					<l>beghonnen te verhooghen Altemael met steenwerck ende van</l>
+					<l>buiten altemael met sware hartsteen ende weder 40 voeten</l>
+					<l>verhoocht ende also desen toren altevoren slun stont soo is den</l>
+					<l>selven almeer overgesackt door de groote swaert die daer</l>
+					<l>op quam</l>
+					<l>Anno <datum datum='1648-04-xx'>1648 in April</datum> hebben de heeren der stat <locatie>Rotterdam </locatie>den</l>
+					<l><locatie>toren van laurens kerck</locatie> laten aflooden om te weten hoeveel</l>
+					<l>die selve overhanckt bij <persoonsnaam>Corneles dirckse seeman timmerman</persoonsnaam></l>
+					<l><persoonsnaam>tot <locatie>warmen</locatie></persoonsnaam> ende <persoonsnaam>Jan stampijoen lantmeter tot <locatie>Rotterdam</locatie></persoonsnaam> ende</l>
+					<l><persoonsnaam>gerret van Waerden gemeenlants timmerman van <locatie>schielant</locatie></persoonsnaam></l>
+					<l>ende bevonden alsdoen den toren over te hanghen vant hoochste vant</l>
+					<l>nieut werck af dat int Jaer <datum datum='1645-xx-xx'>1645 </datum>daer opgemaeckt was</l>
+					<l>tot onder op te vloer oostewaers over 46 duim ende noodewaert</l>
+					<l>over 38 duim maer sackte noch hoe langer hoe meer oover</l>
+					<l>Anno <datum datum='1651-xx-xx'>1651 </datum>hebben de heeren van der stat <locatie>Rotterdam</locatie> eenighe</l>
+					<l>meesters ontboden soo van <locatie>amsterdam </locatie><locatie>leijen </locatie>ende <locatie>den haech</locatie></l>
+					<l>daerbij eenige meesters van <locatie>rotterdam </locatie>on eens met mal</l>
+					<l>kander te resolveren wat best gedaen soude wesen tot</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l>behout van den tooren eenige verstonden dat men die veertich</l>
+					<l>voet die int Jaer <datum datum='1645-xx-xx'>1645 </datum>opgemaeckt was weder soude afbreecken</l>
+					<l>eindelijck werde geresolveert dat men den toren de aerde</l>
+					<l>rontom soude laten afgraven tot aent fondement ende dan buiten</l>
+					<l>rontom te laten heijen een bree voet ende daer dan de muer</l>
+					<l>op te laten metselen scheuns tegen den toren aen ende daer in</l>
+					<l>gewrocht int oude werck ende aen de lage sijde afgegraven</l>
+					<l>sijnde ende wesende aent heijen beghon gaende meer over te</l>
+					<l>sacken soo hebben de heeren ontboden <persoonsnaam>gommer klasen ende</persoonsnaam></l>
+					<l><persoonsnaam>barent barentse beide viselaers ende meesters timmerluiden</persoonsnaam></l>
+					<l>binnen deser stat als mede <persoonsnaam>klaes Jeremiese metselaer</persoonsnaam></l>
+					<l>ende hebben haer voorgehouden of sij gheen moet en hadden</l>
+					<l>den toren te schooren dat die selve niet meer overghing</l>
+					<l>waerop sij seiden Ja daer wel moet toe hebben Soo is</l>
+					<l>haer last gegeven ten eersten aent werck te gaen ende</l>
+					<l>hebben den toren geschoort met langhe sware masten</l>
+					<l>ende eicken sommers soo dat jij aen de noortoosthoeck vast</l>
+					<l>stont daer hij meest gesackt was ende doen aende suitwest</l>
+					<l>hoeck eenige paelen vant fondement uitgehaelt soo dat</l>
+					<l>den toren aen de suitwest hoeck weder overquam 42 duim</l>
+					<l>ende doen rontom geschoort</l>
+					<l>Ende Alsoo geschoort wesende heeft ment buiten ouden toren</l>
+					<l>altemael laten uitdelven 2 a 3 voet beneden fondement ende dat</l>
+					<l>met vacken ende daer die buitenste heipalen van den tooren</l>
+					<l>uitgewonden die niet langer waren als 14 a 16 a 18 a 20 voet</l>
+					<l>so elsen als wilghen ende daer werden in plaets ende daer buiten</l>
+					<l>om den toren ter breete van 10 a 11 voet geheit met vuere</l>
+					<l>stenghen van 8 a 10 palm ende lanck 34 a 36 a 40 voet tot int</l>
+					<l>welsant ende men was wel 20 voet diep gedolven soo diep lacht</l>
+					<l>oude fondement daer sijn naerde beste onthoudinghe rontom</l>
+					<l>den toren verheit 3023 palen ende op te paelen werden geleit</l>
+					<l>sware stucken eicken hout van 2 a 2½ voet dick ende swaerder</l>
+					<l>schietende 3 voet inde inde oude muer van den tooren ende op</l>
+					<l>elck werde geset 2 sware eicken schooren ende werden</l>
+					<l>opwaers in den toren gebrocken ende met wighen vast</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>32</pagenumber></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>gestelt ende sommighe temet gelost om den tooren recht</l>
+					<l>te krighen ende soo werden den tooren rechstaende rontom</l>
+					<l>bemetselt met een dicke muer op te eicken stucken ende</l>
+					<l>heipaelen ende sommighe kleine schooren sijn bliven staen ende </l>
+					<l>inde muer gemetselt ende de Achterste langhe schooren</l>
+					<l>doen wechgenomen ende soo is den toren van onderen volma¬</l>
+					<l>ckt geweest op ten <datum datum='1655-04-22'>22 April 1655</datum></l>
+					<l>Anno <datum datum='1657-08-xx'>1657 in Augusti </datum>werde geheit dat suitlijckste pant</l>
+					<l>van de<locatie> prinse kerck</locatie> ende werde in dat Jaer dat fondement</l>
+					<l>van de muer opgemetselt tot gelijck de straet ende int Jaer</l>
+					<l><datum datum='1658-xx-xx'>1658 </datum>werden die mueren voort opgemetselt ende die kap</l>
+					<l>daerop getelt ende int Jaer <datum datum='1659-xx-xx'>1659 </datum>wertse van binnen gewu¬</l>
+					<l>rft ende die balck beschoten ende in april des selven Jaers heeft men</l>
+					<l>beghonnen met leijen te decken</l>
+					<l>Anno <datum datum='1653-xx-xx'>1653 </datum>werden weder 12 vaendels burgers in de wacht</l>
+					<l>genomen ende werde gestelt om den 24 nacht te waecken</l>
+					<l>ende moeten alle sovons met haer volgeweer ende vliegende</l>
+					<l>vaendel naert stathuis trecken</l>
+					<l>Anno <datum datum='1654-10-12'>1654 den 12 Ocktober</datum> voor de middach ten hallef</l>
+					<l>elven is binnen <locatie>delft</locatie> den kruittoren gespronghen daer den</l>
+					<l>toesiender vant kruit in was ende mede wech vlooch ende was</l>
+					<l>binnen<locatie> delft</locatie> ghroote schade aen huisen die altmemael</l>
+					<l>terneder geslaghen waren ende menichte die daken af</l>
+					<l>ende veel schade aen de kercken ende bleven veel menschen doot</l>
+					<l>die slach dreunde soo hart tot <locatie>Rotterdam </locatie>dat veel deuren</l>
+					<l>opspronghen ende dat aertrijck ende huisen dreinden oft een</l>
+					<l>aertbeving waer geweest</l>
+					<l>Anno <datum datum='1657-10-18'>1657 op ten 18</datum> ende <datum datum='1657-10-19'>19 Ocktober</datum> waeident eenen</l>
+					<l>harden oosten wint ende dat water liep soo laech af dat de</l>
+					<l>sluisen in 48 vieren naeulijck toe waren ende waert dat de</l>
+					<l>molens opte <locatie>rotte </locatie>niet gemalen en hadden die water</l>
+					<l>noch deden volgen soo hadde alle die havens ende binne</l>
+					<l>water schoon wech geloopen ende was buten mensen heuchnis</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l><datum datum='1657-xx-xx'>Anno 1657</datum> quam int naeiaer soo weinich kabbeliaeu</l>
+					<l>aende mart dat een vierendeel betaelt werde voor</l>
+					<l>een rickx daelder ende een seker persoon die sijn middelen</l>
+					<l>soo ghroot niet en sijn als sijn hart most een half vierendeel</l>
+					<l>hebben voor 25 stuivers</l>
+					<l><datum datum='1657-03-xx'>Anno 1657 in maert</datum> heeft men die dammen beghinnen</l>
+					<l>te leghen een aen soeten breghe aen <locatie>de vismart</locatie> ende een</l>
+					<l>aen de oostende van <locatie>de ghroote mart</locatie> ende een aen<locatie>de</locatie></l>
+					<l><locatie>raembreghe ende een aen de breghe van de santstraet bij de</locatie></l>
+					<l><locatie>koert</locatie> ende dat water werde uitgemalen ende werde</l>
+					<l>altemael gediept <locatie>de delfsevaert</locatie> achtert taenhuis</l>
+					<l><locatie>het speu</locatie> ende overal daerbuiten ende onderde mart ende</l>
+					<l>werden aent<locatie> speu </locatie>gemaeckt 4 nieuw deuren als</l>
+					<l>mede twee nieuwe aende breghe van <locatie>de koert</locatie> ende</l>
+					<l>twee aen<locatie>de raembreghe</locatie> ende <locatie>die straet van sint</locatie></l>
+					<l><locatie>Jacops breghe</locatie> tot <locatie>de raembreghe</locatie> werde opgegraven</l>
+					<l>ende die sijl werde vernieut ende alle steene kaeien</l>
+					<l>werde gerepareert alsmede dat <locatie>speu</locatie> ende die mart</l>
+					<l>daer een deel vant wulfsel afgebroocken werde</l>
+					<l>ende werde met balcken overleit ende met plancken</l>
+					<l>gedeckt ende daer oover gestraet ende werden die</l>
+					<l>dammen weder doorgestecken opt en <datum datum='1657-07-09'>9 Juili 1657</datum></l>
+					<l><datum datum='1657-12-xx'>Anno 1657 in december</datum> beghonnen <locatie>de keisers breghe </locatie>te</l>
+					<l>vernieuwen ende werde in <datum datum='1658-03-xx'>maert</datum> daeraen voort volmackt</l>
+					<l><datum datum='1657-12-xx'>Anno 1657 int leste van december</datum> beghont <datum datum='1657-12-25'>kersmis</datum></l>
+					<l>te vriesen soeties aen maer beghon in <datum datum='1658-01-xx'>Janwari 1658</datum></l>
+					<l>harder te vriesen soo dat men den <datum datum='1658-02-01'>1 feberwari</datum> beghon op te </l>
+					<l><locatie>maes</locatie> te ghaen voort <locatie>oude hooft</locatie> maer voort <locatie>nieuwe</locatie></l>
+					<l><locatie>hooft</locatie> wast noch oopen maer beghon daeren soo sterck</l>
+					<l>te vriesen dat men opte <locatie>maes</locatie> overal heen mocht naer</l>
+					<l><locatie>schiedam</locatie> <locatie>vlaerdinghen</locatie> ende verder ende daer stonden tenten opt</l>
+					<l>Iis voort <locatie>oude ende nieuw hooft</locatie> ende reden dagelijckx</l>
+					<l>veel paerde sleen met vis haring ende alle waren naer</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>33</pagenumber></l>
+					<l><locatie>geertruden berch</locatie> <locatie>gorkom</locatie> <locatie>bommel</locatie> ende hoogher dit duerde</l>
+					<l>tot den <datum datum='1658-02-26'>26 feberwari</datum> doen beghont te reghenen dijnsdach</l>
+					<l>woonsdach ende donderdach heel deur snachs vroort weinich</l>
+					<l>tusschen vridach ende saterdach vroort weder hart ende was</l>
+					<l>schoon weer ende vroor hart soo datter sondaechs weder veel</l>
+					<l>volck opte <locatie>maes</locatie> was tot den <datum datum='1658-03-04'>4 Maert</datum> savons te seven</l>
+					<l>ueren dijnsdach smorgens te seven uieren beghon dat</l>
+					<l>Iis ghaende te werden ende was des middachs schoon wech</l>
+					<l>dat een schip van <locatie>kulenburch</locatie> afquam in de haven maer</l>
+					<l>sat opte plaet noch veel Is maer den <datum datum='1658-03-06'>6 maert</datum> was alle</l>
+					<l>dat Iis soo schoon uitte <locatie>maes</locatie> wech ofter gheen ijs geweest</l>
+					<l>en hadde tot verwonderin van menschen ende doen quamen</l>
+					<l>de schepen weder van alle kanten ende uitter zee</l>
+					<l><datum datum='1658-04-21'>Anno 1658 den 21 April wesende paesdach</datum> tegens den</l>
+					<l>avont beghont te donderen ende te weerlichten soo dat het</l>
+					<l>vier vatte in eenighe silversmits kolen die opte solder</l>
+					<l>van <locatie>de oostpoort</locatie> leiden doordien daer een venster open</l>
+					<l>stont ende verbrande die geheele kap van de poort</l>
+					<l>soo dat die molens daerbij staende in groot prickel</l>
+					<l>stonden om in brant te raecken maer wierden gehouden</l>
+					<l><datum datum='1658-05-xx'>Anno 1658 in mei</datum> werde besteet eenen dam te</l>
+					<l>maecken van Aerde ende boven op met rijs te beslaen</l>
+					<l>van 2 hondert roe leinte komende van den noort af</l>
+					<l>tegens die plaet om die selve wechte doen schueren</l>
+					<l>ende werde aengenomen voor 15 duisent ghulde</l>
+					<l><datum datum='1658-12-04'>Anno 1658 den 4 december</datum> beghont soeties te vriesen</l>
+					<l>tot <datum datum='1658-12-08'>den 8 dito</datum> doen wert mistich ende beghon soo hart te</l>
+					<l>vriesen dat het alle nachten overde 2 duim dick vroor</l>
+					<l><datum datum='1658-12-10'>den 10 dito</datum> wast voorde stat noch open ende men mocht</l>
+					<l>vant tolhuis noch over komen varen met een weinich</l>
+					<l>bij <locatie>het hooft </locatie>overt Iis te ghaen den 11 dito konnen</l>
+					<l>loopen over <locatie>de maes</locatie> van<locatie>t nieuwe hooft</locatie> tot tolhuis</l>
+					<l>ende achterde plaet henen tot aen den noort ende overden</l>
+				</lg>
+			</p>
+			<pb n='36'/>
+			<p>
+				<lg>
+					<l>nieuwen rijsdam ende men liep voor <locatie>Iselmonde</locatie> mede</l>
+					<l>Over met paert ende slee ende voort vant <locatie>nieuwe hooft</locatie></l>
+					<l><locatie>naer delffhaven</locatie> Maer van <locatie>hoonighen</locatie> af tot het</l>
+					<l><locatie>nieuwe hooft</locatie> toe bleeft voor de stat oopen den <datum datum='1658-12-13'>13 </datum>dito </l>
+					<l>beghont weder soeties te dooien soo datter dan <datum datum='1658-12-25'>25</datum> dito</l>
+					<l>weder schepen uitter see voor de stat quamen doort ijs</l>
+					<l>seilen maer alle die havens leiden noch vast toe</l>
+					<l>datmer over loopen mocht ende most overal open gehackt</l>
+					<l>werden doordien het Iis soo dick was</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><pagenumber>34</pagenumber></l>
+				</lg>
+			</p>
+			<pb n='37'/>
+			<pb n='38'/>
+		</body>
+	</text>
+</TEI>

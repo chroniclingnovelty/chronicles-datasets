@@ -1,0 +1,696 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1779_Spaa_Beer - Kronyk van Spaarndam</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>KRONIJK</l>
+					<l>Van</l>
+					<l>Spaarndam</l>
+					<l>Door</l>
+					<l>Z:J:G: D. Beer</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>Onder Spaarndam Zijn volgens de </l>
+					<l>quohieren der Verponding, niet meer dan</l>
+					<l>265 Morgen 500 Roeden Land; en A<hi rend='superscript:true;'>o</hi> 1632</l>
+					<l>Wierden 65 Huizen op de Lijst der Ver¬</l>
+					<l>ponding gebragt en volgens de Lijst</l>
+					<l>Van A<hi rend='superscript:true;'>o </hi>1732 Waren er 76 Huizen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Cronijk van Spaarndam.</l>
+					<l>A<hi rend='superscript:true;'>o</hi> 1253 Verleende Koning Willem Octrooi om</l>
+					<l>tot Spaarndam een dam te Leggen</l>
+					<l>om de hooge vloeden van het IJ tegen </l>
+					<l>te houden, alsmede tot het maken</l>
+					<l>van een Sluis om de uitwatering</l>
+					<l>van het Spaarn te baat te komen.</l>
+					<l>1256</l>
+					<l>Vereerde Koning Willem aan de Kerk</l>
+					<l>te Spaarndam, een glas met zijn</l>
+					<l>wapen verciert, Welke glas in deze</l>
+					<l>tegenwoordige kerk noch gezien word,</l>
+					<l>Zijnde uit de Oude daarin overgebragt.</l>
+					<l>1285 Wert door Graaf Floris de Vijfde</l>
+					<l>het Octroy van 1253 Vernieuwt.</l>
+					<l>1364 heeft Hertog Albrecht een handvest</l>
+					<l>Verleent, aan die van Rhijnlande, en </l>
+					<l>aan alle die te Spaarndam uitwateren</l>
+					<l>om tusschen Amsteldam en Spaarndam</l>
+					<l>noch anderen sluizen te leggen, daar</l>
+					<l>het den Heemraad van Rhijnland</l>
+					<l>nut en oorbaar zouw dunken, door</l>
+					<l>deze mogt nimmer enige doorvaart</l>
+					<l>zijn; van groote of kleine Schepen,</l>
+					<l>ook mogt hier nimmer een Overtoom</l>
+					<l>ge¬</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>gemaakt worden of enige overslag van</l>
+					<l>Goederen over den Dijk, het welke</l>
+					<l>alles zeer wel over een komt met de</l>
+					<l>gesteltenis der Sluizen op Halfwegen</l>
+					<l>Handvesten van Rhijnland F<hi rend='superscript:true;'>o</hi> 18</l>
+					<l>1492 </l>
+					<l>Werd de Kolk Sluis te Spaarndam</l>
+					<l>na de kant van &apos;t Spaarne negen</l>
+					<l>Voeten verlengt &apos;t welk 4444 france</l>
+					<l>Schilden en 8 Stuivers gekost heeft.</l>
+					<l>1517 </l>
+					<l>Werd het Grafelijke Tolhuis te</l>
+					<l>Spaarndam door de Geldersche</l>
+					<l>verbrand, hetwelk zedert dien tijd</l>
+					<l>na Haarlem is overgebragt.</l>
+					<l>1519</l>
+					<l>den 16 Meij, is de stad Haarlem,</l>
+					<l>met het Hoogheemraadschap van</l>
+					<l>Rhijnland, voor Commissarissen van</l>
+					<l>den Hove van Holland, over een</l>
+					<l>gekomen; om de kleine Sluis te</l>
+					<l>Spaarndam, te leggen en te onder¬</l>
+					<l>houden.</l>
+					<l>1535 </l>
+					<l>den 15 Meij is te Amsteldam ge¬</l>
+					<l>excuteert Adriaan Cornelisz van</l>
+					<l>Spaarndam, Zijnde een Wederdoper</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1547 den 7 December wierd aan Burgemeesteren</l>
+					<l>van Amsteldam ter hand gesteld, om</l>
+					<l>bij der Stede Privilegien, en op gelijk</l>
+					<l>gevaar met dezelve bewaard te worden,</l>
+					<l>de oorsprongkelijke overeenkomst, tus¬</l>
+					<l>schen die van Slooten, Sloterdijk,</l>
+					<l>Osdorp, Houtrak, Polanen, de Geer</l>
+					<l>&apos;t hofambagt Spaarnwoude, met de</l>
+					<l>gemene dijkpligtigen tusschen Am¬</l>
+					<l>steldam en Spaarndam ter eener, en</l>
+					<l>de gemene ingelanden van Rhijnland</l>
+					<l>ter anderer Zijde, over het onderhou¬</l>
+					<l>den van den Dijk tusschen Amstel¬</l>
+					<l>dam en Spaarndam, de Acte waar</l>
+					<l>bij dit blijkt, en de overeenkomste</l>
+					<l>zelve, die omtrent Paschen des</l>
+					<l>Jaars 1544 getekent is, Zijn beide, on¬</l>
+					<l>der de Privilegien der Stad, in de</l>
+					<l>Oude Kerk Lade 7 Weggelegt.</l>
+					<l>1556 is een houte Sluis in de grote</l>
+					<l>waal op halfwegen den Spaarn¬</l>
+					<l>damsche dijk gemaakt.</l>
+					<l>1558 den 23 Junij Werd door Foij van</l>
+					<l>Broekhoven Zoon van Jan van </l>
+					<l>Broek</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>Broekhoven Rentmeester van Rhijn¬</l>
+					<l>land, den eersten Steen gelegt, aan</l>
+					<l>de Vernieuwde bentemer Stene Sluis</l>
+					<l>aan Halfwegen, ten midden van</l>
+					<l>de groote waal.</l>
+					<l>1566 den 1 Julij begon men de Sluis tot half¬</l>
+					<l>wegen, in de Oosthoek van de groote</l>
+					<l>waal te vernieuwen, van blauwe ar¬</l>
+					<l>duin of naamsche Steen, Zijnde de</l>
+					<l>eerste Steen gelegt door Dirk van</l>
+					<l>Brouckhoven, Zoon van Jan van </l>
+					<l>Brouckhoven Rentmeester van Rhijn</l>
+					<l>land.</l>
+					<l>. . . in dat Zelve Jaar, Was de Schout van</l>
+					<l>Spaarndam de Gereformeerde Zeer</l>
+					<l>toegedaan, Zoo dat Zelfs de Leeraar</l>
+					<l>Pieter Gabriel Welke te overveen</l>
+					<l>Zoude Prediken, met Kornelis Janszoon</l>
+					<l>Koster, van Amsteldam na Spaarn¬</l>
+					<l>dam Zoude Vertrekken, en ten</l>
+					<l>Zijnen huizen gelogeert hebben;</l>
+					<l>zo hem de ijver niet vervoerd had</l>
+					<l>om des Zaturdags noch binnen</l>
+					<l>haar</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Haarlem te Zijn, Predikende den Volgen¬</l>
+					<l>de Zondag te Overveen, digt bij het huis</l>
+					<l>te Kleef, over Eph 2:9:10, in het open</l>
+					<l>Veld, den 21 Julij, zijnde dit de twede</l>
+					<l>Predikatie welke in het openbaar ge¬</l>
+					<l>daan werd, na dat de eerste geschiet</l>
+					<l>was buiten Hoorn mede op het </l>
+					<l>open Veld den 14 Julij.</l>
+					<l>1568 is de Groote Sluis te Spaarndam</l>
+					<l>Vernieut en Vergroot, op dat Sware</l>
+					<l>Schepen daar door konde varen, en</l>
+					<l>met Volle Zeilen in de Stad Haar¬</l>
+					<l>lem koomen</l>
+					<l>1569 den 16 April voer de eerste boeijer door</l>
+					<l>deze nieuwe Sluis, met een vaarzijl</l>
+					<l>te Haarlem binnen, doch zonder la¬</l>
+					<l>ding, deze boeijer wierd op den 8 meij</l>
+					<l>gevolgt door een ander die beladen</l>
+					<l>uit Noorwegen kwam, van dit vaar¬</l>
+					<l>tuig behoorde de meeste goederen te</l>
+					<l>Rotterdam &apos;t huis, op den 25 Augus¬</l>
+					<l>tus kwam de eerste boeijer in Haarlem</l>
+					<l>die voor rekening van Kooplieden dier</l>
+					<l>Stad.</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>Stad, met Rogge beladen was, derhalve</l>
+					<l>Wierd deszelfs Schipper met een Rozen</l>
+					<l>hoed begiftigt, en met de Wijn der Stad</l>
+					<l>beschonken.</l>
+					<l>1570 Ordonneerde Philip, bij Placaat van</l>
+					<l>den 10 April, om boven de gewone buur</l>
+					<l>planting noch 225 morgen kalen duin</l>
+					<l>met helm te beplanten, op kosten van </l>
+					<l>het Gemene land van Rhijnland,</l>
+					<l>waar van gedurende Vier Jaren de</l>
+					<l>Dorpen onder Rhijnland aan de</l>
+					<l>duinkant gelegen moeste bevrijt</l>
+					<l>blijven, omdat dezelve mede onder¬</l>
+					<l>hevig waren de kosten aan de Dijka¬</l>
+					<l>gien van Spaarndam, en anderen</l>
+					<l>gemene lasten van Rhijnland, behou¬</l>
+					<l>delijk dat die Dorpen, onder die voorsz</l>
+					<l>Duinkanten gelegen, boven de Ordi¬</l>
+					<l>naire buijenplantinge, die zij luijden</l>
+					<l>gehouden ende gewoonlijk zijn Jaarlijks</l>
+					<l>te doen, den voorsz tijd van vier Jaren gedu¬</l>
+					<l>rende ter ordonnantie en keure van onse</l>
+					<l>Voorsz Hooge Heemraden noch planten Zul¬</l>
+					<l>len die gerechte helft meer, dan zij bij heure </l>
+					<l>voorsz</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>voorsz, Ordinairis Plantinge gehouden waren te</l>
+					<l>doen, ende dat zij die Penningen van de Over¬</l>
+					<l>plantingen, ende daar toe notelijk brengen</l>
+					<l>zullen in handen van den Ontfanger van &apos;t </l>
+					<l>gemeene land van Rhijnland, welk Pennin¬</l>
+					<l>gen wij den Schout ende Geswoorens van de</l>
+					<l>Voorsz Dorpen respectivelijk authoriseren</l>
+					<l>omme te Slaan, ende gedragen ende gevonden</l>
+					<l>te worden naar ouder gewoonten, Zonder dezelve</l>
+					<l>te leggen tot lasten van den Landen, onder</l>
+					<l>den banne van de Dorpen voorsz gelegen,</l>
+					<l>als deze drije voorleden Jaaren gedaan is</l>
+					<l>geweest.</l>
+					<l>1571 Werd de Kolksluis te Spaarndam vernieuwt,</l>
+					<l>en den Eerste Steen gelegt door Hendrik</l>
+					<l>van Brouckhoven, Zoon Van Jan van </l>
+					<l>Brouckhoven Rentmeester van Rhijnland</l>
+					<l>1572 den 7 December trok Don Frederik</l>
+					<l>Van bij Amsteldam op, en bemagtigden</l>
+					<l>een Schans te Spaarndam, en kwam </l>
+					<l>den Elfden voor Haarlem om hetzelve</l>
+					<l>te Belegeren. </l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>1573 in Februarij bragten de Amsterdammers</l>
+					<l>hun kleine Galeien en Vijf Schepen door</l>
+					<l>de Spaarndammer Sluis in &apos;t Spaarne, en</l>
+					<l>bestonden op den 18 dito de laage weg bij</l>
+					<l>pennings Veer door te delven, om alzoo in </l>
+					<l>de Meer te geraken, het welke haar belet</l>
+					<l>werd, den 21 dito hervatten zij den toeleg,</l>
+					<l>het welk haar wederom mislukte, doch</l>
+					<l>den Ses en Twintigsten liet den Grave</l>
+					<l>van Bossu, den Overtoom bij Amsteldam</l>
+					<l>door graven dat hem gelukten, en bragt</l>
+					<l>enige Smak Zeilen door dezelven. </l>
+					<l>Den Negen en Twintigsten Maart heeft</l>
+					<l>de Grave van Bossu, den hooge Spaarn¬</l>
+					<l>dammer Dijk, bij het Huis ter Hart,</l>
+					<l>te Halfwegen, tusschen Haarlem en</l>
+					<l>Amsteldam doen doordelven, en voerden</l>
+					<l>er toen een Vloot door in de Meer, van </l>
+					<l>drie en dertig Amsteldamsche Schepen</l>
+					<l>en Zeven Galeiën.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1574 in de maand September, Werden enige</l>
+					<l>Schepen gelegt in het IJ tusschen Am¬</l>
+					<l>steldam en Spaarndam, tot dekking</l>
+					<l>der Vaart naar en van de Stad.</l>
+					<l>1576 Wierd de Stad Amsteldam te last gelegt</l>
+					<l>des Konings Krijgsvolk, gelegen in de</l>
+					<l>Schansen, op de Spaarndammer dijk</l>
+					<l>haar betaling te verzorgen, doch Protes¬</l>
+					<l>teerden daar tegen,</l>
+					<l>1580 Zijn twee stene duikers met Schot deuren</l>
+					<l>gelegt, in den weg tusschen Haarlem</l>
+					<l>en Spaarnwoude aan het Pennings¬</l>
+					<l>veer.</l>
+					<l>1611 Is de Woerder Sluis te Spaarndam,</l>
+					<l>die eertijds uit twee pijpen bestond, tot</l>
+					<l>een Sluis gemaakt, met Stenen over</l>
+					<l>welft, En dient alleen tot uitwatering</l>
+					<l>en niet tot doorvaart, die Verhindert</l>
+					<l>word, door vaste balken van buiten en </l>
+					<l>van binnen.</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>1620 of daar omtrent werd de Slaper Dijk ge¬</l>
+					<l>legt; zijnde 54 Rhijnlandsche duimen</l>
+					<l>boven de Amsteldamsche Pijl.</l>
+					<l>1626 </l>
+					<l>Storten de Kerk te Spaarndam in</l>
+					<l>door een hevige Stormwind, doch in het</l>
+					<l>Volgende Jaar, begon men Ze weder op</l>
+					<l>te bouwen.</l>
+					<l>1650. Wanneer Prins Willem de Twede de</l>
+					<l>Stad Amsteldam belegeren wilde,</l>
+					<l>heeft de Heer Steland, Drossaard van</l>
+					<l>Buuren, met enige vaandels krijgs¬</l>
+					<l>volk te Spaarndam gelegen, en</l>
+					<l>van daar tusschen den 2 en 3 Aug¬</l>
+					<l>ustus Wederom opgebroken, na Ou¬</l>
+					<l>derkerk, op bevel van Graaf Willem. </l>
+					<l>1660 in de Lente wierde vier Pijltekens ge¬</l>
+					<l>steld, aangaande het slaper water.</l>
+					<l>Een aan de Negende Steen van de</l>
+					<l>Ooster Vleugel der groote Kolk Sluis</l>
+					<l>te Spaarndam, Een aan de Dam</l>
+					<l>Sluis te Amsteldam, die aldaar aan de</l>
+					<l>buiten Vleugel van de Zuidoostzijde</l>
+					<l>der</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>der gemelde Sluis, regt onder het pijlteken, van</l>
+					<l>den aller Heiligen Vloed des Jaars 1570 ge¬</l>
+					<l>steld wierd, en een aan de Nieuwen brug,</l>
+					<l>die aldaar aan de Zuidwest Zeide van de</l>
+					<l>buiten hoek van het uiterste Steenwerk</l>
+					<l>ten Noorden van het Damrak, daar de</l>
+					<l>houten brug toen begon werd geplaast,</l>
+					<l>Voorts kwam men over een om de Slaperdijk</l>
+					<l>te houden op de hoogten van twee voet</l>
+					<l>en tien duim, boven de gestelde Pijl,</l>
+					<l>deze drie pijltekens waren den 9 October</l>
+					<l>1659 al beraamd, doch wierden eerst</l>
+					<l>op boven gemelde datum nedergesteld,</l>
+					<l>en toen deze vierde noch daar bij gevoegt</l>
+					<l>aan de Ooster Vleugel, van de groote</l>
+					<l>Sluis te Spaarndam, achtvoet boven</l>
+					<l>de buitenste deuren, op de Zelve hoogte</l>
+					<l>als het teken aan de Kolk Sluis aldaar</l>
+					<l>gesteld wierd, op de Koperen platen der</l>
+					<l>Pijltekens stonden de letters S1659P</l>
+					<l>welke letters S&amp;P Slaper Pijl schijnen te be¬</l>
+					<l>tekenen, en naar deze Pijltekens wierd </l>
+					<l>de hoogte van de Slaperdijk zedert </l>
+					<l>geschikt. </l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>1663. Wierd de Kerk te Spaarndam aan de</l>
+					<l>noord Zijde merkelijk uitgeleid en Vergroot</l>
+					<l>1666. in de herfst bestonden Dijkgraaf en</l>
+					<l>Hoogheemraden van Rhijnland, de</l>
+					<l>Slaperdijk voor een gedeelte Wel 16 of</l>
+					<l>20 duimen hoger te maken dan bij de</l>
+					<l>overeenkomst van 1659 bepaald was, en </l>
+					<l>tot Verdere Verhoging aanbesteding te</l>
+					<l>doen, Burgemeesteren van Amsteldam</l>
+					<l>overtuigt van het nadeel, Welke haar</l>
+					<l>Stad daar van te wagten had, gaven</l>
+					<l>er de Vroedschap kennisse van,</l>
+					<l>men besloot den pensionaris Hop,</l>
+					<l>ten spoedigsten aftevaardigen aan</l>
+					<l>den Bailjuw van Kennemerland,</l>
+					<l>of aan Zulke anderen Hoofd Officieren</l>
+					<l>onder welk regtsgebied, de Verhoging</l>
+					<l>geschied was, of zou geschieden;</l>
+					<l>op dat dezelve daar tegen mogte</l>
+					<l>voorzien, tegelijk wierd geraden gevon¬</l>
+					<l>den een bekwaam Officier aan &apos;t hoofd</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Van Vijftig of meer Zoldaten buiten om te Zen¬</l>
+					<l>den naar Spaarndam, om Zig naar gelegen¬</l>
+					<l>heit van Zaken, te voegen bij den Pen¬</l>
+					<l>sionaris, die bij den Hoofd Offeciers geen</l>
+					<l>Voldoening bekomende, den Slaperdijk</l>
+					<l>door hen Zouw doen bewaaren, en alle</l>
+					<l>hoging aldaar dadelijk doen beletten,</l>
+					<l>gelijk dezelve ten dezen tijden ook agter¬</l>
+					<l>wegen gebleven is. </l>
+					<l>1752. </l>
+					<l>is de kleine Sluis te Spaarndam aan de</l>
+					<l>Oostzij vernieut, en den Eersten Steen ge¬</l>
+					<l>legt door Zacheus J. P de Beer</l>
+					<l>den dertiende Junij.</l>
+					<l>In dat Zelve Jaar heeft Maria .. Wed<hi rend='superscript:true;'>w</hi></l>
+					<l>Gerrit Knoop in Leven Bode van het</l>
+					<l>Hoogheemraadschap van Rhijnland, bij Tes¬</l>
+					<l>tament aan de Kerk van Spaarndam gelega¬</l>
+					<l>teert, een Somma van Vijfhondert Gul¬</l>
+					<l>dens, om voor het Zelve te koopen, Een</l>
+					<l>Zilveren Schootel, en twee Borden, tot ge¬</l>
+					<l>bruik bij het H. Avondmaal, en een Zerk</l>
+					<l>op haar Graf, hebbende de Zilveren</l>
+					<l>Schotel en Borden gekost</l>
+					<l>Ƒ 199 : - : -</l>
+					<l>de Zerk</l>
+					<l>Ƒ 28 : - : -</l>
+					<l>aan de Steenhouwer Voor</l>
+					<l>49 : - : -</l>
+					<l>het maken</l>
+					<l>21 : -</l>
+					<l>Ƒ 248 : - : -</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>1767. Zijn tot Spaarndam 21 Lantarens Opgericht</l>
+					<l>en hebben den 23 Januarij, voor het eerst</l>
+					<l>gebrand.</l>
+					<l>1774.</l>
+					<l>den 27 Meij heeeft de Slaper Elf duimen</l>
+					<l>Overgelopen.</l>
+					<l>1775.</l>
+					<l>des Nagts tusschen den 5 en 6 November</l>
+					<l>Ontstont te Spaarndam, op de Kolk, het</l>
+					<l>Agtste huis van den Dijk, agter aan de</l>
+					<l>Vaart; een felle Brand, aangekomen an</l>
+					<l>een Schuur met Turf, die merendeels</l>
+					<l>Verbranden, en de daar naast staande</l>
+					<l>Huizen Swaar beschadigden. </l>
+					<l>1777</l>
+					<l>is aan de Groote Sluis te Spaarndam</l>
+					<l>een dubbelde wipbrug gemaakt.</l>
+					<l>NB. deze brug wert eertijds afgeschoven</l>
+					<l>het welke veel moeite Veroorzaakte</l>
+					<l>In dat zelve Jaar, begon men de Kolk¬</l>
+					<l>Sluijs aftebreeken, om te Vernieuwen,</l>
+					<l>en te Verlengen zijnde den 18 October</l>
+					<l>1779 Voor het eerst weder geschut. </l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1779</l>
+					<l>is de Trap daar men mede van den Dijk</l>
+					<l>naar de Kerk of Kerkstraat gaat van Steen</l>
+					<l>Vernieuwt, zijnde dezelve eertijds van hout</l>
+					<l>Ook is toen de Dijk, van Spaarndam</l>
+					<l>tot Halfwegen met Steenen Nommer</l>
+					<l>Paalen gezet, die eertijds hout waaren.</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>Nette hoogten der Swaarste Watervloeden</l>
+					<l>aan de Spaarndamsche Dijk, door den</l>
+					<l>Heer Nicolaas Cruquius mede gedeelt</l>
+					<l>deze hoogtens zijn duimen boven het</l>
+					<l>Amsterdamsche Pijl</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Jaar</l>
+					<l>Hoogte</l>
+					<l>1702 Maart 1 ... 84 duim</l>
+					<l>- April 5</l>
+					<l>90</l>
+					<l>1703 Decbr 10</l>
+					<l>57</l>
+					<l>1707 Novbr 27</l>
+					<l>78</l>
+					<l>1714 Octbr 8</l>
+					<l>75</l>
+					<l>Novbr 3</l>
+					<l>84</l>
+					<l>Novbr 7</l>
+					<l>75</l>
+					<l>1715 Maart 4</l>
+					<l>77</l>
+					<l>1717 Januar 5</l>
+					<l>81</l>
+					<l>Decbr 25</l>
+					<l>96</l>
+					<l>1721 Januar 1</l>
+					<l>75</l>
+					<l>1731 Decbr 26</l>
+					<l>86</l>
+					<l>1733 Novbr 11</l>
+					<l>63</l>
+					<l>1734 Novbr 7</l>
+					<l>61</l>
+					<l>1735 Novbr 9</l>
+					<l>56</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Jaar</l>
+					<l>Hoogte</l>
+					<l>1736 Novbr 24</l>
+					<l>67 duim</l>
+					<l>1737 Janua 13 .. 57</l>
+					<l>Decbr 10 .. 64</l>
+					<l>1739 Febr 16 .. 68</l>
+					<l>1741 Apr 30</l>
+					<l>74</l>
+					<l>Novbr 28</l>
+					<l>82</l>
+					<l>1742 Febr 19 .. 75</l>
+					<l>1744 Decbr 21 .. 57</l>
+					<l>1744 Debr 24 .. 67</l>
+					<l>1745 Januar 13 .. 74</l>
+					<l>1747 Novbr 15 .. 61</l>
+					<l>1748 Decbr 8 .. 62</l>
+					<l>Decbr 19</l>
+					<l>56</l>
+					<l>1749 Decbr 8 .. 60</l>
+					<l>Decbr 24 .. 61</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Lijst der Predikanten.</l>
+					<l>die Zedert het Jaar 1589 tot heden, te Spaarn¬</l>
+					<l>woude en Spaarndam geweest zijn. </l>
+					<l>Beroepen</l>
+					<l>1589</l>
+					<l>1 Arend Arends, Beroepen van Uitgeest, is</l>
+					<l>1595 na Broek en Zuiderwou beroepen en</l>
+					<l>aldaar Overleden 1599.</l>
+					<l>1595</l>
+					<l>2 Joost de Rosiere, Verdreven Predikant</l>
+					<l>Uit Vlaanderen Overleden 1611.</l>
+					<l>1611  3 Balthazar van Beaumond, beroepen</l>
+					<l>van Hekelingen, Overleden 1633</l>
+					<l>1634  4 Victorius Swalmius Proponent, is</l>
+					<l>1635 na Weesp Beroepen en 1637 na</l>
+					<l>Rotterdam en 1638 aldaar Overleden,</l>
+					<l>5 IJsbrand Antonie Fabritius, Propon:</l>
+					<l>1636</l>
+					<l>is 1652 na Deventer beroepen en 1656</l>
+					<l>aldaar Overleden.</l>
+					<l>6 Wilhelmus de Quesnoij Proponent</l>
+					<l>1653</l>
+					<l>Overleden 1654</l>
+					<l>1654  7 Andreas Surendonk Propon: is 1659</l>
+					<l>te Rewijk beroepen 1669 te Cloetingen</l>
+					<l>1671 te Ramsdonk 1690 te Geertruiden¬</l>
+					<l>berg en 1698 aldaar Overleden.</l>
+					<l>1659  8 Gabriël Vinckius beroepen Van</l>
+					<l>Rewijk, Overleden 1662.</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>1662</l>
+					<l>9 Johannes Van der Waijen Proponent,</l>
+					<l>is 1665 na Leeuwaarden Beroepen 1672 na</l>
+					<l>Middelburg 1678 na Franeker voor Theol:</l>
+					<l>Proff en aldaar Overleden in November 1701.</l>
+					<l>1665  10 Casparus Polanus, Proponent, bevestigt</l>
+					<l>in November, Overleden 1687, in &apos;t Najaar</l>
+					<l>1688  11 Henricus de Rantre, Proponent. beves¬</l>
+					<l>tigt in December, is 1726 Emeritus geworden</l>
+					<l>en 1727 den 21 November te Haarlem</l>
+					<l>Overleden.</l>
+					<l>1726</l>
+					<l>12 Gualtherus Zoutmaat, Proponent, beroepen</l>
+					<l>27 December, Bevestigt 16 Februarij</l>
+					<l>1727 is 1740 na Leijden Vertrokken, en </l>
+					<l>deed den 28 Maart 1790, zijn Vijftig Jarige</l>
+					<l>Leerreden als Leeraar in die Gemeinte</l>
+					<l>en is den 26 Maart 1793 aldaar Overleden</l>
+					<l>in de Ouderdom Van 89 Jaaren en ruim</l>
+					<l>8 Maanden, hebbende op Woensdag den</l>
+					<l>13 Maart in de Bedestonde, en op Zondag </l>
+					<l>den 17 dito noch het Evengelium Verkondigt;</l>
+					<l>in de Pieters Kerk, in welke hij voor</l>
+					<l>53 Jaaren Zijn intrede deed, hebbende toen</l>
+					<l>Juist ten Onderwerp, den laatsten</l>
+					<l>Zon</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Zondag, van de Heidelbergschen</l>
+					<l>Catechismus.</l>
+					<l>1740  13 Johannes Schardam, Proponent, beroepen</l>
+					<l>12 Junij, bevestigt 28 Augustus 1740 en</l>
+					<l>Overleden 6 October 1778.</l>
+					<l>1779</l>
+					<l>14 Jan Justinus Schadd. Beroepen</l>
+					<l>Van Limmen den 24 Maart, bevestigt</l>
+					<l>den 11 Julij 1779.</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>Nominatie</l>
+					<l>in Plaats van</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Henricus de Rantre</l>
+					<l>den 10 December 1726</l>
+					<l>Do<hi rend='superscript:true;'> </hi>Philippus de Roij Prop. te Amsterdam</l>
+					<l>Gualtherus Zoutmaat </l>
+					<l>Leijden</l>
+					<l>Hend<hi rend='superscript:true;'>k</hi> And<hi rend='superscript:true;'>r</hi> Tross ... Nimwegen</l>
+					<l>Laurentius de Haan</l>
+					<l>Amsterdam</l>
+					<l>den 27 dito Beroepen</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Gualtherus Zoutmaat</l>
+					<l>Bevestigt den 16 Februarij 1727. door</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Franciscus Fabritius S S. Theol Doct.</l>
+					<l>Prof &amp; Predikant te Leijden</l>
+					<l>met 1 Tim. 1:18,19</l>
+					<l>hebbende tot Zijn intrede</l>
+					<l>1 Cor 2:1,2.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Nominatie</l>
+					<l>in Plaats van</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Gualtherus Zoutmaat</l>
+					<l>den 30 Meij 1740.</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Johannes Schardam Prop. te Enkhuizen</l>
+					<l>Johannes Dusart Predik: te Ooij en</l>
+					<l>Persingen</l>
+					<l>Samuel Claver Prop te Alkmaar</l>
+					<l>Fredrik Smallenburg - Amsterdam</l>
+					<l>den 12 Junij Beroepen</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Johannes Schardam</l>
+					<l>Bevestigt den 28 Augustus door</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Johannes van Wena</l>
+					<l>Predik: te Andijk</l>
+					<l>met 2 Cor 2: 14,15,16</l>
+					<l>hebbende tot zijn intrede</l>
+					<l>Eph 6:19</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>Nominatie</l>
+					<l>in Plaats van</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Johannes Schardam</l>
+					<l>den 24 Maart 1779</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Jan Justinus Schadd Predik: te Limmen</l>
+					<l>Jacobus van Pellecom ... Castricum &amp;</l>
+					<l>Heemskerk.</l>
+					<l>Johannes Gibbes van der Bell</l>
+					<l>Santvoort</l>
+					<l>Johannes Sutter</l>
+					<l>Wijk aan Zee</l>
+					<l>D<hi rend='superscript:true;'>o</hi> Jan Justinus Schadd.</l>
+					<l>Predik: te Limmen</l>
+					<l>Bevestigt den 11 Julij door zijn Broeder</l>
+					<l></l>
+					<l>D<hi rend='superscript:true;'>o</hi> Johannes Henricus Schadd.</l>
+					<l>predikant te Hoorn</l>
+					<l>met Jes 40: 9,10</l>
+					<l>hebbende tot Zijn intrede</l>
+					<l>Coh 1:28</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>Order op het Schutten aan de Kolk</l>
+					<l>Sluis te Spaarndam</l>
+					<l>Zomers</l>
+					<l>&apos;Smorgens om 5 &amp; 9 Uuren</l>
+					<l>&apos;S nademiddags, Om 1 &amp; 5 Uuren</l>
+					<l>&apos;S Winters.</l>
+					<l>&apos;S morgens om 11 Uuren</l>
+					<l>&apos;S nademiddags om 3 Uuren</l>
+					<l>de Verandering begint, wanneer de </l>
+					<l>Zon om 6 uuren op en Onder gaat. </l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>De Auteuren hierin gebruikt zijn</l>
+					<l>De tegenwoordige Staat van Alle Volken</l>
+					<l>J: Wagenaar, beschrijving van Amsteldam</l>
+					<l>A: Pars, Katwijksche Oudheden</l>
+					<l>A. Moonen, Naamketen van Predikanten &amp;</l>
+					<l>Boekzalen.</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+		</body>
+	</text>
+</TEI>

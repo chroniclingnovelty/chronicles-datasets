@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1509_Zier_Anon - Een Zierikzeese kroniek (693-1473)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: sebastian</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>Een cleyn chronycke </l>
+					<l></l>
+					<l></l>
+					<l> Vm C XCIX A creatione mundi usque ad nativitatem Christi .</l>
+					<l>MCCCXL ab Adam usque ad dilivium .</l>
+					<l>IXc XLIIII a deluvio usque ad Abraham .</l>
+					<l>IIIm XV ab Abraham usque ad adventum Christi .</l>
+					<l>693 Erat primus episcopus Traiectensis .</l>
+					<l>792 Hedelijc die eerste grave van Vlanderen .</l>
+					<l>808 Dieryck die eerste grave te Hollant .</l>
+					<l>895 Huge Capyt woert conninck tot Varnckeryc .</l>
+					<l>1066 Willem die bastert wan Engelant .</l>
+					<l>1085 begaen die orden van die Catusers .</l>
+					<l>1099 wan Godewaert van Balgoennen Jorhuyselem .</l>
+					<l>1114 Die Tempelyers begonnen doe alre eerst .</l>
+					<l>1248 Willem van Hollant woart connync te Rome .</l>
+					<l>1304 was Zierixee belegen van den Vlamyngen .</l>
+					<l>1308 Die Tempellyers waerren verslagen .</l>
+					<l> Int jaer Ons Heeren als men begaen te scryven XIIIc ende XI vernyeude eerst Ons Heeren incarnacionem int waerlike recht opten Corssavont .</l>
+					<l>1319 Die feste began van den heylegen Sakermente .</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>1346 wan die conninck van Ingelant Kalis .</l>
+					<l>1349 gingen die geeszallen .</l>
+					<l>1350 was die stryt op Maze van der keyserynen .</l>
+					<l>1350 resen eerst die partyen van Kabelyaus ende Hoecx .</l>
+					<l>1355 vinc die prynsce van Waels den conninc van Vranckeryke by Potiers ende woerden  in Ingelant .</l>
+					<l>1396 was die stryt op die Vryesen .</l>
+					<l>1404 staerf hartoge Aelbrecht .</l>
+					<l>1408 was die stryt op die Luckenaers .</l>
+					<l>1412 was die hartoge van Orlegens verslagen .</l>
+					<l>1414 was den groten brant tot Zierixee.</l>
+					<l>1415 was den stryt te Blangys. Daer worden verslagen lansheeren ende rydders VI dusent .</l>
+					<l>1416 staerf hartoge Willem van Hollant .</l>
+					<l>1417 wort Paerys gewonnen van hartoge Jan van Bergongen .</l>
+					<l>1418 waren die lieden van Dordret voer Zierixee .</l>
+					<l>1419 was hartoge Jan van Boergongen verslagen .</l>
+					<l>1423 staerf hartoge Reynout van Gelre .</l>
+					<l>1424 doe gync Zuythollant in .</l>
+					<l>1425 staerf hartoge Jan van Beyren .</l>
+					<l>1426 was die stryt tot Brouwershavene .</l>
+					<l>1427 wort Zevenbarghe ghewonen .</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>1429 was men voer Oerlygens. Doe res die macht  ende connick Heynryck van Ingelant was ghecront connick tot Parys .</l>
+					<l> 1430 wart hartoge Philips hartoge van Brabant .</l>
+					<l>1433 wort dieselve heere  tot Hollant .</l>
+					<l>Ende doe wort gheboren die grave van Cerloys, te weten Karle van Bergongen .</l>
+					<l>1436 waren die Vlamyngen voer Kalys .</l>
+					<l>Ende doe starf vrouwe Jacob  van Hollant .</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l>1437 was die hartoge te Brugge . Doe was die grote dyertyt .</l>
+					<l>1438 was die grote steerfte .</l>
+					<l>1446 was een hoge  wloet op den Palmesondach, den Xden dach in aperellys .</l>
+					<l>1449 was die aertbeveynge tot Zierixee op sint Jorysdach .</l>
+					<l>1452 was die orloge van Gent .</l>
+					<l>1454 stat graf Karle  vierscare in Zeelant als outste sone van Hollant .</l>
+					<l>1454 was den torne ghevondert tot Zierixee .</l>
+					<l> .</l>
+					<l>1456 wort Davyt bastart van Borgongen buyssop tot Wttrecht .</l>
+					<l> .</l>
+					<l> .</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l> .</l>
+					<l>1458 waren in jannewario III  coude dagen, te weten den XXII, XXIII ende XXIIIIen dach, soe dat die arbeyders hoer nagelen van hoeren handen of vroesen. Ende doe lach die vrouwe van Carloys van een dochter .</l>
+					<l>1460 Van den XIsten dach feberuario vroost  tot den Xsten dach marcy ende men lyep  over Gouwe  ende het doyde sonder snee, sturm, hagel ende reeyn.</l>
+					<l>1464 was een groete drochte  ende men cochte om eenen Ingelsche nobel wyf zeef  tarwen .</l>
+					<l>Ende op synte Matheusdach  was die meeste wynt die oyt man belevede, dat binnen der stede van Zierixee meer dan C schoersteenen omme woygen  ende veel huysen ende in den lande van Scouwen wel XV molen  ende bedorven wel  grote scepen ende menschen binnen den lande daer zy op die reede lagen an hoer ancker .</l>
+					<l> 1465 began binnen die Karsdagen een grote coude soe dattet vroos  dat men bier met sleden uut Hollant brochte  tot Remmeerzuale  ende in Zuyt Bevelant brochte ende weel steden in Brabant hadden groet ghebreeck. Ende der sturwen weel beesten  van honger ende men want des someers niet veel goors .</l>
+					<l>1465  .</l>
+					<l>1466 wan dieselve grave Dynant ende dysterwerde  die stede ende alle dat lant .</l>
+					<l>Ende doe barnde die Monsterkarcke tot Zierixee .</l>
+					<l>1467 staeerf hartoge Phipils  van Bergongen .</l>
+					<l>Ende doe wan hartoge Kaerle  die stede van Luyck ende dat gheheel lant verdesterwerde  hy ende voerde den paeroen  tot Bruggen .</l>
+					<l>1468 was ghehult op sinte Maercusdach  Carlo voers . tot Zierixee als grave  op den Borndaemsendyck  .</l>
+					<l>Ende doe troude dieselve Carlo tshertogen dochter van Jurick ende die staet ende feeste was tot Brugge  ghehouden. Synt Godts gheboert en was noyt dyes gelycke ghesyen .</l>
+					<l>Ende doe toch hartoge Karle jegens die connick van Vranckeryc. Ende zy worden</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l> verenycht ende die connyck quam met hem voer die stede van Luyck , die zy dysterwerden  ende branden die karckken ende cloesteren ende abdyen .</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>1468 Op synte Orsselen avont  wast een die meeste vloet die oyte man  beleefde, met cleeynen wynde. Ende vergingen  meer dan hondert polderen ende nywee  bedickte landen in Vlanderen, in Brabant, in Hollant, Zeelant, int tSycht  ende Gelderlant .</l>
+					<l>1469 began die vorst op sinte Barberen avont , ende vros  over half maerte toe. Ende stuerven veele beesten van ghebreken , want die luyden gheen worrye  en hadden te gheven.</l>
+					<l>Item doe wort connyck Eeduwaert verdreven uut Ingelant  ende weert onthouden in Hollant .</l>
+					<l> 1469 wort dat gherechte vernyewt tot Zierixee op den Witten Donderdach , dat jegen prevelygien ende hantwesten van der stede was . Ende dat gherechte souden zyn een jaer, maer zy gyngen ter stont ende vercochten veel lyfrenten ende seyden voer die ghemeente dat zy drapeneren ende brauwen soude met den pennygen . Mar zy worden anders beraden, alsoe dat zy dat scepenendom cochten met die pennygen voors. drie jaer lanc scepenen te wesen ende coste drie dusent rynsse gulden . Ende die twalven  des ghelyke 418 lb. 16 s. 8 gr .</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l> .</l>
+					<l>1470 XVII dagen novembry  staeerf heer Vrancke van Borselen, grave van Oostervant .</l>
+					<l>1471 toch dieselve  connick  wederomme in Ingelant den elfsten dach in maerte , ende eer Pynchsteren daerna was hy gheweldich  conninck. Ende hadde ghewonnen veel staende stryden, daer versleghen waren connick Heynryc  ende syn zoen ende LII hartogen, aertsbuysscopen ende graven .</l>
+					<l>Item doe was een groete drochte in den zomer ende was  staeerfte over alle die ganse waerlt . Ende die beesten sturwen van drochten om dat daer gheen water te crygen en was. Ende dat witte coren  was wan den velde voer oeste  ende men dranck over al Hollant ende Zeelant nyeuwen rynsscen most op den eersten dach van september. Ende dat bier van Deelft was alsoe sout dat ment qualyck dryncken mochte . Ende ten wrooes van alle die winter noyt ende het vyel weynich waters  {problem} .</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l>1472 Ende den eersten dach van janvario was ghesyen een commete streckende nae tzuytoeste op den dartichsten dach derselver maent.  .</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l> Anno XIIIICLXXII wort den torne opt ghasthuys vergult .</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>1472 des vrydachs na sinte Martynsdach  viel den oplop tot Zierixee ende wort verslagen Machgyel van Heenvlit  ende heer Clays Symonss. pryester  ende wort ten weyster  uut gheworpen up der stede huys, in weelcken zaken dat men someeghe personen groet ten tycht  in gave.  Ende doe woude die heere van Bourgongen die stede verdorven hebben, twelke die heer van Ravesteyn  met veel edelen gheholpen heeft dat dat met wysheden verby gheset  voert . Ende daer warter IX den hals off gheslagen. Mar die van Myddelbourch ende meer ander en deden der stede nyet vel behulps. Ende die heere van Bourgongen die quam met veel wolcx bynnen der stede van Zierixee daer die ghemeente zeere of bedunghen  waren. Nochtans costet die stede 2300 lb. gr .</l>
+					<l>1473 toch die heere van Bourgongen te Broeselen den IIIten dach in marten ende nam met hem uut der stede van Zierixee XXIIII manne die hem belyeefde ende leydese te gysele in die stat van Brucelen. Ende zy lagen daer VII weken lanck. Ende vridage voer 1473 wort een uutsprake ghedaen by den cansselyer  dat die stede van Zierixee soude beteren 30 dusent Rynsse gulden ende 1200 cronen voer die doden ende een cruyce maken voer der stede huys, behouden die partyen hoers rechts op denghenen daer zyt op brengen mochten met rechte. Nochtans moesten alle die prevelegyn ende hantwesten in zynen handen ghelevert vorden van der stede voers. ende alle die dooeren van den poerten van der stede moesten uut den hangen wesen  ende der worter noch drye gerecht .</l>
+					<l>Anno voers. was die meeste drochte die oyt man beleefde . Want alle cruyden  bedorwen van drochte ende die wateren stoncken ende die hitte soe groet dat vele arbeyders sturwen van hitten . Ende alle vruchten waren ghelyck voer haer tyt . Ende men dranc nyewen most op den eersten dach van september overal. Ende &apos;t en regende nye  van meye tot Bamysse  toe . Men winc meer dan dusent carpers int lant van Schouwen .</l>
+					<l>Anno voers. wan die hartoge van Bourgongen Gelderlant. Ende die van Nymmagen moesten alle haer angyn  ende harnas bryngen in tsereenen  handen . Ende sy en mochten niet achter dien dach dragen een mees dat een noort  hadde. Ende  ghevangen Carle, tsaertogen zon van Gelre, die out was omtreent VIII jaer , ende Catryne zyn suster, ende voer zee te Gent . Ende scattede dat lant van Gelderen zeere, ende zy moesten synte Andryescruyce op haer cleederen dragen .</l>
+					<l> 1469 was die stede van Zierixee schuldich van lyfpencien 2600 ende 6 nobelen, gerekent 7 s. 6 gr. voer eelken nobel. Ende men gaf van asyse  den bras  14 gr. ende die tappers 18 gr. Ende dat scepenendom was zeere benyt  van den twaelven ende hoeftdekens  ende dat omme dat die yustycie soe kranckelyc gheschyede alsoe dat daer eenen grooten roopen onder die ghemeente quam ende ryepen met groeter meenychte omme dat gherechte wernyeut te hebben . Dat welke die stede in groten cost ende schade ghebrocht heeft, want die manyere van doen nyet goet en ware, ghemarct dat die prevelegen daermede te buyten gedaen wordden, dat zeere te beclagen is. Want synt dien tyt tot noch toe gheen goede manyeren ghehouden en zyn als vaer by die ghemeen ingeseten zeer bezwaert zyn, twelke God verhoeden weyl dat dat nyet meer en ghescye toe comende. Ende overmyts die duwalynge voers. ende dat dat regement doe verandert was, soe maecte zy binnen vier jaren dat zy schuldich waren van lyfpencie</l>
+					<l></l>
+					<l></l>
+					<l></l>
+					<l> 5800 nobelen. Ende op den Xsten dach van september anno LXXIII was die asys geset op 15 stuvers tvat ende 6 gr. van calyote . Ende den ghemeenen roep was omme dat nyeuwe recht, twelke dat zeer quaet was hoewel dat dat nochtans van grote noode was ghemaerct dat groete gebreck van yusstycien om dat te rmeederyeren  dat voers. staet. Soe hebben zy groete costen ghedaen. Maer hadden de voers. personen dit wel over ghemarct, zy soudent met beter manyeren hebben moeghen doen. Want doe zy desen weech ghyngen mochten zy wel dencken dat ander luyden dat na doen souden. Ende hadden zy eenen anderen weech ghegaen, dat is hadden zy hartoge Karle selve binnen der stede van Zierixee ghebrocht, daer en hadde nyet anghelegen wattet gecost hadde want die prevelegye hadden daermede onderhouden gebleven. Ende nu en is daer nymmer meer ende an ten zy dat ment weder opt oude brengen mochte. Want men wint altos lyen  die wylle hebben willen daer die stede mee comt tot grootten costen, dat zeer te beclagen is.</l>
+					<l>  Item int jaer XVcIX was een groete vloet op Cosmos ende Dameyaens avent , die groete csade  dede in die soutkeeten gyent in Stavennysse ende Moegger hyl.</l>
+					<l> Item int jaer XVc elve was een die meeste vloet daes na synte Lucyendach die was synt die qua Palme sondach , dat daer due in gynge veel coerne lande, daer grote scade ghescyede .</l>
+					<l> Item int jaer XVc XVI op den tweeden Koorsdach was een die meeste vloet die yeman belevede. Due gync in den oestmoer op Tylle ende synte Onccomemere polder, Steenbarghe ende Buerch ambocht .</l>
+					<l> Den Ven in november zoe was de meeste vloet die oyt was, dat was anno XVc XXXIX. Doeen ginghen vele dyversse polders in Scowen, Walgeren, Duvelant, Zut Bevelant, Borssele, Nort Bevelant ende vorts heel Zeelant sonder  Wolfaert dicke ende Drysser, Sonemair ende Dierixlant . Dat al groet jamer was ende verdryet.</l>
+					<l></l>
+					<l>Bron: Handschrift A: R.A. Zeeland, Handschriftenverzameling nr. 1142, f. 102v-105 (oude foliëring 107v-110) en 117; Handschrift B: Streekarchivariaat Schouwen-Duiveland en Sint Philipsland, G.A. Zierikzee, Oud-archief van de stad, Voorbodenboek (oud-archief voorl. nr. 117), f. 192-194v; Handschrift C: R.A. Zeeland, Handschriftenverzameling nr. 1139, p. 361-376.</l>
+					<l></l>
+					<l>Bijlage 1</l>
+					<l></l>
+					<l>31 maart 1467. - Zierikzee schrijft aan Gouda over het herstel van de afgebrande St. Lievensmonsterkerk. De stad verzoekt aannemers te sturen (of attent te worden gemaakt op andere deskundige aannemers) voor het bijwonen van een bijeenkomst, waarop men zich zal beraden over het herstel.</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l> </l>
+					<l></l>
+					<l> Eerbaren voirsienigen ende wijsen burgermeesteren ende scepenen der goeder stad van der Goude, onsen lieven ende specialen vrienden.</l>
+					<l></l>
+					<l> </l>
+					<l></l>
+					<l>Eerbaire voirsienige ende wijse lieve ende zeere geminde. Wij gebieden ons zeer tuwaert. Ende u gelieve te wetene hoe dat wij zeere belast zijn met onser kercken, diewelke al verbrant is dat God beteren moet, gelijcke dat wel tuwer kennissen gecommen is als wij deyncken. Soe ist dat wij u vriendelijcke bidden ende aen u begheerende sijn dat ghij ter lieften van God van hemelrijc ende van onswilt bij ons schicken ende seynden uwer stede meesters van den wercke der metselryen. Ende waert dat ghij eenighe notabele wist buyten uwer voirs. stede, hem des wael verstaende, dat ghij die oec bij ons zeynden wilt op in donredaege na Quasimodo naestcomende , omme dat wij met hemluyden ende met anderen mogen spreken ende beraden hoe men best die metselrye derselver kercken mach houden staende ende die voort te repareerene ten meesten oirboere ende proffijte derselver onser kercken. Ende wij zullen hemluyden hoeren cost wel betalen. Eerbare voersienige ende wijse lieve ende zeere geminde, ons wederomme niet sparende in gelijcken oft meerderen saken. Dat kenne God Almachtich die u bewaeren moet.</l>
+					<l></l>
+					<l>Gescreven onder onser stat zegel van saicken opten lesten dach van maerte int jair van LXVII.</l>
+					<l></l>
+					<l>Die stede van Zierixee</l>
+					<l></l>
+					<l> </l>
+					<l></l>
+					<l>- Orig.: G.A. Gouda, Oud-stadsarchief nr. 143.</l>
+					<l></l>
+					<l>Bijlage 2</l>
+					<l></l>
+					<l>Verslag van de gebeurtenissen in Zierikzee in de jaren 1469-1473 volgens de versie B van de kroniek, alsmede de tekst van een brief van Jacob Oelesz., baljuw van Zierikzee, aan mr. Jan van Halewijn, raadsheer in het Hof van Holland.</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l> </l>
+					<l></l>
+					<l> Van den grouwelicken oploop ende beroerte geschiedt binnen der stede Ziericxzee anno 1472.</l>
+					<l></l>
+					<l>In &apos;t jaer Onses Heeren duysent vier hondert tweentzeventich was die stede van Ziericxzee schuldich van lijfpensien de zomme van 2600 ende 6 nobelen, 7 s. 6 gr. voor elcke nobel gerekent. Ende gaff van accijsen den brasser of brouwer 14 gr. van de vate ende die tappers 17 gr. Ende dat schependom was zeer benijdt ende gehaedt van den twaelven ende van die hooftdekens. Ende die Houckx partije met den twaelven ende hooftdekens voors. maeckeden roepers  op dat gerechte, daer een genaemt Pier Kaecke hooftman aff was ende die prior van den Jacobpijnen broeders, Heijndrick Rootstock, ende die gemeene Minrebroeders. Ende den roup was om nieuw licht. Te voren was &apos;t gerechte van Ziericxzee vernieut op den Witten Donderdagh  (gelijck in eenen alzulcken staet alle dinck onordentelijck toegaet) tegen die privilegien ende handtvesten derzelver stede. Ende die Houckx partije gecregen dat regiment ende zouden blijven een jaer. Maer &apos;t regiment hebbende gingen zij terstondt ende vercochten veel lijfpensien ende maecten die gemeene poorters diets dat zij &apos;t gelt gefurniert hadden omdat zij daermede draperije ende brouwerien zouden doen. Maer als zij &apos;t geldt hadden, zoo cochten zij haerzelven drie jaer lanck schepenen te wezen met der stede gelt, ende gaven daeromme 3.000 Rinsche guldens. Ende die twaelfve gaven om drie jaer twaelve te blijven van der stede gelt 1444 guldens 16 s. 4 gr. Ende zij maeckeden&apos;t zoo binnen dese vier jaeren dat die stede nu schuldich was 5800 nobelen. Ende zij regierden tot den jaere van LXXIII.</l>
+					<l></l>
+					<l>In dese beroerte, onder vele andere misbrijcken ende onbehoorlicheden, worde verslagen ende leelick omgebracht Michiel van Heemvliet ende heer Claes Simonsz. priester, ende worden te veijnsteren van de weescamer op der stadthuijs van boven uuijt geworpen. In welcke zaecke Heijndrijck Jansz., Jan Jan Hobicxz. ende Jan van Noortgouwen met meer anderen van haeren partije ticht hadden.</l>
+					<l></l>
+					<l>Chaerll hertoge van Bourgongen quam met wreede moede met veel volckx vanwapenen, die veel overlast in de stede van Ziericxzee deden, om dezelve stadt te destrueren te viere ende te brande, twelck die edele heeren van Ravesteijn met vele edelen uuijt bedinge  van den Cabbeljaus partije die zijn vrienden waeren ende die zaecke zeer leedt was, als dattet met wijsheden ende met hulpe van den heeren voors. onsen genadigen heere zoo informeerden dat hij een vrede geset heeft. Maer het costede die stadt nochtans drijentwintich hondert £ grooten Vlaems. Ende die heere van Ravesteijn beginck cleijnen danck van de Houckx die noch &apos;t regiment van der stadt hadden. Men deder XII den hals affhouden op die Gasthuijsbrugge. Ende die van Middelburgh met haeren bailliou Claes Jansz.  genaemt verblijden hen zeere om deser stede qualick varen. Jacob Oelesz. was doen ter tijt bailliou van Ziericxzee  gelijck men lichtelijck mercken ende bevinden zal bij de copie van een missive bij den voors. bailliou gezonden aen mr. Jan Haelwijn ende die van den Raede in Hollandt etc., denwelcke corts hiernaer bijgevought zal worden.</l>
+					<l></l>
+					<l>Die heere van Bourgoingien tooch den derden dach martii na Brussele ende nam uuijt deser stede van Ziericxzee XXIIII mannen die notabelste van der stede ende hij voer dese voor hem te gijsele in de stadt van Brussele. Ende zij lagen daer zeven weken lanck. Ende svrijdaechs voor Palmesondage wert er een uuijtspraecke gedaen bij den cancelier dat die stede zoude beteren ende zoude opbringen 30.000 Rinsche guldens mijn genadighe heere ende zouden hem leveren in zijnen handen alle haere hantvesten ende privilegien van der stede, ende zoude alle die dueren van der poorten nederleggen. Ende zoude noch gelden voor die dooden 1200 goude croonen ende een cruijce maecken voor der stede huijs, behouden partije haers rechts daer zij &apos;t opbringen mogen met rechte. Ende doen worden die Cabbeljaus  in &apos;t rechte geset. Ende zij moesten reeden  ende effenen dat die Houckx verwarret hadden. Ende den accijs wordt geset op 15 stuvers &apos;t vat ende 3 stuvers van calliooten. Ende was al quaet bier. Ende die daer te voren geroepen hadden om nieu licht mochten beter bij doncker te bedde ghegaen hebben, want dese warnissen esser ons aff gecommen, dat ick mij beduchte dat die stede in veel jaeren niet verwinnen en zal, want zij noch niet aff en laeten dat schade ende schande es dat men &apos;t laet geschien.</l>
+					<l></l>
+					<l> Opschrift: Copie van een missive van Jacob Oelesz., bailliou der stede van Ziericxzee, die hy screeff aen mr. Jan Haelwyn ende die van den Raede in Hollant ter tydt van de voorscreven commotie ende beroerte anno 1472.</l>
+					<l></l>
+					<l>Edele, wyse, mogende heeren. Uwe mogentheden believen te weten dat ick moet de landteelingen doen ende mijn lant van mij gebruijcken moet zijn, zoe moet ick dicwijl daer in &apos;t lant wezen ende daer zoe blijven omme mijn goedt te regieren. Ende aldus zoe heb ick geweest vyff of zes daghen bij mijn goedt uuijt der stede. Ende zoo ist gebuert dat ick nu in vrijdaghe lestleden  door Duvelandt gereijst ben ontrent II of III uren na die middach omme over Goude vere  te trecken binnen der stede van Ziericxzee zonder ijet dan goedt te weten, daer mij in Duvelandt op &apos;t vere geseijt worden dat ick niet over trecken zoude in de stede, want die stede of die gemeente waeren in grooten rumoeren. Niet te min tooch noch over aen &apos;t ander landt omme binnen der stede te gaene, hopende ende meijnende dat beste ende goedt te doene. Ende als ick over &apos;t landt quam omme binnen te gaen, zoe worde ick gewaerschout dat ick binnen der stede niet commen zoude, maer wederomme trecken alzoo lieff als ick mijn lijff hadde. Wandt Michiel van Heenvliet ende heer Claes Simonsz. waeren doot ende van der stathuijs geworpen, daer Godt die zielen af ontfermen wil. Ende Heijndrijck Jansz. den schout in grooter vreesen stoet nedergeslagen ende smarte ontfanghen ende des gelijcke eenighe van den gerechte ende raede der stede voornoemt. Ende aldaer zoo keere ick wederomme met grooter vreese van mijnen lijfve ende en dorde  in de stede niet commen als ick noch en doe, want mij die waerschouwinge met waerachticheden geschiet  ende gedaen werdt.</l>
+					<l></l>
+					<l>Ende uuijt blijvende ende wezende, zoe en verneme ick niet anders dan die stede in grooter dwaelinge blijft staende van den rumoermaeckers. Want als mij geseijt wort ende ick verstaen mach, zoo willen zij hebben van der gerechte ende raede dat men henluijden verantwoorden zoude ende dat dese settinge  te niete te wezen zoude ende niet weder opcommen, op welcke (als men mij zeijt) niet inne gedaen en mach worden tot bedwangen van den quaetdoenders ende tot sterckenisse der rechtvaericheijt ende redenen. Ende alzoo ick een onvermogende persoon ben tot deser offitie , hoewel mij die burgemeesters met den geheelen raede der stede daertoe verordineerden, des ick grootelijck up die tijt weijgerende was ende mijn cleijnicheijt ende onmogentheijt henluijden te kennen gaff. Bovendien zoo hebben zij mijn genadige heere gepresenteert in der offitie, des ick noode aennam, als allen den gerechte ende rade kennelijck es ende was. Ende bij desen u te kennen gevende dat ick niet machtich noch mogende ben de zaecken ende der offitie te regieren in den staete ende gelegentheijt daer die stede nu inne es. Ende want ick mij mede beduchtende ben dat zij mij zouden willen opleggen dat ick hen loftichte of bezegeltheijt  doen zoude, die niet redelijck en waere als zij den anderen gedaen hebben in de vreese ende noch doen alzoo men zeijt, soo en derf ick noch niet in de stede commen.</l>
+					<l></l>
+					<l>Ende overmits dat ick cleijn van wijsheden, arm ende niet mogende ben dese saecken te regieren als voors. staet, daeromme onderdanichlijck ende ootmoedelijck uwer vromer wijsheden biddende hierinne desen te voirsiene als uwe wijsheden goedtduncken zal, mijn zelver onderdanichlijck presenterende ende gebiedende bij uwen rade ende goedtduncken daerinne te doen ende te beschicken als een armen dienaer ende goedtwillich ondersate in dat mogelijck es te doen tot onderdanicheijt van mijnen genadigen heere, ende u mogenden heeren van den Raede ende edele mogende heeren of ick eenighe vermach, daer weet mij als uwe goedtwillige dienaer toe bereijt. Dat kenne Godt Almachtich, die uwe edele mogentheijt bewaeren wille lancklevich ende gesont.</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>Geschreven maendaghs voor sinte Caterijnendach  anno 1472 of M.IIIIc.LXXII in &apos;t nieuwelant van Duvelant. Onder stondt geschreven Jacob Oelesz. bailliou tot Ziericxzee, uwe onderdanigen dienre.  &apos;T opschrift  was: Eedelen mogenden ende voerzienigen heeren mr. Jan Haelwijn, raedt mijnen geduchtichs heeren, ende aen de heeren van den Rade in Hollandt, mijnen lieven ende welgeminden heeren.</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>

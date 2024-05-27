@@ -1,0 +1,2086 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1675_Gent_Cler - Chronijcke ofte Cort Verhael van de principaelste Gheschiedenissen</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>Costuymen In den</l>
+					<l>lande van aelst</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>Chronijcke</l>
+					<l>Ofte</l>
+					<l>Cort Verhael</l>
+					<l>van de</l>
+					<l>principaelste</l>
+					<l>Gheschiedenissen</l>
+					<l>die t&apos;sedert</l>
+					<l>Christus</l>
+					<l>gheboorte</l>
+					<l>Voorghevallen sijn, tot Desen</l>
+					<l>teghenwoordighen, iaere toe.</l>
+					<l>A</l>
+					<l>Jove</l>
+					<l>principium.</l>
+					<l>J: Adolphus De Clercq.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1</l>
+					<l>Int iaer 1. is onsen heere Jesus gheboren</l>
+					<l>uijt de heijlige maeghet Maria in bethleem.</l>
+					<l>den derthiensten dach quaemen de drij Coningen</l>
+					<l>uijt den oosten om Jesus te aenbidden.</l>
+					<l>in tselve iaer dede herodes dooden al de</l>
+					<l>kinderkens tot bethleem.</l>
+					<l>Jesus twaelf iaeren audt sijnde is gevonden</l>
+					<l>in den tempel onder de doctoren.</l>
+					<l>int iaer 30 liet hem Jesus doopen van</l>
+					<l>Joannes in de Jordane.</l>
+					<l>t&apos;iaer 33 wiert onsen heere Jesus om onse</l>
+					<l>misdaeden gecruijst, ende gedoodt onder pontio pilatus.</l>
+					<l>t&apos;iaer 42 heeft pilatus sijn selven gedoodt.</l>
+					<l>in t&apos;iaer 70 sijn de apostelen petrus ende paulus</l>
+					<l>onder den keijser Nero gedoodt voor den naem</l>
+					<l>Christi.</l>
+					<l>int&apos;iaer 191 leefde den gheleerden Origines</l>
+					<l>int&apos;iaer 235 heeft geregneert den keijser</l>
+					<l>philippus, die men seght den eersten Christen</l>
+					<l>keijser geweest te hebben.</l>
+					<l>int&apos;iaer 420 is ferdinandus eersten Coninck</l>
+					<l>van vranckerijck gecroondt.</l>
+					<l>t&apos;iaer 592 is Mahomet den valsschen</l>
+					<l>propheet gheboren.</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>t&apos;iaer 630 heeft liderick den eersten vorst</l>
+					<l>gheweest in vlaenderen.</l>
+					<l>t&apos;iaer 632 is te Gendt gestorven s:<hi rend='superscript:true;'>t</hi> bavo</l>
+					<l>erfgenaem van den prince van Austrasien.</l>
+					<l>t&apos;iaer 634 is s:<hi rend='superscript:true;'>t</hi> lieven bij essche van de</l>
+					<l>ongeloovighe ghetijranniseert.</l>
+					<l>t&apos;iaer 661 is gestorven s:<hi rend='superscript:true;'>t</hi> Amand, apostel</l>
+					<l>van vlaenderen</l>
+					<l>t&apos;iaer 851 is s:<hi rend='superscript:true;'>t</hi> Jan bap:<hi rend='superscript:true;'>te</hi> kerck tot</l>
+					<l>Ghendt gesticht bij Eduaert Graeve van vlaenderen.</l>
+					<l>t&apos;iaer 996 sijn de seven Cheurvorsten ingestelt.</l>
+					<l>In t&apos;iaer 1099 is Jerusalem door de Christenen</l>
+					<l>ghewonnen, ende Goddefroij van bouillion den</l>
+					<l>eersten Coninck der selver ghecosen.</l>
+					<l>t&apos;iaer 1124 is Carolus graeve van vlaenderen</l>
+					<l>in s:<hi rend='superscript:true;'>t</hi> Donaes kercke tot brugghe van sommighe</l>
+					<l>edelieden vermoordt.</l>
+					<l>t&apos;iaer 1344 crijghen de Brabanders de gulde</l>
+					<l>bulle van Carolus den iiij:<hi rend='superscript:true;'>en</hi>.</l>
+					<l>t&apos;iaer 1370 geschiede het schoon mirakel tot</l>
+					<l>brussel, aen het hooghweerdich heijlich sacrament,</l>
+					<l>#at daer in het Goedele kercke geeert wort.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>2</l>
+					<l>t&apos;iaer 1375 ist Casteel van vilvoorden</l>
+					<l>ghebaudt door wenceslaus hertoch.</l>
+					<l>t&apos;iaer 1376 hebben de venetiaenen eerst het</l>
+					<l>grof gheschut ghebruijckt tegen de Genevoisen.</l>
+					<l>t&apos;iaer 1399 Tamerlan verslaet 20000 turcken</l>
+					<l>den grooten turck gevanghen ende in eene ijsere</l>
+					<l>kevie gheset.</l>
+					<l>t&apos;iaer 1426 wiert de eerste lesse in de</l>
+					<l>universiteijt van loven ghedaen.</l>
+					<l>t&apos;iaer 1442 is door Joannes faustus te</l>
+					<l>mens in duijtslandt de konste ghevonden</l>
+					<l>om boucken te drucken, ende wiert int iaer</l>
+					<l>1458 te roomen ghebrocht, alwaer den eersten</l>
+					<l>bouck die gedruckt wierdt, is geweest dien</l>
+					<l>van den heijlighen Augustinus de Civitate</l>
+					<l>Dei I.  De eerste roers en Musquetten sijn in</l>
+					<l>desen thijdt door eenen duijtschen Augustijn broeder</l>
+					<l>gemaeckt geweest.</l>
+					<l>t&apos;iaer 1453 den 27:<hi rend='superscript:true;'>en</hi> meije is Constantinopelen</l>
+					<l>van de ongeloovighe overweldicht, ende schroomelijck</l>
+					<l>gehandelt ende gheschendt: Constantinus keijser</l>
+					<l>der Griecken wiert daer ghevanghen ende</l>
+					<l>onthooft.</l>
+					<l>t&apos;iaer 1479 is tot brugghe geboren philippus,</l>
+					<l>naermaels Coninck van spaingnien, ende in t&apos;iaer</l>
+					<l>1480 sijne suster Margareta.</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>t&apos;iaer 1495 traude Margareta van oostenrijc</l>
+					<l>philippus den sone des Conincx van spaingnen,</l>
+					<l>daer door de nederlanden ende spaingnien aen</l>
+					<l>malckanderen ghekommin sijn.</l>
+					<l>t&apos;iaer 1498 ende 1499 viel den turckschen</l>
+					<l>keijser baiazeth op de venetianen, veroverde</l>
+					<l>geheel Dalmatien, ende de eijlanden Methon ende</l>
+					<l>Ooron, verbrande alles in friaul, ende liet 4000</l>
+					<l>Christene ghevanghenen, die hij over het waeter</l>
+					<l>niet brenghen Conde, erbermelijck nedersabelen.</l>
+					<l>Chronijcke</l>
+					<l>Van</l>
+					<l>al het gene datter gepasseert is</l>
+					<l>tsedert den iaere 1500,</l>
+					<l>tot desen Jaere toe.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>3</l>
+					<l>Anno 1500 den 25:<hi rend='superscript:true;'>en</hi> febru: op s:<hi rend='superscript:true;'>te</hi> mathijs</l>
+					<l>dach, wesende het schrickeliaer, is tot Ghendt</l>
+					<l>geboren Carolus den v:<hi rend='superscript:true;'>en</hi>, ende met groote ende</l>
+					<l>noidt ghehoorde pracht gedoopt in de kercke</l>
+					<l>van s:<hi rend='superscript:true;'>t</hi> Jan binnen deselve stede door den</l>
+					<l>biscop van Doornick. die van Ghendt hebben</l>
+					<l>alsdan om desen nieugeboren prince opgeoffert</l>
+					<l>een schip van massif silver, weghende vijftich</l>
+					<l>pondt swaer.</l>
+					<l>1501 den 18 iulii is tot brussel gheboren</l>
+					<l>Isabella voornomdens Caroli suster, die daer naer</l>
+					<l>getraut is geweest met den Coninck van denemarcken</l>
+					<l>in t&apos;selve iaer reijst den aertshertoch philippus</l>
+					<l>vaeder van den keijser Carel met sijne huijsvrauwe</l>
+					<l>Joanna ferdinandi den Coninch van Arragonien</l>
+					<l>dochter naer spaignien, ende wort aldaer het</l>
+					<l>iaer daernaer eenen sone geboren genoempt</l>
+					<l>ferdinandus, naermaels keijser van duijtslandt.</l>
+					<l>1503 - is den aertshertoch philippus uijt spaignien</l>
+					<l>wedergekeert in nederlandt, ende den 6 9<hi rend='superscript:true;'>bris</hi> gekommen</l>
+					<l>tot Mechelen, daer en tusschen sterft binnen spaignien</l>
+					<l>sijne schoonmoeder Elisabeth huijsvrauwe van den</l>
+					<l>Coninck ferdinandus van Arragonien, waer door</l>
+					<l>sijne huijsvrauwe Joanna erfgenaem wort van</l>
+					<l>het selve rijck, door dien dat haer broeder ferdinandus</l>
+					<l>eenighen thijdt te vooren gestorven was.</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>1504 sijn in diversche universiteijten gefondeert</l>
+					<l>de Collegien van standonck, alwaer diversche aerme</l>
+					<l>studenten ten tijde van haere studien onderhauden worden.</l>
+					<l>1505 haudt den aertshertoch philippus binnen</l>
+					<l>brussel in de kercke van s:<hi rend='superscript:true;'>te</hi> Goedele de solemnele</l>
+					<l>uijtvaert van sijne schoonmoeder Elisabeth Coni¬</l>
+					<l>nghinne van spaignien, ende wort aldaer ten selven</l>
+					<l>thijdt met sijne huijsvrauwe genaempt ende gehuldt</l>
+					<l>als Coninck van spaignien, welcken titel hij als doen</l>
+					<l>aenveerdt heeft.</l>
+					<l>in t selve iaer wort geboren tot brussel de</l>
+					<l>dochter van Coninck philippus, genaempt Maria.</l>
+					<l>1506 den 10:<hi rend='superscript:true;'>en</hi> ian: vaert Coninck philippus af</l>
+					<l>van Middelburch in zeelandt naer spaignien: maer</l>
+					<l>wort gedwonghen door tempeest de kusten van</l>
+					<l>Ingelandt te kiesen, alwaer hij vande koninck</l>
+					<l>henricus den vij:<hi rend='superscript:true;'>en</hi> nevens sijne huijsvrauwe</l>
+					<l>magnifiecq naer sijne Coninghlijcke conditien</l>
+					<l>wort onthaelt, ende verheert met het ordre van</l>
+					<l>den Causenbandt. ende naer ontrent de drij maenden</l>
+					<l>binnen ingelandt stil geweest te sijn, is den 27:<hi rend='superscript:true;'>en</hi></l>
+					<l>van april van daer afgevaeren, ende gearriveert</l>
+					<l>corts daer naer geluckichlijck binnen spaignien.</l>
+					<l>den 26:<hi rend='superscript:true;'>en</hi> 7:<hi rend='superscript:true;'>bris</hi> sterft Coninck philippus; den</l>
+					<l>eersten van dien naem, binnen bourges, audt 28:<hi rend='superscript:true;'>en</hi></l>
+					<l>iaeren, laetende sijne huijsvrauwe Joanna swanger</l>
+					<l>die daer naer gebaert heeft eene dochter die genoempt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>4</l>
+					<l>wiert Catharina. het hert van philippus is tot</l>
+					<l>brugghe begraeven in het graf van sijne moeder</l>
+					<l>Maria van borgondien.</l>
+					<l>1507 den 2:<hi rend='superscript:true;'>en</hi> april is te tours in vranckerijck</l>
+					<l>gestorven franciscus de padua, instelder der</l>
+					<l>ordre van de minimen.</l>
+					<l>in dit iaer arriveren de eerste zeeusche schepen</l>
+					<l>uijt Canarien in neerlandt, waer door het canarie</l>
+					<l>suijcker quaelijck twee blancken het pondt cost</l>
+					<l>worden vercocht.</l>
+					<l>t&apos;iaer 1508 wiert keijser Maximiliaen</l>
+					<l>door heel nederlandt aengenomen voor vooght</l>
+					<l>van sijnen neve Carolus, ende het goevernemendt</l>
+					<l>van de selve nederlanden gelaeten hebbende aen</l>
+					<l>sijne dochter Margareta wed:<hi rend='superscript:true;'>e</hi> vande hertoch</l>
+					<l>van savoijen, is getrocken naer duijtslandt,</l>
+					<l>ende van daer naer italien, om aldaer in het sticht</l>
+					<l>Milanen tegen de venetianen te ageren.</l>
+					<l>1509 is Coninck van Ingelandt geworden naer</l>
+					<l>sijns vaeders doodt henricus den viij:<hi rend='superscript:true;'>en.</hi></l>
+					<l>op het eijnde van dit iaer isser accordt gemaeckt</l>
+					<l>tusschen den keijser ende ferdinandus Coninck van</l>
+					<l>Castilien, ten opsichte van hunnen allebeijden neve</l>
+					<l>Carolus, met dese conditien; Dat ferdinandus het</l>
+					<l>coninckrijck saude regieren, tot dat Carolus 25</l>
+					<l>iaeren audt saude wesen, ende soo lanck den titel</l>
+					<l>van Coninck saude derven, als sijne moeder Joanna</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>(die niet wel bij haere sinnen en was, om de doodt van</l>
+					<l>haeren man philippus) saude leven.</l>
+					<l>1510 isser swaeren oorloch geweest tusschen den keijser</l>
+					<l>Maximiliaen aende den eenen handt ende de venetianen aen</l>
+					<l>den anderen handt, haudende den paus de partije vande venetianen</l>
+					<l>1511 op den paeschdach verwinnen de franchoisen</l>
+					<l>des paus heijrlegher bi ravenna, daer doodt bleven</l>
+					<l>30000 menschen.</l>
+					<l>1512 wort den paijs gemaeckt tusschen den paus</l>
+					<l>ende den Coninck van vranckrijck.</l>
+					<l>1513 compt den Coninck van ingelant henricus</l>
+					<l>den viiij:<hi rend='superscript:true;'>en</hi> ende den keijser Maximiliaen met eenen machtigen</l>
+					<l>legher voor de stadt Teruanen: slaen de fransche in</l>
+					<l>roete, nemen teruanen in, ende daer naer oock Doornick,</l>
+					<l>ende bauwen de ingelsche aldaer een sterk Casteel.</l>
+					<l>in t&apos; selve iaer ontneempt Coninck ferdinandus</l>
+					<l>het rijck van Naepels aen de fransche.</l>
+					<l>1514 wort doornijck aen de franschoisen weder</l>
+					<l>gegeven, midts den Coninck van vranckerijck</l>
+					<l>traude des Conincx van Ingelandt suster.</l>
+					<l>in dit iaer wort Carolus V:<hi rend='superscript:true;'>us</hi> sijn selfs in het</l>
+					<l>goevernement van sijne erflanden, ende wort voor</l>
+					<l>sulx aengenomen, ende oock gehult heel nederlandt</l>
+					<l>door.</l>
+					<l>1515 den 1:<hi rend='superscript:true;'>en</hi> ian: sterft ludovicus den XII:<hi rend='superscript:true;'>en</hi></l>
+					<l>Coninck van vranckerijck, ende succedeert in sijne</l>
+					<l>plaetse franciscus 1:<hi rend='superscript:true;'>us</hi> sijnen schoonsone.</l>
+					<l>in dit iaer traut Maria, de suster van Carolus,</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>5</l>
+					<l>met ludovicus Coninck van hongarijen, ende Elisabeth</l>
+					<l>sijne andere suster met Christiernus ij:<hi rend='superscript:true;'>en</hi> Coninck van</l>
+					<l>Denemarcken.</l>
+					<l>1516 den 22:<hi rend='superscript:true;'>en</hi> ian: sterft binnen Madridt in</l>
+					<l>spaignien ferdinandus Coninck van dat rijck, groot¬</l>
+					<l>vaeder van Carolus den v:<hi rend='superscript:true;'>en</hi> die in sijn plaetse succedeert.</l>
+					<l>1517 Carolus den 12:<hi rend='superscript:true;'>en</hi> aug: van Middelburgh</l>
+					<l>in Zeelandt afvaerende arriveert binnen acht daegen</l>
+					<l>in spaignien om aldaer possessie te nemen van</l>
+					<l>dat rijck.</l>
+					<l>in dit iaer heeft de lutersche ketterije haeren</l>
+					<l>eersten oorspronck genomen.</l>
+					<l>1518 den 7:<hi rend='superscript:true;'>en</hi> feb: wort Carolus Coninck</l>
+					<l>van spaingnen gecroont te valedolit, nevens</l>
+					<l>sijne moeder Joanna.</l>
+					<l>1519 den 12:<hi rend='superscript:true;'>en</hi> ianu: sterft in Oostenrijck den</l>
+					<l>genaedichsten prince Maximiliaen keijser van</l>
+					<l>duijtslandt, ende eenighen tijdt daer naer wort in</l>
+					<l>sijne plaetse gecosen tot keijser Carolus den v:<hi rend='superscript:true;'>en</hi></l>
+					<l>Coninck van spangnien.</l>
+					<l>1520 Carolus, in het eijnde van april, vaert af</l>
+					<l>uijt spaignien ende loopt in naer Ingelandt, besouckt</l>
+					<l>aldaer den Coninck henricus den viij:<hi rend='superscript:true;'>en</hi> ende sijne moije</l>
+					<l>Catharina huijsvrauwe van henricus, ende van daer</l>
+					<l>scheepgaende arriveert eerst in Zeelandt, daer naer</l>
+					<l>te brugghe, ende van daer binnen ghendt, ende wort</l>
+					<l>nevens sijnen broeder ferdinandus met alle eere ontfanghen.</l>
+					<l>9</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>in dit iaer compt oock binnen Ghendt Christiernus</l>
+					<l>Coninck van denemarcken.</l>
+					<l>in het selve iaer wort Carolus binnen Aecken</l>
+					<l>keijser gecroont met de gewoonelijcke Ceremonien.</l>
+					<l>ondertusschen isser grooten oproer binnen spaignien</l>
+					<l>tusschen de spaensche ende nederlandtsche edellieden,</l>
+					<l>raeckende het gouvernement van dat rijck in d&apos;absentie</l>
+					<l>van Carolus, ende alles wort geslist (naer eenen veltslach</l>
+					<l>daer de nederlanders de victorie behielden) door de</l>
+					<l>goede bestieringhe van Carolus.</l>
+					<l>1521 wort Marten luther met alle sijne</l>
+					<l>adherenten op den rijcxdach tot worms van den</l>
+					<l>keijser Carolus v:<hi rend='superscript:true;'>s</hi> gebannen, ende sijne boucken</l>
+					<l>worden binnen Ghendt publiecq op de vrijdachmert</l>
+					<l>verbrandt.</l>
+					<l>dit iaer isser grooten ende bloudighen oorloch geweest</l>
+					<l>tusschen de fransche ende vlaemingen, de welcke</l>
+					<l>oorlogh ende op den naem van keijser Carel, hebben</l>
+					<l>ingenomen de stadt Doornijck, ende aen den keijser den</l>
+					<l>eedt doen sweiren.</l>
+					<l>henricus den viij:<hi rend='superscript:true;'>en</hi> Coninck van Ingelandt geeft</l>
+					<l>eenen bouck uijt tegen luther ende sijn ketterije, waer door</l>
+					<l>hij van den paus Crijcht den titel van; Defensor fidei.</l>
+					<l>1522 belegerde den <hi rend='strikethrough:true;'>tuck</hi> turckschen keijser</l>
+					<l>soliman met 400 oorlochschepen t&apos; eijlandt rhodis</l>
+					<l>dewelcke hun met accordt moesten overgeven, ende</l>
+					<l>dede op kersdach sijnen intre.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>6</l>
+					<l>in het selve iaer is den meester van keijser</l>
+					<l>Carel gecosen tot paus van roomen, die aenneemt</l>
+					<l>den naem van Adrianus den vj:<hi rend='superscript:true;'>en</hi></l>
+					<l><hi rend='strikethrough:true;'>1624</hi> 1524 is gheschiedt den vermaerden</l>
+					<l>slach voor pavien, alwaer de franschen de</l>
+					<l>nederlaeghe hebbende, haeren Coninck franciscus</l>
+					<l>den j:<hi rend='superscript:true;'>en</hi> wiert gevangen.</l>
+					<l>1525 wordt den peijs gemaeckt tusschen Carolus</l>
+					<l>den V:<hi rend='superscript:true;'>en</hi> keijser sijnde, ende franciscus j:<hi rend='superscript:true;'>us</hi> Coninck</l>
+					<l>van vranckerijck, ende den selven franciscus wiert</l>
+					<l>losgelaeten, gevende voor ostagiers sijne twee sonen.</l>
+					<l>1526 versloegh den turckschen keijser soliman</l>
+					<l>ludovicus Coninck van ongaren op den 29:<hi rend='superscript:true;'>en</hi> augusti,</l>
+					<l>den Coninck ludovicus bleef doodt in het moras,</l>
+					<l>ende 30000 soldaeten sneuvelden in den slach.</l>
+					<l>in dit selve iaer traudt keijser Carel met</l>
+					<l>Isabella de autste dochter vande Coninck van portugael</l>
+					<l>1527 is de stadt roomen door de keijsersche</l>
+					<l>ingenomen, het pauselijck paleijs geplundert, ende</l>
+					<l>den paus gevanghen, sonder wete nochtans van</l>
+					<l>den keijser, ende ordre van hem te vanghen.</l>
+					<l>den 21:<hi rend='superscript:true;'>en</hi>meije is philippus keijser Carels</l>
+					<l>sone te valedolit geboren.</l>
+					<l>1528 veel steden ende dorpen van duijtslandt</l>
+					<l>nemen aen de Ketterije van lutherus.</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>1529 veroverde den voorn. soliman keijser</l>
+					<l>der turcken de stadt Offen, ende verbrande aldaer</l>
+					<l>die costelijcke biblioteecke van den Coninck</l>
+					<l>Mathias, ende leefde in ongaren ergher als noch</l>
+					<l>eenigen tijran gedaen hadde. in t&apos;selve iaer trock</l>
+					<l>soliman met 300000 mannen door ongaren voor</l>
+					<l>weenen in oostenrijck, begondt op den 26 8<hi rend='superscript:true;'>bre</hi></l>
+					<l>de stadt hert te belegeren, maer moest de selve</l>
+					<l>met spodt, ende verlies van <hi rend='strikethrough:true;'>@</hi> 150000 mannen verla¬</l>
+					<l>eten, maeckten niet tegenstaende grooten buijt</l>
+					<l>in oostenrijck ende ongaren, die op 300 millioenen</l>
+					<l>eschadt wiert.</l>
+					<l>in het selve iaer wort teghendt van het</l>
+					<l>magistraet de ketterije van luther op den hals</l>
+					<l>verboden.</l>
+					<l>in dit iaer regneerde heel nederlandt door</l>
+					<l>de sweetende sieckte, daer daegelijcx veele</l>
+					<l>menschen van stierven.</l>
+					<l>1530 wort keijser Carel vande paus Clemens</l>
+					<l>den vij:<hi rend='superscript:true;'>en</hi> binnen beloingnen gecroondt. @<hi rend='strikethrough:true;'>@st</hi></l>
+					<l>in dit iaer isser grooten overvloedt van waeter</l>
+					<l>geweest, waer door in vlaenderen ende brabandt veele</l>
+					<l>dorpen sijn onder waeter geweest ende versmoort.</l>
+					<l>den lesten 9bre sterft tot mechelen Margariete</l>
+					<l>goevernante <hi rend='strikethrough:true;'>@</hi> vande nederlanden, keijser Carels moeie</l>
+					<l>ende in haere plaetse aenveert het selve goevernement</l>
+					<l>vrauwe Marie keijsers suster Coninginne van</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>7</l>
+					<l>hongarijen, sijnde wed:<hi rend='superscript:true;'>e</hi></l>
+					<l>1531 in ianu: wort ferdinandus keijser</l>
+					<l>Carels broeder roomsch Coninck gecosen, ende</l>
+					<l>binnen Aken gecroondt.</l>
+					<l>1532 wort het Coninck rijck van peru voor</l>
+					<l>den keijser gevonden.</l>
+					<l>in dit selve iaer veroverde soliman den tuckschen</l>
+					<l>keijser de stadt Gunst, op de selve riviere gelegen,</l>
+					<l>naer dat die van de turcken derthien mael was</l>
+					<l>beleghert geweest, ende spotlijck hadden moeten</l>
+					<l>aftrecken.</l>
+					<l>in meije valt den selven soliman wederom</l>
+					<l>met 300000 mannen in hongarijen, maer den</l>
+					<l>keijser hem tegengaende doet hem wijcken: seggende</l>
+					<l>dese woorden; I non simeo Carolum, sed eius</l>
+					<l>fortunam.</l>
+					<l>1533 henricks den viij:<hi rend='superscript:true;'>en</hi> Coninck van ingelandt</l>
+					<l>verstoot sijne wettighe huijsvrauwe Catharina des</l>
+					<l>keijsers Carels <hi rend='strikethrough:true;'>m@@</hi> moeje, ende traut in haere plaetse</l>
+					<l>Anna boulaijn tegen alle wetten, dat den oorspronck</l>
+					<l>is van de ketterije, die hedensdaeghs heel ingelandt</l>
+					<l>door regneert.</l>
+					<l>maecken de herdoopers hun meester</l>
+					<l>1534 <hi rend='strikethrough:true;'>doet henricus Coninck van Ingelandt</hi></l>
+					<l>van Munster, ende kiesen voor hunnen Coninck</l>
+					<l>Jan van leijden eenen Cleermaeker van sijn antbacht.</l>
+					<l>in dit iaer worden tot Ghendt twee herdoopers</l>
+					<l>om dese hunne ketterije onthalst.</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>1535 wort Munster de herdoopers ontnomen,</l>
+					<l>ende haeren Coninck nevens sijne proheten met</l>
+					<l>gloeijende tanghen van een getrocken.</l>
+					<l>in dit jaer worden binnen Ingelandt onthalst</l>
+					<l>Joannes fischerus, bischop van Clochester, ende Thomas</l>
+					<l>Morus Canceler van het selve rijck, om dat sij den Coninck</l>
+					<l>niet en wilden kennen voor het hooft vande ingelsche kercke.</l>
+					<l>ontrent desen thijdt begint de Calvinische <hi rend='strikethrough:true;'>religie</hi></l>
+					<l>ketterije op te staen.</l>
+					<l>1536 doet henricus den viij:<hi rend='superscript:true;'>en</hi> Coninck van ingelandt</l>
+					<l>Anna bouleijn sijne onwettighe huijsvrouwe onthoofden:</l>
+					<l>naer dan uijt haer geboren was Elisabeth naermaels</l>
+					<l>Coninghinne van ingelandt.</l>
+					<l>1537 omringhde den turckschen keijser soliman</l>
+					<l>t&apos;christelijck eijlandt Carcijra, toe behoorende aen de</l>
+					<l>venetianen, met 150 orlochschepen, verbrandent meesten¬</l>
+					<l>deel, bequamp grooten roof, maer hij moeste daer eijndeling</l>
+					<l>aftrecken.</l>
+					<l>in dit selve iaer wort de stadt perone vande keijsersche</l>
+					<l>vechtender handt ingenomen, ende alles gedoodt dat sij in</l>
+					<l>de waepenen vonden.</l>
+					<l>1538 verworpt denemercken de Catholijcke religie</l>
+					<l>ende wort luthersch.</l>
+					<l>in dit iaer den keijser ende den Conick van vranckerijck</l>
+					<l>maecken een bestandt van thien iaeren, ende malckanderen</l>
+					<l>besouckende tracteren ende onmhelsen malckanderen.</l>
+					<l>1539 den 1 meije sterft te Toledo in het kinder¬</l>
+					<l>bedde Isabella huijsvrouwe van den keijser, achter¬</l>
+					<l>laetende drij kinderen; philippus, Maria ende</l>
+					<l>Joanna.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>8</l>
+					<l>in de selve maendt beginnen die van Ghendt te muijt¬</l>
+					<l>ineren, weijgerende eenighe subsidie penninghen aen</l>
+					<l>Maria de goevernante neffens de andere vlaminghen te</l>
+					<l>betaelen, hun fonderende op eenige privilegien.</l>
+					<l>1540 in het eerste van het iaer compt den keijser</l>
+					<l>uijt spaingnen naer nederlandt door vranckerijck, ende</l>
+					<l>wort binnen parijs ende alle andere steden van vranckerijck</l>
+					<l>magnifiecq ingehaelt ende getracteert van den Coninck,</l>
+					<l>die hem inhaelde tot Chastelet, ende uijtleijde tot s:<hi rend='superscript:true;'>t</hi> quinten.</l>
+					<l>den keijser Commende binnen gendt, straft eenighe</l>
+					<l>van de meeste rebellighe met de doodt, ende de andere</l>
+					<l>met een gedinckenisse die hondert iaeren volbracht </l>
+					<l>worden: ende doet maecken een nieuw reglement, naer het</l>
+					<l>welcke die van Ghendt hun sullen hebben te voughen,</l>
+					<l>dat tot hedensdaeghs wort onderhauden, genoempt de Caroline.</l>
+					<l>dit iaer is het soo heeten somer gheweest ende soo grooten</l>
+					<l>drooghte, dat diversche groote rivieren, als de leije ende schelde,</l>
+					<l>iae oock den rhijn op sommighe plaetsen sijn drooghe</l>
+					<l>geweest: waer uijt ontstaen is eene groote dierte van</l>
+					<l>alle dinghen, behalven van wijn, die dit iaer seer Costelij¬</l>
+					<l>ck ende menichvuldich was.</l>
+					<l>den 12 meije wort het clooster ende de religieusen</l>
+					<l>van s:<hi rend='superscript:true;'>t</hi> baef Getransfereert tot de kercke van s:<hi rend='superscript:true;'>t</hi> Jans,</l>
+					<l>die genoempt wort st: baefs, soo dat sij op dien dach van</l>
+					<l>munnicken sijn Canun<hi rend='strikethrough:true;'>k</hi>nicken geworden, ende</l>
+					<l>op de plaetse daer het Clooster heeft gestaen, is het</l>
+					<l>Casteel gebaudt van ghendt door Carolus den v:<hi rend='superscript:true;'>en</hi></l>
+					<l>in dit selve iaer is ingestelt de societijdt Jesus</l>
+					<l>door den heijligen Ignatius.</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>1541 quam soliman den turckschen keijser noch eens</l>
+					<l>in hongarijen, belegerde Ossen, thene wederom de Christenen</l>
+					<l>toebehoorde dat sij stormenderhandt innamp, veroverdt</l>
+					<l>pest, ende raseerde vijf kercken.</l>
+					<l>in dit iaer sijnder meer als 400 schepen vande keijsers</l>
+					<l>vlote door tempeest vergaen voor Algiers, ende den keijser selve</l>
+					<l>is te nauwer noodt ghesalveert.</l>
+					<l>1542 begindt Marten van rossen, aengeport door</l>
+					<l>den koninck van vranckerijck tegen den keijser te agieren,</l>
+					<l>ende brabandt te verwoesten.</l>
+					<l>1543 belegerde soliman die aude erfbischoppelijcke</l>
+					<l>stadt Gran, bequamp die lichtelijck, maer de Christenen</l>
+					<l>hebben de selve in t iaer 1595 wederom in bekommen.</l>
+					<l>in dit selve iaer wort den keijser meester van geheel</l>
+					<l>Gelderen ende Zutphen, ende ontfanckt in genaeden den </l>
+					<l>hertoch van Cleef.</l>
+					<l>1544 vielen de turcken noch een mael onder</l>
+					<l>hunnen veldtoversten barbarossa in de Christelijcke</l>
+					<l>provincien, vergaederden grooten roof, ende vaerden</l>
+					<l>20000 Christenen in de slavernije.</l>
+					<l>in dit iaer traut philippus des keijser Carels sone</l>
+					<l>met Maria dochter vande Coninck van portugael,</l>
+					<l>die hem het iaer daer naer gebaert hebbende eenen sone</l>
+					<l>genoempt Carolus, in het kinderbedde is gestorven</l>
+					<l>in dit iaer wort den peijs gesloten tusschen franci¬</l>
+					<l>scus den i:<hi rend='superscript:true;'>en</hi> Coninck van vranckerijck ende Carolus</l>
+					<l>den v:<hi rend='superscript:true;'>en</hi> keijser van roomen.</l>
+					<l>1545 isser heel nederlandt door groote dierte ende honger</l>
+					<l>geweest.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>9</l>
+					<l>1546 begindt het generael Consilie binnen Tenten</l>
+					<l>den 18:<hi rend='superscript:true;'>en</hi> feb: is gestorven dien fameusen ketter</l>
+					<l>Marten luther, naer dat hij savonts te voorens goede ciere</l>
+					<l>hadde gemaeckt, maer sijne ketterije is blijven leven.</l>
+					<l>ferdinandus keijser Carels broeder bestedt sijne</l>
+					<l>twee dochters ten houwelijck, eene genaempt Anna met </l>
+					<l>den hertoch van beijeren, ende de andere Maria met den</l>
+					<l>hertoch van Cleef.</l>
+					<l>den 7:<hi rend='superscript:true;'>en</hi> augusti isser te Mechelen groote schaede</l>
+					<l>geschiedt door het springhen van den poijer thoren, die</l>
+					<l>doorden blixem in brandt geraeckt was.</l>
+					<l>1547 heeftmen begonst de delven de vaert van</l>
+					<l>Ghendt op het sas van Ghendt.</l>
+					<l>Den hertoch van saxen ende den landtgrave van hessen,</l>
+					<l>worden door de keijsersche ghevanghen.</l>
+					<l>1548 naer de doodt van henricus den viij:<hi rend='superscript:true;'>en</hi> wort</l>
+					<l>de misse heel Ingelandt door afgeschaft</l>
+					<l>1549 compt philippus keijser Carels sone in de</l>
+					<l>nederlanden, ende wort in alle de steden op het magnifieckste</l>
+					<l>ontfanghen, als sijnde haeren wettighen heere.</l>
+					<l>in dit iaer heeft men begonst te delven de vaert van</l>
+					<l>brussel op willebrouck.</l>
+					<l>1550 isser grooten oproer geweest in het rijck van</l>
+					<l>peru, die door de waepenen ende voorsichticheijt der keijsersche</l>
+					<l>is ghedempt.</l>
+					<l>1551 wort het wederom oorloch tusschen den keijser</l>
+					<l>Carel ende den Coninck van vranckerijck henricus den j:<hi rend='superscript:true;'>en</hi> in</l>
+					<l>welcken oorloch Marten van rossen den keijser</l>
+					<l>seer wel gedient heeft.</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>1559 wort het wederom peijs tusschen spaeignen</l>
+					<l>ende vranckerijck, ende Coninck philippus traut voor</l>
+					<l>sijne derde huijsvrauwe Elisabeth des Conincx henrici</l>
+					<l>ij:<hi rend='superscript:true;'>i</hi> van vranckerijcx dochter en de bruijloft feest wort</l>
+					<l>in het tornoij spel Coninck henricus ij:<hi rend='superscript:true;'>ns</hi> gequetst,</l>
+					<l>door eene Cleen splenter van het ijser van de lancie dat <hi rend='strikethrough:true;'>in</hi></l>
+					<l>in sijne ooghe was geraeckt, ende sterft corts daernaer van</l>
+					<l>de quetsure.</l>
+					<l>in dit selve iaer sijn de nieuwe bisdommen opge¬</l>
+					<l>recht in nederlandt, ende onder andere dat van Ghendt.</l>
+					<l>philippus reijsende naer spaengnen laet het</l>
+					<l>goevernement van de nederlanden aen vrauwe</l>
+					<l>Margarita sijne bastaert suster.</l>
+					<l>1560 arriveert oock in spaeignen Elisabeth huijsv¬</l>
+					<l>rauwe van philippus, ende wort met alle eere ontfangen</l>
+					<l>ende Coninginne van spaeignen gecroondt.</l>
+					<l>in dit iaer is hier binnen ghendt uijt den naeme</l>
+					<l>des Conincx verboden ten tijde van de misse ende vesperen</l>
+					<l>op de sondaeghen ende heijlichdaeghen op de mert te wandelen.</l>
+					<l>1561 beginnen de nieuwe biscoppen possessie te</l>
+					<l>nemen van hunne respective bisdommen, ende binnen</l>
+					<l>Ghendt wort bischop den eerweerdighen heer</l>
+					<l>Cornelius Jansenius doctoor van loven.</l>
+					<l>den 25 iulii is binnen weenen gestorven den</l>
+					<l>keijser ferdinandus, achterlaetende vijfthien kinderen</l>
+					<l>te weten vier sonen ende elf dochters, sijnen autsten</l>
+					<l>sone maximiliaen wort in sijne plaetse keijser</l>
+					<l>gecosen: de uijtvaert van ferdinandus wiert te Ghent</l>
+					<l>gehauden in de parochie kercke van s:<hi rend='superscript:true;'>t</hi> Jacobs.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>11</l>
+					<l>1562 is opgerecht ende met behoorlijcke privilegien</l>
+					<l>van den paus ende Coninck verciert de universiteijt van Duaij</l>
+					<l>op den 24 9bre. is rooms Coninck gecosen des keijsers</l>
+					<l>ferdinandus sijnen sone Maximilianus ij:<hi rend='superscript:true;'>us</hi> ende den 30:<hi rend='superscript:true;'>en</hi></l>
+					<l>derselver maent gecroont.</l>
+					<l>1563 is gesloten het Concilie van Trenten, ende</l>
+					<l>het iaer daer naer binnen nederlandt vercondicht.</l>
+					<l>dit iaer is het geweest eenen extraordinairen</l>
+					<l>harten vorst, soo dat de waeghens met goedt gelaeden</l>
+					<l>over de schelde voor antwerpen hebben gereden.</l>
+					<l>1564 is gestorven den grooten ketter Jan</l>
+					<l>Calvijn, opgheeten sijnde van de luijsen.</l>
+					<l>1565 worden heel nederlandt door diversche</l>
+					<l>saelighe ordonnancien vercondicht, door bevel van</l>
+					<l>den Coninck philippus, raeckende de religie, waer</l>
+					<l>door allenskens beginnen de nederlantsche beroerten.</l>
+					<l>1566 is de ketterije bijnaer heel nederlandt</l>
+					<l>door ontsteken, de geusere die neempt haeren aenvanck</l>
+					<l>ende de beeltstorminghe die volght, waer door alle de beelden</l>
+					<l>vande gecruijsten Christus ende van alle godts lieve</l>
+					<l>heijlighen soo binne ghendt als in alle andere</l>
+					<l>steden ende plaetsen door het gespuijs van het volck</l>
+					<l>om verre gesmeten ende geruineert worden.</l>
+					<l>geduerende dese beroerten wort binnen spaiegnen</l>
+					<l>geboren Isabella - Clara - Eugenia authste dochter</l>
+					<l>van philippus ij:<hi rend='superscript:true;'>us</hi> Coninck van spaeignien.</l>
+					<l>1567 wort de beroerte van nederlandt eenighsints</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>gestilt door het wys beleydt van de goevernante</l>
+					<l>Margarite, ende de macht van den Ducq d&apos; alve, die</l>
+					<l>met 10000 mannen tot dien eynde uyt spaeignen</l>
+					<l>in nederlandt was gekommen, ende commende</l>
+					<l>binnen brussel, namp ghevanghen den grave van</l>
+					<l>Egmont, ende den grave van hoorn, maer den prince</l>
+					<l>van orangien die ontsnapte het, ende die twee wierden</l>
+					<l>het iaer daer naer vrydach voor sinxen onthalst op</l>
+					<l>de mert tot brussel: om conspiratie by hun gedaen.</l>
+					<l>1568 Carolus prince van spaeignen wiert op den 6:<hi rend='superscript:true;'>en</hi></l>
+					<l>ian: van synen vaeder den Coninck philippus ij:<hi rend='superscript:true;'>us</hi> in echten¬</l>
+					<l>isse gestelt, ende is aldaer audt wesende ontrent de 22:<hi rend='superscript:true;'>ch</hi></l>
+					<l>iaeren den 23 iulii van dit iaer gestorven, niet sonder</l>
+					<l>suspicie van verghif.</l>
+					<l>dry maenden daer naer sterft oock de Coninginne</l>
+					<l>van spaeignen Isabella derde huysvrauwe van philippus.</l>
+					<l>den prince van orangien vlucht naer vranckryck.</l>
+					<l>1569 vraeght ducq d&apos; alve in nederlandt den </l>
+					<l>thiensten, twintichsten, ende hondertsten penninck, dat</l>
+					<l>grooten twist ende oneenicheyt veroorsaeckt.</l>
+					<l>1570 besteedt keyser Maximilian twee sijne</l>
+					<l>dochters ten hauwelycke, de eene Anna aen philippus</l>
+					<l>den Iij:<hi rend='superscript:true;'>en</hi> Coninck van spaeignen, voor syne vierde</l>
+					<l>huysvrauwe: ende de andere Isabelle aen Carolus den</l>
+					<l>9:<hi rend='superscript:true;'>en</hi> Coninck van vranckeryck.</l>
+					<l>in dit selve iaer wort het eylandt Cyprus van de</l>
+					<l>turcken ingenomen.</l>
+					<l>1571 den 7:<hi rend='superscript:true;'>en</hi> 8bre behaelden de Christenen die</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>12</l>
+					<l>schoone victorie ter see teghen de turcken, ende dat</l>
+					<l>door de Cracht van de ghebeden van de broeders</l>
+					<l>ende susters van den heylighen roosen Crans.</l>
+					<l>1572 synder heel nederlandt door veele</l>
+					<l>martelaere gestorven voor het roomsch Catholyck</l>
+					<l>geloove, ende onder andere de xix:<hi rend='superscript:true;'>en</hi> martelaers</l>
+					<l>van Gorcum, die voor het geloove opgehanghen</l>
+					<l>syn by den briel in hollandt.</l>
+					<l>1573 den hertoch van alba laetende de nederlanden</l>
+					<l>in vollen oorloch vertreckt naer spaeignen, ende in</l>
+					<l>syne plaetse Compt de nederlanden gouverneren</l>
+					<l>don louis de requesens.</l>
+					<l>ter wylen dat veele van de nederlanders afvallen</l>
+					<l>van het Catholyck geloove, soo worden de Indianen</l>
+					<l>tot het selve bekeert.</l>
+					<l>1574 doet den Coninck van spaeignen heel neder¬</l>
+					<l>landt door vercondighen een generael pardon, met</l>
+					<l>bespreeck dat die afgeweken waeren van het roomsch</l>
+					<l>Catholyck geloove, met oprecht berauw aflegghende</l>
+					<l>haerlieder sonden, tot het selve gheloove sauden wederk¬</l>
+					<l>eeren, ende op vrye voeten sauden herstelt worden.</l>
+					<l>1575 isser binnen breda een tsamencompste geweest</l>
+					<l>tusschen die van spaeignen ende de staeten van neerlandt</l>
+					<l>om waert moghelyck den vrede te bemiddelen, maer te</l>
+					<l>vergeefs, blyvende de neerlanders vast staen op</l>
+					<l>het point van vrydom van religie, dat den Coninck</l>
+					<l>van spaeignen geensins wilde toestaen.</l>
+					<l>239</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>de staeten van hollandt ende zeelandt draeghen</l>
+					<l>hunne overheijdt op aen de Coninginne van Ingelandt</l>
+					<l>ende sij weijgert hun onder haere protectie te aenveerden.</l>
+					<l>1576 den 5:<hi rend='superscript:true;'>en</hi> maerte sterft binnen brussel Don louis</l>
+					<l>de requesens goeverneur der nederlanden.</l>
+					<l>in dit iaer de staeten van brabandt ende vlaenderen</l>
+					<l>maecken een verdagh met den prince van orangien ende de</l>
+					<l>staeten van hollandt ende zeelandt, welck verdrach</l>
+					<l>gemeijnelijck geheeten wort de pacificatie van Ghendt.</l>
+					<l>in t&apos;selve iaer Don Jan van oostenrijck Compt in de</l>
+					<l>nederlanden om die te gouvernêren.</l>
+					<l>den 12:<hi rend='superscript:true;'>en</hi> 8bre. sterft den keijser Maximilianus den ij:<hi rend='superscript:true;'>en</hi></l>
+					<l>ende in sijne plaetse wort gecosen sijnen sone rudolphus.</l>
+					<l>den 11:<hi rend='superscript:true;'>en</hi> 9bre. nemen die van ghendt hun Casteel in.</l>
+					<l>1577 de staeten van nederlandt vallen Don Jan</l>
+					<l>af, ende roepen in nederlandt om dat te gouvernêren den</l>
+					<l>artshertoch Matthiam, die den 11<hi rend='superscript:true;'>en</hi>: 9bre. binnen Andtw<hi rend='strikethrough:true;'>@</hi></l>
+					<l>erpen arriveerden ende met alle eere ontfanghen wiert.</l>
+					<l>die van ghendt verwerpen de Caroline, ende herstellen</l>
+					<l>selver hun aude privilegie.</l>
+					<l>1578 die van Ghendt iaeghen alle geestlijcke persoonen</l>
+					<l>uijt, ende laeten in hun plaetse commen de Calvinisten,</l>
+					<l>sij bederven ende worpen tot den gront toe af alle de Cloost¬</l>
+					<l>ers soo binnen als ontrent Ghendt.</l>
+					<l>den 1:<hi rend='superscript:true;'>en</hi> 8bre sterft don Jan van oostenrijck, ende</l>
+					<l>in sijn plaetse wort van den Coninck van spaeignen</l>
+					<l>goeverneur der nederlanden gestelt Alexander</l>
+					<l>farnesius hertoch van parma.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>43</l>
+					<l>1579 die van henegau ende arthois versoenen sich</l>
+					<l>met den Coninck van spaeignen.</l>
+					<l>de staeten van hollandt, zeelandt, Geldre, zutphen</l>
+					<l>uijtrecht, ende vrieslandt, maecken binnen uijtrecht eene</l>
+					<l>vaste vrije, al oft sij altesaemen maer een provintie</l>
+					<l>en waeren.</l>
+					<l>den 24:<hi rend='superscript:true;'>en </hi>iunii windt den hertoch van parma naer</l>
+					<l>een hardt belech de stadt van Maestricht, die van de</l>
+					<l>soldaeten wort geplundert.</l>
+					<l>1580 compt Margareta hertoghinne van parma</l>
+					<l>moeder van Alexander farnesius, boven haeren sone de</l>
+					<l>nederlanden regeeren, het was de dochter van Carel den v:<hi rend='superscript:true;'>en</hi></l>
+					<l>den 6:<hi rend='superscript:true;'>en</hi> april isser heel nederlandt door eene schrick¬</l>
+					<l>elijcke aertbevinghe geweest.</l>
+					<l>in dit selve iaer wort den Coninck van spaeignen</l>
+					<l>oock Coninck van portugael soo door successie als</l>
+					<l>bij testamente.</l>
+					<l>in dit iaer sijn tot loven ende tot duaij ingestelt</l>
+					<l>ende gefondeert de semenarien.</l>
+					<l>de generale staeten van nederlandt draeghen de</l>
+					<l>souverijniteijt op aen den hertoch van Alenson des</l>
+					<l>Conincx van vranckerijckx broeder, waerdoor den</l>
+					<l>aertshertogh Mathias de nederlanden verlaet.</l>
+					<l>1581 den 16:<hi rend='superscript:true;'>en</hi> april wort den Coninck van spaeignen</l>
+					<l>philippus den ij:<hi rend='superscript:true;'>en</hi> binnen lisbona Coninck van portugael</l>
+					<l>gecroont.</l>
+					<l>den hertoch van parma wint </l>
+					<l>breda ende</l>
+					<l><hi rend='strikethrough:true;'>dit iaer</hi> doornijck <hi rend='strikethrough:true;'>ende breda</hi></l>
+					<l>1582 op den 19:<hi rend='superscript:true;'>en</hi> feb: wort den hertoch van</l>
+					<l>Alenson binnen Antwerpen gehult als hertoch</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>van brabandt, ende corts daer naer binnen Ghendt</l>
+					<l>als grave van vlaenderen.</l>
+					<l>dit iaer is begonst den nieuwen stijl binnen roomen</l>
+					<l>ende oock in dese nederlanden aengenomen.</l>
+					<l>op den 5:<hi rend='superscript:true;'>en</hi> 8bre is overleden de heijlige maghet theresia</l>
+					<l>de Jesu fondatrice der discassen.</l>
+					<l>den 12:<hi rend='superscript:true;'>en</hi> 7bre sterft te lisbona den hertoch van Alba.</l>
+					<l>1583 vlucht Ducq d&apos;alenson uijt de nederlanden</l>
+					<l>naer vranckerijck, alwaer hij Corts daer naer van</l>
+					<l>Crevecoeur sterft.</l>
+					<l>den hertoch van parma wint eenighe steden ende</l>
+					<l>sloten in vlaenderen ende brabant, daer den Catholijcken</l>
+					<l>dienst wort herstelt.</l>
+					<l>1584 in dit iaer hebben bij accort hun overgegeven</l>
+					<l>aen den prince van parma eenighe van de vermaerste</l>
+					<l>steden van nederlandt; als Iperen op den 21:<hi rend='superscript:true;'>en</hi> april,</l>
+					<l>brugghe op den 25:<hi rend='superscript:true;'>en</hi> meije, dendermonden den 17:<hi rend='superscript:true;'>en</hi> aug:</l>
+					<l>vilvoorde op den 7en 7bre, ende soo voorts, die alsoo onder</l>
+					<l>de gehoorsaemheijt van den paus van roomen ende</l>
+					<l>den Coninck van spaeignen sijn gekommen.</l>
+					<l>op den 10:<hi rend='superscript:true;'>en</hi> iulii is Guillelmus prince van</l>
+					<l>Orangnien binnen Delft doorschoten van balthasar</l>
+					<l>ge<hi rend='strikethrough:true;'>@</hi>raerts borgoignon, die terstonts gevanghen ende</l>
+					<l>vier daeghen daer naer met groote pijnen, die hij verd¬</l>
+					<l>uldich leedt, is gedoodt.</l>
+					<l>in de plaetse van Guillelmus is van de staten</l>
+					<l>der geunieerde provincien gestelt sijnen sone</l>
+					<l>Mauritius grave van Nassau.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>14</l>
+					<l>in dit iaer is gestorven den heijlighen Carolus</l>
+					<l>borromeus aertsbisschop van Milanen.</l>
+					<l>1585 naer dat de wondere schipbrugghe gemaeckt</l>
+					<l>was ontrent Antwerpen, tusschen Calloo ende Ordan,</l>
+					<l>sijn door hongers noodt die voornaempste steden van</l>
+					<l>brabant gedwonghen geweest hun bij verdrach</l>
+					<l>overtegeven aen den prince van parma: eerst</l>
+					<l>brussel op den 13:<hi rend='superscript:true;'>en</hi> maerte, daer naer mechelen op den</l>
+					<l>19:<hi rend='superscript:true;'>en</hi> iulii, ende ten lesten antwerpen op den 27:<hi rend='superscript:true;'>en</hi> aug:</l>
+					<l>op welcken dach den prince van parma passerende</l>
+					<l>met alle sijnen edeldom over de schipbrugghe</l>
+					<l>met alle magnificentie binnen antwerpen van</l>
+					<l>de borghers is inghehaelt.</l>
+					<l>op den 4:<hi rend='superscript:true;'>en</hi> 8bre is het licchaem van den heere Jacob</l>
+					<l>hessels raetsheere van vlaenderen, die over 7 iaeren</l>
+					<l>van de vijanden van het Catholijck geloof opgehangen</l>
+					<l>was buijten de puffelle poorte tot Ghendt afgedaen</l>
+					<l>sijnde van de Galghe, ende soo veele iaeren in eene verlaeten</l>
+					<l>plaetse ontgraeven geleghen hebbende, van sijne vrienden</l>
+					<l>noch heel ieughdich ende versch gevonden, aloft hij maer</l>
+					<l>gedoodt en hadde geweest, ende met groote solemniteijt</l>
+					<l>binnen de kercke van s:<hi rend='superscript:true;'>te</hi> Michiels tot ghent begraven</l>
+					<l>in sijn graf, dat hij aldaer, doen hij leefde, voor sijn</l>
+					<l>selven hadde doen maecken.</l>
+					<l>1586 den prince van parma verovert de Grave</l>
+					<l>op den 8:<hi rend='superscript:true;'>en</hi> iunii, venloo op den 28:<hi rend='superscript:true;'>en</hi> iunii, Nuijs stormender</l>
+					<l>handt op den 26<hi rend='superscript:true;'>en</hi>: iulii, ende noch eenighe ander plaetsen,</l>
+					<l>ontrent den rhijn, naer dat hij robert Durleij grave</l>
+					<l>269</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>van licester gouverneur van hollandt ende zeelandt</l>
+					<l>hadde veriaeght.</l>
+					<l>1587 den prince van parma wint deventer</l>
+					<l>op den 12:<hi rend='superscript:true;'>en</hi> ian: Gelder op den 4:<hi rend='superscript:true;'>en</hi> iulii, ende sluijs op den</l>
+					<l>5:<hi rend='superscript:true;'>en</hi> augusti.</l>
+					<l>op den 17 feb: is Maria stuaert Coninghinne</l>
+					<l>van schotlandt door vonnis ende bevel van de</l>
+					<l>Coninghinne van Ingelandt Elisabeth met een</l>
+					<l>bijl onthalst, ende heijlichlijck gestorven.</l>
+					<l>1588 dede den Coninck van vranckerijck henricus</l>
+					<l>den iij:<hi rend='superscript:true;'>en</hi> den hertoch van Guise binnen Bloijs</l>
+					<l>verradelijck vermoorden door een musquet scheuten</l>
+					<l>op den 23:<hi rend='superscript:true;'>en</hi> xbre., ende s&apos;anderen daeghs oock sijnen</l>
+					<l>broeder den Cardinael ende bischop van reims.</l>
+					<l>1589 op den 1:<hi rend='superscript:true;'>en</hi> augusti is den Coninck van vran¬</l>
+					<l>ckeijck henricus den iij:<hi rend='superscript:true;'>en</hi> van broeder Jacob Clement</l>
+					<l><hi rend='strikethrough:true;'>in sijne Coutse sittende</hi> verradelijck met eenen poigna¬</l>
+					<l>ert doorsteken, ende s&apos;anderdaeghs van de wonde</l>
+					<l>gestorven; broeder Clement, wesende Jacobin, op</l>
+					<l>het feijt betraept sijnde is van de edelieden vermoort,</l>
+					<l>ende daer naer verbrandt.</l>
+					<l>het Coninckrijck van vranckerijck is door</l>
+					<l>dese doodt bij testamente gevallen op henricus den iiij:<hi rend='superscript:true;'>en</hi></l>
+					<l>Coninck van Navarre ende alsoo van het huijs der</l>
+					<l>valoisen op het huijs van bourbon.</l>
+					<l>1590 op den 3:<hi rend='superscript:true;'>en</hi> maerte is de stadt van breda</l>
+					<l>ingenomen door een turfschip, ende overgelevert</l>
+					<l>aen den prince van parma.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>15</l>
+					<l>parma in dit iaer nederlandt verlaetende trock</l>
+					<l>met alle sijne macht naer vranckerijck, om die van het</l>
+					<l>heijlich verbondt teghen den Coninck te assisteren</l>
+					<l>ende door sijne aencompste wort parijs ontset,</l>
+					<l>dat vande Coninck was beleghert.</l>
+					<l>1591 door het vertreck van den prince van</l>
+					<l>parma, verquicken de geusen in nederlandt, ende</l>
+					<l>nemen onder het beleijdt van prins mauritius</l>
+					<l>in dit iaer de steden; zutphen, deventer, <hi rend='strikethrough:true;'>hust</hi> hulst</l>
+					<l>ende nimweghen.</l>
+					<l>1592 op den 3:<hi rend='superscript:true;'>en</hi> xbre. is tot atrecht in de abdije</l>
+					<l>van s:<hi rend='superscript:true;'>te</hi> vedasti ghestorven Alexander farnesius</l>
+					<l>prince van parma, ende gouverneur der nederlanden</l>
+					<l>ende sijn lichaem is gevoert ende begraven te parma.</l>
+					<l>1593 in het gouvernement der nederlanden is</l>
+					<l>gevolcht petrus Ernestus grave van mansveldt,</l>
+					<l>doch overmidts sijnen auderdom bestondt het meeste</l>
+					<l>bewindt bij den grave de fuentes.</l>
+					<l>1594 henricus den iiij:<hi rend='superscript:true;'>en</hi> Coninck van vranckerijck</l>
+					<l>wort Catholijck, waerdoor dat rijck in vrede geraeckt.</l>
+					<l>Ernestus presenteert den vrede aen de staeten</l>
+					<l>der vereenichde nederlanden, die sij refuseren.</l>
+					<l>1595 in het eerste van dit iaer doet den Coninck</l>
+					<l>van vranckrijck teghen spaeignen den oorloch publicêren.</l>
+					<l>op den 21:<hi rend='superscript:true;'>en</hi> <hi rend='strikethrough:true;'>ian</hi> feb: sterft binnen brussel den</l>
+					<l>aertshertoch Ernestus, grave van mansvelt, en</l>
+					<l>gouverneur der nederlanden.</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>het gouvernement blyft aen den graeve de fuentes</l>
+					<l>tot dat den haertshertoch ende Cardinael albertus, met syne</l>
+					<l>huysvrauwe Isabella in de nederlanden Compt.</l>
+					<l>de geusen nemen lier in, maer worden door de</l>
+					<l>borghers van antwerpen ende van mechelen gemenghelt</l>
+					<l>met eenighe soldaeten den selven dach daer uyt ghedreven.</l>
+					<l>Chronycke </l>
+					<l>van</l>
+					<l>alle het gone ghepasseert is</l>
+					<l>tsedert den iaere 1596</l>
+					<l>tot desen iaere toe.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>16</l>
+					<l>Anno 1596 op den ii:<hi rend='superscript:true;'>en</hi> feb: is tot Brussel</l>
+					<l>gearriveert, ende met alle eere ontfanghen als</l>
+					<l>gouverneur der nederlanden den aertshertoch</l>
+					<l>Albertus, den keysers broeder, ende qualyck in de</l>
+					<l>nederlanden gecommen synde belegert ende windt</l>
+					<l>met stormender handt de stercke stadt Calis,</l>
+					<l>ende oock hulst.</l>
+					<l>1597 wort Amiens van de spaensche oock</l>
+					<l>ingenomen, ende corts daer naer van de fransche wederom</l>
+					<l>hernomen.</l>
+					<l>1598 op den 2:<hi rend='superscript:true;'>en</hi> mey is tot vervyn eene vrede</l>
+					<l>gemaeckt tusschen spaeignen, vranckeryck ende</l>
+					<l>savoyen, met bespreeck van elck syne steden weder</l>
+					<l>te geven.</l>
+					<l>in dit iaer geeft den Coninck van spaeignen</l>
+					<l>philippus den ij:<hi rend='superscript:true;'>en</hi> de nederlanden voor erffelyck</l>
+					<l>aen syne dochter Isabella Clara eugenia infante</l>
+					<l>van spaeignen, met aggreatie ende in het bijwesen</l>
+					<l>van synen sone philippus, op conditie dat sy saude</l>
+					<l>trauwen met den aertshertoch Albertus: hebbende</l>
+					<l>behoorelycke daer toe despensatie vande paus van</l>
+					<l>roomen: ende stervende sonder kinderen de selve</l>
+					<l>souden wederom vervallen op den coninck van</l>
+					<l>spaeignen.</l>
+					<l>op den 13:<hi rend='superscript:true;'>en</hi> 7bre is in het Escuriael overleden</l>
+					<l>philippus den ij:<hi rend='superscript:true;'>en</hi> Coninck van spaeignen in syne</l>
+					<l>plaetse ende Coninckrycken is gesuccedeert philippus</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>den iij:<hi rend='superscript:true;'>en</hi> audt xx: Jiaeren.</l>
+					<l>1599 den aertshertoch albertus uijt de neerlanden</l>
+					<l>in spaeignen gearriveert sijnde, ende aldaer getraudt</l>
+					<l>met sijne bruijdt Isabella, soo is de bruijloft gehauden</l>
+					<l>te valensen, waer naer sij saemen gekeert sijn</l>
+					<l>naer de nederlanden, ende gecommen binnen brussel</l>
+					<l>op den 5:<hi rend='superscript:true;'>en</hi> 7bre, voorts sijn sij gereijst naer vlaenderen,</l>
+					<l>ende andere plaetsen, ende heerlijck onthaelt, ende van</l>
+					<l>de staeten ghehuldt.</l>
+					<l>Anno 1600 op den 2:<hi rend='superscript:true;'>en</hi> iulii geschiede den</l>
+					<l>bloedighen slach ontrent nieupoort, daer Albertus</l>
+					<l>ende Mauritius alle beijde present waeren.</l>
+					<l>1601 op den 10:<hi rend='superscript:true;'>en</hi> iunii windt prins mauritius</l>
+					<l>rijnbergh, beleghert oock s&apos;herthogenbosch, maer wort</l>
+					<l>gedwonghen hetselve schandelijck te verlaeten.</l>
+					<l>op den 5:<hi rend='superscript:true;'>en</hi> iunii hertoch Albertus begonst te</l>
+					<l>belegheren de stadt van Ostende, welck belech</l>
+					<l>drij iaeren heeft geduert.</l>
+					<l>1602 op den 20:<hi rend='superscript:true;'>en</hi> 7bre neempt het staeten volck</l>
+					<l>onder het beleijdt van prins mauritius de Grave in.</l>
+					<l>1603 den 4:<hi rend='superscript:true;'>en</hi> april sterft de Coninghinne van</l>
+					<l>ingelandt Elisabeth groote vijandinne van het</l>
+					<l>Catholijck geloove, ende in haere plaetse succedeert</l>
+					<l>Jacobus den vj:<hi rend='superscript:true;'>en</hi>.</l>
+					<l>in dit iaer is afgebrandt de naelde van den toren</l>
+					<l>van s:<hi rend='superscript:true;'>t</hi> baefs kercke binnen Ghendt, het vier was</l>
+					<l>daer in gecommen door den blixem.</l>
+					<l>Isabella Clara Eugenia besouckt te voete</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>17</l>
+					<l>ende baervoets twee mijlen verre het beeldt van</l>
+					<l>onse lieve vrauwe ten Eijcken.</l>
+					<l>de staeten belegeren noch eens s&apos;hertoghenbosch</l>
+					<l>ende worden noch eens gedwonghen het selve</l>
+					<l>schandelijck te verlaeten.</l>
+					<l>1604 hebben Albertus ende Isabella doen</l>
+					<l>bauwen de kercke van onse lieve vrauwe van</l>
+					<l>scherpenheuvel.</l>
+					<l>op den 20:<hi rend='superscript:true;'>en</hi> 7bre. neempt Albertus ostende in,</l>
+					<l>onder het beleijdt van den marquis spinola.</l>
+					<l>1605 op den 8:<hi rend='superscript:true;'>en</hi> april is binnen spaeignen</l>
+					<l>geboren eenen ionghen prince; philippus dominicus</l>
+					<l>victor, Conincks sone.</l>
+					<l>in dit iaer verovert spinola de steden</l>
+					<l>oldense@@l, linghen ende wachtendonck.</l>
+					<l>1606 spinola windt de steden lochem, grol,</l>
+					<l>ende rijnsbergh: verliest wederom lochem.</l>
+					<l>in de maendt april is gestorven tot loven</l>
+					<l>den geleerden ende vermaerden Justus lipsius.</l>
+					<l>1607 is tot mechelen gehauden eene provinci¬</l>
+					<l>ale sijnode onder het bestieren van Mathias hovius</l>
+					<l>aertsbischop van aldaer.</l>
+					<l>in het selve iaer heeft men in nederlandt van</l>
+					<l>vrede begonst te handelen, ende wiert aldaer de</l>
+					<l>schorsinghe van waepenen vercondicht.</l>
+					<l>1608 Mathias keijsers broeder wort gecroont</l>
+					<l>koninck van hongarijen.</l>
+					<l>de armenianen ende gummaristen in hollandt</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>vallen twistich teghen elckanderen.</l>
+					<l>1609 op den 14:<hi rend='superscript:true;'>en</hi> april is binnen nederlandt</l>
+					<l>gepubliceert eenen treves van 12 iaeren tusschen</l>
+					<l>den aertshertoch Albertus ende de vereenichde staeten.</l>
+					<l>1610 op den 14:<hi rend='superscript:true;'>en</hi> meije is tot parijs in sijne</l>
+					<l>carosse rijdende van franchois ravaillac verra¬</l>
+					<l>delijck omgebracht henricus den 4:<hi rend='superscript:true;'>en</hi> Coninck</l>
+					<l>van vranckrijck, ende in sijne plaetse succedeert</l>
+					<l>sijnen sone louijs 13:<hi rend='superscript:true;'>e</hi>.</l>
+					<l>in dit iaer is Carolus borromeus gecano¬</l>
+					<l>niseert, ende de maeghet Colleta, der ordre van de</l>
+					<l>aerme Clarissen tot ghendt gestorven, is gestelt</l>
+					<l>onder het getal der gelucksalighe vande paus</l>
+					<l>paulus den vijfden.</l>
+					<l>1611 Mathias keijsers ende des aertshertoch</l>
+					<l>alberti broeder wort in dit iaer gecroondt Coninck</l>
+					<l>van bohemen.</l>
+					<l>1612 in ian: is binnen praghen overleden den</l>
+					<l>keijser rudolphus 2:<hi rend='superscript:true;'>us</hi> in het 36 iaer van sijn</l>
+					<l>keijserrijck, in sijne plaets is gecommen Mathias</l>
+					<l>voornompt.</l>
+					<l>in dit iaer wort Anna de eerste geborene</l>
+					<l>dochter van philuppus den 3:<hi rend='superscript:true;'>en</hi> Coninck van spaeignen</l>
+					<l>ten hauwelijck besteedt aen ludovicus den 13:<hi rend='superscript:true;'>en</hi></l>
+					<l>Coninck van vranckerijck, ende Isabella de suster</l>
+					<l>van den selven ludovicus aen philippus den</l>
+					<l>prince van spaeignen.</l>
+					<l>de staeten van hollandt maecken dit iaer een</l>
+					<l>verbondt met de turcken.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>18</l>
+					<l>1613 is tot ghendt gehauden een concilie</l>
+					<l>episcopael, onder het bestier van den bisschop</l>
+					<l>franciscus van der burcht.</l>
+					<l>den 16:<hi rend='superscript:true;'>en</hi> aug: hebben die van brugghe begonst</l>
+					<l>te delven de vaert van ghendt op brugghe, ende</l>
+					<l>die van ghendt sijn hen gevolcht, beginnende</l>
+					<l>van hunne stadt op den 3:<hi rend='superscript:true;'>en</hi> 7bre, ende is dese vaert</l>
+					<l>alsoo voltrocken tot ostende toe.</l>
+					<l>den aertshertoch albertus doet binnen brussel</l>
+					<l>bringhen de reliquien van den saelighen martelaer</l>
+					<l>Albertus sijnen patroon bisschop van rheijms,</l>
+					<l>ende vercrijcht van den paus om hem te vieren</l>
+					<l>als salich op sijnen sterfdach den 21:<hi rend='superscript:true;'>en</hi> van 9bre.</l>
+					<l>1614 marquis spinola heeft op 20:<hi rend='superscript:true;'>ch</hi> daegen</l>
+					<l>ingenomen de steden, Aken, berchen, groenenberch,</l>
+					<l>orsoij, duijsburch, wesel, ende nogh meer andere.</l>
+					<l>1615 sijn de heijlige reliquien van de saelighe</l>
+					<l>martelaers van gorcom, bij den briel gevonden, ende</l>
+					<l>van daer gebrocht met groote solemniteijt binnen</l>
+					<l>brussel, ende aldaer in diversche cloosters verdeijlt.</l>
+					<l>1616 is in nederlandt ende oock in andere plaetsen</l>
+					<l>ingestelt de vergaederinghe van de ingelsche benedic¬</l>
+					<l>tinen, ende van den paus bevesticht.</l>
+					<l>in dit iaer sijnde reliquien vande heijligen</l>
+					<l>macharius uijt henegau met groote solemniteijt</l>
+					<l>binnen ghendt gebrocht.</l>
+					<l>de aertshertoghinne Isabella geeft een deel</l>
+					<l>van het haut van t&apos; hijlich cruijs aen de kercke van</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l>sints michiels binnen Ghendt.</l>
+					<l>op den 13L<hi rend='superscript:true;'>en </hi>dito is tot brussel gesto<hi rend='strikethrough:true;'>@@</hi>rven</l>
+					<l>onsen genaedichsten heere aertshertoch Albertus.</l>
+					<l>in dit iaer sijn te ghendt de aermscholen</l>
+					<l>begonst soo voor de knechtiens als voor de meijskens.</l>
+					<l>1617: wort ferdinandus Coninck van</l>
+					<l>bohemen.</l>
+					<l>op den 24:<hi rend='superscript:true;'>en</hi> april is tot parijs als eenen</l>
+					<l>verraeder onthalst den Marquis d&apos;ancre,</l>
+					<l>marechal ende pair de france, ende corts</l>
+					<l>daer naer oock sijne huijsvrauwe beticht</l>
+					<l>sijnde van diversche misdaden.</l>
+					<l>1618: is begonst den oproer der bohem¬</l>
+					<l>ers binnen praegh, dat het begin gheweest</l>
+					<l>heeft van dien langhdurighen oorloghe</l>
+					<l>die daer naer in duijtslandt is ghevolght.</l>
+					<l>in dit selve iaer isser heel europa</l>
+					<l>door ghesien gheweest een afgrijsighe</l>
+					<l>Comete die desen oorloch scheen te voorsegge</l>
+					<l>ferdinandus wort ghecroont Coninck</l>
+					<l>van hongarijen.</l>
+					<l>1619 op den 20:<hi rend='superscript:true;'>en</hi> maerte sterft den keijser</l>
+					<l>Matthias, ende Albertus vorst van nederlandt</l>
+					<l>het keijserrijck, dat hem ghepresenteert wiert</l>
+					<l>refuserende, wort keijser ghecroont Ferdin¬</l>
+					<l>andus secundus sijns broeders Caroli sone.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>19</l>
+					<l>die van bohemen verwerpen hunnen</l>
+					<l>wettighen Coninck ferdinandus, kiesen voor </l>
+					<l>hunnen Coninck den paltsgraef fredericus,</l>
+					<l>die ghetraut was met de suster van den</l>
+					<l>Coningk van Inghelandt.</l>
+					<l>den 13:<hi rend='superscript:true;'>en</hi> meije is in den haghe onthalst</l>
+					<l>Olden barneveldt, gheseijt den Advocaedt</l>
+					<l>van hollandt.</l>
+					<l>1620: op den ii:<hi rend='superscript:true;'>en</hi> feb: bequamp den Grave</l>
+					<l>van boucquoy een schoone victorie over de</l>
+					<l>bohemers, iaeghende ende slaende de selve van</l>
+					<l>weenen, ende daer oock voor praghen, dat hij</l>
+					<l>inneempt, ende noch veele andere steden,</l>
+					<l>die hun begheven onder de ghehoorsaemheijt</l>
+					<l>van den keijser, tot de welcke sij oock dwinght</l>
+					<l>die van Moravien.</l>
+					<l>1621: op den lesten maerte is ghestorven</l>
+					<l>philippus tertius Coninck van spaeignen,</l>
+					<l>ende in sijn plaetse ghesuccedeert philippus</l>
+					<l>quartus sijnen autsten sone.</l>
+					<l>op den 13:<hi rend='superscript:true;'>en</hi> dito is tot brussel ghestorven</l>
+					<l>onsen ghenaedichsten heere den aerthertoch</l>
+					<l>Albertus, ende begraven in de kercke van sinte</l>
+					<l>Gudule in den Choor van het heijlich sacrament</l>
+					<l>van mirakel.</l>
+					<l>den grave van boucquoy van sijn volck</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l>verlaeten sijnde voor nieuw Casteel in hongaren</l>
+					<l>wort met derthien wonden ghedoodt.</l>
+					<l>1622: den 12:<hi rend='superscript:true;'>en</hi> maerte is binnen brussel</l>
+					<l>ghehauden de costelijcke ende princelijcke uijtva¬</l>
+					<l>ert over den Aertshertoch Albertus.</l>
+					<l>1623: op den 23:<hi rend='superscript:true;'>en</hi> van ixbre heeft de doorlu¬</l>
+					<l>chtichste princersse Isabella binnen Ghent</l>
+					<l>gheleijt den eersten steen van den Choor</l>
+					<l>van s:<hi rend='superscript:true;'>te</hi> Michiels kercke.</l>
+					<l>1624: den 19:<hi rend='superscript:true;'>en</hi> ian: wort afgebrant door</l>
+					<l>den blixem een deel van de naelde van sinte</l>
+					<l>Niclaeis toren binnen Ghendt; ende wort</l>
+					<l>corts daer naer de liberalitheijt van den</l>
+					<l>magistraete ende het volck wederom herbaudt.</l>
+					<l>1625: breda naer een langhdurich</l>
+					<l>belech wort gedwonghen sich over te geven</l>
+					<l>aen des Conincx volck.</l>
+					<l>den 6:<hi rend='superscript:true;'>en</hi> april sterft den Coninck van</l>
+					<l>Inghelandt Jacobus sextus, ende in sijne</l>
+					<l>plaetse succedeert sijnen sone Carolus.</l>
+					<l>1626: is het hauwelijck ghesloten tusschen</l>
+					<l>Ernestus ferdinandus des keijsers eersten</l>
+					<l>sone Coninck van hongarijen ende de Infante</l>
+					<l>van spaeignen philippi tertii dochter, ende</l>
+					<l>binnen brussel vercondicht.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>20.</l>
+					<l>in Augusto wint M: Tillius generael</l>
+					<l>van de keijserlijcke armade den slach teghen</l>
+					<l>den Coninck van Denemarcken ende den</l>
+					<l>gheallieerde rebellen.</l>
+					<l>1627: den 15:<hi rend='superscript:true;'>en</hi> 9bre wiert des keijsers</l>
+					<l>sone Coninck van bohemen ghecroont binnen</l>
+					<l>praghen.</l>
+					<l>1628: M: tillius windt staden, ende</l>
+					<l>noch eenighe andere steden, toecommende</l>
+					<l>den Coninck van denemarcken.</l>
+					<l>1629 : in iulio is den peijs ghemaeckt</l>
+					<l>tusschen den keijser ende den Coninck van denemarken</l>
+					<l>de boeren van Oostenrijck rebelleren</l>
+					<l>teghen den keijser, ende belegeren tot twee</l>
+					<l>mael toe de stadt lints, ende worden alle</l>
+					<l>beijde de keeren ghedwonghen die te verlaeten,</l>
+					<l>ende worden ten lesten door groote nederlaghen</l>
+					<l>ghedempt.</l>
+					<l>in dit iaer crijghen de hollanders de stadt</l>
+					<l>wesel in, ende oock s hertoghen bosch, waer</l>
+					<l>door dese stadt haeren maechdom verliest.</l>
+					<l>1630: wort de stadt mantua in italien</l>
+					<l>van de keijsersche met gewelt ingenomen.</l>
+					<l>den marquis spinola sterft van de</l>
+					<l>peste <hi rend='strikethrough:true;'>voo</hi> in het legher voor cassel.</l>
+					<l>ferdinandus tertius traut met Maria</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>des Coninx van spaeignen suster.</l>
+					<l>1631: in april Gustavus adolphus</l>
+					<l>Coninck van sweden compt te velde tegen</l>
+					<l>de keijsersche, ende neempt francfort in,</l>
+					<l>en daer naer slach waeghende tegen M:</l>
+					<l>tillius ende papenheijm des keijsers veltov¬</l>
+					<l>ersten, wint den slach bij lips, waer door</l>
+					<l>veele steden in duijtslant soo dit als het</l>
+					<l>toecommende iaer ghedwonghen worden</l>
+					<l>hun overte geven aen de sweden.</l>
+					<l>1632: M: tillius in eenen anderen slach</l>
+					<l>teghen de sweden ghequetst sijnde, is binnen</l>
+					<l>Ingholstadt daer af ghestorven.</l>
+					<l>de hollanders in dit iaer door verraedt</l>
+					<l>van Graef heijndericq van den berghe,</l>
+					<l>nemen diversche steden in, als venloo,</l>
+					<l>maestricht, etc:<hi rend='superscript:true;'>ra</hi></l>
+					<l>1633: op den 30:<hi rend='superscript:true;'>en</hi> van ixbre. is binnen brussel</l>
+					<l>ghestorven onse ghenadighe princersse,</l>
+					<l>Isabella, Clara, eugenia.</l>
+					<l>in dit iaer is gheschiet den bloedighen</l>
+					<l>slach <hi rend='strikethrough:true;'>@</hi>te lutsen bij lipsich, daer den Coninc</l>
+					<l>van sweden Gustavus adolphus, ende den</l>
+					<l>Generael papenheijm alle beijde doodt</l>
+					<l>bleven.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>21</l>
+					<l>1634: ferdinandus s Conincx van spaeignen</l>
+					<l>broeder den slach bij noortlinghen tegen de</l>
+					<l>sweden ghewonnen hebbende, Compt in de</l>
+					<l>nederlanden, om die voor sijnen broeder phili¬</l>
+					<l>ppus quartus te gouverneren.</l>
+					<l>1635: op den 28:<hi rend='superscript:true;'>en</hi> ian: heeft den prince</l>
+					<l>Cardinael sijnen magnifiquen intre gedaen</l>
+					<l>binnen de stadt van Ghendt, die als dan met</l>
+					<l>eene uijtnemende solemnitheijt, ende alle sorten</l>
+					<l>van triomphe van de magistraet, van alle</l>
+					<l>den edeldom, ende het volck aldaer is ontfanghen</l>
+					<l>gheweest.</l>
+					<l>in iunio het hollandts legher met het</l>
+					<l>fransch legher gheconiungeert sijnde hebben</l>
+					<l>thienen ingenomen, gheplondert, ende aldaer</l>
+					<l>onmenschelijck gheleeft.</l>
+					<l>weijnich daer naer belegeren sij de stadt</l>
+					<l>van loven, maer worden door het aencommen</l>
+					<l>van de spaensche, (sommighe segghen niet</l>
+					<l>sonder mirakel) gedwonghen de selve te</l>
+					<l>verlaeten.</l>
+					<l>den 12:<hi rend='superscript:true;'>en</hi> augusti neempt den Marquis</l>
+					<l>de lede in de stercke stadt van lijmburch.</l>
+					<l>1636: verbieden de staeten van hollandt</l>
+					<l>aen alle pastoors, religieusen ende andere geestelijcken</l>
+					<l>ten platten lande te woonen, ofte te converseren</l>
+					<l>soo in vlaenderen, als in brabant, op pijne van hun</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l>te vanghen, ende niet als door groot rantsoen</l>
+					<l>te laeten lossen.</l>
+					<l>in dit iaer windt Jan de weert de stadt</l>
+					<l>tongheren, ende meest alle de Cleijne steden</l>
+					<l>van het landt van luijck.</l>
+					<l>1637: den 18: feb: is overleden den</l>
+					<l>roomschen keijser ferdinandus secundus,</l>
+					<l>ende in sijne plaetse is roomsch keijser gecosen</l>
+					<l>ferdinandus tertius sijnen sone.</l>
+					<l>den 15:<hi rend='superscript:true;'>en</hi> april is den borghemeester van</l>
+					<l>luijck larvelle, binnen luijck schandelijck</l>
+					<l>vermoort, ende van het volck naer sijne doodt</l>
+					<l>deirelijck mishandelt.</l>
+					<l>den 25<hi rend='superscript:true;'>en</hi>: augusti verovert den prince</l>
+					<l>Cardinael de stadt venloo, ende corts daer</l>
+					<l>naer ruremonde.</l>
+					<l>daer tegen windt den prince van</l>
+					<l>Orangien met appoinctement naer</l>
+					<l>veel stormens de stadt breda.</l>
+					<l>1638: de hollansche het fort van</l>
+					<l>Calloo bij naer ingenomen hebbende, sijn</l>
+					<l>van daer geiaeght door de spaenschen, alwaer</l>
+					<l>veele van de hollanders wierden gemasacreer#</l>
+					<l>ende de spaensche grooten buijt bequamen</l>
+					<l>nevens twintich stucken groot gheschut.</l>
+					<l>1639: den 3:<hi rend='superscript:true;'>en</hi> april, isser heel Europa</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>22</l>
+					<l>door geweest eene wondere ende schroomelijcke</l>
+					<l>aertbevinghe, door de welcke op diversche</l>
+					<l>plaetsen groote ruine is gheschiet.</l>
+					<l>den 1:<hi rend='superscript:true;'>en</hi> iunii hebben de franschen destadt</l>
+					<l>Atrecht verovert.</l>
+					<l>1640: in iunio is den brandt gheraeckt</l>
+					<l>in de cappe van de kercke van s:<hi rend='superscript:true;'>t</hi> baefs binnen</l>
+					<l>Ghendt, ende daer door seffens afgebrandt, maer</l>
+					<l>daer naer door de miltheijt van den bisschop</l>
+					<l>Anthonius triest ende Capittel van de selve</l>
+					<l>kercke wederom opgebaudt.</l>
+					<l>1641: heeft den vromen veltheer Gilli#</l>
+					<l>de haese geboren van Ghent, in het palsl¬</l>
+					<l>andt ingenomen de stadt Cresenagh, ende</l>
+					<l>meer andere victorien bekommen.</l>
+					<l>in dit iaer is gheschiet den slach</l>
+					<l>voor rocroij.</l>
+					<l>op den 9:<hi rend='superscript:true;'>en</hi> 9bre is binnen brussel</l>
+					<l>overleden sijne doorluchtighe hoogheijt</l>
+					<l>den prince Cardinael ferdinandus.</l>
+					<l>1642: hebben de spaensche verovert de</l>
+					<l>stedekens lens ende bassel.</l>
+					<l>1643: den 19:<hi rend='superscript:true;'>en</hi> meije is overleden den</l>
+					<l>Coninck van vranckerijck louijs xiij:<hi rend='superscript:true;'>en</hi></l>
+					<l>ende in sijne plaetse succedeert sijnen sone</l>
+					<l>noch ionck sijnde, louijs quatorzieme.</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l>1644: op den 29:<hi rend='superscript:true;'>en</hi> augusti is het sas</l>
+					<l>van Ghent veraccordeert ende overgegaen</l>
+					<l>aen de staeten van hollandt.</l>
+					<l>1645: den 1:<hi rend='superscript:true;'>en</hi> 8bre hebben de hollanders,</l>
+					<l>onder het beleijt van de franchoisen, beleg¬</l>
+					<l>rt hulst, ende die met appoinctement ingecr¬</l>
+					<l>eghen op den 2:<hi rend='superscript:true;'>en</hi> 9bre van het selve iaer.</l>
+					<l>1646: op den 18:<hi rend='superscript:true;'>en</hi> iunii hebben de fransche</l>
+					<l>met accordt ingenomen de stadt van Cortrij##</l>
+					<l>ende op den 12:<hi rend='superscript:true;'>en</hi> augusti de stadt van duijnkercke</l>
+					<l>1647: den 8:<hi rend='superscript:true;'>en</hi> ian: is den vrede gesloten</l>
+					<l>tusschen den Coninck van spaeignen ende de</l>
+					<l>vereenichde nederlanden binnen de stadt</l>
+					<l>van Munster op aggreatie van sijne</l>
+					<l>Catholijcke Ma:<hi rend='superscript:true;'>t.</hi></l>
+					<l>den 21:<hi rend='superscript:true;'>en</hi> april is in dese nederlanden</l>
+					<l>gearriveert als gouverneur van de selve</l>
+					<l>sijne doorluchtighe hoogheijt Guillielmus</l>
+					<l>Leopoldus, des keijsers broeder, ende is seer</l>
+					<l>magnifieck ingehaelt binnen Ghendt op</l>
+					<l>den 17:<hi rend='superscript:true;'>en</hi> 8bre van het selve iaer; naer dat</l>
+					<l>hij door sijne macht gewonnen <hi rend='strikethrough:true;'>hadde</hi> hadde</l>
+					<l>andrecij, Armentiers, ende Dixmuijden.</l>
+					<l>1648: op den 18:<hi rend='superscript:true;'>en</hi> meije heeft sijne</l>
+					<l>hoogheijt leopoldus ingenomen de stadt</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>23</l>
+					<l>Corterijck, onder het beleijdt van den Generael</l>
+					<l>Becq, ende weynighe daeghen daer naer het casteel</l>
+					<l>op den 5:<hi rend='superscript:true;'>en</hi> iunii is den vrede tusschen</l>
+					<l>den Coninck van sp<hi rend='strikethrough:true;'>@</hi>aegnien, ende de vereenichde</l>
+					<l>staeten van hollandt allomme gepubliceerd</l>
+					<l>met groote triomphe ende vieringhen.</l>
+					<l>daerentusschen nemen de franschen</l>
+					<l>in met appoinctement de stadt Iperen op</l>
+					<l>den 28:<hi rend='superscript:true;'>en</hi> meije, ende daer naer de stadt van</l>
+					<l>veurne op den 10:<hi rend='superscript:true;'>en</hi> 7bre.</l>
+					<l>1649: op den 10:<hi rend='superscript:true;'>en</hi> feb: is Charles stuaert</l>
+					<l>Coninck van Inghelandt, schotlandt ende</l>
+					<l>ierlandt binnen londen door bevel van</l>
+					<l>sijne ondersaeten publieckelijck onthalst:</l>
+					<l>ende sijnen sone Carolus secundus vluchtich</l>
+					<l>sijnde in den haeghe in hollandt, wort aldaer</l>
+					<l>in sijne plaetse Coninck geproclameert,</l>
+					<l>daer tegen kiesen die van Ingelandt eenen</l>
+					<l>protecteur Olivier Cromwel.</l>
+					<l>den 10:<hi rend='superscript:true;'>en</hi> meije heeft sijne hoogheijt</l>
+					<l>leopoldus de stadt Iperen met accordt</l>
+					<l>ingenomen.</l>
+					<l>den 14:<hi rend='superscript:true;'>en</hi> iunii sijn de franschen voor</l>
+					<l>de stercke stadt Camerijck gevallen, die</l>
+					<l>sij met schande gedwonghen worden te verlaeten.</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l>anders ist hun ghesuccedeert op den</l>
+					<l>24:<hi rend='superscript:true;'>en</hi> aug met Condé, dat sij ingenomen</l>
+					<l>hebben ende gheplundert.</l>
+					<l>1650: in iunio is de stadt Chastelet</l>
+					<l>aen sijne hoogheijt overgegheven, ende den</l>
+					<l>3:<hi rend='superscript:true;'>en</hi> aug: la Chappelle, waer naer gevolght</l>
+					<l>sijn Montcarne, Materle, la rochelle,</l>
+					<l>Aubentum, met meer andere sterckten</l>
+					<l>ende casteelen, ende oock de stercke stadt</l>
+					<l>Moyson, waer door hij meester is geworden</l>
+					<l>van heel Champaingnen.</l>
+					<l>1651: den 6:<hi rend='superscript:true;'>en</hi> aug: is binnen Ghendt</l>
+					<l>den te deum laudamus gesonghen over</l>
+					<l>de geborte van de ionghe princesse van</l>
+					<l>spaeignen, die daer naer geweest is</l>
+					<l>keijserinne, getraut sijnde met den keijser</l>
+					<l>leopoldus den i:<hi rend='superscript:true;'>en</hi> haeren Oom.</l>
+					<l>den 5:<hi rend='superscript:true;'>en</hi> 7bre windt leopoldus de stad</l>
+					<l>veurne, den 27:<hi rend='superscript:true;'>en</hi> dito winox berghen, ende</l>
+					<l>in october het stedeken lincken.</l>
+					<l>1652 den 20:<hi rend='superscript:true;'>en</hi> meye heeft sijne</l>
+					<l>hoocheijt leopoldus verovert de stadt</l>
+					<l>Grevelinghen, ende den 16:<hi rend='superscript:true;'>en</hi> 7bre de stadt</l>
+					<l>Duijnckercken.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>24</l>
+					<l>1653 den 6:<hi rend='superscript:true;'>en</hi> augusti isser eenen</l>
+					<l>grooten seeslach geschiet tusschen de</l>
+					<l>inghelsche ende de hollanders, daer van alle</l>
+					<l>bij de canten veel schepen ende veel volck</l>
+					<l>sijn gebleven ende onder andere den hollanschen</l>
+					<l>admirael Tromp.</l>
+					<l>den 20:<hi rend='superscript:true;'>en</hi> dito is binnen Ghendt in  alle</l>
+					<l>de cloosters van s:<hi rend='superscript:true;'>te</hi> bernardus ordre met</l>
+					<l>groote solemnitheijt ende schoone vieringhe</l>
+					<l>gehauden het iubilé van vijfhondert</l>
+					<l>iaeren vande sterfdach vande heijligen bernardus.</l>
+					<l>1654 den 25:<hi rend='superscript:true;'>en</hi> feb: is den hertoch van</l>
+					<l>loraynen, naer dat hij eenighen theijt hadde</l>
+					<l>gevanghen geseten op het Casteel van Antw¬</l>
+					<l>erpen, beticht sijnde van eenighe veraederije,</l>
+					<l>met goet convoy overgevoert naer spaeignen.</l>
+					<l>den 5:<hi rend='superscript:true;'>en</hi> april is den vrede ghesloten tusschen</l>
+					<l>den protecteur van Enghelandt Olivier cromwel</l>
+					<l>ende de vereenichde staeten van hollandt.</l>
+					<l>1655: in februario isser binnen Ghendt</l>
+					<l>een moordadich werck gheschiedt van een</l>
+					<l>meijssen die haer Mevrauwe die sij diende,</l>
+					<l>op haer bedde heeft vermoort, waer om sij</l>
+					<l>aldaer publiecq is gherabraeckt.</l>
+					<l>den 9:<hi rend='superscript:true;'>en</hi> april heeft sijne heijlicheijt alexander</l>
+					<l>septimus het pausdom aenveert.</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l>1656: den 8:<hi rend='superscript:true;'>en</hi> meije is sijne keijserlijcke</l>
+					<l>hoocheijt vertrocken van brussel naer scherpp¬</l>
+					<l>enheuvel, tegengaende don Jan d&apos;Austria</l>
+					<l>die hij gecongratuleert hebbende is vertrocken</l>
+					<l>naer duijtslandt.</l>
+					<l>den 31:<hi rend='superscript:true;'>en</hi> dito arriveert don Jan tot brussel</l>
+					<l>ende aenveert aldaer het gouvernement van</l>
+					<l>de nederlanden.</l>
+					<l>den 15:<hi rend='superscript:true;'>en</hi> iunii op heijlig sacraments¬</l>
+					<l>dach beginnen de franschen te belegeren de stercke</l>
+					<l>stadt valencijn, ende worden daervoor geslagen</l>
+					<l>met een groot verlies van volck, op den 20:<hi rend='superscript:true;'>en</hi></l>
+					<l>iulii wesende de feestdach van het heijlig</l>
+					<l>sacrament van Mirakel, ende dat onder het</l>
+					<l>voorsichtich beleijt van onsen nieuwen</l>
+					<l>gouverneur don Jan d&apos;austria, die daer</l>
+					<l>naer inneempt de stadt van Condé op den</l>
+					<l>18:<hi rend='superscript:true;'>en</hi> augusti.</l>
+					<l>1657: den 2:<hi rend='superscript:true;'>en</hi> april is overleden den rooms</l>
+					<l>keijser ferdinandus quartus, ende in sijn plaetse</l>
+					<l>is daer naer ghecosen ende gecroont sijnen sone</l>
+					<l>leopoldus ignatius.</l>
+					<l>tusschen den 8:<hi rend='superscript:true;'>en </hi>ende 9:<hi rend='superscript:true;'>en</hi> meije sijn de franschen</l>
+					<l>gevallen voor Camereijck, ende van daer ghesl¬</l>
+					<l>aegen door den prince van Condé, die als</l>
+					<l>nu in dienst was van den Coninck van</l>
+					<l>spaeignen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>25</l>
+					<l>den 28:<hi rend='superscript:true;'>en</hi> dito is den doorluchtichsten heere</l>
+					<l>Anthonius triest, bisschop van Gendt, naer</l>
+					<l>veele beneficien soo aen de stadt als aen den</l>
+					<l>aermen gedaen te hebben, in sijn paleijs overleden</l>
+					<l>int leste van augusti winnen de franschen</l>
+					<l>sint venant, ende op den 8:<hi rend='superscript:true;'>en</hi> 8bre gheholpen sijnde</l>
+					<l>van de inghelsche winnen sij Mardijck.</l>
+					<l>1658: den 8:<hi rend='superscript:true;'>en</hi> maerte heeft den Commandant</l>
+					<l>van hesdin die stadt overgelevert aen den prince</l>
+					<l>van Condé.</l>
+					<l>tusschen den 13:<hi rend='superscript:true;'>en</hi> ende 14:<hi rend='superscript:true;'>en</hi> meije hebben de</l>
+					<l>franschen met de inghelsche eene veraedelijcken</l>
+					<l>aenslach ghehadt op Ostende, maer is hun</l>
+					<l>misluckt met groot verlies.</l>
+					<l>den 17.en iulii  is de stadt Duijnkercken,</l>
+					<l>naer dat haeren gouverneur den Marquis</l>
+					<l>de lede daer doodt gebleven was, met accordt</l>
+					<l>overgegeven aen den Coninck van vranckerijck,</l>
+					<l>die deselve overghelevert heeft aende protecteur</l>
+					<l>van inghelandt Olivier Cromwel.</l>
+					<l>Corts daer naer hebben de franschen</l>
+					<l>met appoinctement inghenomen dese steden;</l>
+					<l>berghen s:<hi rend='superscript:true;'>te</hi> winocx, veurne, dixmuijden, greve¬</l>
+					<l>linghen, meenen, audenaerde, ende iperen, ende</l>
+					<l>alomme het landt berooft ende gheplundert.</l>
+					<l>1659: in maerte is don Jan d&apos;Austria</l>
+					<l>uijt de nederlanden vertrocken naer spaeignen</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l>door vranckerijck, ende in sijne plaetse beghindt</l>
+					<l>de nederlanden te commanderen den Marquis</l>
+					<l>de Caracena.</l>
+					<l>in october isser eene groote tumulte neffens</l>
+					<l>eenighe rebellerinche geweest binnen Antwerpen</l>
+					<l>waer over sommiche sijn gestraft met de Coorde</l>
+					<l>ende sommighe ghebannen.</l>
+					<l>1660: den 18:<hi rend='superscript:true;'>en</hi> maerte is tot Ghendt ende</l>
+					<l>alomme in de andere steden ghepubliceert tot</l>
+					<l>groote blijdschap van alle het volck den lanck</l>
+					<l>ghewensten peijs tusschen de twee machtige</l>
+					<l>monarchen den Coninck van spaeignen</l>
+					<l>ende den Coninck van vranckerijck: waer</l>
+					<l>op gevolght is het hauwelijck vande den</l>
+					<l>Coninck van vranckerijck louijs xiiij:<hi rend='superscript:true;'>e</hi> met</l>
+					<l>de dochter van den Coninck van spaeignen</l>
+					<l>de doorluchtighe infante Maria theresia.</l>
+					<l>den 23:<hi rend='superscript:true;'>en</hi> iunii heeft den doorlughtighen</l>
+					<l>ende eerweerdichsten heere Carolus van den</l>
+					<l>bossche, bisschop van Ghendt sijnen solem</l>
+					<l>nelen intree ghedaen binnen de selve stadt.</l>
+					<l>den 26:<hi rend='superscript:true;'>en</hi> augusti heeft den Coninck</l>
+					<l>van vranckerijck met sijne bruijdt de</l>
+					<l>Infante van spaeignen binnen parijs</l>
+					<l>gedaen sijnen magnifiecken Intrée, om welck</l>
+					<l>triomphe te sien uijt verre landen aldaer</l>
+					<l>veel volck was aenghecommen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>26</l>
+					<l>den 14:<hi rend='superscript:true;'>en</hi> 9bre is alomme in dese nederlanden</l>
+					<l>ghepubliceert den peijs tusschen de Croone van</l>
+					<l>spaeignen ende van inghelandt.</l>
+					<l><hi rend='strikethrough:true;'>Corts daer naer is Carolus stuaert ij:</hi><hi rend='strikethrough:true; superscript:true;'>en</hi></l>
+					<l><hi rend='strikethrough:true;'>Coninck van inghelandt in sijn rijck aenveert,</hi></l>
+					<l><hi rend='strikethrough:true;'>ende op den 5:</hi><hi rend='strikethrough:true; superscript:true;'>en</hi><hi rend='strikethrough:true;'> meije ghecroont.</hi></l>
+					<l>1661: den 9:<hi rend='superscript:true;'>en</hi> feb: is door ordonnantie</l>
+					<l>van het parlement van Inghelandt ontgraven</l>
+					<l>het lighaem van Olivier Cromwel, ende door</l>
+					<l>beuls handen in vier quartieren ghecapt, ende</l>
+					<l>het hooft op eenen staecke ghestelt.</l>
+					<l>Corts daer naer is Carolus stuaert</l>
+					<l>ij:<hi rend='superscript:true;'>en</hi> Coninck van inghelandt in sijn rijck</l>
+					<l>aenveert, ende op den 5:<hi rend='superscript:true;'>en</hi> meije ghecroondt.</l>
+					<l>den 6:<hi rend='superscript:true;'>en</hi> 9bre is gheboren onsen tegenwoor¬</l>
+					<l>dighen Coninck van spaeignen ende heere der</l>
+					<l>nederlanden Carolus secundus.</l>
+					<l>in dese selve maendt is te parijs geboren</l>
+					<l>den Dolpheijn van louijs xiiij:<hi rend='superscript:true;'>e</hi></l>
+					<l>1662 den 28:en feb. isser opgeresen</l>
+					<l>sulck een tempeest van winden, dat daer door</l>
+					<l>ontrent ghendt, ende op andere plaetsen groote</l>
+					<l>schaede is gheschiedt, soo aen boomen, huijsen,</l>
+					<l>meulens, als oock door het doorbreken der dijcken</l>
+					<l>in meije is den Coninck van Ingelandt</l>
+					<l>getraut met de suster van den Coninck van</l>
+					<l>portugael.</l>
+					<l>in decembre is overleden den aertshertoch</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l>van oostenrijck, voorheijts Gouverneur</l>
+					<l>van onse nederlanden, Leopoldus Guillielmus</l>
+					<l>1663 in het laetste van April is</l>
+					<l>ghesloten het hauwelijck van den keijser</l>
+					<l>met de Infante van spaeignen.</l>
+					<l>1664: hebben de Christenen eene</l>
+					<l>schoone victorie bekommen onderhet</l>
+					<l>beleijdt van den Grave serini teghen</l>
+					<l>de tucken, naer de welcke den peijs is</l>
+					<l>ghevolght tusschen den keijser ende den turck.</l>
+					<l>op den 27en april heeft Adriaen de</l>
+					<l>Jode vier schroomelijcke moorden bedreven</l>
+					<l>aen Martinus van der brugghen, moordende</l>
+					<l>hem, sijne huijsvrauwe, sijn eenich kindt, ende</l>
+					<l>sijne maerte: waer om hij ende om noch twee</l>
+					<l>andere moorden, die hij eenighe iaeren te voren</l>
+					<l>beghaen hadde ten huijse van Mijn heer Dadeel</l>
+					<l>vermoordende hem ende sijne maerte, welckers</l>
+					<l>autheur tot noch toe was ombekent gebleven</l>
+					<l>bij sententie van het Magistraet van Ghendt</l>
+					<l>is met gloiende tanghen genepen geweest, daer</l>
+					<l>naer gherabraeckt, ende noch levende verbrandt</l>
+					<l>den 25:<hi rend='superscript:true;'>en</hi> 8bre is naer spaeignen</l>
+					<l>vertrocken onsen Gouverneur den Marquis</l>
+					<l>Caracena, ende in sijne plaetse is in de nederlanden</l>
+					<l>ghearriveert den Marquis de Castel rodrigo, den</l>
+					<l>sesden 9brs.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>27</l>
+					<l>in december is heel Europa door tot diversche</l>
+					<l>stonden, ghesien geweest een Comete, ofte sterre</l>
+					<l>met eenen steert.</l>
+					<l>1665: den 5:<hi rend='superscript:true;'>en</hi> april is binnen Ghendt</l>
+					<l>overleden Carolus vande Bossche Bisschop aldaer.</l>
+					<l>den lesten meije isser binnen</l>
+					<l>ruremonde bij ongheluck eenen grooten</l>
+					<l>brandt geweest, waer door het bisschoppelijck</l>
+					<l>paleijs, ende wel het derde van de huijsen</l>
+					<l>van de stadt sijn afghebrandt.</l>
+					<l>den 13:en iulii snachts sijn de inghelsche</l>
+					<l>ende hollandtsche vloten slaeghs geweest:</l>
+					<l>den slach heeft geduert drij daeghen lanck, alle</l>
+					<l>beijde hebben sij eenighe schepen verloren,</l>
+					<l>maer de hollanders meest, ende onder andere</l>
+					<l>hunnen Admirael Opdam, die met sijn schip</l>
+					<l>in de locht is ghespronghen.</l>
+					<l>den 17:<hi rend='superscript:true;'>en</hi> 7bre is overleden den Coninck</l>
+					<l>van spaeignen philippus iiij:us sijne uijtvaert</l>
+					<l>is met groote pracht in de kercke van s:<hi rend='superscript:true;'>te</hi></l>
+					<l>baefs binnen Ghendt gehauden den 19<hi rend='superscript:true;'>en</hi> 9bre.</l>
+					<l>1666: den 24:<hi rend='superscript:true;'>en</hi> feb: is den nieuwen</l>
+					<l>Coninck van spaeignen Carolus secundus</l>
+					<l>binnen Brussel ghehult hertoch van braband</l>
+					<l>sijne plaetse becleedde onsen gouverneur Castel</l>
+					<l>rodrigo, die aldaer binne het hof op eenen</l>
+					<l>schoonen theater den eedt ontfingh van alle</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l>de voornaemste heeren van dat lant, waer</l>
+					<l>naer ghaudt ende silver onder het volck wiert</l>
+					<l>gestroit.</l>
+					<l>den 2:<hi rend='superscript:true;'>en</hi> meije is Carolus ii:<hi rend='superscript:true;'>us</hi> binnen</l>
+					<l>Ghendt ghehult graeve van vlaenderen in de kerck</l>
+					<l>van de abdije van s:<hi rend='superscript:true;'>te</hi> pieters, ende van daer met</l>
+					<l>eene magnifiecke Cavelcade afkommende</l>
+					<l>naer de Cathedrale kercke van s:<hi rend='superscript:true;'>te</hi> baefs,</l>
+					<l>heeft den Marquis Castel rodrigo, uijt den</l>
+					<l>naem van den Coninck, den <hi rend='strikethrough:true;'>ald</hi> eedt aldaer</l>
+					<l>gedaen aen die van vlaenderen, daer naer com¬</l>
+					<l>mende op de vrijdachmert op eenen uijtnemende</l>
+					<l>ende costelijcken theater hebben die van vlaenderen</l>
+					<l>den reciprokelijcken eedt gedaen aende coninck</l>
+					<l>als grave van vlaenderen onder het stroien van</l>
+					<l>gaudt ende silver: daer naer is gevolght</l>
+					<l>eene magnifique maeltheijt op het stadthuijs</l>
+					<l>ende savonts eene uijtnemende schoone vieringhe.</l>
+					<l>den 3:<hi rend='superscript:true;'>en</hi> augusti sijn de inghelsche ende</l>
+					<l>hollantsche vloten wederom slaeghs geweest,</l>
+					<l>de hollantsche wederom meest verliesende, waer</l>
+					<l>naer de inghelsche in het Vlie wel hondert</l>
+					<l>hollantsche schepen hebben verbrant.</l>
+					<l>den 12:<hi rend='superscript:true;'>en</hi> 7bre sijn binnen londen</l>
+					<l>eenighe duijsent huijsen neffens ettelijcke kercken</l>
+					<l>bij onghelucke verbrant.</l>
+					<l>den 28:<hi rend='superscript:true;'>en</hi> 8bre heeft den doorluchtigen</l>
+					<l>heere Eugenius albertus d&apos;allamont bisschop</l>
+					<l>van Gendt sijnen intré gedaen.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>28</l>
+					<l>den 5en xbrs is de keijserlijcke bruijt</l>
+					<l>van spaeignen gearriveert binnen weenen</l>
+					<l>alwaer ten selven daeghe haer hauwelijck</l>
+					<l>is voltrocken met den keijser</l>
+					<l>den 17:<hi rend='superscript:true;'>en</hi> dito is tot Ghent op het groot</l>
+					<l>begghijnhof gehauden de solemnele iubile van</l>
+					<l>het duijsenste iaer van s:<hi rend='superscript:true;'>te</hi> Begga.</l>
+					<l>1667: in meij vallen de franschen verrae¬</l>
+					<l>delijck in westvlaenderen, ende nemen daer in de stadt</l>
+					<l>veurne ende berghen s:<hi rend='superscript:true;'>te</hi> winocx.</l>
+					<l>den 22en meije is overleden Alexander</l>
+					<l>septimus paus van roomen.</l>
+					<l>den 24:<hi rend='superscript:true;'>en</hi> iunii neempt den Coninck</l>
+					<l>van vranckerijck, selfs in persoone in sijn</l>
+					<l>legher tegenwoordich sijnde, met accordt in</l>
+					<l>de stadt Doornijck ende het Casteel: het selve</l>
+					<l>iaer neempt hij de volghende steden Douaij,</l>
+					<l>Corterijck, Aeth, Aelst, Audenaerde, ende oock</l>
+					<l>rijssel: maer commende voor de stadt dendermonde</l>
+					<l>op den 1:<hi rend='superscript:true;'>en</hi> aug: wort gedwonghen naer een</l>
+					<l>vijfdaeghich belech het selve schandelijck te</l>
+					<l>verlaeten.</l>
+					<l>in septembre hebben de franschen Aelst</l>
+					<l>gedemolieert ende verlaeten.</l>
+					<l>1668 den 2:<hi rend='superscript:true;'>en</hi> meije is binnen Aecken</l>
+					<l>den peijs gesloten tusschen spaeignen ende</l>
+					<l>vranckerijck, ende binnen Ghent den 2:<hi rend='superscript:true;'>en</hi> iunii</l>
+					<l>ghepubliceert.</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l>den 5<hi rend='superscript:true;'>en</hi>: aug: hebben de paeters predicheeren </l>
+					<l>binnen Ghent solemnelijck gehauden de beatificatie</l>
+					<l>van de salighe rosa de sancta Maria.</l>
+					<l>in 7bre is in de nederlanden gearriveert</l>
+					<l>den grooten Conestabel van Castilien Don</l>
+					<l>pedro de velasco, aen den welcken den Marquis</l>
+					<l>de Castel rodrigo tot Mechelen het gouvern¬</l>
+					<l>ement van de nederlanden overgelevert</l>
+					<l>hebbende, is op den 22:<hi rend='superscript:true;'>en</hi> 8bre vertrocken naer</l>
+					<l>spaeignen.</l>
+					<l>1669: den 18:<hi rend='superscript:true;'>en</hi> ian: is de keijserinne</l>
+					<l>verlost van een ionghe dochter, die (godt</l>
+					<l>lof) is blijven leven.</l>
+					<l>den 19:<hi rend='superscript:true;'>en</hi> iunii isser binnen polen</l>
+					<l>eenen nieuwen Coninck ghecosen genpt.</l>
+					<l>Michiel withniowicki, ende op den 29:<hi rend='superscript:true;'>en</hi> 7bre</l>
+					<l>gecroondt.</l>
+					<l>op den 11:<hi rend='superscript:true;'>en</hi> aug: hebben de paeters</l>
+					<l>lieve vrauwe broeders binnen Ghent</l>
+					<l>seer magnifiquelijck ghehauden de Cano¬</l>
+					<l>nifatie vande heijlige Maria magdalena</l>
+					<l>de pazzi, met schoone vieringhe ende arcke</l>
+					<l>triomphaele.</l>
+					<l>den 14:<hi rend='superscript:true;'>en</hi> 7bre is den vrede gemaekt</l>
+					<l>tusschen de venetiaenen ende den grooten</l>
+					<l>turck, naer dat de stadt Candia naer een</l>
+					<l>lanckdurich belech aen hem was overgegeven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>29</l>
+					<l>den 15:<hi rend='superscript:true;'>en</hi> 8bris. hebben de recollecten</l>
+					<l>binnen Ghendt seer solemnelijck geviert</l>
+					<l>de Canonifatie van den heijligen petrus de</l>
+					<l>Alacantara, religieus van hun ordre.</l>
+					<l>1670: in het eerste van dit iaer heeft</l>
+					<l>het soo eenen stercken vorst gemaeckt, datde</l>
+					<l>schelde voor de stadt van Antwerpen sijnde</l>
+					<l>toegevrosen, men op de selve in diversche</l>
+					<l>tenten bier ende wijn heeft vercocht, met</l>
+					<l>carossen ende waeghens overgereden, ende met</l>
+					<l>pecktonnen op geviert heeft, ende dat op den</l>
+					<l>8:<hi rend='superscript:true;'>en</hi> ian: ende eenige volgende daeghen.</l>
+					<l>in meije heeft den Coninck van</l>
+					<l>vranckerijck met geheel sijn hof triomph¬</l>
+					<l>antelijck besichticht alle de steden van</l>
+					<l>vlaenderen, die hij in het iaer 1667 den Coninck</l>
+					<l>van spaeignen afgewonnen heeft.</l>
+					<l>den 20:<hi rend='superscript:true;'>en</hi> iunii is binnen brussel gehauden</l>
+					<l>het 300: iaerigh iubilê van het h: sacrament van</l>
+					<l>mirakel, dat aldaer binnen de kercke van s:<hi rend='superscript:true;'>te</hi></l>
+					<l>Gudule wort bewaert.</l>
+					<l>den 21:<hi rend='superscript:true;'>en</hi> aug: heeft binnen Ghent</l>
+					<l>sijnen publiecken intrê gedaen Don Jan</l>
+					<l>domingo zuninga grave van Montereij,</l>
+					<l>als gouverneur van de nederlanden.</l>
+					<l>in 8ber is den Coninck van vranckerijck</l>
+					<l>met alle sijne macht gevallen in loreijnen, ende</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<p>
+				<lg>
+					<l>heeft heel dat landt met gewelt onder sijn</l>
+					<l>gebiedt gebracht, ende den hertoch veriaeght.</l>
+					<l>1671: den 30:<hi rend='superscript:true;'>en</hi> april sijn onthalst den</l>
+					<l>grave serini, Nadasti ende den Marquis fran¬</l>
+					<l>cipanni, met noch eenighe andere edele, ende</l>
+					<l>dat om een grausaem verraedt, dat sij langen</l>
+					<l>thijdt op handen hadden ghehadt tegen den keijser</l>
+					<l>leopoldus.</l>
+					<l>in meije heeft men begonst te wercken</l>
+					<l>ontrent Ghent aen het nieuw fort buijten</l>
+					<l>de petercellepoorte, genaempt het segelfort</l>
+					<l>in de selve maent heeft den Con¬</l>
+					<l>inck van vranckerijck wederom besichtigh#</l>
+					<l>sijne geconquesteerde steden in vlaenderen.</l>
+					<l>den 30:<hi rend='superscript:true;'>en</hi> aug: hebben de predickeheere</l>
+					<l>met groote solemnitheijt binnen Ghendt</l>
+					<l>gevierdt de Canonifatie van ludovicus</l>
+					<l>bertrandus, ende rosa de sancta maria.</l>
+					<l>den 16<hi rend='superscript:true;'>en</hi>: iulii vertrock den coninc#</l>
+					<l>van vranckerijck uijt nederlandt naer</l>
+					<l>parijs, alwaer daeghs naer sijne aencompst</l>
+					<l>sijnen sone den hertoch van Aniou overle.</l>
+					<l>in dese maent is in spaeignen den</l>
+					<l>brandt geraeckt in t Escuriael, wesende</l>
+					<l>eene van de schoonste ende costelijckste</l>
+					<l>gebauwen van de weerelt, gelegen seven</l>
+					<l>mijlen boven Madriet, door welcken</l>
+					<l>brant onuijtsprekelijcke schaede is geschiet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>30</l>
+					<l>den 22:<hi rend='superscript:true;'>en</hi> 7bre. isser tot, ende ontrent</l>
+					<l>Ghendt soo afgrijsselijcken windt geweest,</l>
+					<l>datter menichte van boomen, huijsen, ende kercken</l>
+					<l>daer door groote schaede onderstaen hebben.</l>
+					<l>op den 27:<hi rend='superscript:true;'>en</hi> dito hebben de Jesuiten</l>
+					<l>magnifieckelijck binnen Ghendt gehauden</l>
+					<l>de feest vande Canonifatie van franciscus de</l>
+					<l>Borgia.</l>
+					<l>den 1:<hi rend='superscript:true;'>en</hi> sondach van 8bre hebben de</l>
+					<l>predicheeren binnen ghent solemnelijck gehauden</l>
+					<l>het Jubilê van hondert iaeren, over de victorie</l>
+					<l>die als dan de Christenen gehadt hebben tegen</l>
+					<l>den grooten turcq, door de gebeden van de</l>
+					<l>broeders ende susters vande h: roosen Crans.</l>
+					<l>1672: in ian: sijn binnen hollandt</l>
+					<l>ende zeelandt de fransche wijnen verboden, dat de</l>
+					<l>oorsaecke is geweest vande volghenden oorloch,</l>
+					<l>die den Coninck van vranckerijck tegen de</l>
+					<l>staeten der vereenichde provincien in april</l>
+					<l>heeft doen verclaeren.</l>
+					<l>den 21<hi rend='superscript:true;'>en</hi> meije is den Coninck van</l>
+					<l>vranckerijck te velde gekommen met eenen</l>
+					<l>leger van 100000: mannen, ende daer mede vallende</l>
+					<l>ontrent Maestricht, soo neempt hij in Tongeren</l>
+					<l>ende Maseijck, maer Maestricht verlaet hij,</l>
+					<l>ende treckt voorts naer den rhijncandt, alwaer</l>
+					<l>hij op corten theijt inneempt de stedekens</l>
+					<l>Orsij, Burick, Rijnbergh, ende noch eenige</l>
+				</lg>
+			</p>
+			<pb n='32'/>
+			<p>
+				<lg>
+					<l>andere stedekens daer ontrent.</l>
+					<l>den selven theijt den bisschop van Munster</l>
+					<l>commende t<hi rend='strikethrough:true;'>@@</hi>er assistentie vande Coninck van</l>
+					<l>vranckerijck tegen de hollanders soo neempt hij</l>
+					<l>in ontrent den ijsel de stedekens Grol, Does¬</l>
+					<l>burch, zutphen, zwol, Deventer, Campen,</l>
+					<l>ende meer andere.</l>
+					<l>den 10:<hi rend='superscript:true;'>en</hi> iunii isser eene seebataille</l>
+					<l>geschiet tusschen de franschen ende Ingelschen</l>
+					<l>vloten, tegen de hollantsche, met bijnaer gelijcke</l>
+					<l>schaede.</l>
+					<l>in de selve maent Compt den Coninck</l>
+					<l>van vranckerijck over den ijsel, ende windt op</l>
+					<l>corten theijt, vindende Clijne resistentie de</l>
+					<l>volgende steden, Arnhem, Amerfort, wagheni¬</l>
+					<l>nghen, reenen, uijtrecht, vianen, Ceulenborgh</l>
+					<l>ende meer andere plaetsen in hollandt.</l>
+					<l>den 16:<hi rend='superscript:true;'>en</hi> iunii hebben de franschen</l>
+					<l>eenen verraedelijcken aenslach gehadt op</l>
+					<l>Ardenburgh, maer is hun misluckt met</l>
+					<l>verlies van veel volck.</l>
+					<l>in iulio windt den bisschop van Mu¬</l>
+					<l>nster de stercke stadt Coeworden; ende den</l>
+					<l>Coninck van vranckerijck wint de steden;</l>
+					<l>Wesel, Nimwegen, de Graef: de forten;</l>
+					<l>schenckeschrans, knotsenborgh, Creveceur</l>
+					<l>etce:<hi rend='superscript:true;'>ra</hi> ende in het laetste van dese maent is</l>
+					<l>den coninck van vranckerijck victorieus</l>
+					<l>vertrocken naer parijs, ende met groote triomphe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>31</l>
+					<l>aldaer ingehaelt.</l>
+					<l>den 20en: aug: sijn binnen sgravenhaghe</l>
+					<l>in hollandt deerlijck vermoort, door het grauw</l>
+					<l><hi rend='strikethrough:true;'>@@@</hi> van het volck ofte gepeupels, dat stijf</l>
+					<l>verbittert was, Jan de witte raetpensionaris</l>
+					<l>van hollant, ende sijnen broeder Cornelis de witte,</l>
+					<l>ruaert van putthem; ende naer hun doodt seer</l>
+					<l>deirlijck mishandelt: de oorsaecke scheen te wesen</l>
+					<l>dat sij al te grooten afkeer hadden vande prince</l>
+					<l>van Orangnien, die het volck wilden stadt¬</l>
+					<l>hauder hebben generael, gelijck hij corts</l>
+					<l>daer naer is geworden.</l>
+					<l>den 13:<hi rend='superscript:true;'>en</hi> xbre neempt den Graef van</l>
+					<l>waldeck onder het belech des prince van</l>
+					<l>orangien Valckenborch met het Casteel in,</l>
+					<l>ende corts daer naer Binche.</l>
+					<l>den 25:<hi rend='superscript:true;'>en</hi> 7bre hebben de pridickheeren</l>
+					<l>binnen Ghent solemnelijck gehauden de</l>
+					<l>beatificatie van pius V<hi rend='superscript:true;'>us</hi>: paus van roomen</l>
+					<l>van hun ordre.</l>
+					<l>den 28:<hi rend='superscript:true;'>en</hi> dito verrassen de vriesen</l>
+					<l>de stercke stadt Coevoerden, daer sij eenen</l>
+					<l>goeden buijt vonden.</l>
+					<l>op den laetsten dach van dit iaer is</l>
+					<l>binnen Ghendt op s:<hi rend='superscript:true;'>te</hi> pharahilde plaetse eenen</l>
+					<l>valschen munter in de olie gehoden, eerst nocht¬</l>
+					<l>ans gewoelt sijnde.</l>
+					<l>1673: den 12:<hi rend='superscript:true;'>en</hi> maerte is ghestorven</l>
+				</lg>
+			</p>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l>de keijserinne, huijsvrauwe van leopoldus</l>
+					<l>den eersten, dochter van philippus quartus,</l>
+					<l>ende eijghene suster van Carolus den ij<hi rend='superscript:true;'>en</hi> coninck</l>
+					<l>van spaeignen, audt sijnde xxj: Jaeren,</l>
+					<l>ende achterlaetende eene eenighe dochter.</l>
+					<l>in april nemen de auxiliaire</l>
+					<l>troepen onder t beleijt des hertochs van bran¬</l>
+					<l>denborgh, Alen, Brecken, werne, strenberg</l>
+					<l>ende andere.</l>
+					<l>den 11:<hi rend='superscript:true;'>en</hi> april is van Ghent vertrocke#</l>
+					<l>naer spaeignen den doorluchtichsten heere</l>
+					<l>Eugenius Albertus d&apos;allamont, bisschip van gent,</l>
+					<l>ende is den 28:<hi rend='superscript:true;'>en</hi> aug: van t&apos;selve iaer binnen Mad¬</l>
+					<l>riedt gestorven.</l>
+					<l>den 27:<hi rend='superscript:true;'>en</hi> dito hebben de hollanders eenen</l>
+					<l>aenslach gehadt op Naerden.</l>
+					<l>op den 24:<hi rend='superscript:true;'>en</hi> meije compt den Coninck</l>
+					<l>van vranckerijck ontrent Ghent in het landt</l>
+					<l>van Nevele, dat hij t&apos;seffens stampt nevens</l>
+					<l>de omligghende dorpen, ende van daer treckt met</l>
+					<l>sijnen legher door vlaenderen ende brabant alles</l>
+					<l>verwoestende, ende belegert Maestricht, dat</l>
+					<l>hem naer een belech van drij weken overgelevert</l>
+					<l>wort met accordt op den 30:<hi rend='superscript:true;'>en</hi> iunii, naer dat</l>
+					<l>hij daer vooren veel volcx hadde verlooren.</l>
+					<l>daer en tusschen geraeckten de</l>
+					<l>fransche ende ingelsche vloten tegen de hollantsche</l>
+					<l>in gevecht, alwaer veel volck ende schepen van</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>32</l>
+					<l>beijde canten gebleven sijn, blijvende de victorie</l>
+					<l>onseker.</l>
+					<l>den 22:<hi rend='superscript:true;'>en</hi> iulii nemen de hollanders de</l>
+					<l>Nieuwerschrans stormender handt in.</l>
+					<l>in augusti is den Coninck van vranck¬</l>
+					<l>erijck in groot perijckel geweest, alsoo op den</l>
+					<l>wech eenighe van sijne dienaers ontrent x ofte xij.</l>
+					<l>passen achter hem commende van den blixem</l>
+					<l>doodt geslaegen sijn.</l>
+					<l>den 13:<hi rend='superscript:true;'>en</hi> 7bre is Naerden aende prince</l>
+					<l>van Orange overgelevert.</l>
+					<l>den 1:<hi rend='superscript:true;'>en</hi> 8bre is tot Ghent door den</l>
+					<l>windt afgesmeten het sesde deel van de naelde</l>
+					<l>van den toren van s:<hi rend='superscript:true;'>te</hi> Nicolaes kercke, ende om</l>
+					<l>dese ruine is corts daernaer de geheele naelde,</l>
+					<l>die de hooghste was van de geheele stadt, t&apos;seffens</l>
+					<l>afgenomen.</l>
+					<l>den 7:<hi rend='superscript:true;'>en</hi> 8bre is den prince van orange</l>
+					<l>tot Antwerpen gearriveert ende seer eerelijck onthaelt.</l>
+					<l>den 18:<hi rend='superscript:true;'>en</hi> 8bre. is den oorlogh ghedecl¬</l>
+					<l>areert vande cant van spaeignen tegen den</l>
+					<l>Coninck van vranckerijck.</l>
+					<l>den 12:<hi rend='superscript:true;'>en</hi> 9bre. is de stadt Bon aende</l>
+					<l>keijser overgegeven.</l>
+					<l>in dese maent is den keijser getraut</l>
+					<l>met de hertochinne van Inspruck.</l>
+					<l>ontrent desen theijt hebben de franschen</l>
+					<l>begonst te verlaeten <hi rend='strikethrough:true;'>meest</hi> alle de hollantsche steden</l>
+					<l>die sij het iaer te vooren hadden genomen, ende dat</l>
+				</lg>
+			</p>
+			<pb n='34'/>
+			<p>
+				<lg>
+					<l>voorgroote sommen gelts, ende onder andere hebben</l>
+					<l>sij voor de uijtruijminghe vande stadt Uijtrecht</l>
+					<l>alleen getrocken 400000. guldens; behaudende Maestricht</l>
+					<l>1674: den 19:<hi rend='superscript:true;'>en</hi> feb: is den vrede gesloten</l>
+					<l>tusschen den Coninck van ingelandt, ende de</l>
+					<l>heeren staeten van hollandt, door de interventie</l>
+					<l>vande koninck van spaeignen.</l>
+					<l>in feb: winnen de franschen Graeij,</l>
+					<l>ende belegeren Arbois, dat sij met schaede ende schand#</l>
+					<l>hebben verlaeten.</l>
+					<l>in het beghin vande lente heefter ontrent</l>
+					<l>Ghent sulck eene groote menichte van sneeu</l>
+					<l>geleghen, ende soo hart vervrosen, dat sij lanck</l>
+					<l>naer paesschen noch niet gedooit ende gesmolten</l>
+					<l>en was.</l>
+					<l>in iunio veroveren de spaensche</l>
+					<l>Belgrave ende Cerex in roussillion, naer dat</l>
+					<l>sij de franschen hadden geslaegen.</l>
+					<l>den 8:<hi rend='superscript:true;'>en</hi> aug: wasser een groot onwed##</l>
+					<l>van windt, donder, ende blixem, doende op veel</l>
+					<l>plaetsen groote schaede.</l>
+					<l>den 11:<hi rend='superscript:true;'>en</hi> ende 12:<hi rend='superscript:true;'>en</hi> aug: isser eenen schroo¬</l>
+					<l>melijcken slach geslaeghen te seneffe, tusschen</l>
+					<l>de keijsersche, spaensche ende hollantsche militi</l>
+					<l>ter eender sijde, ende de fransche ter andere sijde,</l>
+					<l>al waer van beijde canten veel volckx is</l>
+					<l>dootgebleven, doch de spaensche met de gealli¬</l>
+					<l>erde behielden het velt.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>33</l>
+					<l>den 9:<hi rend='superscript:true;'>en</hi> 7bre is de stercke stadt de Graef</l>
+					<l>naer een hart belech overgegheven aende prince</l>
+					<l>van Orangen, die aldaer veel Canon ende</l>
+					<l>ammonitie van oorloch heeft bekommen, dat</l>
+					<l>de franschen uijt de andere verlaeten hollantsche</l>
+					<l>steden daer naer toe hadden gevoert.</l>
+					<l>den 15:<hi rend='superscript:true;'>en</hi> dito hebben de geconiungeerde</l>
+					<l>troepen beleghert de stadt Audenaerde, ende</l>
+					<l>corts daer naer verlaeten.</l>
+					<l>den 2<hi rend='superscript:true;'>en</hi>: 9bre. is Albertus Bouvrij,</l>
+					<l>borgher van Cortrijck, die de stadt Damme</l>
+					<l>meijnde te verraeden, ende den 3:<hi rend='superscript:true;'>en</hi> opgehanghen tot</l>
+					<l>brugghe.</l>
+					<l>in dese maent is de keijserinne geleghen</l>
+					<l>van eene dochter genaempt: Anna Maria Josepha.</l>
+					<l>op den 8:<hi rend='superscript:true;'>en</hi> xbre tsavonts isser eenen grooten</l>
+					<l>brandt ontstaen in het groot beghijnhof binnen</l>
+					<l>Ghent, waer door de Infirmerie ende het huijs</l>
+					<l>vande groote meesteringe, dat maer nieuw ende</l>
+					<l>seer Costelijck was ghebaut, is verbrandt.</l>
+					<l>1675: in het eerste van ian: heeft dese</l>
+					<l>nederlanden begonst te gouverneren den hertoch</l>
+					<l>van Villa harmosa, ende den Grave van Montereij</l>
+					<l>is corts daer naer vertrocken naer spaeignen.</l>
+					<l>den 28:<hi rend='superscript:true;'>en</hi> maerte nemen de franschen</l>
+					<l>in de Citadelle van luijck, ende maecken hun alsoo</l>
+					<l>meester over de stadt.</l>
+					<l>den 7:<hi rend='superscript:true;'>en</hi> april hebben de fransche in</l>
+					<l>#randt gestecken het veurgeborchte van de</l>
+				</lg>
+			</p>
+			<pb n='35'/>
+			<p>
+				<lg>
+					<l>pissellepoorte op s:<hi rend='superscript:true;'>te</hi> pieters neffens Ghent.</l>
+					<l>in het laetste van mey compt den</l>
+					<l>Coninck van vranckerijck met eenen leger</l>
+					<l>van 40000 mannen in het landt van luijck</l>
+					<l>ende neempt den 1:<hi rend='superscript:true;'>en</hi> iunii in Dinant ende t&apos;Casteel</l>
+					<l>ende oock hoij met het Casteel.</l>
+					<l>daer naer belegert hij limburgh, dat</l>
+					<l>hij met verlies van veel volck incruijght op</l>
+					<l>den 12:<hi rend='superscript:true;'>en</hi> iunii, maer met appoinctement.</l>
+					<l>in iulio isser oorloch ontstaen tusschen</l>
+					<l>den Coninck van sweden ende den Coninck van</l>
+					<l>denemarcken: bij die van denemarcken hebben</l>
+					<l>hun gevoeght eenighe princen van het roomsche</l>
+					<l>rijck, ende oock de hollandtsche heeren staeten,</l>
+					<l>die tsamen gevoeght sijnde in het ander iaer</l>
+					<l>veele steden van de sweden hebben ontnomen.</l>
+					<l>in augusto sijnder twee bloedighe</l>
+					<l>bataillien geslaegen in den Elsas tusschen</l>
+					<l>de keijsersche onder het beleijt vande Grave</l>
+					<l>Montecuculi, ende de fransche onder den</l>
+					<l>Marechals de Turene ende Crequij, in den eerste</l>
+					<l>is gebleven turene met eenen canonbal getreft</l>
+					<l>sijnde, ende veele van sijn volck: in den tweeden</l>
+					<l>Crequij sij selven met de sijne cloeckelijck</l>
+					<l>gedefendeert hebbende, maer moetende de vlucht</l>
+					<l>nemen, is getrocken binnen trier, alwaer hij</l>
+					<l>gedwongen is geweest de selve stadt over te</l>
+					<l>leveren aen de keijsersche, ende hij is selfs gevangen</l>
+					<l>ende wech gevoerdt, maer daer naer geransoenee##</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>

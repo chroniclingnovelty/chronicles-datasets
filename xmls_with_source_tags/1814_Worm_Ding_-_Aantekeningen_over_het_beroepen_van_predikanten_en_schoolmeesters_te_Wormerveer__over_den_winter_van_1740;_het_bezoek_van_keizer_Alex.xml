@@ -1,0 +1,1559 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1814_Worm_Ding - Aantekeningen over het beroepen van predikanten en schoolmeesters te Wormerveer: over den winter van 1740; het bezoek van keizer Alexander van Rusland te Zaandam, enz.</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: didaa98@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<p>
+				<lg>
+					<l>PRO PATRIÆ</l>
+					<l>AMSTELREDAM</l>
+				</lg>
+			</p>
+			<pb n='2'/>
+			<p>
+				<lg>
+					<l>BIBLIOTHEEK</l>
+					<l>Vereeniging</l>
+					<l>JACOB HONIG Jsz. Jr.</l>
+				</lg>
+			</p>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>Een Memorieaal Van Jaar 1755</l>
+					<l>Den 4 Desember hebben der 4 op haar beroep </l>
+					<l>Gesonge Na &apos;t Zuijder school tot Wormerveer </l>
+					<l>En dese heeft geweest als Schoolmeester &amp; onder¬</l>
+					<l>meester als volgt</l>
+					<l>1 Jacob van der Poel Schoolmeester tot Avenhorn</l>
+					<l>2 Pieter Swaan Schoolmeester op Sant </l>
+					<l>3 Jan Susses Schoolmeester tot Oosterblokker</l>
+					<l>4 Jacob kneppel onder Meester tot Krommenie</l>
+					<l>En uijt dit 4 tal beroepen Jacob Kneppel</l>
+					<l>Onder Meester tot Krommenie &amp; is gekoome</l>
+					<l>in de plaas van Meester Pieter Kaagman</l>
+					<l>&amp; die is gegaan Na de Rijp</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l><informatiebron>Een Memoorieaal Van het Stollieciteren Van Schoolmeester Na Wormerveerder kerk,</informatiebron></l>
+					<l>school in het Jaar 1756 Van de Augustes tot</l>
+					<l>den 26 September</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>d Datum | De Plaase | Den Name | D&apos; Capitelen | d&apos; Voorgesonge Psalmen &amp; d&apos; Psalmena d&apos; Verse</l>
+					<l>8 augustus | Amsterdam | Tiensma  | Matt. 5 | Psalm 122 | Psalm 130</l>
+					<l>7315 dito | Vollenhove | Willem Pauw | Genesis 26 | Psalm 37 | Psalm 73- 14:35</l>
+					<l>d 22 dito | uijt den haag | De Groot | Marcus 4 | Psalm 4 | Psalm 81-10:11</l>
+					<l>d 22 dito | Noortscharwou | C | Exodus 35 | Psalm 45 | Psalm 26-5:6</l>
+					<l>d 29 dito Avenhorn | Jacob van de Poel | Lucas 57 | Psalm 48 | Psalm 143-3:4</l>
+					<l>d 29 dito | Van &apos;t Sant | Pieter Swaan | Liviticus 26 | Psalm 56 | Psalm 103-4:5</l>
+					<l>d 29 dito | Schellinghout | --- | Jodan 10 | ---| Psalm 63</l>
+					<l>d 5 september | Van Outrop | --- | Handel 10 | --- | Psallm 114 |</l>
+					<l>d 5 dito | Limme | Tijs Bosman | Nummurie 23 | Psalm 104 | </l>
+					<l>5 dito | Oudendijk | Klaas Aker | J. Ciren: 12 | --- | Psalm 126</l>
+					<l>d 5 dito | Saardam | Pouwels Bont | Romijne 10 | Psalm 123</l>
+					<l>d 5 dito | Den Huel | --- | Duterno | Pslam 120 </l>
+					<l>d 12 dito | Schardam | Gerret Koster | Riete 5 | --- | Psalm 59</l>
+					<l>d 12 dito | West Knollendam | Pieter Kwantjes | Gelate 3 | Psalm 27</l>
+					<l>d 12 dito | Binnewijse | Krijn Brant | Epheese 6 | --- | Psalm 70 </l>
+					<l>d 12 dito | Barsiggerhorn | Klaas Muntjeswerf | Josia 24 | Psalm 96</l>
+					<l>d 12 dito | Waserween | --- | Rut 2 | --- | Psalm 22</l>
+					<l>d 12 dito | wessaner Overtoom | --- | Philipens 3 | --- | Pslm 59</l>
+					<l>d 12 dito | Saardam | Dirk Knip | 2 Danniels 7 | --- | Psalm 35</l>
+					<l>d 12 dito | Den Ilp | Mus vaamde;dragers | J. Koninge 17 | --- | Psalm 55</l>
+					<l>d 19 dito | Den Hoef | Maarten Vroom | Colossense 3 | --- | Psalm 36</l>
+					<l>d 19 dito | Van Marken | --- | 2 Corente 26 | Psalm 33</l>
+					<l>d 19 dito | Graft | Pieter Sidder | Es### 10 | --- | Psalm 20</l>
+					<l>d 17 dito | Oosterblokker | Jan Srissens | 29 Tessalo 3 | Psalm 12</l>
+					<l>d 26 dito | Zuijt Schermer | Van Vliet | Timo# 4 | Psalm 82</l>
+					<l>d 26 dito | Oost Knollendam | Willem Koning | Jeremia 8 | --- | Psalm 54</l>
+					<l>d 26 dito | Sijpkarspel | Gijsbrant Hoogerbees | Tietum 5 | Psalm 137 | Pslam 119 22:23 </l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l><informatiebron>Een Memoriaal In &apos;t Jaar 1756</informatiebron></l>
+					<l>Van dit Voogaande een Viertal Gemaakt</l>
+					<l>En op haar beroep Gesonge &amp; geeleese als Vogt</l>
+					<l>den 23 October 1756</l>
+					<l>d&apos;eerste barsigerhorn Klaas Muntjewerf geleesen Job 37</l>
+					<l>En Gesonge Psalm 4 o Vers 1:2</l>
+					<l>de tweede Van den Hoof Maarte Vroon Geleese Hobr: 4</l>
+					<l>En Gesonge Psalm 42, Vers 1:2</l>
+					<l>de derde van Limme Tijs bosman Geleese Psalm 144</l>
+					<l>En Gesonge Psalm 66 Vers 1:2</l>
+					<l>de Vierde Van Sant Pieter Swaan Geleese Jacobie 3</l>
+					<l>En Gesonge Psalm 138 Vers 1:2</l>
+					<l>En uijt dit Viertal is beroepen Klaas Muntjewerf</l>
+					<l>Van Barsiggerhorn den 21 October 1756</l>
+					<l>En zijn dienst Waar Genoomen den 21 November</l>
+					<l>En Smorgens Geleesen Psalm 122 &amp; 133</l>
+					<l>En gesonge Psalm 122 Vers 23:24</l>
+					<l>En Nademiddag Geleesen Psalm 119 tot het 3 deel</l>
+					<l>En Gesonge Psalm 119 Vers 9:10</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>IN &apos;t Jaar 1762 Meester Jacob Kneppel heeft</l>
+					<l>Als Schoolmeester bedankt tot Wormerveer</l>
+					<l>Dat het School Vacant is geworden en Volgens</l>
+					<l>Uijt Een Gros Van Schoolmeester &amp; ondermeester</l>
+					<l>Dit viertal als Volgt</l>
+					<l>Jan Lugt Schoolmeester tot Scharwou</l>
+					<l>Dirk de West ondermeester tot oostsaandam</l>
+					<l>Klaas Raap ondermeester tot Oudesluijs</l>
+					<l>Jan Oot ondermeester op de Coog</l>
+					<l>En hebben den 17 maart op haar beroep geleesen</l>
+					<l>En Gesonge als volgt</l>
+					<l>Jan Lugt geleesen Openba: 14 &amp; Gesonge Pslam</l>
+					<l>89 V:4:5</l>
+					<l>Dirk de West geles: Openb: 14  Psalm 89 V:9:10</l>
+					<l>Klaas Raap geles: Openb: 14 Psalm 89 V:13:14</l>
+					<l>Jan Oot geles: Openb: 14 Psalm 89 V: 17:18</l>
+					<l>En daar uijt beroepen Jan Oot ondermeester</l>
+					<l>Op de Coog &amp; is gehaalt Den 1 April 1762</l>
+					<l>In Jaar 1762</l>
+					<l>heeft domine Casparis Henderikus V: heijmenberg</l>
+					<l>Versogt om Emeritus Verklaart te Worde</l>
+					<l>Het welk door d&apos; Eedelmoogende in den haag</l>
+					<l>is gedaan soo dat Wormerveer Vacant is soo</l>
+					<l>dat Van den heere kerkenraat op den 29 Julij</l>
+					<l>Een Sestal Van preedicante is Gemaakt</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>De volgende nommienatie</l>
+					<l>D: Dirk Losier Prediekant te Quadijk</l>
+					<l>D, Cornelieris Tappe predik: op de Helder</l>
+					<l>D, Wilhelmus Mobachius Qua at prt t Waverveen</l>
+					<l>D, Jacob Klinkhamer prediek: te Pette</l>
+					<l>D, Johannis Scholte prediek: op d&apos; bees</l>
+					<l>D, Henricus Kuijlenburg prediek: te Knollendam</l>
+					<l>En Marken binne</l>
+					<l>En op den Selve tijt dit drietal Gemaakt</l>
+					<l>D, C: tappe op d&apos; Helder,</l>
+					<l>D, J: Klinkhamer te Pette, D, J: Scholte op d&apos; bees</l>
+					<l>En op den 21 Augustus is met meerderhijt Van</l>
+					<l>Stemme Daar uijt beroepen Cornelieris Tappe</l>
+					<l>En deze beroeping is op den Selven dag Van de</l>
+					<l>Magiestraat Geinprobeert.</l>
+					<l>En voor de twee maal hebbe de heere kerk Raat</l>
+					<l>op den 22 September 1762 uijt Een Gros</l>
+					<l>van prediekante &amp; propenente Dit 12 tal</l>
+					<l>Gemaakt als Volgt</l>
+					<l>Do: Jacob Klinkhamer Prd: te Pette</l>
+					<l>Do: Clements Soutmaat Pred: te Andijk</l>
+					<l>Do: Gualterus Zoutmaat Pred: te Obdam</l>
+					<l>Do: Alterus Henderiekus van Hulstijn</l>
+					<l>Prediekant te beekberge</l>
+					<l>Do: Gualteres Zoutmaat Pred: te Berge</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Do: Dirk Lesier Pred: te Quadijk</l>
+					<l>Do: Johannes Scholte Pred: op de beets</l>
+					<l>Do: Justus Tjeenke Pred: te Waal &amp; Honswijk</l>
+					<l>Do: Henriekus Kuijlenburg Pred: te Knollendam</l>
+					<l>En marken binnen</l>
+					<l>Do: Johannis Aarnoldus Heeser Pred te Wijk</l>
+					<l>aan Zee</l>
+					<l>Do: Gerardus Puppicus Kramer</l>
+					<l>Do: N: N: Cok Propenente onder ALlkmaar</l>
+					<l>En ten Selven dage dit Sestal</l>
+					<l>Do: J: Klinkamer te Pette</l>
+					<l>Do: Gu: Zoutmaat te Opdam</l>
+					<l>Do: D: Lesier te Quadijk</l>
+					<l>Do: J: Scholte op de bees met het lot tegens</l>
+					<l>Zoutmaat Bergen</l>
+					<l>Do: G: Kramer N. Cok propenente</l>
+					<l>En dese Propenente hebbe den 28 September</l>
+					<l>Op haar beroep Gepreekt voor de middag</l>
+					<l>Kramer uijt Matt 8 V: 11 En na de middag</l>
+					<l>D Cok uijt Coloss: 3 V: 1`:2 En dien Selve dag</l>
+					<l>uijt dit Sestal met meerderhijt Van Stemme</l>
+					<l>beroeppe Jacob Klinkhamer Eender &amp; Leeraar</l>
+					<l>tot Pette En dien Selve dag door de</l>
+					<l>Agtbaare Magiestraat Gunstig</l>
+					<l>Geapprobeert</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>Zoo dat onse oude Herder &amp; Leeraar</l>
+					<l>Corparis Henderiecus van Heijmenberg</l>
+					<l>Bijna 41 Jaar Gestaan heeft &amp; heeft</l>
+					<l>Den 24 October Zijn afscheijts Predicatie</l>
+					<l>Gedaan met de Woorde uijt <informatiebron>2 Corents V: 12:13:14</informatiebron></l>
+					<l>En den 2 November 1762 is Jacob  Klinkhamer</l>
+					<l>Door den heere kerk Raat Namelijk</l>
+					<l>als ouderlinge Gerrit Bleeker &amp;</l>
+					<l>Cornelis Ploeger &amp; Bur=. Alewijn Haantjes</l>
+					<l>Diakenen Pieter Baltesz &amp; Meester</l>
+					<l>Dirk ten Dam &amp; Cornelis Dingenom</l>
+					<l>En is gehaalt met Een boeijer van Crommenie</l>
+					<l>Van Alkmaar door Burg= haantjes</l>
+					<l>En Meest= Ten Dam &amp; C: Ploeger &amp; Van</l>
+					<l>De Andere kereraat met haar Vrouwen</l>
+					<l>met Een Boeijer van Saardam &amp; mee</l>
+					<l>Gehaalt van Pette &amp; is in gesegent</l>
+					<l>op den 14 November Door d=. Petrus</l>
+					<l>Poorten van Pred= te Wesennen met de Woorde</l>
+					<l>uijt s<informatiebron> Petri 5 V: 2: 3: 4</informatiebron> &amp; onse Niew</l>
+					<l>beroepe Predekant Jacob Klinkhamer dede</l>
+					<l>Nade Middag sijn intre uijt<informatiebron> Openb: 14 V: 3</informatiebron></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>in Het Jaar 1762</l>
+					<l>Den 6 Junij Ben ik Pieter Cornelisz</l>
+					<l>Dingenom met mijn Vrou Aagtje Jans</l>
+					<l>Rot door Casparis Henderiekus Van Heijmenberg</l>
+					<l>in de Huewelijk en Staat bevestigt,</l>
+					<l>in Het Jaar 1763</l>
+					<l>Tussen den 10 &amp; 11 Maeij Nagts de klok  12 uuren</l>
+					<l>is mijn Vrouw bevalle Van Een dogter</l>
+					<l>Trijntje Pieters Dingenom &amp; is Gedoopt van</l>
+					<l>Jacob Klinkhamer tot Wormerveer den 12 Maeij</l>
+					<l>Sijnde op Hemel Vaars dag</l>
+					<l>En die Selvende dag Mijn Vrous vader Savons</l>
+					<l>11 uuren</l>
+					<l>Jan Taasz Rot na een siekte van 6 Weeken</l>
+					<l>in den Heere ontslape in den ouderdom</l>
+					<l>Van 65 Jaaren 10 maande &amp; 7 daagen</l>
+					<l>&amp; is begraven den 17 dito middags Klok</l>
+					<l>in &apos;t Jaar 1764</l>
+					<l>Half een uur</l>
+					<l>den 26 Maart is Mijndert van Swieten</l>
+					<l>in den Huwelijk Staat bevestig met</l>
+					<l>Gerrit Panpier met Trijntje Jans Rot</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>in Het Jaar 1764</l>
+					<l>den 16 desember is Klaartje Jans Rot</l>
+					<l>De Huijs Vrouw Van Cornelis Hille</l>
+					<l>Na Een Siekte van 4 dage <hi rend='strikethrough:true;'>over</hi> in den</l>
+					<l>Heere ontsplaape den 16 dito Nademiddag</l>
+					<l>de Klok half vier uure</l>
+					<l>in den ouderdom van 25 Jare</l>
+					<l>3 maanden 19 dage</l>
+					<l>En is begrave den 21 Dito middags klok 12 u</l>
+					<l>in Het Jaar 1765</l>
+					<l>den 1 Desember is in den Huwelij Staat</l>
+					<l>bevestig Carel de Man met</l>
+					<l>Maartje Jans Rot</l>
+					<l>@@</l>
+					<l>in Het Jaar 1764</l>
+					<l>den 27 October is Smorgens overleeden</l>
+					<l>Onse oude &amp; Hoogweerde Leeraar Casparus</l>
+					<l>Henderiekus Van Heijmenberg</l>
+					<l>den 4 November Heeft onse Leeraar</l>
+					<l>Jacob Klinkhamer Een Lijk predikasie</l>
+					<l>Gedaan uijt<informatiebron> Hebreen 13 V: 7 het Eerste deel</informatiebron></l>
+					<l>de Gedaan op Wormerveer Smorgens</l>
+					<l>den 4 November</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>In Het Jaar 1767</l>
+					<l>Den 15 November heeft onse Leraar</l>
+					<l>Jacob Klinkhamer een Leereden gedaan</l>
+					<l>Over het Vergrooten Van onse Kerk</l>
+					<l>tot Wormerveer Sijn tex Woorden geweest</l>
+					<l>uijt <informatiebron>Jesaia 54 Vers 2 &amp; het eerste gedeelte</informatiebron></l>
+					<l><informatiebron>van het derde Vers</informatiebron></l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l>In &apos;t Jaar 1782 Doe Wij Met</l>
+					<l>Brittanie in Oorlog Waaren hebben Wij</l>
+					<l>Hier Maandelijkse Bedestonde Gehoude</l>
+					<l>en Werde Van Onse Overighijt bepaalt</l>
+					<l>Den Laaste Woensdag in d Maand</l>
+					<l>En dat heeft Zyn begin Genomen</l>
+					<l>Op Woensdag Avond Den 29 Maij 1781</l>
+					<l>En Doe ter gelegenhijt heeft Jacob Klinkhamer</l>
+					<l>Prediekant te Wormerveer</l>
+					<l>Zijn Redenvoering Gehad uijt</l>
+					<l><informatiebron>Jeremia 6 &apos;t Eerste gedeelde Van &apos;t 4 Vers</informatiebron></l>
+					<l>Heijliget den Krijgh tegen haar maakt u Op</l>
+					<l>Ende Laet Ons Optrekken in den middag</l>
+					<l>En d&apos; 2<hi rend='superscript:true;'>de</hi> bestonde den 26 Junij 1782</l>
+					<l>uyt<informatiebron> Psalm 43 Laaste gedeelte uyt &apos;t Eerste Vers</informatiebron></l>
+					<l>Bergt my Van het ongoedertieren Volk Van</l>
+					<l>Den man des bedroghs ende des Onrechts:</l>
+					<l>En d&apos; 3<hi rend='superscript:true;'>de</hi> bestonde den 31 Julij 1782</l>
+					<l>uijt <informatiebron>Psalm 137 Vers 8</informatiebron></l>
+					<l>O Dogter Babels, die Verwoest sult Worde#</l>
+					<l>Wel gelukkig sal hy Zyn die u uwe misdaat</l>
+					<l>Vergelden sal die gy aan ons misdaan hebt</l>
+					<l>En d&apos; 4<hi rend='superscript:true;'>de</hi> bestonde den 28 Augustus 1782</l>
+					<l>uyt<informatiebron> Spreu: 24 Vers 10</informatiebron></l>
+					<l>Vertoont gij u Slap ten dage der benauwtheijt</l>
+					<l>uwe kragt is nauwe</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>En d 5<hi rend='superscript:true;'>de</hi> bestonde den 25 September 1782</l>
+					<l><informatiebron>uyt Jeremia 49 Vers 15</informatiebron></l>
+					<l>Want Siet ik hebben kleyn gemaakt onder</l>
+					<l>de Heydenen: Veragt onder de Menschen</l>
+					<l>En d&apos; 6<hi rend='superscript:true;'>de</hi> bestonde den 30 October 1782</l>
+					<l>uyt <informatiebron>Jesaia 26 het Eerste Gedeelte van &apos;t 18 Vers</informatiebron></l>
+					<l>Wy waren berrugt wy hadde de Smerten maar</l>
+					<l>Wy hebben niet als Wint gebaart</l>
+					<l>En d&apos; 7<hi rend='superscript:true;'>de</hi> bestonde is Gehouden Deser plaas</l>
+					<l>Den 1 Desember 1782 Doordat Woensdag</l>
+					<l>Avond den 27 November 1782 ten 5 Uuren</l>
+					<l>Brand Onstond in den Olij Molen d&apos; Kat</l>
+					<l>tegen Over Zaandijk in de Kalver Polder</l>
+					<l>En Zijn Leerreden doe gedaan op Zondag Morgen</l>
+					<l>Den 1 Desember 1782</l>
+					<l>uyt <informatiebron>2 Corinte 1 Vers 10</informatiebron></l>
+					<l>Die ons uit Soo Grooten doot Verlost heeft</l>
+					<l>Ende nog Verlost: op Welcken Wij hopen,</l>
+					<l>Dat hy ons ook nog Verlossen Sal,</l>
+					<l>En d&apos; 8<hi rend='superscript:true;'>st </hi>bestonde den 25 Desember 1782</l>
+					<l>Op den Eerste Kersdag Nademiddag</l>
+					<l>En toe dank preek En bedestonde gehoude</l>
+					<l>uijt den Selve tex uijt<informatiebron> Job 2 Vers 10</informatiebron></l>
+					<l><informatiebron>&apos;t Middelste gedeelte Van dat Vers</informatiebron></l>
+					<l>Ja souden Wij het goede Van God ontfangen</l>
+					<l>Ende het Quade niet ontfange</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l>En Dit is &apos;t navolgende nog Van</l>
+					<l>De Bedestonde</l>
+					<l>En d&apos; 9<hi rend='superscript:true;'>de</hi> bedestonde Den 29 Januarij <hi rend='strikethrough:true;'>1781</hi></l>
+					<l><hi rend='underlined:true;'>1783</hi></l>
+					<l>uyt</l>
+					<l><informatiebron>Jerimia 8 Vers 15</informatiebron></l>
+					<l>Men Wagt na Vrede, maar daar en is</l>
+					<l>niet goets, na tijt van genesinge, maar</l>
+					<l>siet daar is Verschrickinge</l>
+					<l>En d&apos; 10<hi rend='superscript:true;'>de</hi> Bedestonde den 26 februarij 1783</l>
+					<l>uyt</l>
+					<l><informatiebron>Duitero: 20 Vers 12</informatiebron></l>
+					<l>Dog Soo Sy geenen Vrede met u sal</l>
+					<l>maken, maar krijgh tegens u Vooren:</l>
+					<l>Soo Sult gij se belegeren</l>
+					<l>En doe heeft de maandelijkse</l>
+					<l>Bedestonde Een Eynde Genomen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Liefde - Gaaven</l>
+					<l>Door de Respertive Ingesetenen</l>
+					<l>In Verschijde Steeden En Dorpen</l>
+					<l>Van Holdand En Elders</l>
+					<l>Vrijwillig Samen Gebragt</l>
+					<l>tot Onderstuening Van d&apos;Ingesetenen</l>
+					<l>En Herstel der Schaade door de</l>
+					<l>Overstroming Veroorsaakt in den Jaare 1784</l>
+					<l>Amsterdam  77000 = 0 = 0</l>
+					<l>Assendelft 515 = 5 = 0</l>
+					<l>Andijk 229 = 2 = 0</l>
+					<l>Alkmaar En</l>
+					<l>Omliggende dorpen <hi rend='underlined:true;'>7000 = 0 = 0</hi></l>
+					<l>Ƒ 84744 = 7 = 0  Ƒ 84744=7</l>
+					<l>Brielle 1228 = 17 = 0</l>
+					<l><hi rend='underlined:true;'>Beverwijk 308 = 9 = 0</hi></l>
+					<l>1537 = 6 = 0  Ƒ 1537=6</l>
+					<l>Charlois 306 = 10 = 0   306=10</l>
+					<l>Dordrecht En</l>
+					<l>Onderhoorige Plaatsen  10456 = 6 = 0  <hi rend='underlined:true;'> Ƒ 10456=6</hi></l>
+					<l>97044=9</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>Transport Van de Andere Zij</l>
+					<l>Delft  9449 = 9 = 0</l>
+					<l>Delfshaaven  <hi rend='underlined:true;'>1171 = 8 = 8</hi></l>
+					<l>Ƒ 10620 = 17 = 0</l>
+					<l>Enkhuijse  5407 = 13 = 0</l>
+					<l>Grotebroek  636 = 15 = 0</l>
+					<l><hi rend='underlined:true;'>Groot Ammers  140 = 2 = 0</hi></l>
+					<l>776 = 17 = 0</l>
+					<l>Haarlem  16728 = 10 = 0</l>
+					<l>Hoorn  6450 = 0 = 0</l>
+					<l>Hem  54 = 9 = 0</l>
+					<l>Halster Ambagt  1350 = 0 = 0</l>
+					<l>Harderwijk  3341 = 14 = 0</l>
+					<l>Hilversom  221 = 9 = 0</l>
+					<l>s: Hage  20263 = 14 = 0</l>
+					<l>Huijsen  560 = 0 = 0</l>
+					<l>Hillegom  <hi rend='underlined:true;'>508 = 0 = 0</hi></l>
+					<l>49477 = 16 = 0</l>
+					<l>Jisp  179 = 5 = 0</l>
+					<l>Kooij  1600 = 0 = 0</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>97044 = 9 = 0</l>
+					<l>10620 = 17 = 0</l>
+					<l>54073 = 13 = 0</l>
+					<l>776 = 17 = 0</l>
+					<l>49477 = 16 = 0</l>
+					<l>179 = 5 = 0</l>
+					<l><hi rend='underlined:true;'>1600 = 0 = 0</hi></l>
+					<l>Ƒ 165106 = 17 = 0</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Trans Port Van Hiernaast </l>
+					<l>Crommenie  1281 = 0 = 0</l>
+					<l>Crommeniedijk  <hi rend='underlined:true;'>102 = 9 = 0</hi></l>
+					<l>1383 = 8 = 0</l>
+					<l>Leyde  <hi rend='underlined:true;'>12000 = 0 = 0</hi></l>
+					<l>Maassluijs  739 = 6 = 0</l>
+					<l>Maasland  <hi rend='underlined:true;'>262 = 13 = 0</hi></l>
+					<l>1001 = 19 = 0</l>
+					<l>Naarde  603 = 10 = 0</l>
+					<l>Oostsanen  308 = 1 = 0</l>
+					<l>Oostsaandam  <hi rend='underlined:true;'>4150 = 15 = 0</hi></l>
+					<l>4458 = 16 = 0</l>
+					<l>Rosenburg  100 = 0 = 0</l>
+					<l>Schiedam  2556 = 14 = 0</l>
+					<l>Tergoes  1516 = 0 = 0</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>165106 = 17</l>
+					<l>1383 = 8</l>
+					<l>12000 = 0</l>
+					<l>1001 = 19</l>
+					<l>603 = 10</l>
+					<l>4458 = 16</l>
+					<l>100 = 0</l>
+					<l>2556 = 14</l>
+					<l><hi rend='underlined:true;'>1516 = 0</hi></l>
+					<l>Ƒ 188727 = 4</l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>Trans Port Van de Andere Zy  ---188727 = 4</l>
+					<l>Utregt  ---8595 = 12 = 0   8595 = 12</l>
+					<l>Vlaardinge  ---607 = 16 = 0</l>
+					<l>Venlo  ---175 = 0 = 0</l>
+					<l>Swisser aldaar  ---30 = 0 = 0</l>
+					<l>Venhuyse  ---105 = 10 = 0</l>
+					<l>918 = 6 = 0   918 = 6</l>
+					<l>Wormer  ---692 = 6 = 0</l>
+					<l>Wormerveer  ---2370 = 9 = 0</l>
+					<l>Wessanen  ---2205 = 9 = 0</l>
+					<l>Westsaandam  ---5486 = 6 = 0</l>
+					<l>10754 = 10 = 0   10754 = 10</l>
+					<l>Jsselteijn  ---968 = 17 = 0   968 = 17</l>
+					<l>Zaandijk  ---2010 = 16 = 0   <hi rend='underlined:true;'>2010 = 16</hi></l>
+					<l>Ƒ 211975 = 5</l>
+					<l>Dese is de Geeheele Som uijt dese</l>
+					<l>bovenste Plaase Gecollecteert</l>
+					<l>En tot Wormerveer is Er voor Geloopen</l>
+					<l>Den 20 April 1784 Door dese Navolgende</l>
+					<l>Personen</l>
+					<l>Willem Kuijk  </l>
+					<l>Cornelis Wajer  Zuijd &apos;End</l>
+					<l>Cornelis Schenk </l>
+					<l>Siemon Schermer Noord End</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1786 Den 3 September is</l>
+					<l>Ham Es met Trijntje Dingenom</l>
+					<l>Getrouwd tot Zaandyk in Kerke</l>
+					<l>Door domene Hagenberg</l>
+					<l>1787 Den 18 november Zondag S morgens</l>
+					<l>Heeft domene Jacob Klinkhamer</l>
+					<l>Zijn Vijf En twintigs Jaar Een Preek gedaan</l>
+					<l>uijt <informatiebron>Handelinge 26 Vers 22</informatiebron></l>
+					<l>Dan hulpe Van God Verkregen hebbende</l>
+					<l>Sta ik tot op desen dag betuijgende bey de klijn</l>
+					<l>End Groot niets Seggende buijten hetgeene de</l>
+					<l>Propheten ende Moses Gesproken hebben</l>
+					<l>dat geschieden Soude</l>
+					<l>En Voor Gesonge Psalm 119 Vers 7</l>
+					<l>En Na Gesonge Psalm 71 Vers 12 &amp; 13</l>
+					<l>En heeft Ons Verhaalt doc hy by Ons Zyn dienst</l>
+					<l>Aanvaarde d&apos;Gemeente Gevende van 250 Leeden</l>
+					<l>Dat Er nu nog Van in Leeven Waaren 80 Leeden</l>
+					<l>Dat het nu in Syn tijt Vergroot Was op 421 Leeden</l>
+					<l>En nog 3 Van d&apos; Kerkraats persoon nog</l>
+					<l>In Weesen Waaren En nu ter tyt</l>
+					<l>Burgermeesters naamelijk</l>
+					<l>Pieter d&apos; Jager</l>
+					<l>Pieter Baltusz</l>
+					<l>Jan d Vries</l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>1788 Den 11 September is myn</l>
+					<l>Dogter Tryntje Dingenom bevalle</l>
+					<l>van Een dogter savons d&apos; Klok half Elf ure</l>
+					<l>En Zondag daar Aan Gedoopt in d</l>
+					<l>Zaandijkerkerk na de middag door</l>
+					<l>de Broeder van Domenie</l>
+					<l>Jan Antonij Hachenberg</l>
+					<l>En Genaamt Antje</l>
+					<l>1790 Is Jacob Klinkhamer</l>
+					<l>Rustent Predickant geworde Alhier</l>
+					<l>Dat daar is op den 20 Augustus 1790</l>
+					<l>Een 6 Tal van Prediekante gemaakt</l>
+					<l>Als Volgt</l>
+					<l>J: Hogerwal te berge</l>
+					<l>J: Warmelo Grootschermer</l>
+					<l>Tasman Knollendam En marke binne</l>
+					<l>Rollerus Durgerdam</l>
+					<l>Van d. Vies Wormer</l>
+					<l>Van Eyken Marke Buijte</l>
+					<l>En daar uyt op het 3 Tal gebragt</l>
+					<l>Hogerwal te berge</l>
+					<l>Warmelo Grootschermer</l>
+					<l>Tasman Knollendam &amp; Marke binne</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>En Hoger Wal heeft Voor d&apos; Nommenatie</l>
+					<l>bedankt En tot Vervulling is op</l>
+					<l>Den 2 september op het 3 tal gebragt</l>
+					<l>Rollerus tot Durgerdam</l>
+					<l>En Den @9 dito beroepen uyt het drietal</l>
+					<l>Jacob Warmelo Prediekant</l>
+					<l>Tot Grootschermer</l>
+					<l>En Den 21 Noveber is Domene</l>
+					<l>Jacob Warmelo bevestigt Door Domene</l>
+					<l>Jacobus Van Lingen Prediekant tot</l>
+					<l>Vessanen met d&apos; Woorde uijt<informatiebron> Matt: 13 Vs 52</informatiebron></l>
+					<l>En na de middag heeft J<hi rend='superscript:true;'>b</hi> Warmelo</l>
+					<l>Zyn intree gedaan met d&apos; woorde<informatiebron> 1 Corente 3 v<hi rend='superscript:true;'>s</hi> 11</informatiebron></l>
+					<l>1789 Den 10 Desember is Overleden</l>
+					<l>Maartje Jans Rot Huysvrouw Carel d. Man</l>
+					<l>Aan Een uijtterende Siekte in den Ouderdom</l>
+					<l>van 49 En een half jaar En begraven</l>
+					<l>Den 15 Desember tot Wormer In d. kerk</l>
+					<l>1792 Den 10 Augustus Is Overleden</l>
+					<l>Tryntje Jans Rot d&apos; Huysvrouw V. P<hi rend='superscript:true;'>r</hi> schonewil</l>
+					<l>Aan verval van Kragte en den Ouderdom</l>
+					<l>van 58 Jaar En begraven den 14 Augustus</l>
+					<l>Tot Crommenie In kerk na de</l>
+					<l>middag de Klok 2 uuren</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+			<p>
+				<lg>
+					<l>1793 Den 28 Januarij Is Overleden</l>
+					<l>Cornelis Dingenom Zoon V= H: Dingenom</l>
+					<l>Aan Een uytteerende Siekte In den Ouderdom</l>
+					<l>Van 16 En Een half Jaar En begraven</l>
+					<l>den 2 februaij tot Crommenie in d&apos; Kerk</l>
+					<l>na d&apos; Middag d&apos; Klok 2 Uuren</l>
+					<l>1794 Den 3 Desember is Mijn Vrouw</l>
+					<l>Aagtje Jans Rot in Verval Van</l>
+					<l>Kragte Overleden Savons de Klok</l>
+					<l>Elf uuren in den Ouderdom</l>
+					<l>Van 67 Jaaren en 2 Maande</l>
+					<l>En begraven den 9 Desember na d&apos; Middag</l>
+					<l>d&apos; Klok 2 Uuren op &apos;t Noorder Kerkhof</l>
+					<l>In N<hi rend='superscript:true;'>o</hi> 175</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1795 Den 17 Julij is Overleeden</l>
+					<l>Aaltje Harmens Van der Velde</l>
+					<l>In den Ouderdom van 76 Jaaren</l>
+					<l>En begraaven den 23 Julij 1795</l>
+					<l>Na de middag de Klok 2 Uuren</l>
+					<l>Tot Crommenie In de Kerk</l>
+					<l>1795 Den 29 Julij is Tot Amsterdam</l>
+					<l>Overleeden Pieter Fronken</l>
+					<l>In den Ouderdom Van 56 Jaaren</l>
+					<l>4 maanden En 13 dagen</l>
+					<l>En begraven den 4 Augustus 1795</l>
+					<l>Na de middag de Klok 2 Uuren</l>
+					<l>Tot Wormerveer In d&apos; Kerk</l>
+					<l>1800 Den 1 November is Overleden tot</l>
+					<l>Crommenie Arend Dingenom na</l>
+					<l>Een Siekte Van 6 dagen in den Ouderdom</l>
+					<l>Van 59 Jaren en 7 maande</l>
+					<l>En begraven den 8 November tot</l>
+					<l>Crommenie in d&apos; Kerk d&apos; Klok 2 Uuren</l>
+				</lg>
+			</p>
+			<pb n='15'/>
+			<p>
+				<lg>
+					<l>Dit Volgende heb ik Pieter Dingenom</l>
+					<l>Over Geboekt Zo Als <informatiebron>mijn Vader Cor Dingenom</informatiebron></l>
+					<l>het Heeft <waarneming waarneming='Geschreven / Gelezen'>Aan Getekent </waarneming>Zo Als hier Na Volgt</l>
+					<l>1728 Den 14 februarij Op Zaterdag tussen 11 en 12 Uren#</l>
+					<l>Is Pieter Jansz Dingenom Verongelukt in &apos;t Eys</l>
+					<l>Dat  Hy na Zaardam toe gingh en dat een Lant¬</l>
+					<l>langte Over de Watering en dat een Quartier</l>
+					<l>Gaans benoorde het Guijspad en is des Maandags</l>
+					<l>Den 16 februarij S morgens ten 8 Uren gevonden</l>
+					<l>En is begraven op Donderdag den 19 february</l>
+					<l>tot Crommenie in de Kerk</l>
+					<l>In den Ouderdom van 45 Jaren</l>
+					<l>1730 Den 12 february</l>
+					<l>Is Jan Pietersz Dingenom</l>
+					<l>En Guurtje Dirks Jonker</l>
+					<l>Gertrouwt tot Crommenie in de Kerk</l>
+					<l>1731 Den 6 Junij is Cornelus Lammersz</l>
+					<l>Gestroven en des Sondaags daar Aan</l>
+					<l>Begraaven tot Assendelft in de Kerk</l>
+					<l>In den Ouderdom van 73 Jaaren</l>
+					<l>1736 Den 25 November</l>
+					<l>Is Barend franke Weedunaar</l>
+					<l>Met Trijntje Pieters Dingenom</l>
+					<l>Getrouwt tot Wormerveer in de kerk</l>
+				</lg>
+			</p>
+			<pb n='16'/>
+			<p>
+				<lg>
+					<l>1737 Den 7 July</l>
+					<l>Is Cornelis Pietersz Dingenom</l>
+					<l>met Aaltje Arens de Wilde</l>
+					<l>Getrouwt tot Crommenie in de Kerk</l>
+					<l>1737 Den 15 Desember</l>
+					<l>Is Dirk Arensz de Wilde</l>
+					<l>met Neeltje Jacobs Bijl</l>
+					<l>Getrouwt tot Ryp in de Kerk</l>
+					<l>1738 Den 19 Januarij</l>
+					<l>Is Jacob Arenss de Wilde</l>
+					<l>met Ida Jans Bleeker</l>
+					<l>Getrouwt tot Crommenie in de Kerk</l>
+					<l>1737 Den 24 October Z avons ten 7 Uren</l>
+					<l>Is Trijntje Pieters Dingenom bevallen</l>
+					<l>Van Een Dogter en Zondaags daar Aan</l>
+					<l>Gedoopt met naam Grietje</l>
+					<l>Tot Wormerveer In de Kerk</l>
+					<l>1738 Op Vrijdag Den 2 Maij Middags ten</l>
+					<l>Is mijn Vrouw Aaltje Arens de Wilde 12 Uren</l>
+					<l>bevalle Van Een Zoon en Zondaags daar</l>
+					<l>Gedoopt met de Naam Pieter</l>
+					<l>Tot Crommenie in de Kerk den 4 May</l>
+					<l>Cornelis Pietersz Dingenom</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1738 Den 15 Junij is de Huys Vrouw</l>
+					<l>Van Dirk de Wilde Neeltje Jacobs Byl</l>
+					<l>bevallen Van Een Zoon Zondaags Morgen</l>
+					<l>Ten 4 Uuren En is Donderdag daar Aan</l>
+					<l>Gedoopt met de Naam Arend</l>
+					<l>Tot Purmerent in de Kerk</l>
+					<l>1738 Den 22 Junij is de Huys Vrouw</l>
+					<l>van Cornelis Ouddorp Lysbet Arens de Wilde</l>
+					<l>bevallen Van Een Dogter Op Zondag Z avons</l>
+					<l>Ten 5 Uuren en Zondaags daar Aan Gedoopt</l>
+					<l>met de Naam Trijntje tot Crommenie in d&apos; Kerk</l>
+					<l>1738 Den 11 September de Huijs Vrouw</l>
+					<l>Van Jacob de Wilde Ida Jans bleeker</l>
+					<l>Bevallen Van Een Zoon Donderdag S middags</l>
+					<l>Ten 12 Uuren En Is Zondaags Aan Gedoopt</l>
+					<l>met Arend tot Crommenie In de Kerk</l>
+					<l>1738 Den 15 November op Zaterdag is</l>
+					<l>Arens Jbsz d&apos; Wilde begraaven de Zoon</l>
+					<l>Van Jacob Arentsz de Wilde Out 9 Weeken</l>
+					<l>1738 Den 24 Desember is begraaven</l>
+					<l>het Kint Van Cornelis Ouddorp</l>
+					<l>1739 Den 15 maart de Huys Vrouw Van</l>
+					<l>Barend frouke Tryntje Pieters Dingenom</l>
+					<l>bevallen Van Zoon Zondaags Avons ten 10 Uuren</l>
+					<l>En den 22 Maart gedoopt met de Naam Pieter</l>
+					<l>Tot Wormerveer In de Kerk</l>
+				</lg>
+			</p>
+			<pb n='17'/>
+			<p>
+				<lg>
+					<l>1740 Den 5 May is Een Kind</l>
+					<l>Overleeden Van Jacob A<hi rend='superscript:true;'>sz</hi> de Wilde</l>
+					<l>In den Ouderdom van 11 Weeken</l>
+					<l>1740 Den 20 Januarij Is de Huijs Vrouw</l>
+					<l>Van Cornelis Ouddorp Lysbet H: de Wilde</l>
+					<l>bevallen Van Een Dogter Op Woensdag</l>
+					<l>Middag en Zavons gedoopt Met de Naam</l>
+					<l>Van Trijntje tot Crommenie I Kerk</l>
+					<l>1740 Den 30 Julij is de Huys Vrouw Van</l>
+					<l>Dirk Arensz de Wilde Neeltje Jacobs Byl</l>
+					<l>bevallen Van Een Zoon Donderdag Morgen</l>
+					<l>ten 4 Uuren En op Zondag Gedoop</l>
+					<l>met de <hi rend='strikethrough:true;'>abc</hi> Naam Jacob</l>
+					<l>In de Kerk tot Ryp</l>
+					<l>1740 Den 12 february Is de Huys Vrouw Van</l>
+					<l>Jacob Arensz de Wilde Ida Jans Bleeker</l>
+					<l>bevallen Van Een Dogter S avons ten Uuren </l>
+					<l>En Zondags daar Aan Gedoopt met de</l>
+					<l>Naam Van Grietje tot Crommenie In d&apos;Kerk</l>
+					<l>1740 Den 21 Junij Is de Huys Vrouw Van</l>
+					<l>Barend Fronke Tryntje Pieters Dingenom</l>
+					<l>bevallen Van Een Dogter Op Dingsdag Middag</l>
+					<l>Tussen 11 en 12 Uuren en Zondaags daar aan</l>
+					<l>Gedoopt Met de Naam Antje</l>
+					<l>Tot Wormerveer In de Kerk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Een Verhaal Van de Harde Winter</l>
+					<l>Van &apos;t Jaar 1740 Als Hier Na Volgt</l>
+					<l>Den 4 Januarij op Maandag Morgen</l>
+					<l>Nat de Wint Oost met Sneeuw Vermengt</l>
+					<l>den 5 dito begon te Vriese den 6 dito Liep</l>
+					<l>de Zaan digt met grond Is digt tegen d&apos; Avond</l>
+					<l>Op Donderdag den 1 Dito Liep Men Over de</l>
+					<l>Zaan 3 a 4 Man by Malkander Met Een</l>
+					<l>Ooste Wint die dag voor dag Aan Nam</l>
+					<l>den 8 dito Nam de Wind en Koude hand</l>
+					<l>Over hand Aan den 9 dito Nog al kouder</l>
+					<l>En &apos;t Wayde uyt den Oosten met een heldere</l>
+					<l>Lugt dat de Olie Molens met 6 en 7 a 8 borde</l>
+					<l>Afname en Sommige lieten het Staan door de</l>
+					<l>Groote koude den 10 dito Wayde het Nog</l>
+					<l>Harder Met Een Helder Lugt gelijk de</l>
+					<l>Voriege dagen en Vroor zo hart en het Was</l>
+					<l>so kout als het geen Menschen huegen Mogt</l>
+					<l>Over treffende het Jaar Van 1709</l>
+					<l>Den 11 dito S morgens Was &apos;t Nog kouder</l>
+					<l>Doe betrok de Lugt en de Wind die begon</l>
+					<l>hand over hand te Stillen den 12 dito Stilde de</l>
+					<l>Wind nog Meer en Voorts begon t&apos; Mooy Weer</l>
+					<l>En Stil te Worde Maar nog fyn kout</l>
+					<l>Voor Was het Mooy Winter Weer dan Was de</l>
+					<l>Wind Oost Noord Oost, West en Noordwest</l>
+					<l>Maar Meest aan het Zuijden en Zuydwest</l>
+					<l>Meest Alle Nagten Vriesen en de Kouste</l>
+					<l>Nagte heeft het Wel 4 duym dik gevrooren.</l>
+				</lg>
+			</p>
+			<pb n='18'/>
+			<p>
+				<lg>
+					<l>Dit Nog Volgende Van t Jaar 1740</l>
+					<l>Het heeft Weijnig gesnuut Niet boven</l>
+					<l>De 3 duym dik dat al in het begin de</l>
+					<l>Schaestreyer heeft met Veel Wil Van het</l>
+					<l>Eys gehad Maar de Parde Sleese beeter</l>
+					<l>Het Was goet paarde Eijs de Snee dooyde Wel</l>
+					<l>Wat Weg maar kwam Schielyk meer bij</l>
+					<l>Het Eijs hier 18 duym dik op plaase Meer</l>
+					<l>Of minder Ze Reeden Met Wagens Karren</l>
+					<l>En Sleesen Over Eys of het dijk Was een</l>
+					<l>Koeswage Met 3 paarden is hier op de Zaan</l>
+					<l>Voor by gegaan @arreslee by 6 a 7 Agter Een</l>
+					<l>Den 11 en 12 Maart begon het te dooijje</l>
+					<l>Den 19 a 20 dito Is de Eerste Schuijt in de</l>
+					<l>Zaan geseeylt Zoo dat de Zaan 72 dagen</l>
+					<l>Is Onbevaar is geweest</l>
+					<l>1740 Den 27 July Is de Huys Vrouw</l>
+					<l>Van Cornelis P<hi rend='superscript:true;'>sz</hi> Dingenom Aaltje A: d&apos; Wilde</l>
+					<l>Verlost Van Een Dogter Op Woensdag</l>
+					<l>na de Middag tussen 4 en 5 Uuren</l>
+					<l>Zondag daar aan Gedoopt Met de </l>
+					<l>Naam Grietje Tot Wormerveer In d&apos; Kerk</l>
+					<l>1741 Den 19 April is Overleeden de Dogter</l>
+					<l>Van Cornelis Dingenom Grietje Op Woensdag</l>
+					<l>S morgens tussen 7 en 8 Uuren Out 38 Weeken</l>
+					<l>Op Zaturdag daar Aan bevraaven</l>
+					<l>S middag te 12 Uuren tot Wormerveer</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1742 Den 7 April Is de Huijs Vrouw Van</l>
+					<l>Cornelis Dingenom Aaltje Arens de Wilde</l>
+					<l>bevallen Van Een Zoon En Zondags daar</l>
+					<l>Aan Gedoopt met de Naam Arend</l>
+					<l>tot Wormerveer In de Kerk</l>
+					<l>1742 Den 18 Junij is de Huijs Vouw Van</l>
+					<l>Jacob Arensz de Wilde Ida Jans Bleeker</l>
+					<l>Bevallen Van Een Dogter En gedoopt</l>
+					<l>Den 24 Junij met de Naam Grietje</l>
+					<l>Tot Crommenie In de Kerk</l>
+					<l>1743 Is tot Crommenie Overleenden</l>
+					<l>Cornelis Oudtorp Op Zondag Van</l>
+					<l>Pinxter Den 2 Junij S morgens tussen 6 en 7 Uuren</l>
+					<l>En Donderdag daar Aan begraaven</l>
+					<l>S middags ten 12 Uuren</l>
+					<l>1744 Tussen den 9 en 10 Maij Zijnde tussen</l>
+					<l>Zaturdag en Zondag heef de Weedu Van</l>
+					<l>Pieter Jansz Dingenom Een toeval Gekregen</l>
+					<l>Datse geen Woorden Van kon krijgen</l>
+					<l>En is den 12 Maij Dingsdag Morgens</l>
+					<l>Ten 5 Uuren Overleeden in den Ouderdom</l>
+					<l>Van 60 Jaar En begraaven op Zaturdag</l>
+					<l>S middag ten 12 Uuren Zynde den 16 Maij</l>
+					<l>Tot Crommenie in de Kerk</l>
+				</lg>
+			</p>
+			<pb n='19'/>
+			<p>
+				<lg>
+					<l>1749 Den 5 November Is Overleeden</l>
+					<l>Jacob Gertsz Smit op Woensdag</l>
+					<l>  tussen 12 en Een uur En</l>
+					<l>Begraven Op Zaturdag Smiddag ten 12 Uuren</l>
+					<l>Op t Noorder Kerkhof tot Crommenie</l>
+					<l>1757 Den 20 November Zondag</l>
+					<l>S morgens ten 5 Uuren Is Overleden</l>
+					<l>Barend fronke In den Ouderdom Van</l>
+					<l>Omtrent 57 Jaaren en Op donderdag</l>
+					<l>Den 24 dito begraaven Op &apos;t Noorder</l>
+					<l>Kerkhof Nademiddag ten 2 Uuren</l>
+					<l>Tot Wormerveer</l>
+					<l>1769 Den 19 maart Is Arend Cornelisz</l>
+					<l>Dingenom Getruwt met Duijfie Corn d&apos; Wit</l>
+					<l>Tot Crommenie In de Kerk</l>
+					<l>1770 Den 7 Junij Is Neeltje Jacobs Bijl</l>
+					<l>De Huys Vrouw Van Dirk Arensz d&apos; Wilde</l>
+					<l>Overleeden En den 12 dito begraaven</l>
+					<l>na de middag ten 2 Uuren Op &apos;t Kerkhof</l>
+					<l>In de Rijp</l>
+					<l>1773 Den 3 Maart Woensdag Avond</l>
+					<l>Tussen 9 en 10 Uuren Over Leeden</l>
+					<l>Jacob Arens de Wilde In den Ouderdom</l>
+					<l>Van Ruijm 60 Jaaren en begraaven</l>
+					<l>Den 9 dito Na de middag de Klok 2 Uuren</l>
+					<l>Tot Crommenie In de Kerk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1774 Den 29 Maij Zondag Morge</l>
+					<l>Is Overleeden Jan Pietersz Dingenom</l>
+					<l>In den Ouderdom Van 66 Jaaren en 9 Maanden</l>
+					<l>En begraave den 2 Junij S middag ten 12 Uuren</l>
+					<l>Tot Crommenie in de Kerk</l>
+					<l>1776 Den 14 October S morgens tussen 5 en 6 Uuren</l>
+					<l>Overleeden Guurtje Dirks Jonker Weedu Van</l>
+					<l>Jan Pietersz Dingenom in den Ouderdom</l>
+					<l>Van 69 Jaar 10 Maande en 13 Dagen en</l>
+					<l>Begraave den 19 dito Op Zaturdag Middag</l>
+					<l>te 12 Uuren tot Crommenie in de Kerk</l>
+					<l>1777 Den 22 Junij Zondag Morgen ten 9 Uuren</l>
+					<l>Is Over Leeden Lijsbet Arens de Wilde</l>
+					<l>In den Ouderdom tussen 72 en 73 Jaaren</l>
+					<l>Den 26 dito begraaven op Middag ten 12 Uuren</l>
+					<l>Tot Crommenie</l>
+					<l>1777 Den 8 November S morgens Een Uur</l>
+					<l>Is Overleeden Neeltje Pieters Dingenom</l>
+					<l>Weedu Jacob Gerretsz Smit in den Ouderdom</l>
+					<l>Van 71 Jaar 7 Maande en 28 dagen</l>
+					<l>Na de Middag ten 2 Uuren den 11 dito</l>
+					<l>Op &apos;t Zuijder Kerkhof tot Crommenie</l>
+				</lg>
+			</p>
+			<pb n='20'/>
+			<p>
+				<lg>
+					<l>1778 Den 14 November Op Zaturdag</l>
+					<l>Morgen ten Half agt Uuren is Overleden</l>
+					<l>Cornelis Pietersz Dingenom in den</l>
+					<l>Ouderdom van 69 Jaar 10 Maande</l>
+					<l>En Op Zaturdag den 21 dito begraaven</l>
+					<l>Op Middag ten 12 Uuren tot Wormerveer</l>
+					<l>In de Kerk Op Letter A. N<hi rend='superscript:true;'>o</hi> 5</l>
+					<l>1778 Den 23 Desember Op Woensdag</l>
+					<l>morgen ten 4 Uuren is <hi rend='strikethrough:true;'>abc</hi></l>
+					<l>Overleeden Dirk Arensz. de Wilde</l>
+					<l>In den Ouderdom Van 64 Jaar en 5 Maande</l>
+					<l>En begraaven op Zondag den 27 dito</l>
+					<l>Op Middag ten 12 Uuren in de Rijp</l>
+					<l>1778 Den 31 Desember hebben Wy hier</l>
+					<l>Omstreek Swaar Onweeder gehad Van</l>
+					<l>Donder en Harde Wind Zo dat daar</l>
+					<l>Door twee molens door &apos;t Weer Zijn Verbrant</l>
+					<l>De Een tot Nauwerneer de Rinmoolen</l>
+					<l>En de Ander de Huijsman Aan de</l>
+					<l>Assen delver Dijk Z avons ten haf Zeeven Uuren</l>
+					<l>1780 Den 5 Junij op maandag Morgen</l>
+					<l>ten 3 Uuren is Overleeden Trijntje Stonken</l>
+					<l>In den Ouderdom van 37 Jaar en 6 maande</l>
+					<l>De Huys Vrouw Van Jan Pietersz Groot</l>
+					<l>En begraaven op Zaturdag den 10 dito</l>
+					<l>tot Wormerveer op &apos;t Noorder Kerfhof</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1781 tussen Zaturdag en Zondag</l>
+					<l>Den 27 a 28 Januarij is Overleeden</l>
+					<l>Antje barens Frouke de Huijs Vrouw Van</l>
+					<l>Cornelis Schoute in den Ouderdom van</l>
+					<l>40 Jaar en 7 maande en begraaven Op</l>
+					<l>Donderdag Den 1 february na de Middag</l>
+					<l>de Klok 2 Uuren tot Wormerveer</l>
+					<l>1784 Den 17 April op Zaturdag Morgen</l>
+					<l>ten Half Zeeven uuren is Overleeden</l>
+					<l>Aaltje Arend d&apos; Wilde Weedu Van</l>
+					<l>Cornelis Pietersz Dingenom in den Ouderdom</l>
+					<l>van 72 Jaar 4 maande en 19 dagen en begraven</l>
+					<l>Op Donderdag den 22 dito Na de Middag te 2 uuren</l>
+					<l>Tot Wormerveer in de Kerk Letter A N<hi rend='superscript:true;'>o</hi> 5</l>
+					<l>1788 Den 7 Junij S avons ten 10 Uuren Op</l>
+					<l>Zaturdag Overleeden Pieter Wittebol</l>
+					<l>In den Ouderdom Zo als Zy gisten van 49 Jaar</l>
+					<l>En begraven Op Donderdag den 12 dito</l>
+					<l>Op middag ten 12 Uuren op &apos;t Zuyder Kerkhof</l>
+					<l>tot Crommenie</l>
+					<l>1788 Den 8 Junij Op Zondag na de Middag</l>
+					<l>ten 4 uuren Is Overleeden</l>
+					<l>Pieter Jansz Dingenom in den Ouderdom</l>
+					<l>Van 54 Jaar en 10 maande en begraaven</l>
+					<l>Op Donderdag den 12 dito na de Middag</l>
+					<l>de Klok 2 Uuren tot Crommenie in de Kerk</l>
+					<l>1809 Den 3 Augustus is tot Oostsaanen</l>
+					<l>Overleeden Duijfje Cornelis de Wit de Weedu Van</l>
+					<l>Arend Cornelisz Dingenom in den Ouderdom</l>
+					<l>van 70 Jaar en 7 Maande en begraaven na</l>
+					<l>de Middag ten 2 Uuren tot Crommenie in de Kerk</l>
+				</lg>
+			</p>
+			<pb n='21'/>
+			<p>
+				<lg>
+					<l><waarneming waarneming='Geschreven / Gelezen'>Aan Teekening </waarneming>Van Een Lijst Van</l>
+					<l><informatiebron>Mijn Moeder </informatiebron>Zyde Aaltje Arens de Wilde</l>
+					<l>Zo Als Hier Nader Volgt Zo als ik heb</l>
+					<l>Aan geteekent Ontfange</l>
+					<l>1702 Den 19 novemer Is Arend Jansz d&apos; Wilde</l>
+					<l>Getrouwt met Trijntje Klaas de Vrij</l>
+					<l>tot Crommenie in d. Kerk</l>
+					<l>1803 Den 9 november Z avons ten 10 a 11 Uuren</l>
+					<l>Is de Huijsvrouw Van Arend Jansz d&apos; Wilde</l>
+					<l>Trijntje Klaas de Vry bevallen Van een dogter</l>
+					<l>En den 11 dito gedoopt Met de Lysbet</l>
+					<l>tot Crommenie in de Kerk</l>
+					<l>1705 Den 19 Desember S morgens ten 9 Uuren</l>
+					<l>Is de Huijs Vrouw Van Arend Jansz de Wilde </l>
+					<l>Tryntje Klaas de Vry bevalle Van Een Zoon</l>
+					<l>En den 20 dito gedoopt Met d naam Van Klaas</l>
+					<l>Tot Crommenie in de Kerk</l>
+					<l>1706 Den 9 Desember S morgens ten 2 Uuren</l>
+					<l>Is de Huys Vrouw Van Arend Jansz de Wilde</l>
+					<l>Tryntje Klaas de Vry bevallen een Dogter</l>
+					<l>En den 12 dito Gedoopt Met Van Neeltje</l>
+					<l>Tot Crommenie in de Kerk</l>
+					<l>En Overleeden den 17 maart 1707</l>
+					<l>1708 Den 29 Junij Z avons ten 7 Uuren</l>
+					<l>Is de Huys Vrouw van Arend Jansz de Wilde</l>
+					<l>Tryntje Klaas de Vry bevallen Van Een Zoon</l>
+					<l>En den 1 July Gedoopt met de naan Jan</l>
+					<l>Tot Crommenie in d&apos; Kerk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1708 Den 16 July is de Huys Vrouw Van</l>
+					<l>Arend Jansz de Wilde Tryntje Klaas d&apos; Vry</l>
+					<l>S morgens ten 8 Uuren Overleeden</l>
+					<l>In den Ouderdom Van 35 Jaaren en 7 dagen</l>
+					<l>1709 Den 3 novemer Is Arend Jansz d&apos; Wilde</l>
+					<l>getrouwt met Grietje Jans de Koen</l>
+					<l>tot Crommenie in de Kerk</l>
+					<l>1710 Den 29 April Is Jan Arensz de Wilde</l>
+					<l>de Zoon van Arend Jansz de Wilde</l>
+					<l>Over Leeden Na de Middag ten 4 Uuren</l>
+					<l>1710 Den 31 Augustus is de Huys Vrouw Van</l>
+					<l>Arend Jansz de Wilde Grietje Jans de Koen</l>
+					<l>bevallen Z avons ten 9 Uuren Van Een Zoon</l>
+					<l>En gedoopt den 4 September tot Crommenie</l>
+					<l>En den 29 Desember 1710 Overleeden</l>
+					<l>1711 Den 29 november Z avons ten 8 Uuren</l>
+					<l>Is de Huys Vrouw Van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van En Dogter</l>
+					<l>Den 6 Desember gedoopt met naam V: Aaltje</l>
+					<l>tot Crommenie in de Kerk</l>
+					<l>1712 Den 19 Desember S morgens ten 9 Uuren</l>
+					<l>Is de Huys Vrouw Van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van Een Zoon</l>
+					<l>En den 25 dito gedoopt Met de Naam V: Jacob</l>
+					<l>Tot Crommenie in de Kerk</l>
+				</lg>
+			</p>
+			<pb n='22'/>
+			<p>
+				<lg>
+					<l>1712 Den 11 July S morgens ten 6 Uuren</l>
+					<l>Is de Huijs Vrouw Van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van Een Zoon</l>
+					<l>En 15 dito Gedoopt met de naam Dirk</l>
+					<l>Tot Crommenie In de Kerk</l>
+					<l>1714 Den 14 Augustus Is Klaas Aarensz d Wilde</l>
+					<l>De Zoon Van Arend Jansz de Wilde</l>
+					<l>Overleeden Na de Middag de Klok 2 Uuren</l>
+					<l>1715 Den 4 October Na de Middag ten 2 Uuren</l>
+					<l>Is de Huys Vrouw van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van Een Zoon</l>
+					<l>En den 6 dito Gedoopt Met de Naam Klaas</l>
+					<l>Tot Crommenie in de Kerk</l>
+					<l>1717 tussen den 11 en 12 July Is Klaas A: d&apos; Wilde</l>
+					<l>de Zoon van Arend Jansz d&apos; Wilde Overleden</l>
+					<l>De Klok 12 Uuren</l>
+					<l>1716 Den 14 Desember S avons ten 8 Uuren</l>
+					<l>Is de Huys Vrouw Van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van Een Zoon</l>
+					<l>En den 20 dito Gedoopt Met de Naan Pieter</l>
+					<l>tot Crommenie in de Kerk</l>
+					<l>1718 Den 19 Desember S avons ten 5 Uuren</l>
+					<l>Is de Huys Vrouw Van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van Een Dogter</l>
+					<l>En den 21 dito Gedoopt Met de Naam Trijntje</l>
+					<l>tot Crommenie In de Kerk</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>1721 Den 11 October Z avons ten 11 Uuren</l>
+					<l>Is Pieter Arendsz de Wilde Zoon V: Arend J<hi rend='superscript:true;'>sz</hi> d&apos; Wilde</l>
+					<l>Overleeden En den 15 dito begraaven tot Crommenie</l>
+					<l>1722 Den 19 maij Smorgens ten 9 Uuren</l>
+					<l>Is de Huys Vrouw Van Arend Jansz de Wilde</l>
+					<l>Grietje Jans de Koen bevallen Van Een Dogter</l>
+					<l>En den 21 Dito Over Leeden tot Crommenie</l>
+					<l>1732 Den 11 Julij Op Donderdag Z avons ten 9 U:</l>
+					<l>Tryntje Arens de Wilde de Dogter Van</l>
+					<l>Arend Jansz de Wilde Overleeden</l>
+					<l>En begraaven den 21 dito tot Crommenie</l>
+					<l>1730 Den 11 Desember Op Maandag</l>
+					<l>Na den middag ten 4 Uuren Overleeden</l>
+					<l>Arend Jansz de Wilde En begraaven</l>
+					<l>Den 18 Desember tot Crommenie in de Kerk</l>
+				</lg>
+			</p>
+			<pb n='23'/>
+			<p>
+				<lg>
+					<l>Een lijst Van Zoals ik die ben Magtig</l>
+					<l>Geworde Van <informatiebron>Barend Fronke</informatiebron> Van Zijn</l>
+					<l>Na Komelinge Als Hier na Volgende</l>
+					<l>1733 Den 12 July Is barend fronke</l>
+					<l>Getrouwt met Grietje Blank tot Knollendam</l>
+					<l>1734 23 maart S morgens ten Uuren Is Zyn</l>
+					<l>Vrouw Grietje Blank bevallen Van Een</l>
+					<l>Dogter en gedoopt met de naam Van Grietje</l>
+					<l>En den 5 April Is Zijn Vrouw Grietje Blank</l>
+					<l>Overleeden In den Ouderdom 28 Jaaren</l>
+					<l>Den 2 Juny Is zijn Dogter Grietje Overleeden</l>
+					<l>1736 Den 25 november Is Barend fronke</l>
+					<l>Getrouwt met Tryntje Pieters Dingenom</l>
+					<l>Tot Wormerveer In de Kerk</l>
+					<l>1737 Den 24 October S avons ten 7 Uuren</l>
+					<l>Is Zyn Dogter Grietje Gebooren</l>
+					<l>1739 Den 15 maart S avons ten ten 10 Uuren</l>
+					<l>Is Zyn Zoon Pieter Gebooren</l>
+					<l>1740 Den 21 Junij S middag ten 12 Uuren</l>
+					<l>Is Zijn Dogter Antje Gebooren</l>
+					<l>1742 Den 21 Desember S morgens tussen 3 en 4 Uur</l>
+					<l>Is Zijn Dogter Trijntje Gebooren</l>
+					<l>1744 Den 1 September S morgens ten ten 3½ Uur</l>
+					<l>Is Zyn Dogter Maartje Gebooren</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Pieter Cornelisz Dingenom</l>
+					<l>Gebooren tot Crommenie Den 2 May 1738</l>
+					<l>Out Zynden 73 en Een Halv Jaar</l>
+					<l>En Op Zaandyk met der Woon</l>
+					<l>Gekoomen met de Maand November 1810</l>
+					<l>Fam Pietersz Es tot Zaandyk Gebooren</l>
+					<l>Den 10 february 1764 Out zynde 47 3/4 Jaar</l>
+					<l>Tryntje Pieters Dingenom Gebooren</l>
+					<l>Tot Wormerveer Den 11 Maij 1763</l>
+					<l>Out Zynde 48 en Een Halv Jaar</l>
+					<l>En Op Zaandyk met der Woon</l>
+					<l>Gekoomen met de Maand September 1786</l>
+					<l>1786</l>
+					<l>Aantje Aams Es tot Zaandijk Geboren</l>
+					<l>Den 11 September 1788 Out 28 Jaar</l>
+				</lg>
+			</p>
+			<pb n='24'/>
+			<p>
+				<lg>
+					<l>1746 Den 24 November S middag ten 12½ Uur</l>
+					<l>Is Zyn Dogter Guurtje Gebooren</l>
+					<l>1748 Den 2 November Na de Middag ten 2 Uuren</l>
+					<l>Is Zyn Dogter Guurtje Overleeden</l>
+					<l>1750 Den 25 May S morgens ten 5 Uuren</l>
+					<l>Is Zyn Zoon Hendrik Gebooren</l>
+					<l>1750 Den 5 Desember S avons 7 Uuren</l>
+					<l>Is Overleeden Tryntje Pieters Dingenom</l>
+					<l>de Huys Vrouw Van Barend Fronke</l>
+					<l>In Den Ouderdom Van 40 Jaaren 10 Maande en 14 dage</l>
+					<l>En is begraaven Op Donderdag S middag ten 12 Uur</l>
+					<l>tot Wormerveer Op &apos;t Noorder Kerkhof</l>
+					<l>1755 Den 20 July Is Barend Fronke</l>
+					<l>Getrouwt Met Aagtje Pieters Smit</l>
+					<l>Tot Wormerveer In de Kerk</l>
+				</lg>
+			</p>
+			<pb n='25'/>
+			<p>
+				<lg>
+					<l>Een verhaal van Zaandam 1814</l>
+					<l>Zaandam den 4 July Zoodra <ontvanger>de Regering</ontvanger></l>
+					<l>Van dese plaas <waarneming waarneming='Mondeling / Gehoord'>kennis had bekomen</waarneming> Van het</l>
+					<l>Voornemen Van Z: M: den Keijser V: Rusland</l>
+					<l>Om Zaandam met een besoek te Vereeren</l>
+					<l>Oordeelde de Zelve het haren pligt te Zyn</l>
+					<l>Om by dese gelegenheyd bysonderlyk te toonen</l>
+					<l>hoe veel belang als nog gesteld Wort in d&apos; Eere</l>
+					<l>Dat dese Stad in de geschiedrolle Van Rusland</l>
+					<l>Vermaand is door &apos;t verblijf van Peter d<hi rend='superscript:true;'>n</hi> Grooten</l>
+					<l>En door desselfs bysondere genegenheyd</l>
+					<l>Overtuygd dat alle Vertooninge Van pragt</l>
+					<l>Al konde men deselve Verschaffen Zouden moeten</l>
+					<l>Afvallen by die Welken door Z: M: in frankrijk</l>
+					<l>Engeland en Elders Waren gesien Oordeelden</l>
+					<l>Men Zig te moeten bepaalen tot Zulke die hem</l>
+					<l>Treffen Moesten door het Plaatselyke of door</l>
+					<l>Herinneringe aan het Voorledene, en Om het</l>
+					<l>Eerste besloot men Wel spoedig tot het daarstellen</l>
+					<l>Van een buytengewoon Watervermaak</l>
+					<l>De Raad der Stad Authoriseerde H: H.Burger¬</l>
+					<l>meesteren en eene Commissie om alles te</l>
+					<l>Applaneren en dese beraamden Zeer Veelen</l>
+					<l>Maatregelen Van Orden en Verders alles Wat</l>
+					<l>Vereyscht Werd tot de Receptie Welke men dagt</l>
+					<l>Dat Reeds op donderdag den 30 Junij Zoude hebben</l>
+					<l>Plaas gevonden en Waar door de tyd Zeer kort Was</l>
+					<l>het welk in vloed had op de uytvoering van</l>
+					<l>Verschillende Voornemens</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><ontvanger>Wij</ontvanger> hebben nu het genoegen gehad om Z: M: </l>
+					<l>Den Keyser Van Rusland op gisteren alhier</l>
+					<l><waarneming waarneming='Gezien'>te Zien</waarneming> Vergezeld door Z: K: H: den Souvereynen</l>
+					<l>Vorst Desselfs Doorlugtige familie en een</l>
+					<l>Zeer Aanzienlijk gevolg</l>
+					<l>Men had de komst Van het hooge gezelschap te</l>
+					<l>Water Van Amsterdam Verwagt en hierom Was het</l>
+					<l>Admiraalschap Van Jagten en boeyers Van d&apos; Zaan</l>
+					<l>Onder bevel van de Heeren Van den Stad H: Houttuijn</l>
+					<l>En A: Broek rees Vroeg in drie Eskaders afgevaren</l>
+					<l>tot aan het begin der Voorzaan alswaar op het punt Van</l>
+					<l>de Rysdam een Vreugde teeken Was Opgerigt Versierd</l>
+					<l>met de Vlaggen Van alle de Verbondene Mogendheeden</l>
+					<l>En Voorzien met het opschrift Liberator Venit</l>
+					<l>Gan demus, De <hi rend='strikethrough:true;'>bevrijder</hi> bevryder komt</l>
+					<l>Wy Zyn Verheugd, Het berigt in den Vroegen morgen</l>
+					<l>Gekomen Zynde dat de Monarch Vooraf na broek in</l>
+					<l>Waterland Zoude gaan Zo Zeylde het admiraalschap</l>
+					<l>Af naar Amsterdam en Salueerde aldaar het hooge</l>
+					<l>Gezelschap bij den Overtogt naar het Tolhuijs</l>
+					<l>Om half Vijf Uren kwamen de hooge gasten, Zij Voldeden</l>
+					<l>Gaarne aan het Versoek om aan de Oostzyde by het Veld</l>
+					<l>de Burg<hi rend='superscript:true;'>t</hi> uyt de Rijtuijgen te Willen gaan en hier Werd</l>
+					<l>de souvereyne Vorst door den heer burgermeester D: Dekker</l>
+					<l>En de Monarch door den Heer K: Mul namens</l>
+					<l>de Regering die aldaar en Corps de Hooge personen</l>
+					<l>Opwagten met Zeer korte aanspraken begroep</l>
+					<l>De stoet ging Van daar naar den dam, alwaar</l>
+					<l>het Logement de Otter zynde het huijs Waar in</l>
+					<l>Peter de Groote op 18 Augustus 1697 het Eerst</l>
+					<l>Dadelyk na Zijne Aankomst intrad</l>
+				</lg>
+			</p>
+			<pb n='26'/>
+			<p>
+				<lg>
+					<l>Tot de Ontvangst Was gereet gemaakt alles wat</l>
+					<l>naar herberg Zweemde Was Wegenomen en het</l>
+					<l>Geheele Huys Was hoe Zeer niet wel met</l>
+					<l>Vorstelijke pracht Echter met Noord hollandsche</l>
+					<l>Outheyd opgesierd op de Zaal Voor den Monarch</l>
+					<l>Waar geene Versierselen allen hin er een grooten</l>
+					<l>Schoon Schilderij Peter den Grooten Verbeeldende</l>
+					<l>De Voor en Achter gevels pronkten met Veelen Vlaggen</l>
+					<l>En Waren geheel Versierd tewyl eene dekoratie voor</l>
+					<l>De deur een gepast opschrift droeg</l>
+					<l>Op de Groote Sluijs Was eene Eer poort opgerigt</l>
+					<l>Pronkende op den top met het beeld Van den Vreeden</l>
+					<l>De Zelve had tot Opschrift Aan Alexander den</l>
+					<l>Vreedestichter het Verheugde Zaandam en op den</l>
+					<l>Schilden ter Zyde stond door Peter den Grooten</l>
+					<l>Eeren door Alexander den Gezeegende Vreden</l>
+					<l>By de Eerepoort Werden de Keyser en de Vorst door</l>
+					<l>zestien dochters der Leden Van de Regering Waar</l>
+					<l>Van Veertien in Zaandamsche Kleeding Waren begroete</l>
+					<l>Mejufvrouw Neeltje Mul bood aan den Keyzer een</l>
+					<l>Olyftak en Eyken krans mejufvrouw Aafje Dekker</l>
+					<l>Aan den Vorst een Bloementros die Hooge personen</l>
+					<l>namen dit nedrig Offer met Zoo Veelen heuschheyd</l>
+					<l>Aan, Als het met bevallige minsaamheyd en</l>
+					<l>Zedige Vrymoedigheyd Was aangeboden de Zes Jongste</l>
+					<l>meysjes bestrooyden den Weg met Bloemen</l>
+					<l>In het huijs gekomen mogt de Eerw: Tenkinch Leeraar</l>
+					<l>Der Hervormde gemeente den Vorsten ook den</l>
+					<l>Monarch met eene korte Aanspraak uyt naam</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Der Geestelyke Van alle gezindheeden begroeten</l>
+					<l>Terwyl beijde de Vorsten hun bysonder genoegen daar</l>
+					<l>Daar over deden blyke Weynig teysd daar na begon</l>
+					<l>de Wandeling naar het Huysje Van Czaar Peter</l>
+					<l>Op het Krimp de Voorgevels der Huysen Waar Van</l>
+					<l>Het Eentonige door Verschillende Spreuken in het</l>
+					<l>Latynch Russisch en Nederduytsch op Schilden</l>
+					<l>Op Strooken Linnen en Decoratiën met Vlaggen</l>
+					<l>Ons Was Weggenomen, Omdat men als nog</l>
+					<l>Onsen geliefden Souvereyn alhier niet had mogen</l>
+					<l>Zien begreep men dat Van dese gelegenheijd gebruyk</l>
+					<l>moest Worden gemaakt tot betooning Van hulde en</l>
+					<l>Eerbied aan derzelven en men had hierom de Spreuken</l>
+					<l>En devisen afgewisseld Zoo ter Eere Van den Vorst als</l>
+					<l>Van Alexander en ter herinnering Aan Peter</l>
+					<l>Onder de Eerste werd met bysonder opmerking</l>
+					<l>beschouwd het Schild Voor het Raadhuijs Waarop</l>
+					<l>de pylen uyt het Oude Wapen zijn Afgebeeld met een</l>
+					<l>Oranje lint tot een bundel Zaam gebonde en het</l>
+					<l>Onderschrift Nune fortior nu is het Sterker</l>
+					<l>Op den Dam Zag men een Eenvoudig Zuijl Waar boven</l>
+					<l>Een Wierrookvat ten Zinnebeelden Van dankbaarheyd het</l>
+					<l>Voetstuk droeg tot opschrift Aan den Vorst aan de</l>
+					<l>Schacht de Zuijl hing Een Versierd Schild Waar op een</l>
+					<l>Olijf en Oranje tak Kruyslings met het Opschrift</l>
+					<l>Onse Wenschen Zyn Vervuld</l>
+					<l>Onder de Spreuken op Alexander trokken de bysondere</l>
+					<l>Aandagt de Volgende dichtregels uijt de Voortreffelijke</l>
+					<l>Sierzang Van Mr. R: H. Arntzenius Alexander</l>
+					<l>Door Wien nam Vrede en hejl begin</l>
+					<l>de Heldenmoed noemt Rastopschin</l>
+					<l>De deugd noemt Alexander</l>
+				</lg>
+			</p>
+			<pb n='27'/>
+			<p>
+				<lg>
+					<l>En</l>
+					<l>Hy spaarde den verwonnen Staat</l>
+					<l>&apos;t  Vernederd volk den Veegen Raad</l>
+					<l>Ja spaart zelv Bonaparte</l>
+					<l>Over de Krimpsloot Was eene brug gelegd en hier</l>
+					<l>Ejndigden de Versierselen voor het huysje stond</l>
+					<l>Slechts op een Schild het opschrift</l>
+					<l>Niets is den Grooten man te Kleijn</l>
+					<l>Na dat de Keyser de Werf bezocht had waar op</l>
+					<l>Peter zich als werkman heeft doen aanteekenen</l>
+					<l>Kwam men aan het Huysje de Vorst leydde den</l>
+					<l>Monarch binnen en duydelyk zag men de <hi rend='strikethrough:true;'>@@@den</hi></l>
+					<l>Aandoening die de verbasende tegenstelling van</l>
+					<l>Dit Eenvoudig verblyf met de magt en den Luyster</l>
+					<l>Van desselfs voormaligen bewoner en zoo veele</l>
+					<l>Andere herinneringe Natùùrlyk moesten wekken</l>
+					<l>De Vorst stelde aan den Keyser voor om een blyvend</l>
+					<l>Gedenkteeken na te Laten van dit merkwaardig</l>
+					<l>Bezoek met genoegen werd dit Ingewilligd</l>
+					<l>Alles was in gereedheyd en hierop metselde de</l>
+					<l>Monarch met een Zilveren troffel Een steen</l>
+					<l>Van wit marmer in de schoorsteen waar op in</l>
+					<l>Gouden Letteren staat</l>
+					<l>Petro Magno</l>
+					<l>Alexander</l>
+					<l>Aan Peter den Grooten</l>
+					<l>Alexander</l>
+					<l>Een Andere steen met een gepast opschrift zal Eerlang</l>
+					<l>Ter Zyde van de zelven worden geset</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Mr. Jacobus Scheltema door den Vorst</l>
+					<l>Gelast om Hoogst den zelven te vergesellen ten</l>
+					<l>Eynde den Keyser te kunnen dienen van berigt</l>
+					<l>Had hierop de Eer een prachtig gebonden Exemplaar</l>
+					<l>Van <informatiebron>zijn werk</informatiebron> Peter de Groote in Holland en te</l>
+					<l>Zaandam aan Z:M: op desen Heyligen grond te</l>
+					<l>mogen Aanbieden hij deed zulks met Eene zeer</l>
+					<l>Korte Aanspraak</l>
+					<l>J.A. Bulsing Eygenaar van het Huijsje die</l>
+					<l>Veel gedaan heeft tot instandhouding van het zelve</l>
+					<l>Had hier op de Eer daar van berigt te geven en</l>
+					<l>Liet door zyne Dogter aan de Doorluchtige</l>
+					<l>Gasten een Glas Wyn Aanbieden het Welk</l>
+					<l>met Gulheyd werd aangenomen</l>
+					<l>De treyn ging vervolgens Langs den zelven weg</l>
+					<l>naar den dam en toen werd aan den Monarch</l>
+					<l>Door mejufvrouw C.H.A. Keyser geb. Walch</l>
+					<l>Een zeer fraay model van het Huysje door den</l>
+					<l>bekwamen Timmerman Jan Hoogerbeets met</l>
+					<l>Groote kunst vervaardigd en door mejufvrou</l>
+					<l>F. Noome Eene pop welke zeer Kostbaar en net</l>
+					<l>Gekleed was in het kostum der Zaandamsche</l>
+					<l>Vrouwen van den Jare 1700 Aangeboden de Vorst</l>
+					<l>betoonde Insgelyks zyn genoegen over dese</l>
+					<l>Heusche Dienstvaardigheyd</l>
+					<l>Nu begon het water vermaak op de binne Zaan</l>
+					<l>Agter den dam Lagen de sloepen van de Landswerf</l>
+					<l>De souverijnen traden in <hi rend='strikethrough:true;'>prachtige</hi> de prachtige sloep</l>
+					<l>van den Vorst en het gevolg in Andere</l>
+				</lg>
+			</p>
+			<pb n='28'/>
+			<p>
+				<lg>
+					<l>En</l>
+					<l>Hy spaarde den verwonnen staat</l>
+					<l>&apos;t Vernederd volk den veegen Raad</l>
+					<l>Ja spaart zelv Bonaparte</l>
+					<l>Over de Krimpsloot Was eene brug gelegd en hier</l>
+					<l>Eindigden de versierselen voor het huysje stond</l>
+					<l>Slechts op een schild het opschrift</l>
+					<l>Niets is den Grooten man te kleijn</l>
+					<l>Na dat de Keyser de werf bezocht had waar op</l>
+					<l>Peter zich als werkman heeft doen aanteekenen</l>
+					<l>Kwam men aan het Huysje de vorst leydde den</l>
+					<l>Monarch binnen en duydelyk zag men de <hi rend='strikethrough:true;'>abc</hi></l>
+					<l>Aandoening die de verbasende tegenstelling van</l>
+					<l>Dit Eenvoudig verblyf met de magt en den Luyster</l>
+					<l>Van desselfs voormaligen bewoner en zoo veele</l>
+					<l>Andere herinneringe natuurlyk morsten wekken</l>
+					<l>De vorst stelde aan den Keyser voor om een blyvend</l>
+					<l>Gedenkteeken na te Laten van dit merkwaardig</l>
+					<l>Besoek met genoegen werd dit Ingewilligd</l>
+					<l>Alles was in gereedheyd en hierop metselde de</l>
+					<l>Monarch met een zilveren troffel Een steen</l>
+					<l>Van wit marmer in de schoorsteen waar op in</l>
+					<l>Gouden letteren staat</l>
+					<l>Petro Magno</l>
+					<l>Alexander</l>
+					<l>Aan Peter den Grooten</l>
+					<l>Alexander</l>
+					<l>Een Andere steen met een gepast opschrift zal Eerlang</l>
+					<l>der zyde de zelven worden geset</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Mr. Jacobus Scheltema door den vorst</l>
+					<l>Gelast om Hoogst den zelven te vergesellen ten</l>
+					<l>Eynde den keyser te kunnen dienen van berigt</l>
+					<l>Had hierop de Een een prachtig gebonden Exemplaar</l>
+					<l>Van <informatiebron>zyn werk</informatiebron> Peter de Groote in Holland en te</l>
+					<l>Zaandam aan Z: M: op desen Heyligen grond te</l>
+					<l>Mogen Aanbieden hy deed zulks met eene zeer</l>
+					<l>Kort Aanspraak.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>t Huys zie van Saar Peeter tot Zaandam</l>
+					<l>by Geleegentheit van de komst van de</l>
+					<l>Grootvorst troon opvolleger van Rusland</l>
+					<l>buig in deze Arme Hut, waar de Engele Gods om zweeten</l>
+					<l>buiig Grootvorst hier het hooft in stille ootmoet Neen</l>
+					<l>zorg was de Wieg Uw Ryk, zo ontsloot de Kroon Wel Eer</l>
+					<l>die Grootheit Moest Aan Rusland Geeven</l>
+					<l>1839, April</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Herische Dienstvaardigheyd</l>
+					<l>nu begon het water vermaak op de binne Zaan</l>
+					<l>Agter den dam Lagen de sloepen van de Landswerf</l>
+					<l>De Souvereijnen traden in <hi rend='strikethrough:true;'>abc </hi> de prachtige sloep</l>
+					<l>van den vorst en het gevolg in Andere</l>
+				</lg>
+			</p>
+			<pb n='29'/>
+			<p>
+				<lg>
+					<l>Daar er Eene Zeer Groote menigte van</l>
+					<l>Tentjagtjagtje sen Andere Roey Vaartuijgen</l>
+					<l>Op de Achter Zaan Aanwesig waren en de</l>
+					<l>Kleyne boeyers en Jagten Insgelyks in</l>
+					<l>Admiraalschap zeylden zoo gaf dit een en</l>
+					<l>Ander een Tooneel Nooyt gesien en Nimmer</l>
+					<l>Elders te Herhalen</l>
+					<l>Alle Erven aan de Zaan waren opgevuld met</l>
+					<l>menschen Alles was versierd met vlaggen</l>
+					<l>en Groene slingers en bloemen de Grooten</l>
+					<l>sloepen waren Omringd van Eene menigte</l>
+					<l>Kleyne geselschappen in de Tentjagtjes</l>
+					<l>Tewyl alles en van ganscher harte</l>
+					<l>Inichte Onbeschryfelyk was dit bevallig</l>
+					<l>Tooneel waarvan de Achtergrond gestopt</l>
+					<l>werd door Eene vry groote vloot vragtschepen</l>
+					<l>En andere vaartuijgen uyt noord Holland</l>
+					<l>Die benoorden het Papenpad waren blyven</l>
+					<l>Liggen en met menschen opgevuld</l>
+					<l>Insgellyks met vlaggen versierd waren</l>
+					<l>De hooge Gasten waren door dese vertooning</l>
+					<l>ten hoogste getroffen door Langer verblijf</l>
+					<l>En verloop van tijd konden Ontwerp het</l>
+					<l>welk men had om een Zaandamsch Huijs</l>
+					<l>En Huyshouding nog geheel ingerigt</l>
+					<l>naar den Ouwerwetschen trant door den</l>
+					<l>Keijser te doen besigtigen niet worden</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Ten uytroer gebragt de hooge Gasten</l>
+					<l>Keerden naar het huijs aan den dam terug</l>
+					<l>Terwijl deselve een prachtig en keurig</l>
+					<l>Dejeuner gebruijkten hadden zy het Ruijm</l>
+					<l>Gesigt op de Achter Zaan en hier was @ni</l>
+					<l>Het gewoel zonder voorbeeld daar Alles de</l>
+					<l>Zaan Afzakte en Een ieder zyn best deed ter</l>
+					<l>vermeerdering der Algemeene vreugden de</l>
+					<l>Lands sloepen werden doorgeschut en dese</l>
+					<l>werden gevolgd door vele Andere vaartuijgen</l>
+					<l>Toen het Hoog Aansienlijk geselschap om</l>
+					<l>Agt uur vertrok Lagen de sloepen aan de</l>
+					<l>Gemaakte steijger aan de schulp werf en toen</l>
+					<l>Het in deselven trad om naar de Jagten bij</l>
+					<l>Den Rysdam geankerd te varen <waarneming waarneming='Gezien'>zagen</waarneming><ontvanger> zy </ontvanger>zich</l>
+					<l>Opnieuw Omring door zulk eene menigte</l>
+					<l>Zeyl vaartuijgen als by menschen geheugen</l>
+					<l>Op de Zaan <waarneming>gesien </waarneming>is met dese vloot voer men</l>
+					<l>tot aan den Rysdam hier lag het Admiraalschap</l>
+					<l>van de Zaan en begroette de souvereijnen tot</l>
+					<l>Afscheyd de grooten Lands Jagten voeren hier</l>
+					<l>op naar Amsterdam vergeseld door alles</l>
+					<l>wat varen konde het J: en Amsterdam Zag nu</l>
+					<l>Eene dier vertooningen die wy wel uyt de</l>
+					<l>Geschiedenis der plechtigheden by inhalingen</l>
+					<l>of Onthaal van vorsten uyt de prenten van</l>
+					<l>Luyken vinkeles en  Andere kennen dog op de</l>
+					<l>Herhaling van welke wy byna met meer</l>
+					<l>Hadden durven hopen</l>
+				</lg>
+			</p>
+			<pb n='30'/>
+			<p>
+				<lg>
+					<l>Het fraaye weer de matige wind met</l>
+					<l>Een woord Alles werkte mede de Hoogen</l>
+					<l>Personen verheerlykten Alles door</l>
+					<l>Heusche minsaamheyd en Hartelijk</l>
+					<l>vertrouwen Overal was blydschap overal</l>
+					<l>Orde de maatregelen door den Raad en de</l>
+					<l>Commissie gesteld werden stiptelk gevolgd</l>
+					<l>Hunne Excellentiën de Couverneur van</l>
+					<l>Noord Holland van Tets van Goudriaan</l>
+					<l>de Admiraal Verdoren en de Generaal de Jongh</l>
+					<l>Die Allen tegenwoordig waren werkten mede</l>
+					<l>Door goedkeuring schutterij Lantstorm</l>
+					<l>militie Allen waren Even Iverig door niets</l>
+					<l>Is de vreugde gestoord en hoe verbazend groot</l>
+					<l>Ook de toevloed van vreemdelingen en in¬</l>
+					<l>woonders was nergens had men Eenige moejte</l>
+					<l>Een Ieder schikte zig zelven tot orde een Ieder</l>
+					<l>Had Gevoel dat dat hy den Tydgenoot was</l>
+					<l>van Alexander den gesegende den Vrede</l>
+					<l>stichter Elks waardeerde het geluk om den</l>
+					<l>Grootsten dat is den meest goeddoenden man</l>
+					<l>uyt de geschiedenis te zien dese dag zal voor</l>
+					<l>zeer veelen een blyde gedenk dag blyven van</l>
+					<l>Ongestoorde en Ongemengde vreugde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Onder de byzonder heden van den dag is Ook</l>
+					<l>Het verschynen tot midden op he I van den</l>
+					<l>Zoo genaamden waterlooper zynde een</l>
+					<l>Kunstenaar die door middel van een uytgevonde#</l>
+					<l>werktuijg zig ter halverlijf Regt op in een</l>
+					<l>@@@ gebrand water weet te houden met</l>
+					<l>zulk Eene vrijheyd van bewegingen dat hy</l>
+					<l>met zyn bovenlijf en Armen Alles verrigt</l>
+					<l>Even als of hy zich op den vasten wal bevond</l>
+					<l>zoo als hy dan nu ook ter Eeren van den</l>
+					<l>vorstelyken stoet en de hem voor by zeylende</l>
+					<l>scheepen den snaphaan dien hij bij zig voerde</l>
+					<l>Aanhoudend afschoot en weder geladen heeft</l>
+					<l>Den 13 ock<hi rend='superscript:true;'>b</hi> 1818 heeft dominee Roda van Eijzinga</l>
+					<l>Predicand tot westzaamen zyn afscheijds Rede</l>
+					<l>Gedaan Uyt</l>
+					<l>Ere is vertrokkeb uyt texel met t schip</l>
+					<l>Henriette Elizabeth Capitein Hans christiaan</l>
+					<l>Corstiaans met troepen Na batavia</l>
+					<l>En uyt @@heydt 23 dezbre 1818</l>
+					<l>om daar Als leeraar te wezen</l>
+					<l>1819</l>
+					<l>3<hi rend='superscript:true;'>e</hi> January</l>
+					<l>Is tot Zaandyk by de sluys in de Zaan</l>
+					<l>Een groot ongeluk gebuert door t afbreeken</l>
+					<l>van t ys dat er vyf Perzoonen in vielen</l>
+					<l>waar van drie t Leeven Hebbe moeten n@@z@</l>
+					<l>Als Jan Velthues Jan Groen en Koene Koene</l>
+					<l>De schipper Ate Koen Jacob Groen</l>
+					<l>die Hebbe t nog van dode afgehaalt</l>
+					<l>met veel moeyte</l>
+				</lg>
+			</p>
+			<pb n='31'/>
+			<pb n='32'/>
+			<pb n='33'/>
+			<p>
+				<lg>
+					<l>[afbeelding]</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>AMSTELREDAM</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>

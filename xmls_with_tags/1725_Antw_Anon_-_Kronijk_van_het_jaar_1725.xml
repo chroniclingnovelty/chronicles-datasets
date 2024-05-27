@@ -1,0 +1,899 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>1725_Antw_Anon - Kronijk van het jaar 1725</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: info@velehanden.nl</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n='1'/>
+			<pb n='2'/>
+			<pb n='3'/>
+			<p>
+				<lg>
+					<l>In&apos;t jaer 1725. S nagts tusschen <datum datum='1725-03-12' when='1725-03-12'>12</datum>. &amp; <datum datum='1725-03-13' when='1725-03-13'>13. Meert</datum>, ontrent twee uren,</l>
+					<l>sijn binne</l>
+					<l>dese Stad</l>
+					<l><locatie>Antwerpen</locatie> Van hunne bedden opgeligt, door Militaire</l>
+					<l><hi rend='strikethrough:true;'>persoonen </hi>liggende in garnisoen op <locatie>het Casteel</locatie>, door ordre van den</l>
+					<l>Souvereijnen Raede van Brabant, de naervolgende persoonen, als betigt</l>
+					<l>ende Suspect Sijnde van gefabrikeert te hebben Goude Specien, ende Sijn</l>
+					<l>instantelijk gebrogt nae het voorschreven <locatie>Casteel</locatie> in het groot wijn huijs,</l>
+					<l>aldaer</l>
+					<l>ieder Separatelyk met wagt bewaert in eene camer, Sonder iemant te</l>
+					<l>mogen Spreken; <hi rend='strikethrough:true;'>vertrokken</hi> de voorn<hi rend='superscript:true;'>de</hi> militaire <hi rend='strikethrough:true;'>persoonen</hi> </l>
+					<l>hebben</l>
+					<l>de respective</l>
+					<l>deuren</l>
+					<l>der zelver</l>
+					<l><hi rend='strikethrough:true;'>hunnen</hi> wooningen met gewelt geopent, te weten met eenen Swae¬</l>
+					<l>ren balk, hangende in koorden, van voren beslaegen met eenen Swaeren</l>
+					<l>yseren band, wordende gedirigeert met 6. a 8. mannen, bij forme van eene</l>
+					<l>heije, dat alsoo met den eersten Slag de deuren</l>
+					<l>zijn</l>
+					<l>open <hi rend='strikethrough:true;'>Sijn</hi> geweest.</l>
+					<l><persoonsnaam>Adriaen Coolen</persoonsnaam>, gewoont hebbende bij de Minderbroeders, eertijds</l>
+					<l>weerd inde <locatie>drij Snoeken</locatie> in&apos;t <locatie>Clapdorp</locatie>; D&apos; <persoonsnaam>Heer Huberto Boetens</persoonsnaam>, met</l>
+					<l>Sijnen Broeder gewoont hebbende in de <locatie>pelgrim Straet</locatie>; uijt hun beijder</l>
+					<l>huijsinge is gehaelt eene perse ofte instrument tot het zelve werk, te</l>
+					<l>weten uijt het huijs van den eerstgemelden Seker instrument verborgen</l>
+					<l>bevonden Seer bedektelijk onder eenen trap in een verholen gat, ende</l>
+					<l>het ander instrument van den eerstgenoemde is bevonden in de Schouw</l>
+					<l>agter de ijsere plaete daer men vuur tegen Stookt.</l>
+					<l><persoonsnaam>Joannes</persoonsnaam></l>
+					<l><persoonsnaam>Carolus</persoonsnaam></l>
+					<l><persoonsnaam>van Scharenborg Silversmit</persoonsnaam> gewoont hebbende inde <locatie>valk¬</locatie></l>
+					<l><locatie>straete</locatie> aen de <locatie>Vrijdagsche merkt</locatie>, befaemt van gewerkt te hebben goude</l>
+					<l>rondekens tot de voors<hi rend='superscript:true;'>e</hi> Specien dienstig. </l>
+					<l><persoonsnaam>Jan Baptista Andriessens, Boekhouder</persoonsnaam> van Sijnen Stiel, gewoont heb¬</l>
+					<l>bende aende <locatie>Andrieskerke</locatie>, is gevangen in&apos;t vollen vanden dag</l>
+					<l>voor Sijne deur thuiskomende om te eten, &amp; hij is naer dat hij tot</l>
+					<l><locatie>Brussel</locatie> tot op <datum datum='1725-06-20' when='1725-06-20'>20. junij</datum> aldaer gevangen ofte geseten heeft thuijs geko¬</l>
+					<l>men, als wanneer de gebueren gesamentlijk, groote teekens van vreugd be¬</l>
+					<l>dreven geduerende den geheelen nagt.</l>
+					<l>Ende Sijn de voorn<hi rend='superscript:true;'>de</hi> vijf persoonen op <datum datum='1725-06-27' when='1725-06-27'>27</datum>. der Zelve maend Meest</l>
+					<l>Savonds ontrent 9. uren ieder op een peerd Sittende gebonden, geescorteert</l>
+					<l>met militaire, agter <locatie>het Casteel</locatie> uijtgebrogt en gereden tot inde <locatie>Luijt¬</locatie></l>
+					<l><locatie>hagen</locatie> inde <locatie>herberge de drij Coningen</locatie>, ende aldaar Vernagt, ge¬</l>
+				</lg>
+			</p>
+			<pb n='4'/>
+			<p>
+				<lg>
+					<l>volgt wordende met den <persoonsnaam>Procureur generael</persoonsnaam></l>
+					<l><persoonsnaam>Hemtinne</persoonsnaam></l>
+					<l><persoonsnaam>Henhurg</persoonsnaam>, ende den Lieute¬</l>
+					<l>nant gouverneur, en Smorgens vroeg getransporteert na <locatie>Brussel</locatie>:</l>
+					<l>ende is ook ontrent dien zelven tijd ontrent <locatie>Meenen</locatie> gevangen Se¬</l>
+					<l>keren <persoonsnaam>Smit met naeme Le Gendarme</persoonsnaam>, en gevangelijk Saemen, na</l>
+					<l><locatie>Brussel</locatie> gebrogt, ende alle gestelt opde <locatie>gevangenisse Steenpoorte</locatie>,</l>
+					<l>als ook op <locatie>Treurenborg</locatie>, wordende den zelve <persoonsnaam>Le Gendarme</persoonsnaam> belast met</l>
+					<l>gemaekt te hebben eenige persen, ofte instrumenten tot het<hi rend='strikethrough:true;'> zelven</hi></l>
+					<l>voorg<hi rend='superscript:true;'>en</hi>.</l>
+					<l>werk, als wanneer hij ook binnen Antwerpen heeft</l>
+					<l>woonde</l>
+					<l>gewoont &amp; geweest ge¬</l>
+					<l>sworen Smit van Sijne Majesteijts <locatie>Munte</locatie> alhier, hetwelke hier de</l>
+					<l>oorsaek heeft gegeven aen vele pligtige aen&apos;t Selve werk, vante</l>
+					<l>Vlugten, daer onder </l>
+					<l>waren</l>
+					<l>vele treffelijke Lieden &amp; Borgers, als meden</l>
+					<l>Sekeren <persoonsnaam>Carpentier</persoonsnaam> woonende alsdoen binnen <locatie>Brussel</locatie> &amp; te vorens</l>
+					<l>binnen</l>
+					<l><locatie>Antwerpen</locatie>, die</l>
+					<l><hi rend='strikethrough:true;'>heeft</hi> hem ook opde vlugt begeven</l>
+					<l>heeft</l>
+					<l>, met eene koets met vier</l>
+					<l>peerden over <locatie>Aelst</locatie> na <locatie>ostende</locatie>, en vandaer na <locatie>Engeland</locatie>, en is -</l>
+					<l>Sterk vervolgt geworden, op wiens Persoon gestelt wird eene goede</l>
+					<l>Somme gelds wie hem wist aen te wijsen, dat hy geraekte in handen</l>
+					<l>van Justicie, &amp; Sijn huijs binnen <locatie>Brussel</locatie>, hetwelk Seer Costelyk</l>
+					<l>was gestoffeert en gemeubleert, is instantelyk met eenen Deurweer¬</l>
+					<l>der en Soldaeten beleijd, &amp; daer naer alsoo publiekelyk verkogt;</l>
+					<l>Voorders, heeft den Procureur Generael, geduerende Sijn verblijf</l>
+					<l>binnen <locatie>Antwerpen</locatie>, en Sijne</l>
+					<l>logerende</l>
+					<l>logement hebbende opde <locatie>meir</locatie> in</l>
+					<l><locatie>Brussel</locatie>, aldaer dagelijks gevaceert in&apos;t nemen van preparatoiren</l>
+					<l>informatien, en</l>
+					<l>by hem</l>
+					<l><hi rend='strikethrough:true;'>aldaer </hi>ontboden differente, jae eene menigte van</l>
+					<l>persoonen, <hi rend='strikethrough:true;'>@@</hi> de zelve overhoort en onder eed geexamineert, en</l>
+					<l>is dan met alle Sijne prepratoire informatien na Brussel vertrok¬</l>
+					<l>ken, en opden 3. paeschdag, wesende <datum when='1725-04-03'>3. april</datum> wedrom gekomen, en</l>
+					<l>dien nagt </l>
+					<l>zyn &apos;er</l>
+					<l>nog drij persoonen van hunne bedden gehaelt, <hi rend='strikethrough:true;'>sijnde</hi></l>
+					<l>wesende</l>
+					<l>geelgieters, maer hebben eenen</l>
+					<l>derzelve </l>
+					<l>laeten gaen, wesende eenen knegt</l>
+					<l>van den eenen geelgieter; Sijnde de twee <persoonsnaam>geelgieters genaemt N.</persoonsnaam></l>
+					<l><persoonsnaam>Colomme</persoonsnaam> en <persoonsnaam>Jacques Mevis</persoonsnaam>,</l>
+					<l>welke</l>
+					<l>dags daer naer, <hi rend='strikethrough:true;'>@@@</hi> met eenen karre</l>
+					<l>ook  zijn gebrogt <hi rend='strikethrough:true;'>zijn</hi> na <locatie>Brussel</locatie> byde andere; <hi rend='strikethrough:true;'>@</hi> hebbende <hi rend='strikethrough:true;'>dien</hi> den Selven Nagt ook</l>
+					<l>uijtgeweest om op te ligten Sekeren <persoonsnaam>Janssens</persoonsnaam> Sone van den Cipier</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>van de Vierschaere, en hebben de Visieten genomen ten huijse van Sijnen</l>
+					<l><hi rend='strikethrough:true;'>van Sijnen</hi> Schoonvader, alsoo</l>
+					<l>hebben den zelven</l>
+					<l>hij daer niet en was, hebben Sijnen Schoonvader</l>
+					<l><persoonsnaam>Sieur Borgoij</persoonsnaam> mede gevangen</l>
+					<l>genomen,</l>
+					<l>meijnende den Selver <persoonsnaam>janssens</persoonsnaam> te hebben, <hi rend='strikethrough:true;'>&amp;</hi> maer</l>
+					<l>ondervraegt zijnde op het <locatie>Casteel</locatie>, alwaer Sij hem gebrogt hadden, <hi rend='strikethrough:true;'>@@</hi> is ont¬</l>
+					<l>schuldig bevonden aent Selve feijt, en is wederom losgelaeten &amp; door de</l>
+					<l>Selve Militaire in Sijn huijs gebrogt, tgene groote confusie heeft veroorsaekt.</l>
+					<l>Voorst Zoo geseijt wirde was den Selven <persoonsnaam>Janssens</persoonsnaam> vlugtig, als ook menigte </l>
+					<l>andere, te weten <persoonsnaam>Ignatius Wittebol</persoonsnaam>, <persoonsnaam>Jaques van Beughem</persoonsnaam></l>
+					<l><persoonsnaam>guiy Mathijs,</persoonsnaam></l>
+					<l><persoonsnaam><hi rend='strikethrough:true;'>Joris</hi> fige, Patr Matijssens,</persoonsnaam></l>
+					<l><persoonsnaam>Nicolaes Joseph</persoonsnaam></l>
+					<l><persoonsnaam>Madou, de Sues, Silversmit,</persoonsnaam></l>
+					<l><persoonsnaam>Jacobus</persoonsnaam></l>
+					<l><persoonsnaam>Mertens Silversmit, </persoonsnaam></l>
+					<l><persoonsnaam>Jan Franciscus</persoonsnaam></l>
+					<l><persoonsnaam>Annefelt</persoonsnaam>, drij gebroeders</l>
+					<l><persoonsnaam>Huckeroij</persoonsnaam>,</l>
+					<l><persoonsnaam>Belkom</persoonsnaam></l>
+					<l><persoonsnaam>Praet</persoonsnaam></l>
+					<l><persoonsnaam>Martinus</persoonsnaam></l>
+					<l><persoonsnaam>Huybrechts,</persoonsnaam></l>
+					<l><persoonsnaam>Cornelis</persoonsnaam></l>
+					<l><persoonsnaam>de Vigne, </persoonsnaam></l>
+					<l><persoonsnaam>Carel</persoonsnaam></l>
+					<l><persoonsnaam>Tameniau,</persoonsnaam></l>
+					<l><persoonsnaam>Jan Pieter </persoonsnaam></l>
+					<l><persoonsnaam>Gilbert</persoonsnaam>, <persoonsnaam>Cornelis de winter</persoonsnaam>,</l>
+					<l><persoonsnaam>Hendrik Marcour</persoonsnaam> &amp;<hi rend='superscript:true;'>a</hi>., welkers huijsen van tijd tot tijd beleijd zijn geworden met</l>
+					<l>Deurweerders &amp; Militairen tot bewaeringe van de goederen, uijtgenomen dat</l>
+					<l>vande 3. gebroeders, &amp; hetgene van <persoonsnaam>Jan Franciscus Allefelt</persoonsnaam>, ook en zijn de</l>
+					<l>drij gebroeders in geene van de volgende placcaerten vermeld geweest, nogte</l>
+					<l>hun huijs is noijt gesloten geweest gelijk de andere, nog dat van <persoonsnaam>Allefelt</persoonsnaam></l>
+					<l>ook niet; en alhier is dagelijks ontdekt geworden met menigte van instru¬</l>
+					<l>menten, te weten persen, pletmeulens, Conpoiren, en vele andere gereedschap¬</l>
+					<l>pen, Soo onder de <locatie>Meir</locatie>, in de ruije, in mesthoopen begraeven en gelijk langs</l>
+					<l>de Straeten gestroeijt; als ook is gevonden inde Schelde aen het <locatie>bolwerk van</locatie></l>
+					<l><locatie>S<hi rend='superscript:true;'>t</hi>. Michiels</locatie> Sekeren Stempel waer in gegraveert Stont het wapen vanden</l>
+					<l>Konink Van Vrankrijk om te maeken, Soo geseijt wird, Valsche billets de</l>
+					<l>bank, hetwelk altemael met bij sijn van die van de Munt is gebrogt opde</l>
+					<l>Recht Camer inde selve Munt, en aldaer opgesloten in Coffers, alvorens ten</l>
+					<l>toon geweest zijnde aen ieder een: Voorders sijn dagelijks 8 dagen lang</l>
+					<l>opde <locatie>meir</locatie> Savonds geweest 150. Mannen Militairen van 6 uren tot overnacht</l>
+					<l>hun geretireert tot opde <locatie>Borse</locatie>, en den geheelen nacht de Stad gepatrouilleert</l>
+					<l>om alle desorders te beletten alsoo &apos;er perijkel was van tumulte ofte oploop,</l>
+					<l>en het <locatie>Oostershuijs</locatie> was ook beleijd met eenige Soldaeten tot verhoedinge van&apos;t </l>
+					<l>selve; het was eene droefheijd om zien hoe alhier met menigte van huijsen</l>
+					<l>waren gesloten soo winkels als andere, van alle de gevlugte.</l>
+					<l>Continuerende den voornoemden Procureur Generael in&apos;t nemen van voor¬</l>
+					<l>dere informatien, &amp; is den zelven op <datum datum='1725-04-09' when='1725-04-09'>9. april</datum> Smorgens vroeg wederom ver¬</l>
+				</lg>
+			</p>
+			<pb n='5'/>
+			<p>
+				<lg>
+					<l>vertrokken naer <locatie>Brussel</locatie>, als wanneer dags daer naer de procedure is be¬</l>
+					<l>gonst tegens de gevangene, en tegens eenige der Vlugtige als hier naer vol¬</l>
+					<l>gende.</l>
+					<l>En op den <datum when='1725-04-15'>15. April</datum> Smorgens ontrent 9. uren Sijn alhier van <locatie>Brussel</locatie> ge¬</l>
+					<l>komen 100. Mannen Dragonders, en hebben hun logist genomen int <locatie>Stefan</locatie></l>
+					<l><locatie>huijs</locatie>, om te beletten alle desorders en tumulten met patrouilleren door de Stad.</l>
+					<l>Op den <datum when='1725-04-19'>19. april 1725</datum> is alhier op het <locatie>Stadhuijs</locatie> ter puijen afgecondigt</l>
+					<l>een Keijserlijke &amp; Coninglijke <hi rend='strikethrough:true;'>en</hi> ordonnantie, inhoudende: dat een ieder van</l>
+					<l>wat qualiteijt ofte conditie hij Soude mogen wesen, geestelijke ofte</l>
+					<l>ander</l>
+					<l><hi rend='strikethrough:true;'>weerlijk </hi>te verclaeren aen den Raed</l>
+					<l>ende</l>
+					<l>Procureur Generael allen de Goederen,</l>
+					<l>Meubelen, Actien en Credieten, pampieren, Documenten, Silverwerk, en</l>
+					<l>generaelijk alle de iegelike Effecten, die Sij ten onderen hebben ofte</l>
+					<l>weten dat andere Souden ten onderen hebben, toebehoorenden Soo</l>
+					<l>aen de gevangenen <persoonsnaam>Adries Colens</persoonsnaam>, <persoonsnaam>Huijbrecht Boetens</persoonsnaam>, ende desselfs</l>
+					<l>Broeder, <persoonsnaam>Jan Le Gendarme</persoonsnaam>, <persoonsnaam>Jan Carel van Scharenborgt</persoonsnaam>, <persoonsnaam>Jan Baptist pedro</persoonsnaam></l>
+					<l><persoonsnaam>Andriessens, N. Colomme ende Jacques Mevis, als aende vlugtige Jacques</persoonsnaam></l>
+					<l><persoonsnaam>van Beugem</persoonsnaam>, <persoonsnaam>Ignatius Wittebol</persoonsnaam>, <persoonsnaam>Nicolaes Joseph Madou</persoonsnaam>, <persoonsnaam>Pieter Carpentier</persoonsnaam>,</l>
+					<l><persoonsnaam>Merten Huijbrechts</persoonsnaam>, <persoonsnaam>Jan Gilbert</persoonsnaam>, <persoonsnaam>Cornelis de Winter</persoonsnaam>, <persoonsnaam>Carel Tamineau</persoonsnaam>,</l>
+					<l><persoonsnaam>Cornelis la Vigne</persoonsnaam>, <persoonsnaam>Guiliam Joris</persoonsnaam>, <persoonsnaam>N. Marcour</persoonsnaam> den Sone, <persoonsnaam>N. Janssens</persoonsnaam> den</l>
+					<l>Sone &amp; <persoonsnaam>N.</persoonsnaam></l>
+					<l><persoonsnaam>Anne</persoonsnaam></l>
+					<l><persoonsnaam><hi rend='strikethrough:true;'>alle</hi>felt</persoonsnaam>, <hi rend='strikethrough:true;'>alle </hi>betigt van naergemaekt te hebben Goude Spe¬</l>
+					<l>cien binnen de Stadt van <locatie>Antwerpen</locatie> ende elders, als andere</l>
+					<l>die</l>
+					<l><hi rend='strikethrough:true;'>welke</hi> voortaen</l>
+					<l>nog Souden mogen gevangen worden voorde Selve oorsaeke, ofte verclaert</l>
+					<l>vlugtig, op pene van gehouden te worden voor medepligtigh, en gecas¬</l>
+					<l>teijt volgens de Strafheijd der wetten: belovende eene Vergeldinge</l>
+					<l>van een derde van de Confiscatie van gemelde Effecten die Sullen komen</l>
+					<l>te beloopen tot negen duijsent guldens, en den 10de penninck vande</l>
+					<l>geheele @@@essentie van de geseijde 9000.- guldens aen den genen ofte de</l>
+					<l>gene die Sullen Verclaeren en voorbrengen de preuven om &apos;t over</l>
+					<l>de gene die eenige der gemelde effecten Sullen verswegen hebben twee¬</l>
+					<l>mael 24 uren naerde publicatie vande Selve ordonnantie, en den</l>
+					<l>naemen van welke aenbrengers Sullen Secreet gehouden worden. Gegeven</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>tot <locatie>Brussel</locatie> den <datum datum='1725-04-17' when='1725-04-17'>17. april 1725</datum>. Siet de Zelve place. van Brab. tom. 5 fol. 316.</l>
+					<l>Op den <datum datum='1725-04-20' when='1725-04-20'>20.</datum> der Zelve maend april is alhier binnen <locatie>Antwerpen</locatie></l>
+					<l>de eerste Verkoopinge Van alle de Meubelen, goederen ende effecten</l>
+					<l>geweest, ten huijze van de <persoonsnaam>S<hi rend='superscript:true;'>r</hi>. La Vigne</persoonsnaam> inde <locatie>Lombaert Straet</locatie>, en is</l>
+					<l>aldaer oock publiek geroepen door den <persoonsnaam>Roeper Schalek</persoonsnaam> naer alvorens</l>
+					<l>Smorgens uijtgebelt zijnde</l>
+					<l>langs de stad,</l>
+					<l>door den gesworen Belleman</l>
+					<l>Den 2<hi rend='superscript:true;'>den</hi> koopdag is geweest ten huijse van <persoonsnaam>Marten Huijbrecht</persoonsnaam></l>
+					<l>inde <locatie>huijdevetterstraet</locatie>, en was gereguleert te beginnen op Saterdag</l>
+					<l>naer den noen ten 2. uren wesende <datum datum='1725-04-21' when='1725-04-21'>21. april</datum>, en is uijtgestelt ge¬</l>
+					<l>worden tot Smaendags daer naer wesende <datum datum='1725-04-23' when='1725-04-23'>23.</datum> do, als wanneer den</l>
+					<l>Selven is begonst Smorgens ten 10. uren, voor welkers deuren</l>
+					<l>waren een menigte van Menschen, en is aldaer geroepen geworden</l>
+					<l>door <persoonsnaam>S<hi rend='superscript:true;'>r</hi> Joannes Petrus Willemsens</persoonsnaam>, als daer toe Specialijk zijnde geau¬</l>
+					<l>thoriseert door den Raede van Brabant. </l>
+					<l>Den 3<hi rend='superscript:true;'>den</hi> koopdag is geweest op <datum datum='1725-04-24' when='1725-04-24'>24. april</datum> naer noen ten 2 uren,</l>
+					<l>ten huijse van <persoonsnaam>Jan Gilbert</persoonsnaam> gewoont hebbende op de <locatie>Meirebrugge</locatie> in<locatie>&apos;t</locatie></l>
+					<l><locatie>huijs genaemt het gelaesen huijs</locatie>, en den Roeper Sat op eene tafel</l>
+					<l>voor de deure alwaer van gelijken eene groote menigte van volk was</l>
+					<l>te vinden, &amp; is Sanderdags niet voortsgegaen.</l>
+					<l>Op den <datum datum='1725-04-25' when='1725-04-25'>25. april</datum> Sijn alle de instrumenten binnen deze Stad</l>
+					<l>gevonden als elders, gevoert geworden na <locatie>Brussel</locatie>, als ook alle den</l>
+					<l>effecten van gevangene, en ook van persoonen wiens meubelen ver¬</l>
+					<l>kogt zijn, te weten goud, Silver gemunt en ongemunt, juweelen &amp;<hi rend='superscript:true;'>a</hi>,</l>
+					<l>mitsgaeders alle hunne boeken ende Actitien.</l>
+					<l>Den 4<hi rend='superscript:true;'>den</hi> Coopdag is geweest op <datum datum='1725-04-25' when='1725-04-25'>25. april</datum> ten huijse van <persoonsnaam>N. Mathijs¬</persoonsnaam></l>
+					<l><persoonsnaam>sens Meester Silversmit</persoonsnaam> op den hoek van het <locatie>Suijkerstraetje</locatie> bij het <locatie>Stadhuijs</locatie>,</l>
+					<l>en is aldaer alles verkogt.</l>
+					<l>De 5<hi rend='superscript:true;'>de</hi> Verkoopinge is geweest <datum datum='1725-04-26' when='1725-04-26'>26. april</datum> ten huijse van <persoonsnaam>Jaques</persoonsnaam></l>
+					<l><persoonsnaam>van Beugem</persoonsnaam> opde <locatie>oude borze</locatie>.</l>
+					<l>Item op den <datum datum='1725-04-28' when='1725-04-28'>28 april 1725</datum>. Smorgens is alhier ter puije afgecondigt</l>
+					<l>de verminderinge van alle geld, Specien, te weten den Schellink op 6. Stuij¬</l>
+				</lg>
+			</p>
+			<pb n='6'/>
+			<p>
+				<lg>
+					<l>vers, ende andere Speciën naer advenant.</l>
+					<l>Op den <datum datum='1725-04-30' when='1725-04-30'>30. april 1725</datum>. naer den noen is inhet huijs van <persoonsnaam>S<hi rend='superscript:true;'>r</hi> Praet</persoonsnaam></l>
+					<l>geleijt geworden twee Deurweerders en Soldaeten tot bewaernisse van alle</l>
+					<l>meubelen, ende effecten, gewoont hebbende inde <locatie>hofstraet</locatie>, ende Sijn</l>
+					<l>officie, te weten ontfanger van&apos;t pond en rentgeld is provisionelijk toege¬</l>
+					<l>voegt aen d&apos;<persoonsnaam>heer Franciscus</persoonsnaam></l>
+					<l>bij resolutie Collegiael.</l>
+					<l>Het placcaert nopens de vermindering der geld Specien, </l>
+					<l>van <datum datum='1725-04-21' when='1725-04-21'>21. deser maend april</datum></l>
+					<l>hier boven</l>
+					<l>naerder ordonnantie de dato <datum datum='1725-04-30' when='1725-04-30'>30. derzelve maend</datum></l>
+					<l>gemeld, is bij het placcaert de dato <datum datum='1725-04-30'>30. april 1725</datum>. gesuspendeert, en geor¬</l>
+					<l>donneert; dat diens volgens de goude en Silvere specien, Sullen hebben</l>
+					<l>den Selven Cours, die Sij tot nu toe gehad hebben, volgens </l>
+					<l>voorgaende</l>
+					<l><hi rend='strikethrough:true;'>vorige</hi> placcaerten</l>
+					<l>&amp; ordonnantie, tot naeder ordre.</l>
+					<l>En opden <datum datum='1725-05-02' when='1725-05-02'>2. Meij</datum>, ingevolge het advies vanden <persoonsnaam>Gouverneur Generael</persoonsnaam></l>
+					<l><persoonsnaam>Daun</persoonsnaam>, Sijn naer noen op het <locatie>Stadhuijs</locatie> geciteert geworden alle princi¬</l>
+					<l>paele, Cooplieden, Negocianten &amp; Fabricanten &amp;<hi rend='superscript:true;'>a</hi>, om hun te hooren</l>
+					<l>wat incovenientien het Verminderen van geld specien aende negotie</l>
+					<l>Zoude toebrengen, en zijn aldaer vergaedert geweest van 5 tot 8 uren,</l>
+					<l>en is aldaer favorable advies gedepecheert geworden.</l>
+					<l>Voorders is opden Selven dag, naer noen <datum datum='1725-05-02' when='1725-05-02'>2 meij</datum> Geroepen ende</l>
+					<l>Verkogt geworden, een partije graen, te weten Rogge, toe behoort</l>
+					<l>hebbende aen <persoonsnaam>Huberto Boetens</persoonsnaam>, liggende doen ter tyd op eenen</l>
+					<l>Solder ofte pakhuijs inde nieuw Stad, en was eene quantityt van</l>
+					<l>800. veertels.</l>
+					<l>Daer zijn ondertusschen tot <locatie>Brussel</locatie> differente devoiren gedaen</l>
+					<l>geworden, soo met presenten van Rijcke om te konnen bekomen eene</l>
+					<l>wederhoudinge van verkoopinge der Meubelen vande gevlugte, onder</l>
+					<l>presentatie van Schattinge der Selve, en de gedaene Schattinge goet</l>
+					<l>te doen, zoo ten regarde van <persoonsnaam>Jgn. wittebol</persoonsnaam>, <persoonsnaam>Praet</persoonsnaam> en andere; dog hebben</l>
+					<l>niets konnen obtineren &amp;<hi rend='superscript:true;'>a</hi>, gelijk ook van wegens <persoonsnaam>S<hi rend='superscript:true;'>r</hi> Madou</persoonsnaam>, versoe¬</l>
+					<l>kende den Selven versekeringe van Sijnen persoon, om Sig Zelven te konnen</l>
+					<l>komen personelijk verantwoorden, maer heeft insgelijks het zelve niet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>konnen bekomen.</l>
+					<l>De 6. verkopingen der Meubelen en Goederen is geweest den <datum datum='1725-05-04' when='1725-05-04'>4<hi rend='superscript:true;'>den</hi></datum></l>
+					<l><datum datum='1725-05-04' when='1725-05-04'>meij 1725</datum>, ten huijse van <persoonsnaam>S<hi rend='superscript:true;'>r</hi> Boetens</persoonsnaam> gewoont hebbende in<locatie>de pelgrim¬</locatie></l>
+					<l><locatie>straet,</locatie> en is alles op eenen naer noen verkogt geworden, alsoo aldaer van</l>
+					<l>wegens van Meubelen niet veel in huijs was.</l>
+					<l>Op <datum datum='1725-05-05' when='1725-05-05'>5. Meij</datum> is de verkoopinge geweest van alle de Meubelen en goe¬</l>
+					<l>deren ten huijse van <persoonsnaam>Joannes Carol. van Scharenborg</persoonsnaam> gewoont hebbende</l>
+					<l>inde <locatie>Valkstraet</locatie>, &amp; is de 7<hi rend='superscript:true;'>ste</hi> venditie geweest:</l>
+					<l>Item den <datum datum='1725-05-07' when='1725-05-07'>7. meij</datum> is de 8<hi rend='superscript:true;'>ste</hi> venditie geweest vanalle de goederen </l>
+					<l>bij <persoonsnaam>Matijs figé Meester Silversmit en graveur</persoonsnaam> gewoont hebbende opden</l>
+					<l>hoek van de <locatie>meire brugge</locatie>.</l>
+					<l>De 9<hi rend='superscript:true;'>ste</hi> verkoopinge der Meubelen &amp; goederen is geweest bij Sekeren</l>
+					<l><persoonsnaam>S<hi rend='superscript:true;'>r</hi> De winter</persoonsnaam> gewoont hebbende in<locatie>de nieuw Stad </locatie>en is aldaer ook ver¬</l>
+					<l>kogt geworden eene groote partije Saet; als ook in een ander pakhuijs eene</l>
+					<l>groote quantiteijt Saet en gras toebehoort hebbende <persoonsnaam>Sieur Boetens</persoonsnaam>.</l>
+					<l>Item opden <datum datum='1725-05-12' when='1725-05-12'>12<hi rend='superscript:true;'>sten</hi> Meij</datum> Smorgens ten 11. uren Sijn opde <locatie>Meir</locatie> Verkogt</l>
+					<l>de 2. koetspeerden van <persoonsnaam>S<hi rend='superscript:true;'>r</hi> Madou</persoonsnaam>.</l>
+					<l>Opden <datum datum='1725-05-14' when='1725-05-14'>14. ditto</datum> voor noen is de 10<hi rend='superscript:true;'>de</hi> verkoopinge geweest vanalle</l>
+					<l>de Meubelen &amp; goederen die seer kostelijk waren ten huijse van <persoonsnaam>Sieur</persoonsnaam></l>
+					<l><persoonsnaam>Colen</persoonsnaam> aende minderbroeders; ende ten regarde van <persoonsnaam>dheer wittebol</persoonsnaam></l>
+					<l>is aen de Vrouw geaccordeert en toegestaen geworden opde Requeste in</l>
+					<l>den raede gepresenteert, dat alle de Meubelen Sullen worden geschat,</l>
+					<l>&amp; de Vrouwe haere presentie toegestaen.</l>
+					<l>Item is alsnog ten huijse van <persoonsnaam>S<hi rend='superscript:true;'>r</hi> Colen</persoonsnaam> in een gat nevens Sekere</l>
+					<l>Schouwe in een Sak gevonden eenige Stempels tot het maeken van</l>
+					<l>Goude Specien waer onder ook twee waren ongegraveert, hetwelk hem</l>
+					<l>Swaerlijk heeft belast.</l>
+					<l>Item tusschen <datum datum='1725-05-22' when='1725-05-22'>22.</datum> &amp; <datum datum='1725-05-23' when='1725-05-23'>23. Meij</datum> Snagts Sijn alhier nog van hun bedde</l>
+					<l>gehaelt met militaire persoonen. <persoonsnaam>N. Bombergen Silversmit</persoonsnaam> gewoont</l>
+					<l>hebbende in de <locatie>renderstraet</locatie>, en <persoonsnaam>N. Feron Maekelaer</persoonsnaam>, gewoont hebbende</l>
+				</lg>
+			</p>
+			<pb n='7'/>
+			<p>
+				<lg>
+					<l>in de <locatie>lange nieuwstraet</locatie>, en de Selve huijsen met Militaire <hi rend='strikethrough:true;'>toesigt</hi> in</l>
+					<l>bewaeringe genomen; en hebben ook Smorgens ten 9. uren den broe¬</l>
+					<l>der van den voorschreven <persoonsnaam>Bombergen</persoonsnaam> op de Straet gevangen en naer</l>
+					<l>het <locatie>Casteel</locatie> gebragt bij de twee voornoemde, en aldaer in bewarenisse geno¬</l>
+					<l>men. en hebben dien Selven nagt nog eenen mijnen op te ligten ge¬</l>
+					<l>naemt <persoonsnaam>Georgerie</persoonsnaam> gewoont hebbende op de <locatie>oude Borze</locatie>, en is het ont¬</l>
+					<l>vlugt over de daeken, naer alvorens groot geweld op de deure gedaen</l>
+					<l>te hebben om de zelve te openen, alsoo de voors. deure Sterk toe was</l>
+					<l>gemaekt bij precautie om tijd te hebben om te vlugten, en heeft tot, Sa¬</l>
+					<l>vonds op eenen solder van de gebueren geseten en is in Vrouwe Cleederen</l>
+					<l>alsoo uijt de Stad geraekt &amp; gevlugt; ende is den Procureur generael met</l>
+					<l>twee <persoonsnaam>Raedsheeren genaemt Duchaine</persoonsnaam> en <persoonsnaam>Stutteput</persoonsnaam>, benevens den</l>
+					<l><persoonsnaam>heer Secretaris Tombelle</persoonsnaam> opden <datum datum='1725-05-22' when='1725-05-22'>22. Meij</datum> binnen <locatie>Antwerpen</locatie> gekomen,</l>
+					<l>tot het nemen van voordere informatien, en tot het recelleren van de</l>
+					<l>Voorgaende overhooringen die maer geschied en waren voorden <persoonsnaam>heere</persoonsnaam></l>
+					<l><persoonsnaam>Raed procureur generael Hemtinnes</persoonsnaam> alleen, en zijn voor-gemelde Raeds¬</l>
+					<l>heeren beneffens den Procureur Generael &amp; Secretaris wederom vertrokken</l>
+					<l>naer <locatie>Brussel</locatie> met de examinatie vande voornoemde gevangen vertrok¬</l>
+					<l>ken op <datum datum='1725-05-26' when='1725-05-26'>26. Meij</datum>, en Sijn de gevangene op het <locatie>Casteel</locatie> in bewaernisse</l>
+					<l>gebleven tot den <datum datum='1725-06-04' when='1725-06-04'>4. junij 1725</datum>, en ten Zelven dage <datum datum='1725-05-26' when='1725-05-26'>26. meij</datum> is opden</l>
+					<l><locatie>Stadhuijze</locatie> alhier ter puije afgepubliceert eene keijserlijke en Coninglijke</l>
+					<l>Ordonnatie van <datum datum='1725-05-11' when='1725-05-11'>11. meij</datum> te vorens, waer bij de Sonne pistolen ofte zooge¬</l>
+					<l>naemde Sonnekens, als ook de andere goude Louisen van<locatie> Vrankrijk,</locatie></l>
+					<l>gemerkt van eenen kant met het Schild van de wapen van <locatie>Vrankrijk</locatie></l>
+					<l>Van agter met twee Staffen gecruijst, en van den anderen kant met het</l>
+					<l>afbeeldsel van den <persoonsnaam>Conink van Vrankrijk Ludovicus den XV.</persoonsnaam>, niet meer</l>
+					<l>en Sullen Cours hebben als tot f 11,, - wgt, en tot Ƒ12,,16½ Courant, welke</l>
+					<l>te vorens deden Ƒ11,,4.-wgt &amp; Ƒ 13,,1. Cour./ breeder inde placaet te sien.</l>
+					<l>Den <datum datum='1725-06-01' when='1725-06-01'>1 junij</datum> Sijn de drij gevangene eerst vervoert van&apos;t <locatie>Casteel</locatie></l>
+					<l>na <locatie>Brussel</locatie> met eene Berlinne, te weeten <persoonsnaam>Feron Mackelaer</persoonsnaam> &amp;</l>
+					<l><persoonsnaam>Bombergen</persoonsnaam> met Sijnen Broeder</l>
+					<l>Ten Selven dage <datum datum='1725-06-01' when='1725-06-01'>1 junij</datum> is in Sijn huijs thuijs gekomen seker</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><persoonsnaam>Joris</persoonsnaam> op de <locatie>peerde merkt</locatie>, op Sekere Conditie en bespreeksel aen hem bij</l>
+					<l>provisie geaccordeert en toegestaen; ende de Deurweerders en Soldaeten hebbe</l>
+					<l>hun daer uijt geretireert; als ook op <datum datum='1725-06-08' when='1725-06-08'>8 junij</datum> bij ordre geretireert hebben uijt</l>
+					<l>den huijse van <persoonsnaam>Sr Prae</persoonsnaam>t inde <locatie>hofstraat</locatie>, nogtans onder hypothequaire Cautie het</l>
+					<l>welk Sijne Vrinden hebben gestelt, en is voor hem Seer lange gevalleci¬</l>
+					<l>teert omme te bekomen ene absolutie voor Sekere Somme gelds, maer alsoo</l>
+					<l>hij Seer beswaert ende belast is geworden, hebben ten dier oorsaeke gepre¬</l>
+					<l>tendeert eene groote Somme gelds waertoe zijne vrinden niet en conden</l>
+					<l>resolveren.</l>
+					<l>Voorders is alhier op de deure ter <locatie>Secretarije</locatie> geaffigeert de volgende</l>
+					<l>ordonnantie:  Mijne heeren BB &amp; SS der Stad van <locatie>Antwerpen</locatie> (ingevol¬</l>
+					<l>ge van de order door Sijne Exe aen hun gesonden den <datum datum='1725-06-13'>13. dezer</datum>,) ordonneren</l>
+					<l>aen alle Stoelklerken der Secretarije alhier, &amp; aen alle Notarissen woonende</l>
+					<l>binnen dezer Stad ofte Vrijheijd der Selve Sonder uijtstel en zoo gauw</l>
+					<l>mogelijk in handen van een der Secretarissen alhier over te brengen, alle</l>
+					<l>de immeubele goederen dewelke Sij Sullen konnen agterhaelen uijt den</l>
+					<l>acten onder hun berustende ofte voor hun gepasseert, toe te komen aen de</l>
+					<l>persoonen</l>
+					<l>genoemt</l>
+					<l>int placcaert van Zijne Majesteijt van <datum datum='1725-04-17'>17. april</datum></l>
+					<l><datum datum='1725-04-17'>laastleden</datum>,</l>
+					<l><hi rend='strikethrough:true;'>1725 dit, hier</hi></l>
+					<l>uijtgenomen</l>
+					<l><persoonsnaam>guiliam Joris</persoonsnaam></l>
+					<l><persoonsnaam>JB.P. andriessens</persoonsnaam></l>
+					<l>en <persoonsnaam>Ignatius</persoonsnaam></l>
+					<l><persoonsnaam>wittebol</persoonsnaam>, en</l>
+					<l>voorders</l>
+					<l>, ende voorders aen <persoonsnaam>Guilliam Lhuissie</persoonsnaam>, <persoonsnaam>De Bes<hi rend='superscript:true;'>ce</hi></persoonsnaam>, <persoonsnaam>Mertens</persoonsnaam></l>
+					<l><persoonsnaam>Silver Smeden</persoonsnaam>     <persoonsnaam>N. Tamineau</persoonsnaam>,</l>
+					<l>jongman</l>
+					<l><hi rend='strikethrough:true;'>uijtgenomen <persoonsnaam>Guill. Joris</persoonsnaam>, <persoonsnaam>J.B.P. Andriessens</persoonsnaam></hi></l>
+					<l><hi rend='strikethrough:true;'>en <persoonsnaam>Ignatius wittebol Coopman</persoonsnaam>  </hi> <persoonsnaam>N. Goumans, Coopman</persoonsnaam>, <persoonsnaam>Gaspar Smiets</persoonsnaam></l>
+					<l><persoonsnaam>N. Hanquar </persoonsnaam></l>
+					<l><persoonsnaam><hi rend='strikethrough:true;'>Maquaer</hi></persoonsnaam>, <persoonsnaam>Balthasar Praet</persoonsnaam>, <persoonsnaam>N. Matijssens</persoonsnaam></l>
+					<l><persoonsnaam>N. Fige</persoonsnaam></l>
+					<l><persoonsnaam>Martin.</persoonsnaam></l>
+					<l>&amp; <persoonsnaam>Cornelis Bombergen, Silversmede</persoonsnaam>, <persoonsnaam>Marten Feron</persoonsnaam></l>
+					<l>&amp; <persoonsnaam>N. Georgine</persoonsnaam>,</l>
+					<l><hi rend='strikethrough:true;'>uijtgenomen van <persoonsnaam>Guil. Joris Jan Baptist</persoonsnaam>, <persoonsnaam>Pedro Andriessens</persoonsnaam> en <persoonsnaam>Ignatius</persoonsnaam></hi></l>
+					<l><hi rend='strikethrough:true;'><persoonsnaam>wittebol</persoonsnaam>,</hi> daer toe voegende, Soo veel mogelijkde weerde vande selve</l>
+					<l>panden, gelijk Sij Sullen konnen agterhaelen uijt de Contracten voor hun</l>
+					<l>gepasseert. Actum in Coll<hi rend='superscript:true;'>o</hi> <datum datum='1725-06-14'>14 junij 1725</datum>. gep<hi rend='superscript:true;'>t</hi> <persoonsnaam>Della faille V<hi rend='superscript:true;'>r</hi></persoonsnaam> en was onder¬</l>
+					<l>teekent <persoonsnaam>F. van Can grap<hi rend='superscript:true;'>zio</hi></persoonsnaam></l>
+					<l>diergelijke ord<hi rend='superscript:true;'>e</hi> </l>
+					<l>van den delendam</l>
+					<l>word aende <persoonsnaam>griffiers van Deurne</persoonsnaam> &amp; <persoonsnaam>Borgerhout</persoonsnaam></l>
+					<l>als ook aende <persoonsnaam>Secretaris van Berghe Brunswijck</persoonsnaam>, &amp; aen <persoonsnaam>horman</persoonsnaam> als</l>
+					<l>ook aenden</l>
+					<l><persoonsnaam>Smit van oord</persoonsnaam></l>
+					<l><persoonsnaam>Wilmersdonck</persoonsnaam></l>
+					<l>&amp; <persoonsnaam>anth. moel</persoonsnaam></l>
+					<l>den <datum datum='1725-06-15'>15<hi rend='superscript:true;'>de</hi></datum></l>
+					<l>ook <datum datum='1725-06-25'>25<hi rend='superscript:true;'>de</hi></datum> aen</l>
+					<l>den <persoonsnaam>griff<hi rend='superscript:true;'>s</hi> de</persoonsnaam></l>
+					<l><persoonsnaam>Soetbuike</persoonsnaam> &amp;</l>
+					<l><persoonsnaam>Berthe</persoonsnaam>.</l>
+					<l>Item op <datum datum='1725-06-21' when='1725-06-21'>21. junij</datum> Snagts Zijn wedrom alhier van hun bedde gehaelt</l>
+					<l>Sekeren <persoonsnaam>Sollaert Silversmit</persoonsnaam> te vorens gewerkt hebbende by <persoonsnaam>d<hi rend='superscript:true;'>m</hi> van Beugem</persoonsnaam></l>
+					<l>op de <locatie>oude Borze</locatie>, betigt van gemaekt te hebben goude rondekens; alsook</l>
+					<l>Sekeren <persoonsnaam>Verbert</persoonsnaam> gewoont hebbende op de <locatie>vrijdagsche merkt</locatie> betigt van</l>
+					<l>gemaekt te hebben een houte model omme te dienen tot het maeken</l>
+					<l>Item den <datum datum='1725-06-16' when='1725-06-16'>16. d<hi rend='superscript:true;'>i</hi></datum> diergelijke ord<hi rend='superscript:true;'>e</hi> anden <persoonsnaam>griffier van&apos;t Kiel</persoonsnaam>,</l>
+				</lg>
+			</p>
+			<pb n='8'/>
+			<p>
+				<lg>
+					<l>Van een ijsere perse, ende zijn gebrogt geworden op het <locatie>Casteel</locatie>.</l>
+					<l>Ende zijn ook ten zelven tijde de huijsen van <persoonsnaam>N. De Bes</persoonsnaam> en <persoonsnaam>N.</persoonsnaam></l>
+					<l><persoonsnaam>Mertens Silver Smeden</persoonsnaam> opde <locatie>merkt</locatie> gewoont hebbende geleijd geworden</l>
+					<l>met Deurweerders, naer dat Sij lang te vorens geretineert &amp; vertrokken</l>
+					<l>waren buijten deze Stad, &amp; ook alles uijt hun huijs gevlugt en gesal¬</l>
+					<l>veert hadden; en op <datum datum='1725-06-22' when='1725-06-22'>22. ditto junij</datum> Savonds Sijn de Deurweerders uijt</l>
+					<l>het huijs van <persoonsnaam>S. de Bes</persoonsnaam> geretineert door Schrift @ordre aen hun tendien</l>
+					<l>eijnde geinsinueert, Zoo dat Sanderdags den winkel wederom open was.</l>
+					<l>Item is de Saeke geaccomodeert ten regarde van <persoonsnaam>Ignatius wittebol</persoonsnaam> &amp; <persoonsnaam>Joris</persoonsnaam></l>
+					<l>die thuijs is gekomen.</l>
+					<l>Den <datum datum='1725-06-25' when='1725-06-25'>25. junij</datum> Sijn ook de Soldaeten en Deurweerders door Speciaele</l>
+					<l>ordre geretiteert uijt den huijse van <persoonsnaam>Sieur Madou</persoonsnaam> ; en op <datum datum='1725-06-27' when='1725-06-27'>27. ditto</datum> zijn</l>
+					<l>alle de Meubelen, goederen ende effecten ten huijse van <persoonsnaam>N. Verbert</persoonsnaam> ge¬</l>
+					<l>schat ende gewardeert door den gesworen <persoonsnaam>Roeper Willemsens</persoonsnaam>.</l>
+					<l>Nota op den <datum datum='1725-06-26' when='1725-06-26'>26. ditto</datum> is door ordre van wegens de Heeren van het</l>
+					<l>Magistraet bij acte collegiael gepubliceert, als dat ten regarde van <persoonsnaam>N. Masquar</persoonsnaam></l>
+					<l><persoonsnaam>Hacquar</persoonsnaam></l>
+					<l>Staende genoemt inde voorgemelde acte Collegiaele, word geexcipieert, ende</l>
+					<l>de Notarissen niet geobligeert en zijn eenige overbrenginge te doen van</l>
+					<l>eenige transporten van goederen ten regarde van hem gedaen.</l>
+					<l>Opden <datum datum='1725-06-28' when='1725-06-28'>28. junij</datum> Sijn alle de persoonen welke uijt deze Stad ge¬</l>
+					<l>vlugt Sijn door den <persoonsnaam>Deurweerder Lefeber</persoonsnaam> ter puijen van het <locatie>Stadhuijs</locatie></l>
+					<l>geproclameert geworden, en daer van de acte bijwegens van ordonnantie</l>
+					<l>voor het <locatie>Stadhuijs</locatie> geplakt &amp; geaffigeert <hi rend='strikethrough:true;'>geworden</hi>, luijdende als volgt;</l>
+					<l><persoonsnaam>Carel bij de gratie Godts Rooms Keijser altijd vermeerder des</persoonsnaam></l>
+					<l><persoonsnaam>Rijke, Conink van Castillien, van Leon, van Arragon, &amp; </persoonsnaam></l>
+					<l><persoonsnaam>arts</persoonsnaam></l>
+					<l><persoonsnaam>Hertoge van</persoonsnaam></l>
+					<l><persoonsnaam>Oostenrijk, Hertog van Bourgondie, van Lothrijt, van Brabant &amp;<hi rend='superscript:true;'>a</hi></persoonsnaam>, den</l>
+					<l>eersten van de Deurweerders van onzen Raede geordonneert in <locatie>Brabant</locatie>,</l>
+					<l>Saluijt: wij hebben ontfangen de Supplicatie van onsen Lieven en</l>
+					<l>getrouwen Raed en Procureur Generael Van <locatie>Brabant</locatie>, inhoudende</l>
+					<l>hoe dat hij bij req<hi rend='superscript:true;'>te</hi> van Jus<hi rend='superscript:true;'>ien</hi> leste ons te kennen hadde gegeven</l>
+					<l>dat verscheijde persoonen Sedert eenige jaeren herrewaerts hun hadde</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Vervoordert van niet alleenelijk binnen dese Landen inne te brengen en doen</l>
+					<l>innebrengen eenige goude Specien Soo gemunt als ongemunt, ende Selve al¬</l>
+					<l>daer te vercoopen en negotieren en buijten deze Landen te vervoeren;</l>
+					<l>maer hadden hun ook zoo vergeten van binnen deze Landen te Slaen</l>
+					<l>en doen Slaen menigvuldige goude Specien, en naementlijk Sonne pis¬</l>
+					<l>tolen, Louisen met LL., Ducaeten, Stukken van Ses Croonen &amp; andere,</l>
+					<l>dewelke Sij voor Soo vele aengaet de aldaer gevalueerde, hadden uijt-</l>
+					<l>gegeven en doen uijtgeven ende niet gevalueerde hadden uijtgevoert,</l>
+					<l>ende doen uijtvoeren buijten deze Landen, en verscheijde andere die,</l>
+					<l>daer hadden geformeert de noodige instrumenten, en hadden ge¬</l>
+					<l>werkt, onder welke persoonen wirden bevonden, onder meer andere,</l>
+					<l><persoonsnaam>Peeter Carpentier</persoonsnaam> voor soo veel hij woonende binnen onse Stad van</l>
+					<l><locatie>Antwerpen</locatie> voor Sig hadden doen formeren eenige munt persen en</l>
+					<l>andere instrumenten noodig om te munten te Slaen van welke duij¬</l>
+					<l>sende LL. pistolen, en daer naer eene menigte van Ducaeten opden</l>
+					<l>Slag vande gene der geunieerde Provincien, Sonder datde Selve</l>
+					<l>waeren hebbende het alloij ende gewigt van Ducaeten. Hem <persoonsnaam>Jaques</persoonsnaam></l>
+					<l><persoonsnaam>Van Beugem</persoonsnaam>, voor Soo veel hij hadde eene groote menigte van goud</l>
+					<l>gesmolten ende ende daer uijt eene groote quantiteijt van plaetiens</l>
+					<l>dienende om gemunt te worden hadde  geformeert. Item <persoonsnaam>Nicolaes Jo¬</persoonsnaam></l>
+					<l><persoonsnaam>seph Madou</persoonsnaam> Swaeger van den gemelden <persoonsnaam>Carpentier</persoonsnaam>, voor zoo veel in</l>
+					<l>huijs bevonden waren Smiltcrousen ende andere instrumenten die¬</l>
+					<l>nende tot het munten, dat hij verscheijde goude plaetjens hadde doen</l>
+					<l>formeren, ende de selve gemunt ofte doen munten, de welke hij alomme</l>
+					<l>hadde uijtgegeven ofte doen uijtgeven waer over hij in egte Correspon¬</l>
+					<l>dentie hadde geweest met den voorschreven <persoonsnaam>Carpentier</persoonsnaam>. Item <persoonsnaam>Merten</persoonsnaam></l>
+					<l><persoonsnaam>Huijbrechts</persoonsnaam> voor Soo veel hij hadde op zijn Speelhuijs doen op Stellen</l>
+					<l>eene formele muntperse ende deselve gebruijkt ofte doen gebruijken</l>
+					<l>tot het Slaen van Specien. Item <persoonsnaam>Peeter Gilbert</persoonsnaam> voor zoo veel hij</l>
+					<l>hadde geslaen ofte doen Slaen verscheijde goude Specien en daer</l>
+					<l>mede genegotieert met den gevangenen <persoonsnaam>Adriaen Colen</persoonsnaam>. Item den</l>
+				</lg>
+			</p>
+			<pb n='9'/>
+			<p>
+				<lg>
+					<l><persoonsnaam>Schipper Cornelis de Winter</persoonsnaam>, voor Soo veel indesselfs huijs waren</l>
+					<l>bevonden drij pakken balanciers en andere instrumenten dienstig tot</l>
+					<l>eenige muntpersen, ende dat hij hadde gemunt Soo voor Sig selven</l>
+					<l>als voor andere ende daer mede genegotieert. Item <persoonsnaam>Carel Taminiau</persoonsnaam>,</l>
+					<l>voor Soo veel hij hadde doen opstellen eene muntperse met desselfs</l>
+					<l>instrumenten daer toe noodig door den gevangenen <persoonsnaam>Legendarme</persoonsnaam> ende</l>
+					<l><persoonsnaam>Colomme</persoonsnaam>, ende deselve gebruijkt tot fabriqueren van goude Specien.</l>
+					<l>Item <persoonsnaam>Cornelis dela Vigne</persoonsnaam> voor zoo veel hij hadde geformeert eenige</l>
+					<l>menigte van goude plaetjens Soo voor Sig selve als voor andere</l>
+					<l>dienstig om munten te maeken. Item <persoonsnaam>Hendrik Marcour den Sone</persoonsnaam>,</l>
+					<l>voor Soo veele hij Verscheijde duijsende goude plaetjens hadde</l>
+					<l>doen formeren insgelijke dienstig om gemunt te worden, ende daer</l>
+					<l>toe gesubministreert goude lingotten waer mede hij hadde genego¬</l>
+					<l>tieert. Item <persoonsnaam>Nicolaes Doniou</persoonsnaam> voor soo veel hij hadde doen maeken</l>
+					<l>het goudwerk noodig tot eene muntperse, en alsoo ten uijttesten</l>
+					<l>Suspect diergelijke persen gebruykt te hebben. Item <persoonsnaam>Baltazar Praet</persoonsnaam></l>
+					<l>voor soo veel hij hadde Verscheijde Croisaeden, lingotten ende ander</l>
+					<l>goud gesubministreert aende Silversmeden, de Selve doen Smilten ende</l>
+					<l>daer van eenige ronde goude plaetjens doen gieten maekende Coupoo¬</l>
+					<l>ren dienstig om gemunt te worden. de voorschreve persoonen we¬</l>
+					<l>sende als vlugtig, tot welkers laste den Vertoonder bekomen hebben¬</l>
+					<l>de prise de Corps, als te zien was uijt de decreten Sub W.1<hi rend='superscript:true;'>o</hi>, ende hadde</l>
+					<l>hij de Selve noijt konnen ter executie Stellen mits hunne voor vlug¬</l>
+					<l>tigheijd uijtwijsens de relaesen vande <persoonsnaam>Deurweerders Claukens</persoonsnaam> &amp; <persoonsnaam>Le</persoonsnaam></l>
+					<l><persoonsnaam>febre</persoonsnaam>, ende andere aldaer insgelijke gevoegt; versogt daer omme</l>
+					<l>den verthoonder tot laste van <persoonsnaam>Carpentier</persoonsnaam>, <persoonsnaam>van Beugem</persoonsnaam>, <persoonsnaam>Madou</persoonsnaam>,</l>
+					<l><persoonsnaam>Huijbrechts</persoonsnaam>, <persoonsnaam>Gilbert</persoonsnaam>, <persoonsnaam>la vigne</persoonsnaam>, <persoonsnaam>Marcour den Sone</persoonsnaam>, <persoonsnaam>Doniou</persoonsnaam> ende <persoonsnaam>Praet</persoonsnaam>,</l>
+					<l>brieven van proclamatie in forma, waeromme, Soo ist dat wij dezen</l>
+					<l>aengesien UL. authoriseren ende elken van voors. <persoonsnaam>Carpentier</persoonsnaam>, <persoonsnaam>van</persoonsnaam></l>
+					<l><persoonsnaam>Beugem, Madou, la vigne, Huijbrechts, Gilbert, de winter, Ta¬</persoonsnaam></l>
+					<l><persoonsnaam>miniau</persoonsnaam>, <persoonsnaam>Marcour</persoonsnaam>, <persoonsnaam>Doniau</persoonsnaam>, ende <persoonsnaam>praet</persoonsnaam>, allomme binnen dezen</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Lande van <locatie>Brabant</locatie>, <locatie>Limborg</locatie> &amp; <locatie>over maese</locatie>, UE. bevelende ende</l>
+					<l>daer toe Committerende bij dezen, dat gij de Selve ter plaetse van</l>
+					<l>hunne wooninge ende alomme elders daer men gewoon is te daegen</l>
+					<l>bij Edicte proclam<hi rend='superscript:true;'>t</hi> de persoonen hier voren genoemt ten eijnde Sij</l>
+					<l>binnen 30. toecomende dagen, en dat met drij termeijnen van thien</l>
+					<l>tot thien dagen Compareren, ende hun begeven inde <locatie>gevangenisse</locatie></l>
+					<l><locatie>het treurenborgh</locatie> om voorts voor onsen Seer lieven ende Getrouwen</l>
+					<l>die Cancelier en Luijden van onsen voors<hi rend='superscript:true;'>e</hi> Raede geordonneert in</l>
+					<l><locatie>Brabant</locatie> opde aenspr<hi rend='superscript:true;'>e</hi> die den Suppl<hi rend='superscript:true;'>t</hi> hun Sal willen doen antwoor¬</l>
+					<l>den en inde Saeke voors<hi rend='superscript:true;'>e</hi> geproced<hi rend='superscript:true;'>t </hi>te worden naer behooren, op</l>
+					<l>pene dat den selve termijn van 30. dagen overstreeken Zijnde Sonder</l>
+					<l>hun mede in de <locatie>voors<hi rend='superscript:true;'>e</hi> gevangenisse</locatie> gepresenteert te hebben, Sij van als nu</l>
+					<l>voor als dan uijt onzen voors<hi rend='superscript:true;'>en</hi> Lande van <locatie>Brabant</locatie>, <locatie>Limborg</locatie> ende</l>
+					<l>van <locatie>overmaeze</locatie> Sullen worden gehouden voor gevangen en gehouden</l>
+					<l>worden als overwonnen van het voors<hi rend='superscript:true;'>e</hi> delict, en dat voors<hi rend='superscript:true;'>e</hi> Sal</l>
+					<l>worden geprocedeert naer behooren, overschrijvende den voors<hi rend='superscript:true;'>e</hi> Can¬</l>
+					<l>celier en Raeds Luijden wat Gij in deze Sult hebben gedaen, de¬</l>
+					<l>welke wij ontbieden ende Committeren, dat Sij, peynen gehoort, gaet</l>
+					<l>Cort onvertogen recht en expeditie van justicie doen, want ons</l>
+					<l>alsoo gelieft. Gegeven binnen onze Stad <locatie>Brussel</locatie> onder onzen</l>
+					<l>grooten Zegel den <datum datum='1725-06-26'>26. junij 1725</datum>. gep<hi rend='superscript:true;'>t</hi> for: sr V<hi rend='superscript:true;'>t </hi>onderg@ bij den</l>
+					<l>Keijser en Coninck en Sijnen Raede, get. <persoonsnaam>Tombelle</persoonsnaam>, aenhangende den</l>
+					<l>grooten Zegel van Sijne Maj<hi rend='superscript:true;'>t</hi> gedrukt op rooden wasch.</l>
+					<l>Copije van &apos;t Relaes.</l>
+					<l>Wt Crachte van orginele opene brieven, waer van hier boven Staet</l>
+					<l>Copije, en ten versoeke van dheer Raed en procureur generael impetrant</l>
+					<l>der Selve, hebbe ik ondersch: Deurweerder van den Souvereijnen Raede</l>
+					<l>van <locatie>Brabant</locatie>, op <datum datum='1725-06-28' when='1725-06-28'>28. junij 1725</datum>. ter puije van het <locatie>Stad Huijs der</locatie></l>
+					<l><locatie>Stad Antwerpen</locatie>, present verscheijde omstaenders bij evictie gedaegt</l>
+					<l>ende geproclameert de persoonen van <persoonsnaam>Carpentier</persoonsnaam>, <persoonsnaam>van Beugem</persoonsnaam>,</l>
+				</lg>
+			</p>
+			<pb n='10'/>
+			<p>
+				<lg>
+					<l><persoonsnaam>Madou</persoonsnaam>, <persoonsnaam>Huijbrechts</persoonsnaam>, <persoonsnaam>Gilbert</persoonsnaam>, <persoonsnaam>de Winter</persoonsnaam>, <persoonsnaam>Taminiau</persoonsnaam>, <persoonsnaam>Lavigne</persoonsnaam>, <persoonsnaam>Marcour,</persoonsnaam></l>
+					<l><persoonsnaam>den Sone</persoonsnaam>, <persoonsnaam>Doniau</persoonsnaam>, ende <persoonsnaam>Praet</persoonsnaam>, ten eijnde Sy hun in persoon begeven</l>
+					<l>binnen de Stad <locatie>Brussel</locatie> inde <locatie>gevangenisse treurenborg</locatie> binnen</l>
+					<l>20. dagen om aldaer als meede</l>
+					<l>inde</l>
+					<l>Selve brieven. Toirconden &amp;<hi rend='superscript:true;'>a</hi>.,</l>
+					<l>ondert.  <persoonsnaam>Le febre</persoonsnaam>.</l>
+					<l>Item opden <datum datum='1725-06-23' when='1725-06-23'>23. junij</datum> was door order vande Heeren van&apos;t  Magis¬</l>
+					<l>traet geplakt geworden opde deur der Secretarije de naer volgende ordon¬</l>
+					<l>nantie:</l>
+					<l>Mijne Heeren Borgermeesters &amp; Schepenen, informeren mits dezen de Stoel</l>
+					<l>klerken ende alle andere Notarissen, dezer Stad, dat hunne ord<hi rend='superscript:true;'>e</hi> van dato</l>
+					<l><datum datum='1725-06-14'>14. junij lest</datum></l>
+					<l><datum datum='1725-06-14'>leden</datum></l>
+					<l>alhier ter Secretarije geaffigeert tot het overbrengen</l>
+					<l>der immeubelaire goederen comt te Cesseren ten regarde van <persoonsnaam>Charles</persoonsnaam></l>
+					<l><persoonsnaam>Hacquar</persoonsnaam>. Actum inCollegio den <datum datum='1725-06-23'>23. junij 1725</datum>. gep<hi rend='superscript:true;'>t</hi> <persoonsnaam>Della faille</persoonsnaam> v<hi rend='superscript:true;'>t</hi></l>
+					<l>en ondert  <persoonsnaam>J.F. vanCan</persoonsnaam>.</l>
+					<l>Item opden <datum datum='1725-06-30' when='1725-06-30'>30. junij</datum> daer naer de zelve acte, houdende als boven</l>
+					<l>ten regarde van <persoonsnaam>N. de Besche</persoonsnaam>. Act<hi rend='superscript:true;'>m</hi> in Collegio ut Supra. gep<hi rend='superscript:true;'>t</hi>  <persoonsnaam>Della</persoonsnaam></l>
+					<l><persoonsnaam>faille</persoonsnaam> V<hi rend='superscript:true;'>t </hi>en ondert<hi rend='superscript:true;'>t</hi> <persoonsnaam>JF. vanCan</persoonsnaam>.</l>
+					<l>Voorders ten zelven dage is wedrom eene nadere ordonnantie</l>
+					<l>geaffigeert ter <locatie>Secretarije</locatie>, waer van den teneur luijde als volgt:</l>
+					<l>Mijne H H. B B. &amp; S S. ordonneren bij desen andermael aen</l>
+					<l>alle Stoelklerken der Secretarije alhier, en aen alle Notarissen</l>
+					<l>Woonende binnen deze Stad ten eijnde Sij hun promptelijk binnen</l>
+					<l>den tijd van 24 uren naer d&apos;affictie daer Sullen hebben te regule¬</l>
+					<l>ren naer d&apos;ordonnantie van <datum datum='1725-06-14'>14. junij 1725</datum>. alhier ter <locatie>Secretarije</locatie> ook</l>
+					<l>geaffigeert <hi rend='strikethrough:true;'>(ende hier vore ook gemeld)</hi> op pene ende Verbeurte van</l>
+					<l>25 guldens. Actum in Collegio <datum datum='1725-06-30'>30 junij 1725</datum>. gepar<hi rend='superscript:true;'>t</hi> <persoonsnaam>Della faille</persoonsnaam> V<hi rend='superscript:true;'>t</hi></l>
+					<l>en ond<hi rend='superscript:true;'>t</hi> <persoonsnaam>J.F. van Can</persoonsnaam>.</l>
+					<l>Waer van ook</l>
+					<l>aan de</l>
+					<l><hi rend='strikethrough:true;'>alle </hi>Secretarissen der omliggende dezer Stadsdor¬</l>
+					<l>pen insinuatie is </l>
+					<l>gedaen</l>
+					<l>geschiet, om hun daer naer te reguleren. </l>
+					<l>Item opden <datum datum='1725-07-06' when='1725-07-06'>6. Julij</datum> is van wegens de Heeren van &apos;t Magistraet</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>door order vanden <persoonsnaam>Heere Grave de Daun</persoonsnaam>, bij beslote brieven door hem,</l>
+					<l>aande Selve toegezonden, deze naervolgende Acte Collegiael, en de ook</l>
+					<l>aengeplact ter <locatie>Secretarije</locatie>.</l>
+					<l>Mijne Heeren Borgermeesters &amp; Schepenen dezer Stad <locatie>Antwerpen</locatie></l>
+					<l>informeren by dezen de Stoelklerken ende alle andere Notarissen dezer</l>
+					<l>Stad, dat hunne ord<hi rend='superscript:true;'>tie</hi> van dato <datum datum='1725-06-14'>14. junij</datum> lest alhier ter <locatie>Secretarije</locatie> geaf¬</l>
+					<l>figeert tot het overbrengen der immeubeleere goederen Comt te Cesse¬</l>
+					<l>ren ten regarde van <persoonsnaam>Pieter Gilbert</persoonsnaam>. Actum in Collegio <datum datum='1725-07-06'>6. julii 1725</datum>.,</l>
+					<l>geparag<hi rend='superscript:true;'>t</hi> <persoonsnaam>Della faille</persoonsnaam> V<hi rend='superscript:true;'>t</hi>, en ond<hi rend='superscript:true;'>t</hi> <persoonsnaam>P.L. de pret</persoonsnaam>.</l>
+					<l>Op den <datum datum='1725-07-09' when='1725-07-09'>9. july 1725</datum>. is alhier ophet <locatie>Stadhuijs</locatie> ter puije door den</l>
+					<l><persoonsnaam>Deurweerder Le febre</persoonsnaam> gedaen geworden de 2<hi rend='superscript:true;'>de</hi> proclamatie uit Cragte</l>
+					<l>van de ordonnantie hier voren gemeld ten regarde van de onder Staende</l>
+					<l>Seven persoonen, en ook is de zelve immediatelijk daer naer gëaffi¬</l>
+					<l>geert geworden aen het <locatie>Stadhuijs</locatie>:</l>
+					<l><persoonsnaam>Pieter Carpentier</persoonsnaam>.</l>
+					<l><persoonsnaam>Jacques van Beugem</persoonsnaam>.</l>
+					<l><persoonsnaam>Merten Huijbrechts</persoonsnaam></l>
+					<l><persoonsnaam>Carel Tamineau</persoonsnaam>.</l>
+					<l><persoonsnaam>Cornelis la vigne</persoonsnaam></l>
+					<l><persoonsnaam>Hendrick Marcour den Sone</persoonsnaam>.</l>
+					<l><persoonsnaam>Nicolaus Daminiau</persoonsnaam>.</l>
+					<l>Item opden <datum datum='1725-07-10' when='1725-07-10'>10. julij</datum> is door ordre van <persoonsnaam>Sijne Excell<hi rend='superscript:true;'>tie</hi> den Heere</persoonsnaam></l>
+					<l><persoonsnaam>Grave Laun</persoonsnaam>, bijbeslotene brieven aen de Magistraet alhier geordonneert,</l>
+					<l>aente placken ter <locatie>Secretarije</locatie> de naervolgende ordonnantie Collegiael:</l>
+					<l>Mijne Heeren Borgermeesters en Schepenen der Stad <locatie>Antwerpen</locatie> infor¬</l>
+					<l>meren bij dezen de Stoelklerken enalle andere Notarissen deser Stad,</l>
+					<l>dat hunne ordon<hi rend='superscript:true;'>tie</hi> van dato <datum datum='1725-06-14'>14. junij lestleden</datum> <hi rend='strikethrough:true;'>(hier voren Staende)</hi></l>
+					<l>alhier ter <locatie>Secretarije</locatie> geaffigeert tot het overbrengen der immeu¬</l>
+					<l>beleere goederen</l>
+					<l>comt te Cesseren</l>
+					<l>ten regarde van <persoonsnaam>Cornelis de winter</persoonsnaam> <hi rend='strikethrough:true;'>comt te Cesse¬</hi></l>
+					<l><hi rend='strikethrough:true;'>ren</hi>. Actum in Coll<hi rend='superscript:true;'>o</hi> <datum datum='1725-07-10'>10. julij 1725</datum>. geparaf<hi rend='superscript:true;'>t </hi> <persoonsnaam>Della faille</persoonsnaam> V<hi rend='superscript:true;'>t</hi>, en ond<hi rend='superscript:true;'>t</hi></l>
+					<l><persoonsnaam>P.L. de pret</persoonsnaam>.</l>
+				</lg>
+			</p>
+			<pb n='11'/>
+			<p>
+				<lg>
+					<l>Waer uijt blijkt dat de Saeken ontrent den gemelden <persoonsnaam>De Win¬</persoonsnaam></l>
+					<l><persoonsnaam>ter</persoonsnaam> is geaccomodeert voor Sekere Somme gelds gelijk de voorgaen¬</l>
+					<l>de en is ook drij dagen daer naer thuijs gekomen.</l>
+					<l>Op den <datum datum='1725-07-16' when='1725-07-16'>16. julij 1725</datum> is gelijke Acte Collegiael aengeplact ten</l>
+					<l>regarde van <persoonsnaam>Pierre Georgerie, Maekelaer</persoonsnaam>, zijnde van den zelven in¬</l>
+					<l>houd gelijk hier boven.</l>
+					<l>Item op den <datum datum='1725-07-17' when='1725-07-17'>17. ditto</datum> gelijke Acte ten opsigte van <persoonsnaam>N.</persoonsnaam></l>
+					<l><persoonsnaam>Frans</persoonsnaam></l>
+					<l><persoonsnaam>Gauman.</persoonsnaam></l>
+					<l><persoonsnaam>Coopman</persoonsnaam>, luijdende insgelijks als boven; als mede de Zelve Acte van St.d.</l>
+					<l>ten regarde van <persoonsnaam>Balthazar Praet</persoonsnaam> van den inhoude als voors<hi rend='superscript:true;'>en</hi>; zoodat</l>
+					<l>deze drij persoonen insgelijks brieven van absolutie bekomen hebben</l>
+					<l>voor Sekere Somme gelds gelijk de voorgaende, en zijn ook immedia ¬</l>
+					<l>telijk naer datum in hunne huijsen geweest en leberlijk gegaen langs</l>
+					<l>de Straeten: men heeft alhier geseijd ende gedevulgeert dat &apos;er vier</l>
+					<l>persoonen geweest zijn vande principaelste vande Stad die gegeven</l>
+					<l>hebben onder hun vieren om te bekomen brieven van absolutie over</l>
+					<l>de drijmael hondert duijsent guldens.</l>
+					<l>Den <datum datum='1725-07-20' when='1725-07-20'>20. julij</datum> is alhier ter puije van het <locatie>Stadhuijs</locatie> door den</l>
+					<l><persoonsnaam>Deurweerder Lefebre</persoonsnaam> gedaen geworden de derde ende leste procla¬</l>
+					<l>matie ende naer de lecture vande voors<hi rend='superscript:true;'>e</hi> ordonnatie, de zelve</l>
+					<l>geaffigeert voor het Stadhuijs, waer inne Vermeld Stonden de onder¬</l>
+					<l>staende persoonen.</l>
+					<l><persoonsnaam>Pieter Carpentier</persoonsnaam></l>
+					<l><persoonsnaam>Marten Huijbrechts</persoonsnaam></l>
+					<l><persoonsnaam>Jaques Van Beugem</persoonsnaam></l>
+					<l><persoonsnaam>Cornelis dela Vigne</persoonsnaam></l>
+					<l><persoonsnaam>Hendrick Marcour den Zone</persoonsnaam></l>
+					<l>Item ten Zelven dage <datum datum='1725-07-20' when='1725-07-20'>20 julij</datum> is ter <locatie>Secretarije</locatie> aengeplackt</l>
+					<l>gelijke Acte Collegiael ten regarde van <persoonsnaam>Jacobus Mertens Silversmid</persoonsnaam></l>
+					<l>luijdende als volgt:</l>
+					<l>Mijne Heeren Burgermeesters en Schepenen dezer Stadt <locatie>Ant ¬</locatie></l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l><locatie>werpen</locatie> informeren bij dezen de Stoelklerken en alle andere</l>
+					<l>Notarissen deser Stad dat hunne ordonnantie van dato 14. junij</l>
+					<l>lest alhier ter Secretarije geaffigeert tot heroverbrengen der immeu¬</l>
+					<l>beleere goederen comt te Cesseren ten regarde van <persoonsnaam>Jacobus Mertens</persoonsnaam>.</l>
+					<l>Actum in Collegio <datum datum='1725-07-21' when='1725-07-21'>21. julij 1725</datum>., gepa<hi rend='superscript:true;'>t</hi> <persoonsnaam>Della faille</persoonsnaam> V<hi rend='superscript:true;'>t</hi> @ onderteekent</l>
+					<l><persoonsnaam>P.L. Depret</persoonsnaam>.</l>
+					<l>Item op <datum datum='1725-07-24' when='1725-07-24'>24. julij van den Zelven jaere</datum> is binnen <locatie>Brussel</locatie> gearresteert</l>
+					<l>&amp; inde <locatie>gevangenisze op treurenborg</locatie> gestetelt geworden <persoonsnaam>Dheer Acquier</persoonsnaam>,</l>
+					<l>als Verdagt medepligtig aende Selve Saecken.</l>
+					<l>Opden <datum datum='1725-08-01' when='1725-08-01'>1<hi rend='superscript:true;'>en</hi> Augusti</datum> is ook ter <locatie>Secretarije</locatie> door order van den</l>
+					<l><persoonsnaam>Heere grave de Daun</persoonsnaam> aende Heeren van het Magistraet toegesonden,</l>
+					<l>geaffigeert geworden gelijke acte collegiael, dienende tot advertentie</l>
+					<l>aende Notarissen, als dat <persoonsnaam>Sieur Nicolaes Joseph Madou</persoonsnaam> word ge¬</l>
+					<l>excipieert uijt de ordonnantie <datum when='1725-07-14'>de dato 14. junij lestleden,</datum> hier voren</l>
+					<l>Staende</l>
+					<l>En is ook ten Zelver dage in pleno collegio geresolveert ,en in</l>
+					<l>Consideratie genomen,</l>
+					<l>ten opsigte van <persoonsnaam>Balthasar Praet</persoonsnaam></l>
+					<l>ofte de resolutie voorgemeld over zyn officie,</l>
+					<l>twelk</l>
+					<l>mits Sijne voorvlugtigheijd <hi rend='strikethrough:true;'>####</hi> provisioneel toegevoegt</l>
+					<l>was</l>
+					<l>is aen de</l>
+					<l>Secretarissen, om t Selve aen hem wedrom te laeten bedienen, ende</l>
+					<l>de voorschreve resolutie provisioneel in te trekken; waer op met rijpe</l>
+					<l>deliberatie is geordonneert aen den voors<hi rend='superscript:true;'>en</hi> <persoonsnaam>Praet</persoonsnaam>, en alleer daer over</l>
+					<l>iets te doen, dat hij zal geven visie en inspectie aende Heeren Borger¬</l>
+					<l>meesteren van Sijne brieven van absolutie ten Hove bij hem verword¬</l>
+					<l>den.</l>
+					<l>Item op den <datum datum='1725-08-03' when='1725-08-03'>3. Aug<hi rend='superscript:true;'>ti</hi> van gemelden Jaere</datum>, is bij Collegiale resolutie </l>
+					<l>den d<hi rend='superscript:true;'>o</hi> <persoonsnaam>Praet</persoonsnaam> behandigt de naervolgende Schriftelijke Acte collegiael,</l>
+					<l>naer dat hij alvorens de Heeren van het Magistraet hadde voldaen</l>
+					<l>ende bovenstaande ord<hi rend='superscript:true;'>e</hi> &amp; resolutie collegiael, &amp; luijd als volgt:</l>
+					<l> Alsoo den Ontfanger van dezer Stads pontpenningen en rent¬</l>
+					<l>geld binnen deze Stad wederom is gereverteert; Soo ist dat Mijne Hee¬</l>
+					<l>ren Borgemeesters en Schepenen deser Stad <locatie>Antwerpen</locatie> den zelven.</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l></l>
+				</lg>
+			</p>
+			<pb n='12'/>
+			<p>
+				<lg>
+					<l>Ontfanger wedrom hebben gestelt in Sijn vorige fonctie en officie</l>
+					<l>tot het ontfangen van de Stads pontpenningen en rentgeld, Comen</l>
+					<l>de hier mede te Cesseren de Commissie gegeven aen d&apos;Heeren Secretarissen</l>
+					<l>dezer Stad opden <datum datum='1725-05-02'>2.<hi rend='superscript:true;'>den</hi> Maij lestleden</datum> tot het par interim ontfangen</l>
+					<l>vande voors.<hi rend='superscript:true;'>e</hi> dezer Stads pontpenningen ende rentgeld. Actum in</l>
+					<l>Collegio den <datum datum='1725-08-03'>3.<hi rend='superscript:true;'>en</hi> Aug.<hi rend='superscript:true;'>ti</hi> 1725</datum>. geparap<hi rend='superscript:true;'>t</hi>. <persoonsnaam>Della faille</persoonsnaam> v<hi rend='superscript:true;'>s</hi>., en onderteek<hi rend='superscript:true;'>t</hi>.</l>
+					<l><persoonsnaam>De Man</persoonsnaam>.</l>
+					<l>Voorders zijn door order vanden Procureur Generael gedaegt ge¬</l>
+					<l>worden differente principaele Cooplieden binnen dese Stad, om te Com¬</l>
+					<l>pareren binnen <locatie>Brussel</locatie>, zoo over gelevert te hebben eenige lingst¬</l>
+					<l>ten goud, als over het vernegotieren van goude Specien.</l>
+					<l>Opden <datum datum='1725-08-18' when='1725-08-18'>18.<hi rend='superscript:true;'>en</hi> Augusti 1725</datum>. zijn alle de Meubelen &amp; goederen van</l>
+					<l><persoonsnaam>N. Feron Maekelaer</persoonsnaam> inde <locatie>lange nieuwstraet</locatie> gewoont hebbende, verkogt</l>
+					<l>geworden, en sijn de zelve Meubelen verkogt ten huijse van <persoonsnaam>Dheer Colen</persoonsnaam>,</l>
+					<l>die daer immediatelijk naer hetgevangen nemen vanden Selven <persoonsnaam>Feron</persoonsnaam></l>
+					<l>aldaer getransporteert zijn geweest.</l>
+					<l>Item opden <datum datum='1725-09-20' when='1725-09-20'>20. September</datum> is wederom aengeplakt eene ordonnantie</l>
+					<l>Collegiael ter Secretarije, luijdende als volgt:</l>
+					<l>Mijne Heeren BB. en Schepenen der Stad <locatie>Antwerpen</locatie>, informe¬</l>
+					<l>ren bijdezen de Stoelklerken, en alle andere Notarissen deser Stad,</l>
+					<l>dat hunne ordon.<hi rend='superscript:true;'>tie</hi> vandato 14. junij lestleden geafficheert tot het</l>
+					<l>overbrengen der immeubeleere goederen comt te cesseren ten regarde</l>
+					<l>van <persoonsnaam>Hendriek Marcour den Soone</persoonsnaam>. Actum in Collegio den <datum datum='1725-09-19'>19.<hi rend='superscript:true;'>en</hi> septembris</datum></l>
+					<l><datum datum='1725-09-19'>1725</datum>. geparaph<hi rend='superscript:true;'>t</hi>. <persoonsnaam>Della faille</persoonsnaam> V.<hi rend='superscript:true;'>t</hi>, en ond.<hi rend='superscript:true;'>t </hi><persoonsnaam>J.F. van Can</persoonsnaam>.</l>
+					<l>Gemelden <persoonsnaam>Marcour</persoonsnaam> is ook ten zelven wedrom binnen <locatie>Antwerpen</locatie></l>
+					<l>komen woonen.</l>
+					<l>Onder tusschen is ten zelven tijde door de Hoofdmannen vande</l>
+					<l>poorterye en wijkmeesters aende Heeren van&apos;t Magistraet versogt ge¬</l>
+					<l>worden het naervolgende:</l>
+					<l>Eerw.<hi rend='superscript:true;'>de</hi>, Edele, wijse &amp; voorsienige Heeren de Hoofdmannen van de</l>
+					<l>poorterije &amp; wijkmeesters presenterende het tweede deser Stads drij</l>
+					<l>Leden, geinformeert Sijnde, dat&apos;er differente van ons Banquiers &amp;</l>
+				</lg>
+			</p>
+			<p>
+				<lg>
+					<l>Cooplieden tot <locatie>Brussel</locatie> geactioneert worden om aldaer geexamineert ofte</l>
+					<l>geinterrogeert te worden over het Coopen ofte verkoopen van Silvere of</l>
+					<l>goude Specien, ook in baeren, en aldaer gedetineert worden Sonder te</l>
+					<l>mogen vertrekken naer hunne woonhuijsen, hetwelk van alle tijden</l>
+					<l>eene gepermitteerde negotie is geweest, gelijk het Selve is toegestaen bij</l>
+					<l>de ordonn.<hi rend='superscript:true;'>tie</hi> van Syne Majesteijt vanden jaere 1686., en Sedert dien</l>
+					<l>tyde altijd in&apos;t gebruijk is geweest; Welk actioneren van onze Banquiers</l>
+					<l>en Cooplieden, een groot gerugt maekt in <locatie>Holland</locatie>, <locatie>Vrankrijk</locatie>, <locatie>Enge¬</locatie></l>
+					<l><locatie>land</locatie> en <locatie>Spagnien</locatie>, en <hi rend='strikethrough:true;'>ook</hi> andere Landen, met wie onze Banquiers en</l>
+					<l>Cooplieden negotieren, en diensvolgens veroorsaekt een totael ruine</l>
+					<l>in onze negotie, waer door aen haer in het generael het Crediet word</l>
+					<l>benomen, en onze nabueren daer door considerabel Sullen comen</l>
+					<l>te profiteren, Sijnde de negotie in wissel eene van haere hoofd-Ne¬</l>
+					<l>gotie; Soo versoeken de voorn.<hi rend='superscript:true;'>de</hi> Hoofdmannen vande poorterije ende</l>
+					<l>wijkmeesters, dat de Heeren van&apos;t Magistraet daer inne Souden</l>
+					<l>gelieven te voorzien, ende vier van haere Heeren van het Magistraet</l>
+					<l>daertoe naer <locatie>Brussel</locatie> gelieven te Committeren. Actum ter Vergae¬</l>
+					<l>deringe vande Heeren Hoofdmannen vande poorterije en wijkmeesters.</l>
+					<l>dezen ...</l>
+					<l>opden <datum datum='1725-09-18' when='1725-09-18'>18. September</datum> was dan Wegens de Hrn van &apos;t Magistraet geresolveert,</l>
+					<l>@@@@ inden Stads resolutie @@@</l>
+					<l>als volgt:</l>
+					<l>Op den <datum datum='1725-09-23' when='1725-07-23'>23. 7<hi rend='superscript:true;'>ber</hi> 1725</datum>. Sijn van <locatie>Brussel</locatie> met de Diligentie thuijs</l>
+					<l>gekomen, <hi rend='strikethrough:true;'>en</hi> uijt de gevangenisse ontslagen</l>
+					<l>zijnde</l>
+					<l>de twee <persoonsnaam>geelgieters ge¬</persoonsnaam></l>
+					<l><persoonsnaam>naemt</persoonsnaam></l>
+					<l><persoonsnaam>Matheus</persoonsnaam></l>
+					<l><persoonsnaam>Colomme</persoonsnaam> ende <persoonsnaam>Jacques Mevis</persoonsnaam>;</l>
+					<l>was</l>
+					<l><hi rend='strikethrough:true;'>als</hi> ook opden Selven tijd losgelaeten</l>
+					<l><persoonsnaam>Pieter Sollaert Silversmid</persoonsnaam>, en is van <locatie>Brussel</locatie> vertrokken na <locatie>Halle</locatie></l>
+					<l>om de H. Moeder Godts te bedanken</l>
+					<l>over</l>
+					<l>van Sijne Verlossinge. De tragedie</l>
+					<l>begint nu te veranderen in blijdschap.</l>
+					<l>Den <datum datum='1725-09-26' when='1725-09-26'>26. dito</datum> is ter Secretarije <hi rend='strikethrough:true;'>gelijke Acte Collegiael</hi> door order</l>
+					<l>van de<hi rend='strikethrough:true;'>n</hi> Heeren van het Magistraet, ingevolge</l>
+					<l>de</l>
+					<l><hi rend='strikethrough:true;'>vanden</hi> missive vanden</l>
+					<l><persoonsnaam>Heere Grave de Daun</persoonsnaam> aengeplakt</l>
+					<l>gelijk acte collegiael</l>
+					<l>ten regarde <hi rend='strikethrough:true;'>van</hi> <hi rend='strikethrough:true;'>@@@ <persoonsnaam>Colomme</persoonsnaam> <persoonsnaam>Gulgie</persoonsnaam></hi></l>
+					<l>van den <persoonsnaam>Matheus colomme</persoonsnaam> &amp; <persoonsnaam>jacques</persoonsnaam></l>
+					<l><persoonsnaam>Mevis</persoonsnaam></l>
+					<l><hi rend='strikethrough:true;'>@@@</hi>; als ook eene andere van 26 @@@ ten <hi rend='strikethrough:true;'>regarde</hi> opzigte van <persoonsnaam>Jean Le Gendarme</persoonsnaam>, den welken</l>
+					<l>ten zelven dage uit Sijne gevangenisze <hi rend='strikethrough:true;'>is</hi> ontslaegen, &amp; ook den Zelven</l>
+					<l>avond binnen <locatie>Antwerpen</locatie> <hi rend='strikethrough:true;'>is</hi> gearriveert is. </l>
+				</lg>
+			</p>
+			<pb n='13'/>
+			<p>
+				<lg>
+					<l>Ende op <datum datum='1725-09-28' when='1725-09-28'>28. 7<hi rend='superscript:true;'>bris</hi> 1725</datum> is</l>
+					<l>voors<hi rend='superscript:true;'>e</hi></l>
+					<l><persoonsnaam>Peeter Sollaert</persoonsnaam>,</l>
+					<l>van <locatie>Halle</locatie></l>
+					<l>binnen <locatie>Antwerpen</locatie> <hi rend='strikethrough:true;'>ter</hi></l>
+					<l><hi rend='strikethrough:true;'>####</hi> gekomen en</l>
+					<l>heeft</l>
+					<l><hi rend='strikethrough:true;'>wederom</hi> Sijne affairens als Silversmit</l>
+					<l>wederom</l>
+					<l>geeverceert</l>
+					<l>als voren.</l>
+					<l>op den <datum datum='1725-09-30' when='1725-09-30'>30. 7<hi rend='superscript:true;'>bris</hi></datum> is ook uijt de gevangenisse ontslaegen, en alhier</l>
+					<l>binnen <locatie>Antwerpen</locatie> van <locatie>Brussel</locatie> met de Mechelsche wagens gearriveert</l>
+					<l><persoonsnaam>Jan</persoonsnaam></l>
+					<l><persoonsnaam><hi rend='strikethrough:true;'>Joannis</hi> Carel Van Scharenborg Silversmid</persoonsnaam> van Sijnen Stiele.</l>
+					<l>Voorders is ten Selven tijde uijt de gevangenisse gelaeten <persoonsnaam>Adriaen</persoonsnaam></l>
+					<l><persoonsnaam>Coolen</persoonsnaam> en alhier binnen <locatie>Antwerpen</locatie> gekomen opden <datum datum='1725-10-20' when='1725-10-20'>20. october 1725</datum>.</l>
+					<l>Ondertusschen ten regarde van </l>
+					<l></l>
+					<l><persoonsnaam>Peeter Carpentier</persoonsnaam> wird veel moeijte</l>
+					<l>aengewend om Sijne affairens ook te accomoderen, met presentatie van</l>
+					<l>eene goede Somme gelds om te bekomen Sijne absolutie en</l>
+					<l>was</l>
+					<l>is op den</l>
+					<l><datum datum='1725-09-20' when='1725-09-20'>20. 7<hi rend='superscript:true;'>bris</hi></datum> inconnue binnen <locatie>Antwerpen</locatie> gekomen ten huijse van Sijnen</l>
+					<l>Swaeger <persoonsnaam>Nicol. Madou</persoonsnaam>, ende aldaer &apos;t zijnen huijse vernagt hebbende</l>
+					<l>is wederom na <locatie>Brussel</locatie> vertrokken.</l>
+					<l>Op den <datum datum='1725-10-02' when='1725-10-02'>2. 8<hi rend='superscript:true;'>ber</hi></datum> is de <persoonsnaam>weduwe van Jacques van Beugem</persoonsnaam> met hae¬</l>
+					<l>ren Soone en Dogter gekomen in hunne voorige wooninge opde <locatie>oude</locatie></l>
+					<l><locatie>Borze</locatie> en ten regarde vande Zelve wed<hi rend='superscript:true;'>e</hi> is uijt Cracte van haere brieven</l>
+					<l>Van absolutie, ter Secretarije aengeplakt gelijke Acte</l>
+					<l>collegial, <hi rend='strikethrough:true;'>gelijk</hi> als</l>
+					<l><hi rend='strikethrough:true;'>als</hi> ten opsigte</l>
+					<l>@ hiervore gemeld</l>
+					<l><hi rend='strikethrough:true;'>Vander andere</hi></l>
+					<l><hi rend='strikethrough:true;'>geschied was, als</hi></l>
+					<l><hi rend='strikethrough:true;'>gelijk hier vore te zien is.</hi></l>
+					<l>Ten Zelven tijde is alhier ook binnen <locatie>Antwerpen</locatie> gekomen <persoonsnaam>Peeter</persoonsnaam></l>
+					<l><persoonsnaam>Mattijssens Meester Silversmid</persoonsnaam>, gewoont hebbende opden hoek van &apos;t</l>
+					<l><locatie>Suijker Straetien</locatie>; en van gelijken is <persoonsnaam>Sam. la vigne, ook Silversmid</persoonsnaam> bin¬</l>
+					<l>nen deze Stad, gewoont hebbende inde <locatie>lombaert Straet</locatie>, in Sijne eijgen woo¬</l>
+					<l>ninge wederom gekomen.</l>
+					<l>Item is alhier ook wederom gekomen <persoonsnaam>Carel Tamineau</persoonsnaam> eenen wael die</l>
+					<l>langen tijd vlugtig is geweest, gewoont hebbende opde <locatie>Catelijne vest</locatie> in Sijn</l>
+					<l>eijgen wooninge, &amp; heeft aldaer</l>
+					<l>den</l>
+					<l><hi rend='strikethrough:true;'>wedrom Sijnen</hi> woon</l>
+					<l>her</l>
+					<l>genomen.</l>
+					<l>Op den <datum when='1725-11-09'>9. 9<hi rend='superscript:true;'>bris</hi></datum> is de <persoonsnaam>Arts-Hertoginne Maria Elisabeth</persoonsnaam>, Suster van</l>
+					<l>Van <persoonsnaam>Sijne Keijselijke Maj<hi rend='superscript:true;'>t</hi> Carolus VI</persoonsnaam>, geboren <datum when='1680-10-13'>13 8<hi rend='superscript:true;'>bris</hi> 1680</datum>, binnen <locatie>Brussel</locatie> ge¬</l>
+					<l>arriveert naer noen tusschen 4 &amp; 5 uren en heeft aldaer haeren Woon</l>
+				</lg>
+			</p>
+			<pb n='14'/>
+		</body>
+	</text>
+</TEI>
