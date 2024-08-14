@@ -53,6 +53,7 @@ The organization of this repository is as follows:
 ## Publications
 For a detailed description of the corpus:
 - Theo Dekker, Erika Kuijpers, Alie Lassche, Carolina Lenarduzzi, Roser Morante, and Judith Pollmann. 2024. [The Kronieken Corpus: an Annotated Collection of Dutch/Flemish Chronicles from 1500-1850](https://aclanthology.org/2024.latechclfl-1.24). In _Proceedings of the 8th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL 2024)_, pages 243–252, St. Julians, Malta. Association for Computational Linguistics.
+
 - Kuijpers, Erika, Carolina Lenarduzzi, Judith Pollmann, Theo Dekker, and Alie Lassche. Forthcoming 2024. ‘Profiling Local Chroniclers in the Early Modern Low Countries’. _Urban History_.
 
   
