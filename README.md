@@ -17,7 +17,7 @@ The organization of this repository is as follows:
 │   ├── Annotatie_instructie_bronnen_Vele_Handen.pdf    <- Tutorial for annotating sources in chronicles (in Dutch)
 │   ├── Invoerinstructie_Transkribus_Lite.pdf           <- Tutorial for transcribing chronicles
 │                  
-├─- Metadata/                                           <- csv files with metadata on provenance, authors and chronicles + overview of which chronicles have which tags
+├── metadata/                                           <- csv files with metadata on provenance, authors and chronicles + overview of which chronicles have which tags
 │
 ├── xmls_no_tags/                                       <- XML files of chronicles, without tags
 │
