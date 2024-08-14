@@ -1,6 +1,6 @@
 # The kronieken dataset
 
-This repository contains the (annotated) XML files of the chronicles corpus that was created in the context of the NWO project _Chronicling Novelty. New knowledge in the Netherlands 1500-1850_, which ran from 2018 to 2024.
+This repository contains the (annotated) XML files of the corpus of chronicles that was created in the context of the NWO project _Chronicling Novelty. New knowledge in the Netherlands 1500-1850_, which ran from 2018 to 2024.
 
 Creators: Judith Pollmann, Erika Kuijpers, Carolina Lenarduzzi, Theo Dekker, Alie Lassche, Roser Morante and with the help of many student assistants and volunteers, see the credits file.
 
