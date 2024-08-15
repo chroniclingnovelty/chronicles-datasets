@@ -1,4 +1,4 @@
-# The kronieken dataset
+# The _Kronieken_ Dataset
 
 This repository contains the (annotated) XML files of the corpus of chronicles that was created in the context of the NWO project _Chronicling Novelty. New knowledge in the Netherlands 1500-1850_, which ran from 2018 to 2024.
 
@@ -13,17 +13,23 @@ Attribution 4.0 International CC BY 4.0
 The organization of this repository is as follows:
 ```
 ├── handleidingen/
-│   ├── Annotatie_instructie_Vele_Handen.pdf            <- Tutorial for annotating chronicles (in Dutch)
-│   ├── Annotatie_instructie_bronnen_Vele_Handen.pdf    <- Tutorial for annotating sources in chronicles (in Dutch)
-│   ├── Invoerinstructie_Transkribus_Lite.pdf           <- Tutorial for transcribing chronicles
+│   ├── Annotatie_instructie_Vele_Handen.pdf                <- Tutorial for annotating chronicles (in Dutch)
+│   ├── Annotatie_instructie_bronnen_Vele_Handen.pdf        <- Tutorial for annotating sources in chronicles (in Dutch)
+│   └── Invoerinstructie_Transkribus_Lite.pdf               <- Tutorial for transcribing chronicles
 │                  
-├── metadata/                                           <- csv files with metadata on provenance, authors and chronicles + overview of which chronicles have which tags
+├── metadata/                                           
+│   ├── Authors metadata.csv                                <- File with metadata on the authors of chroniclers (listed by ID_nr)
+│   ├── Authors_Chronicles_relationtable.csv                <- File relating authors (ID_nr) to chronicles (Call_Number)
+│   ├── Chronicles metadata.csv                             <- File with metadata on chronicles (listed by Call_Number)
+│   ├── Overview Transcribed and annotated chronicles.csv   <- File with information about transcriptions and annotations of chronicles
+│   └── Provenance corpus Zotero export.csv                 <- File with provenance of the chronicles (location, etc)
+│                  
 │
-├── xmls_no_tags/                                       <- XML files of chronicles, without tags
+├── xmls_no_tags/                                           <- XML files of chronicles, without tags
 │
-├── xmls_with_source_tags/                              <- XML files of chronicles, containing tagged sources
+├── xmls_with_source_tags/                                  <- XML files of chronicles, containing tagged sources
 │
-└── xmls_with_tags/                                     <- XML files of chronicles, containing tags
+└── xmls_with_tags/                                         <- XML files of chronicles, containing tags
 
 ```
 
