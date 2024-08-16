@@ -4,6 +4,8 @@ This repository contains the (annotated) XML files of the corpus of chronicles t
 
 Creators: Judith Pollmann, Erika Kuijpers, Carolina Lenarduzzi, Theo Dekker, Alie Lassche, Roser Morante and with the help of many student assistants and volunteers, see the credits file.
 
+## [![DOI](https://zenodo.org/badge/750328865.svg)](https://zenodo.org/doi/10.5281/zenodo.13332814)
+
 ## Licence
 
 Attribution 4.0 International CC BY 4.0
